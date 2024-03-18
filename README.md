@@ -5,10 +5,15 @@ A curated list of Stereo Matching resources
 
 - [Survey](#survey)
 - [Papers](#papers)
-- [Talks](#talks)
-- [Implementations](#implementations)
+- [Talks & Tutorials](#talks)
 
 ## Survey
+
+* **On the synergies between machine learning and binocular stereo for depth estimation from images**: On the synergies between machine learning and binocular stereo for depth estimation from images: a survey, *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021*. [[Paper](https://arxiv.org/pdf/2004.08566.pdf)]
+
+* **On the Confidence of Stereo Matching in a Deep-Learning Era: A Quantitative Evaluation** , *IEEE Transactions on Pattern Analysis and Machine Intelligence, 2022*. [[Paper](https://arxiv.org/abs/2101.00431)]
+
+
 
 ## Datasets
 
@@ -120,6 +125,52 @@ A curated list of Stereo Matching resources
 * **GOAT**: Global Occlusion-Aware Transformer for Robust Stereo Matching, *WACV, 2024*. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Global_Occlusion-Aware_Transformer_for_Robust_Stereo_Matching_WACV_2024_paper.pdf)] [[Code](https://github.com/Magicboomliu/GOAT)]
 
 
+#### Zero-shot Generalization
+
+* **DSM-Net**: Domain-invariant Stereo Matching Networks, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470409.pdf)] [[Code](https://github.com/feihuzhang/DSMNet)]
+
+* **StereoGAN**: StereoGAN: Bridging Synthetic-to-Real Domain Gap by Joint Optimization of Domain Translation and Stereo Matching, *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_StereoGAN_Bridging_Synthetic-to-Real_Domain_Gap_by_Joint_Optimization_of_Domain_CVPR_2020_paper.pdf)] [[Code](https://github.com/ruiliu-ai/StereoGAN)]
+
+* **MS-Nets**: Matching-space Stereo Networks for Cross-domain Generalization, *3DV, 2020*. [[Paper](https://mordohai.github.io/public/Cai_MatchingSpaceStereo20.pdf)] [[Code](https://github.com/ccj5351/MS-Nets)]
+
+* **NDR**: Neural disparity refinement for arbitrary resolution stereo, *3DV, 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9665913?casa_token=3rm4WpqLb_QAAAAA:5Sa0RO547j8LsaEYUeppzB33gZJg5Y3tfiPVwM9rzs9MEAuoHSta0Kdw3Cm9NrtfOOdFkIwp)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)]
+
+* **ARStereo**: Revisiting Non-Parametric Matching Cost Volumes for Robust and Generalizable Stereo Matching, *NeurIPS, 2022*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/6794f555524c9069e26970a408d353cc-Paper-Conference.pdf)] [[Code](https://github.com/kelkelcheng/AdversariallyRobustStereo)]
+
+* **FCStereo**: Revisiting Domain Generalized Stereo Matching Networks From a Feature Consistency Perspective, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Revisiting_Domain_Generalized_Stereo_Matching_Networks_From_a_Feature_Consistency_CVPR_2022_paper.pdf)] [[Code](https://github.com/jiaw-z/FCStereo)]
+
+* **GraftNet**: GraftNet: Towards Domain Generalized Stereo Matching With a Broad-Spectrum and Task-Oriented Feature, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_GraftNet_Towards_Domain_Generalized_Stereo_Matching_With_a_Broad-Spectrum_and_CVPR_2022_paper.pdf)] [[Code](https://github.com/SpadeLiu/Graft-PSMNet)]
+
+* **ITSA**: ITSA: An Information-Theoretic Approach to Automatic Shortcut Avoidance and Domain Generalization in Stereo Matching Networks, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chuah_ITSA_An_Information-Theoretic_Approach_to_Automatic_Shortcut_Avoidance_and_Domain_CVPR_2022_paper.pdf)] [[Code](https://github.com/waychin-weiqin/ITSA)]
+
+* **EVHS**: Expansion of Visual Hints for Improved Generalization in Stereo Matching, *WACV, 2023*. [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Pilzer_Expansion_of_Visual_Hints_for_Improved_Generalization_in_Stereo_Matching_WACV_2023_paper.pdf)]
+
+* **LSSI**: Learning Stereo from Single Images, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460698.pdf)] [[Code](https://github.com/nianticlabs/stereo-from-mono/)]
+
+* **NeRF-Supervised Stereo**: NeRF-Supervised Deep Stereo, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Website](https://nerfstereo.github.io/)]
+
+* **DKT-Stereo**: Robust Synthetic-to-Real Transfer for Stereo Matching, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2403.07705)] [[Code](https://github.com/jiaw-z/DKT-Stereo)]
+
+
+
+#### Adaptation (offline)
+
+* **Reversing-Stereo**: Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.07130.pdf)] [[Code](https://github.com/FilippoAleotti/Reversing)]
+
+* **AdaStereo**: AdaStereo: A Simple and Efficient Approach for Adaptive Stereo Matching, *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_AdaStereo_A_Simple_and_Efficient_Approach_for_Adaptive_Stereo_Matching_CVPR_2021_paper.pdf)]
+
+
+#### Adaptation (online)
+
+* **Continual Adaptation for Deep Stereo**: Continual adaptation for deep stereo, *TPAMI, 2021*. [[Paper](https://ieeexplore.ieee.org/document/9418523?denied=)] [[Code](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo?tab=readme-ov-file)]
+
+* **RAG**: Continual Stereo Matching of Continuous Driving Scenes With Growing Architecture, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Continual_Stereo_Matching_of_Continuous_Driving_Scenes_With_Growing_Architecture_CVPR_2022_paper.pdf)]
+
+* **PointFix**: PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980557.pdf)]
+
+* **FedStereo**: Federated Online Adaptation for Deep Stereo, *CVPR, 2024*. [[Paper](https://fedstereo.github.io/)]
+
+
 ## Event Stereo
 
 * **Event-IntensityStereo**: Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds, *ICCV, 2021*. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Mostafavi_Event-Intensity_Stereo_Estimating_Depth_by_the_Best_of_Both_Worlds_ICCV_2021_paper.pdf)] [[Code](https://github.com/yonseivnl/se-cff)]
@@ -135,4 +186,13 @@ A curated list of Stereo Matching resources
 * **SAFE**: Depth From Asymmetric Frame-Event Stereo: A Divide-and-Conquer Approach, *WACV, 2024*. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Chen_Depth_From_Asymmetric_Frame-Event_Stereo_A_Divide-and-Conquer_Approach_WACV_2024_paper.pdf)]
 
 
-## Talks
+## Talks & Tutorials
+
+* **Facing depth estimation in-the-wild with deep networks**. M. Poggi, F. Tosi, F. Aleotti, K. Batsos, P. Mordohai, S. Mattoccia; ECCV 2020, SEC, Glasgow [[Website](https://sites.google.com/view/eccv-2020-robust-depth/home)]
+
+* **Learning and understanding single image depth estimation in the wild**.  M. Poggi, F. Tosi, F. Aleotti, S. Mattoccia, C. Godard, J. Watson, M. Firman, G.J. Brostow; CVPR 2020, Seattle, Washington, US  [[Website](https://sites.google.com/view/cvpr-2020-depth-from-mono/home)]
+
+* **Learning-based depth estimation from stereo and monocular images: successes, limitations and future challenges**. M. Poggi, F. Tosi, K. Batsos, P. Mordohai, S. Mattoccia, CVPR 2019, Long Beach, California, US [[Website](https://sites.google.com/view/cvpr-2019-depth-from-image/home)]
+
+* **Learning-based depth estimation from stereo and monocular images: successes, limitations and future challenges**.  M. Poggi, F. Tosi, K. Batsos, P. Mordohai, S. Mattoccia; 3DV 2018, Verona, Italy
+
