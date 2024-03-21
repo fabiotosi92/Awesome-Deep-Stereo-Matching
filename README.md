@@ -79,6 +79,17 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 </details>
 
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Real-World (Rendered)</summary>
+
+* **The NeRF-Stereo Dataset**: *"NeRF-Supervised
+Deep Stereo"*, *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Dataset](https://amsacta.unibo.it/id/eprint/7218/)] [[Bibtex](./bibliography/NS-Stereo.txt)] 
+
+
+
+</details>
+
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Synthetic</summary>
 
@@ -211,6 +222,8 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 * **SMD-Nets**: *"SMD-Nets: Stereo Mixture Density Networks"*, *CVPR, 2021*. [[Paper](http://www.cvlibs.net/publications/Tosi2021CVPR.pdf)] [[Code](https://github.com/fabiotosi92/SMD-Nets)] [[Bibtex](./bibliography/SMD-Nets.txt)] 
 
+* **NDR**: "*Neural disparity refinement for arbitrary resolution stereo*", *3DV, 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9665913?casa_token=3rm4WpqLb_QAAAAA:5Sa0RO547j8LsaEYUeppzB33gZJg5Y3tfiPVwM9rzs9MEAuoHSta0Kdw3Cm9NrtfOOdFkIwp)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR.txt)] 
+
 </details>
 
 <details open>
@@ -337,6 +350,8 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 * **VRN**: *"Learned collaborative stereo refinement"*, *IJCV, 2021*. [[Paper](https://link.springer.com/article/10.1007/s11263-021-01485-5)] [[Bibtex](./bibliography/VRN.txt)]
 
 * **FD-Fusion**: *"Fast stereo disparity maps refinement by fusion of data-based and model-based estimations"*, *3DV, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8886031)] [[Code](https://github.com/ferreram/FD-Fusion)] [[Bibtex](./bibliography/FD-Fusion.txt)]
+
+* **NDR**: "*Neural disparity refinement for arbitrary resolution stereo*", *3DV, 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9665913?casa_token=3rm4WpqLb_QAAAAA:5Sa0RO547j8LsaEYUeppzB33gZJg5Y3tfiPVwM9rzs9MEAuoHSta0Kdw3Cm9NrtfOOdFkIwp)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR.txt)] 
 
 </details>
 
