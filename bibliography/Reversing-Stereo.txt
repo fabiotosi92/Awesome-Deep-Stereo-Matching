@@ -1,0 +1,8 @@
+@inproceedings{aleotti2020reversing,
+  title={Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation},
+  author={Aleotti, Filippo and Tosi, Fabio and Zhang, Li and Poggi, Matteo and Mattoccia, Stefano},
+  booktitle={Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part XI 16},
+  pages={614--632},
+  year={2020},
+  organization={Springer}
+}

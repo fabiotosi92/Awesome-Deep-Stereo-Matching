@@ -1,0 +1,6 @@
+@INPROCEEDINGS{Tosi2021CVPR_SMD,
+  author = {Fabio Tosi and Yiyi Liao and Carolin Schmitt and Andreas Geiger},
+  title = {SMD-Nets: Stereo Mixture Density Networks},
+  booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year = {2021}
+} 

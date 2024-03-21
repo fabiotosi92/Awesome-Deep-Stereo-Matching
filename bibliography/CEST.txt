@@ -1,0 +1,8 @@
+@inproceedings{guo2022context_CEST,
+  title={Context-enhanced stereo transformer},
+  author={Guo, Weiyu and Li, Zhaoshuo and Yang, Yongkui and Wang, Zheng and Taylor, Russell H and Unberath, Mathias and Yuille, Alan and Li, Yingwei},
+  booktitle={European Conference on Computer Vision},
+  pages={263--279},
+  year={2022},
+  organization={Springer}
+}

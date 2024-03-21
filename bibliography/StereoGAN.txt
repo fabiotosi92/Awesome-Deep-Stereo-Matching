@@ -1,0 +1,7 @@
+@InProceedings{Liu_2020_CVPR,
+author = {Liu, Rui and Yang, Chengxi and Sun, Wenxiu and Wang, Xiaogang and Li, Hongsheng},
+title = {StereoGAN: Bridging Synthetic-to-Real Domain Gap by Joint Optimization of Domain Translation and Stereo Matching},
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}

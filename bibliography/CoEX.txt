@@ -1,0 +1,6 @@
+@inproceedings{bangunharcana2021correlate,
+  title={Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation},
+  author={Bangunharcana, Antyanta and Cho, Jae Won and Lee, Seokju and Kweon, In So and Kim, Kyung-Soo and Kim, Soohyun},
+  booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2021}
+}

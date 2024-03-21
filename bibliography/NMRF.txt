@@ -1,0 +1,8 @@
+@misc{guan2024neural,
+      title={Neural Markov Random Field for Stereo Matching}, 
+      author={Tongfan Guan and Chen Wang and Yun-Hui Liu},
+      year={2024},
+      eprint={2403.11193},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

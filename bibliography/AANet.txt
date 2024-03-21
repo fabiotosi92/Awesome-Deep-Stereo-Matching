@@ -1,0 +1,7 @@
+@inproceedings{xu2020aanet,
+  title={Aanet: Adaptive aggregation network for efficient stereo matching},
+  author={Xu, Haofei and Zhang, Juyong},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={1959--1968},
+  year={2020}
+}

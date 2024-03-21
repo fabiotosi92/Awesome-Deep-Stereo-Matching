@@ -1,0 +1,7 @@
+@inproceedings{shen2021cfnet,
+  title={CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching},
+  author={Shen, Zhelun and Dai, Yuchao and Rao, Zhibo},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={13906--13915},
+  year={2021}
+}

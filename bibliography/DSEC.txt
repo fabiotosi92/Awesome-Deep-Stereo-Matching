@@ -1,0 +1,10 @@
+@article{gehrig2021dsec,
+  title={Dsec: A stereo event camera dataset for driving scenarios},
+  author={Gehrig, Mathias and Aarents, Willem and Gehrig, Daniel and Scaramuzza, Davide},
+  journal={IEEE Robotics and Automation Letters},
+  volume={6},
+  number={3},
+  pages={4947--4954},
+  year={2021},
+  publisher={IEEE}
+}

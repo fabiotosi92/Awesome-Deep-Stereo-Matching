@@ -1,0 +1,8 @@
+@inproceedings{chang2023stereovae,
+  title={StereoVAE: A lightweight stereo-matching system using embedded GPUs},
+  author={Chang, Qiong and Li, Xiang and Xu, Xin and Liu, Xin and Li, Yun and Miyazaki, Jun},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={1982--1988},
+  year={2023},
+  organization={IEEE}
+}

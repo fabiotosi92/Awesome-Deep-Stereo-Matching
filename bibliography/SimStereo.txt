@@ -1,0 +1,8 @@
+@article{jospin2022active,
+  title={Active-Passive SimStereo-Benchmarking the Cross-Generalization Capabilities of Deep Learning-based Stereo Methods},
+  author={Jospin, Laurent and Antony, Allen and Xu, Lian and Laga, Hamid and Boussaid, Farid and Bennamoun, Mohammed},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={29235--29247},
+  year={2022}
+}

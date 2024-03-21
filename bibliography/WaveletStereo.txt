@@ -1,0 +1,7 @@
+@inproceedings{yang2020waveletstereo,
+  title={WaveletStereo: Learning Wavelet Coefficients of Disparity Map in Stereo Matching},
+  author={Yang, Shunsuke and Ikehata, Yohsuke and Kawasaki, Hiroshi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3444--3453},
+  year={2020}
+}

@@ -1,0 +1,8 @@
+@inproceedings{aleotti2021neural,
+  title={Neural disparity refinement for arbitrary resolution stereo},
+  author={Aleotti, Filippo and Tosi, Fabio and Ramirez, Pierluigi Zama and Poggi, Matteo and Salti, Samuele and Mattoccia, Stefano and Di Stefano, Luigi},
+  booktitle={2021 International Conference on 3D Vision (3DV)},
+  pages={207--217},
+  year={2021},
+  organization={IEEE}
+}

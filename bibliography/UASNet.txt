@@ -1,0 +1,8 @@
+@InProceedings{Mao_2021_ICCV_UASNet,
+    author    = {Mao, Yamin and Liu, Zhihua and Li, Weiming and Dai, Yuchao and Wang, Qiang and Kim, Yun-Tae and Lee, Hong-Seok},
+    title     = {UASNet: Uncertainty Adaptive Sampling Network for Deep Stereo Matching},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {6311-6319}
+}

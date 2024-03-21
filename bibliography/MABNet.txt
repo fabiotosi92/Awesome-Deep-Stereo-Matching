@@ -1,0 +1,8 @@
+@inproceedings{xing2020mabnet,
+  title={MABNet: a lightweight stereo network based on multibranch adjustable bottleneck module},
+  author={Xing, Jiabin and Qi, Zhi and Dong, Jiying and Cai, Jiaxuan and Liu, Hao},
+  booktitle={Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part XXVIII 16},
+  pages={340--356},
+  year={2020},
+  organization={Springer}
+}

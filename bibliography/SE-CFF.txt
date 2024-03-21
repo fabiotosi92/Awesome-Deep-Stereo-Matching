@@ -1,0 +1,8 @@
+@InProceedings{Nam_2022_CVPR,
+    author    = {Nam, Yeongwoo and Mostafavi, Mohammad and Yoon, Kuk-Jin and Choi, Jonghyun},
+    title     = {Stereo Depth From Events Cameras: Concentrate and Focus on the Future},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {6114-6123}
+}

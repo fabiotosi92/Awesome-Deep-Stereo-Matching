@@ -1,0 +1,8 @@
+@InProceedings{Cai_2022_ACCV_PBCStereo,
+    author    = {Cai, Jiaxuan and QI, ZHI and Fu, Keqi and Shi, Xulong and Li, Zan and Liu, Xuanyu and Liu, Hao},
+    title     = {PBCStereo: A Compressed Stereo Network with Pure Binary Convolutional Operations},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {December},
+    year      = {2022},
+    pages     = {4378-4394}
+}

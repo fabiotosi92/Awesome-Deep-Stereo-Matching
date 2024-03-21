@@ -1,0 +1,6 @@
+@inproceedings{Poggi_2024_CVPR,
+  title={Federated Online Adaptation for Deep Stereo},
+  author={Poggi, Matteo and Tosi, Fabio}, 
+  booktitle={CVPR},
+  year={2024}
+}

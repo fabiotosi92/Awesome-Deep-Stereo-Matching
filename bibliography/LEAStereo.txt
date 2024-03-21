@@ -1,0 +1,7 @@
+@article{cheng2020hierarchical,
+  title={Hierarchical Neural Architecture Search for Deep Stereo Matching},
+  author={Cheng, Xuelian and Zhong, Yiran and Harandi, Mehrtash and Dai, Yuchao and Chang, Xiaojun and Li, Hongdong and Drummond, Tom and Ge, Zongyuan},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  year={2020}
+}

@@ -1,0 +1,9 @@
+@inproceedings{zhang2020adaptive,
+  title={Adaptive unimodal cost volume filtering for deep stereo matching},
+  author={Zhang, Youmin and Chen, Yimin and Bai, Xiao and Yu, Suihanjin and Yu, Kun and Li, Zhiwei and Yang, Kuiyuan},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={07},
+  pages={12926--12934},
+  year={2020}
+}

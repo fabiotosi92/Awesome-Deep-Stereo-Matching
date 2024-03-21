@@ -1,0 +1,8 @@
+@inproceedings{cho2022selection,
+  title={Selection and cross similarity for event-image deep stereo},
+  author={Cho, Hoonhee and Yoon, Kuk-Jin},
+  booktitle={European Conference on Computer Vision},
+  pages={470--486},
+  year={2022},
+  organization={Springer}
+}

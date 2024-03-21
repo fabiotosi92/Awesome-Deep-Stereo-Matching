@@ -1,0 +1,8 @@
+@InProceedings{Cho_2023_CVPR,
+    author    = {Cho, Hoonhee and Cho, Jegyeong and Yoon, Kuk-Jin},
+    title     = {Learning Adaptive Dense Event Stereo From the Image Domain},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {17797-17807}
+}

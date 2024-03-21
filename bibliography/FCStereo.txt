@@ -1,0 +1,8 @@
+@InProceedings{Zhang_2022_CVPR,
+    author    = {Zhang, Jiawei and Wang, Xiang and Bai, Xiao and Wang, Chen and Huang, Lei and Chen, Yimin and Gu, Lin and Zhou, Jun and Harada, Tatsuya and Hancock, Edwin R.},
+    title     = {Revisiting Domain Generalized Stereo Matching Networks From a Feature Consistency Perspective},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {13001-13011}
+}

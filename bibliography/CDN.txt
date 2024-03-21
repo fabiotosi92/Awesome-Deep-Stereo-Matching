@@ -1,0 +1,8 @@
+@article{garg2020wasserstein,
+  title={Wasserstein distances for stereo disparity estimation},
+  author={Garg, Divyansh and Wang, Yan and Hariharan, Bharath and Campbell, Mark and Weinberger, Kilian Q and Chao, Wei-Lun},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  pages={22517--22529},
+  year={2020}
+}

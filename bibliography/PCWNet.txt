@@ -1,0 +1,8 @@
+inproceedings{shen2022pcw,
+  title={PCW-Net: Pyramid Combination and Warping Cost Volume for Stereo Matching},
+  author={Shen, Zhelun and Dai, Yuchao and Song, Xibin and Rao, Zhibo and Zhou, Dingfu and Zhang, Liangjun},
+  booktitle={European Conference on Computer Vision},
+  pages={280--297},
+  year={2022},
+  organization={Springer}
+}

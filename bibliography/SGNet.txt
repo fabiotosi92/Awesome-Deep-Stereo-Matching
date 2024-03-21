@@ -1,0 +1,6 @@
+@inproceedings{chen2020sgnet,
+  title={Sgnet: Semantics guided deep stereo matching},
+  author={Chen, Shuya and Xiang, Zhiyu and Qiao, Chengyu and Chen, Yiman and Bai, Tingming},
+  booktitle={Proceedings of the Asian Conference on Computer Vision},
+  year={2020}
+}

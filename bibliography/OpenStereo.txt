@@ -1,0 +1,6 @@
+@article{guo2023openstereo,
+  title={OpenStereo: A Comprehensive Benchmark for Stereo Matching and Strong Baseline},
+  author={Guo, Xianda and Lu, Juntao and Zhang, Chenming and Wang, Yiqi and Duan, Yiqun and Yang, Tian and Zhu, Zheng and Chen, Long},
+  journal={arXiv preprint arXiv:2312.00343},
+  year={2023}
+}

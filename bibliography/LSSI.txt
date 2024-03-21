@@ -1,0 +1,8 @@
+@inproceedings{watson2020learning,
+  title={Learning stereo from single images},
+  author={Watson, Jamie and Aodha, Oisin Mac and Turmukhambetov, Daniyar and Brostow, Gabriel J and Firman, Michael},
+  booktitle={Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part I 16},
+  pages={722--740},
+  year={2020},
+  organization={Springer}
+}

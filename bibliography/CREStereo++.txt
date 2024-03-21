@@ -1,0 +1,8 @@
+@InProceedings{Jing_2023_ICCV,
+    author    = {Jing, Junpeng and Li, Jiankun and Xiong, Pengfei and Liu, Jiangyu and Liu, Shuaicheng and Guo, Yichen and Deng, Xin and Xu, Mai and Jiang, Lai and Sigal, Leonid},
+    title     = {Uncertainty Guided Adaptive Warping for Robust and Efficient Stereo Matching},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {3318-3327}
+}

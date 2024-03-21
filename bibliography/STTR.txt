@@ -1,0 +1,8 @@
+@InProceedings{Li_2021_ICCV_STTR,
+    author    = {Li, Zhaoshuo and Liu, Xingtong and Drenkow, Nathan and Ding, Andy and Creighton, Francis X. and Taylor, Russell H. and Unberath, Mathias},
+    title     = {Revisiting Stereo Depth Estimation From a Sequence-to-Sequence Perspective With Transformers},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {6197-6206}
+}

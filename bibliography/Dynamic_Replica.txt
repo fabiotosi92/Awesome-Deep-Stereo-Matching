@@ -1,0 +1,8 @@
+@InProceedings{Karaev_2023_CVPR,
+    author    = {Karaev, Nikita and Rocco, Ignacio and Graham, Benjamin and Neverova, Natalia and Vedaldi, Andrea and Rupprecht, Christian},
+    title     = {DynamicStereo: Consistent Dynamic Depth From Stereo Videos},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {13229-13239}
+}

@@ -1,0 +1,7 @@
+@InProceedings{Yee_2020_WACV_FDCSC,
+author = {Yee, Kyle and Chakrabarti, Ayan},
+title = {Fast Deep Stereo with 2D Convolutional Processing of Cost Signatures},
+booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+month = {March},
+year = {2020}
+} 

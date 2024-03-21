@@ -1,0 +1,7 @@
+@inproceedings{xu2023iterative,
+  title={Iterative geometry encoding volume for stereo matching},
+  author={Xu, Gangwei and Wang, Xianqi and Ding, Xiaohuan and Yang, Xin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={21919--21928},
+  year={2023}
+}

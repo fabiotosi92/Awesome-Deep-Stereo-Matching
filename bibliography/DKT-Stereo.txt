@@ -1,0 +1,6 @@
+@article{zhang2024robust_DKT,
+  title={Robust Synthetic-to-Real Transfer for Stereo Matching},
+  author={Zhang, Jiawei and Li, Jiahe and Huang, Lei and Yu, Xiaohan and Gu, Lin and Zheng, Jin and Bai, Xiao},
+  journal={arXiv preprint arXiv:2403.07705},
+  year={2024}
+}

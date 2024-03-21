@@ -1,0 +1,8 @@
+@InProceedings{Ramirez_2022_CVPR,
+    author    = {Ramirez, Pierluigi Zama and Tosi, Fabio and Poggi, Matteo and Salti, Samuele and Mattoccia, Stefano and Di Stefano, Luigi},
+    title     = {Open Challenges in Deep Stereo: The Booster Dataset},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {21168-21178}
+}

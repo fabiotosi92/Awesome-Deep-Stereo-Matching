@@ -1,0 +1,7 @@
+@inproceedings{liu2024global,
+  title={Global Occlusion-Aware Transformer for Robust Stereo Matching},
+  author={Liu, Zihua and Li, Yizhou and Okutomi, Masatoshi},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={3535--3544},
+  year={2024}
+}

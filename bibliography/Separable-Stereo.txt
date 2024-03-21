@@ -1,0 +1,8 @@
+@inproceedings{rahim2021separable,
+  title={Separable convolutions for optimizing 3d stereo networks},
+  author={Rahim, Rafia and Shamsafar, Faranak and Zell, Andreas},
+  booktitle={2021 IEEE International Conference on Image Processing (ICIP)},
+  pages={3208--3212},
+  year={2021},
+  organization={IEEE}
+}

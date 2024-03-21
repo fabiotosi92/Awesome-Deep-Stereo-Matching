@@ -1,0 +1,7 @@
+@inproceedings{walz2023gated,
+  title={Gated Stereo: Joint Depth Estimation from Gated and Wide-Baseline Active Stereo Cues},
+  author={Walz, Stefanie and Bijelic, Mario and Ramazzina, Andrea and Walia, Amanpreet and Mannan, Fahim and Heide, Felix},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={13252--13262},
+  year={2023}
+}

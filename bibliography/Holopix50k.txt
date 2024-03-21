@@ -1,0 +1,6 @@
+@article{hua2020holopix50k,
+  title={Holopix50k: A large-scale in-the-wild stereo image dataset},
+  author={Hua, Yiwen and Kohli, Puneet and Uplavikar, Pritish and Ravi, Anand and Gunaseelan, Saravana and Orozco, Jason and Li, Edward},
+  journal={arXiv preprint arXiv:2003.11172},
+  year={2020}
+}

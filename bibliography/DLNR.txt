@@ -1,0 +1,7 @@
+@inproceedings{zhao2023high,
+  title={High-Frequency Stereo Matching Network},
+  author={Zhao, Haoliang and Zhou, Huizhou and Zhang, Yongjun and Chen, Jie and Yang, Yitong and Zhao, Yong},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1327--1336},
+  year={2023}
+}

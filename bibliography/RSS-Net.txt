@@ -1,0 +1,8 @@
+@inproceedings{dovesi2020real,
+  title={Real-time semantic stereo matching},
+  author={Dovesi, Pier Luigi and Poggi, Matteo and Andraghetti, Lorenzo and Mart{\'\i}, Miquel and Kjellstr{\"o}m, Hedvig and Pieropan, Alessandro and Mattoccia, Stefano},
+  booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={10780--10787},
+  year={2020},
+  organization={IEEE}
+}

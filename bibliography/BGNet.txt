@@ -1,0 +1,7 @@
+@inproceedings{xu2021bilateral,
+  title={Bilateral grid learning for stereo matching networks},
+  author={Xu, Bin and Xu, Yuhua and Yang, Xiaoli and Jia, Wei and Guo, Yulan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12497--12506},
+  year={2021}
+}

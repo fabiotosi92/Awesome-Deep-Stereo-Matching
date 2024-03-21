@@ -1,0 +1,8 @@
+@InProceedings{Chen_2024_WACV,
+    author    = {Chen, Xihao and Weng, Wenming and Zhang, Yueyi and Xiong, Zhiwei},
+    title     = {Depth From Asymmetric Frame-Event Stereo: A Divide-and-Conquer Approach},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2024},
+    pages     = {3045-3054}
+}

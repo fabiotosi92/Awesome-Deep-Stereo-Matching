@@ -1,0 +1,7 @@
+@inproceedings{mayer2016large,
+  title={A large dataset to train convolutional networks for disparity, optical flow, and scene flow estimation},
+  author={Mayer, Nikolaus and Ilg, Eddy and Hausser, Philip and Fischer, Philipp and Cremers, Daniel and Dosovitskiy, Alexey and Brox, Thomas},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={4040--4048},
+  year={2016}
+}

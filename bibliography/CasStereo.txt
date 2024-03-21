@@ -1,0 +1,7 @@
+@InProceedings{Gu_2020_CVPR_CasStereo,
+author = {Gu, Xiaodong and Fan, Zhiwen and Zhu, Siyu and Dai, Zuozhuo and Tan, Feitong and Tan, Ping},
+title = {Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching},
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+} 

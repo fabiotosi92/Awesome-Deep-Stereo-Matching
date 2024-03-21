@@ -1,0 +1,7 @@
+@InProceedings{Chang_2020_ACCV,
+    author    = {Chang, Jia-Ren and Chang, Pei-Chun and Chen, Yong-Sheng},
+    title     = {Attention-Aware Feature Aggregation for Real-time Stereo Matching on Edge Devices},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {November},
+    year      = {2020}
+}

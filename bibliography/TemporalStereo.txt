@@ -1,0 +1,6 @@
+@inproceedings{Zhang2023TemporalStereo,
+      title     = {TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network},
+      author    = {Zhang, Youmin and Poggi, Matteo and Mattoccia, Stefano},
+      booktitle = {IROS},
+      year      = {2023}
+}

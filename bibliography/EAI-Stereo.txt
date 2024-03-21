@@ -1,0 +1,7 @@
+@inproceedings{zhao2022eai,
+  title={Eai-stereo: Error aware iterative network for stereo matching},
+  author={Zhao, Haoliang and Zhou, Huizhou and Zhang, Yongjun and Zhao, Yong and Yang, Yitong and Ouyang, Ting},
+  booktitle={Proceedings of the Asian Conference on Computer Vision},
+  pages={315--332},
+  year={2022}
+}

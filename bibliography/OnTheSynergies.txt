@@ -1,0 +1,10 @@
+@article{poggi2021synergies,
+  title={On the synergies between machine learning and binocular stereo for depth estimation from images: a survey},
+  author={Poggi, Matteo and Tosi, Fabio and Batsos, Konstantinos and Mordohai, Philippos and Mattoccia, Stefano},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={44},
+  number={9},
+  pages={5314--5334},
+  year={2021},
+  publisher={IEEE}
+}

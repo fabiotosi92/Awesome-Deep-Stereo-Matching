@@ -1,0 +1,6 @@
+@inproceedings{croco_v2,
+  title={{CroCo v2: Improved Cross-view Completion Pre-training for Stereo Matching and Optical Flow}},
+  author={Weinzaepfel, Philippe and Lucas, Thomas and Leroy, Vincent and Cabon, Yohann and Arora, Vaibhav and Br{\'e}gier, Romain and Csurka, Gabriela and Antsfeld, Leonid and Chidlovskii, Boris and Revaud, J{\'e}r{\^o}me}, 
+  booktitle={ICCV},
+  year={2023}
+}

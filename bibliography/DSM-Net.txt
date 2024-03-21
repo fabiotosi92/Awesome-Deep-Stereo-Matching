@@ -1,0 +1,6 @@
+@inproceedings{zhang2019domaininvariant,
+  title={Domain-invariant Stereo Matching Networks},
+  author={Feihu Zhang and Xiaojuan Qi and Ruigang Yang and Victor Prisacariu and Benjamin Wah and Philip Torr},
+  booktitle={Europe Conference on Computer Vision (ECCV)},
+  year={2020}
+}

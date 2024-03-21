@@ -1,0 +1,7 @@
+@inproceedings{poggi2017quantitative,
+  title={Quantitative evaluation of confidence measures in a machine learning world},
+  author={Poggi, Matteo and Tosi, Fabio and Mattoccia, Stefano},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={5228--5237},
+  year={2017}
+}

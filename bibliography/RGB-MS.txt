@@ -1,0 +1,7 @@
+@inproceedings{tosi2022rgb,
+  title={RGB-Multispectral matching: Dataset, learning methodology, evaluation},
+  author={Tosi, Fabio and Ramirez, Pierluigi Zama and Poggi, Matteo and Salti, Samuele and Mattoccia, Stefano and Di Stefano, Luigi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={15958--15968},
+  year={2022}
+}

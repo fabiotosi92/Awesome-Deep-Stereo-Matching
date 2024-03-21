@@ -1,0 +1,8 @@
+@InProceedings{Chuah_2022_CVPR,
+    author    = {Chuah, WeiQin and Tennakoon, Ruwan and Hoseinnezhad, Reza and Bab-Hadiashar, Alireza and Suter, David},
+    title     = {ITSA: An Information-Theoretic Approach to Automatic Shortcut Avoidance and Domain Generalization in Stereo Matching Networks},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {13022-13032}
+}

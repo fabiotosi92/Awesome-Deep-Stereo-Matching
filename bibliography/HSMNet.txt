@@ -1,0 +1,7 @@
+@inproceedings{yang2019hierarchical,
+  title={Hierarchical deep stereo matching on high-resolution images},
+  author={Yang, Gengshan and Manela, Joshua and Happold, Michael and Ramanan, Deva},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5515--5524},
+  year={2019}
+}

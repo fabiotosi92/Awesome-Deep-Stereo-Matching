@@ -1,0 +1,8 @@
+@InProceedings{Zeng_2023_ICCV,
+    author    = {Zeng, Jiaxi and Yao, Chengtang and Yu, Lidong and Wu, Yuwei and Jia, Yunde},
+    title     = {Parameterized Cost Volume for Stereo Matching},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {18347-18357}
+}

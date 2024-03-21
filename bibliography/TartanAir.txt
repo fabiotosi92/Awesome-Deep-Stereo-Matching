@@ -1,0 +1,8 @@
+@inproceedings{wang2020tartanair,
+  title={Tartanair: A dataset to push the limits of visual slam},
+  author={Wang, Wenshan and Zhu, Delong and Wang, Xiangwei and Hu, Yaoyu and Qiu, Yuheng and Wang, Chen and Hu, Yafei and Kapoor, Ashish and Scherer, Sebastian},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={4909--4916},
+  year={2020},
+  organization={IEEE}
+}

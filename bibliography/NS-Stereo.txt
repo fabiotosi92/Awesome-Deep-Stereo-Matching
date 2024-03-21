@@ -1,0 +1,8 @@
+@inproceedings{Tosi_2023_CVPR,
+    author    = {Tosi, Fabio and Tonioni, Alessio and De Gregorio, Daniele and Poggi, Matteo},
+    title     = {NeRF-Supervised Deep Stereo},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {855-866}
+}

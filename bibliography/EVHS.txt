@@ -1,0 +1,8 @@
+@InProceedings{Pilzer_2023_WACV,
+    author    = {Pilzer, Andrea and Hou, Yuxin and Loppi, Niki and Solin, Arno and Kannala, Juho},
+    title     = {Expansion of Visual Hints for Improved Generalization in Stereo Matching},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2023},
+    pages     = {5840-5849}
+}

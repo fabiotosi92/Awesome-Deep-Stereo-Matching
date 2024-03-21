@@ -1,0 +1,8 @@
+@InProceedings{Liu_2022_CVPR,
+    author    = {Liu, Biyang and Yu, Huimin and Qi, Guodong},
+    title     = {GraftNet: Towards Domain Generalized Stereo Matching With a Broad-Spectrum and Task-Oriented Feature},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {13012-13021}
+}

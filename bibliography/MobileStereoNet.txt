@@ -1,0 +1,8 @@
+@InProceedings{Shamsafar_2022_WACV,
+    author    = {Shamsafar, Faranak and Woerz, Samuel and Rahim, Rafia and Zell, Andreas},
+    title     = {MobileStereoNet: Towards Lightweight Deep Networks for Stereo Matching},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2022},
+    pages     = {2417-2426}
+}

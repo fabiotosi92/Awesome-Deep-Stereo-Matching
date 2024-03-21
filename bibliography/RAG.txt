@@ -1,0 +1,8 @@
+@InProceedings{Zhang_2022_CVPR,
+    author    = {Zhang, Chenghao and Tian, Kun and Fan, Bin and Meng, Gaofeng and Zhang, Zhaoxiang and Pan, Chunhong},
+    title     = {Continual Stereo Matching of Continuous Driving Scenes With Growing Architecture},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {18901-18910}
+}

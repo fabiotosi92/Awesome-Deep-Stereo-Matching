@@ -1,0 +1,8 @@
+@inproceedings{wang2020fadnet,
+  title={Fadnet: A fast and accurate network for disparity estimation},
+  author={Wang, Qiang and Shi, Shaohuai and Zheng, Shizhen and Zhao, Kaiyong and Chu, Xiaowen},
+  booktitle={2020 IEEE international conference on robotics and automation (ICRA)},
+  pages={101--107},
+  year={2020},
+  organization={IEEE}
+}

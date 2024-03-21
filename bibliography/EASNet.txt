@@ -1,0 +1,8 @@
+@inproceedings{wang2022easnet,
+  title={EASNet: searching elastic and accurate network architecture for stereo matching},
+  author={Wang, Qiang and Shi, Shaohuai and Zhao, Kaiyong and Chu, Xiaowen},
+  booktitle={European Conference on Computer Vision},
+  pages={437--453},
+  year={2022},
+  organization={Springer}
+}

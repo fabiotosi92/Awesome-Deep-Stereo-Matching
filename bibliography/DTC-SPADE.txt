@@ -1,0 +1,8 @@
+@InProceedings{Zhang_2022_CVPR_DTC,
+    author    = {Zhang, Kaixuan and Che, Kaiwei and Zhang, Jianguo and Cheng, Jie and Zhang, Ziyang and Guo, Qinghai and Leng, Luziwei},
+    title     = {Discrete Time Convolution for Fast Event-Based Stereo},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {8676-8686}
+}

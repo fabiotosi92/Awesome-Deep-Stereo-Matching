@@ -1,0 +1,9 @@
+@ARTICLE{ucfnet,
+  author={Shen, Zhelun and Song, Xibin and Dai, Yuchao and Zhou, Dingfu and Rao, Zhibo and Zhang, Liangjun},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Digging Into Uncertainty-Based Pseudo-Label for Robust Stereo Matching}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-18},
+  doi={10.1109/TPAMI.2023.3300976}}

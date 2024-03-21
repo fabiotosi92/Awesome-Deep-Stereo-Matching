@@ -1,0 +1,7 @@
+@inproceedings{chen2019over_smoothing,
+  title={On the over-smoothing problem of cnn based disparity estimation},
+  author={Chen, Chuangrong and Chen, Xiaozhi and Cheng, Hui},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={8997--9005},
+  year={2019}
+}

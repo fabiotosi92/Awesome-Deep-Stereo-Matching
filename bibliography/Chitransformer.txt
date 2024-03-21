@@ -1,0 +1,8 @@
+@InProceedings{Su_2022_CVPR_Chitransformer,
+    author    = {Su, Qing and Ji, Shihao},
+    title     = {Chitransformer: Towards Reliable Stereo From Cues},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {1939-1949}
+}

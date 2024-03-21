@@ -1,0 +1,6 @@
+@inproceedings{lipson2021raft,
+  title={RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching},
+  author={Lipson, Lahav and Teed, Zachary and Deng, Jia},
+  booktitle={International Conference on 3D Vision (3DV)},
+  year={2021}
+}

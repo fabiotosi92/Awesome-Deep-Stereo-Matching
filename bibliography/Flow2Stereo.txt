@@ -1,0 +1,7 @@
+@InProceedings{Liu_2020_CVPR_Flow2Stereo,
+author = {Liu, Pengpeng and King, Irwin and Lyu, Michael R. and Xu, Jia},
+title = {Flow2Stereo: Effective Self-Supervised Learning of Optical Flow and Stereo Matching},
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+} 

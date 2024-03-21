@@ -1,0 +1,8 @@
+@article{cheng2022revisiting,
+  title={Revisiting Non-Parametric Matching Cost Volumes for Robust and Generalizable Stereo Matching},
+  author={Cheng, Kelvin and Wu, Tianfu and Healey, Christopher},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={16305--16318},
+  year={2022}
+}

@@ -1,0 +1,7 @@
+@inproceedings{lou2023elfnet,
+  title={Elfnet: Evidential local-global fusion for stereo matching},
+  author={Lou, Jieming and Liu, Weide and Chen, Zhuo and Liu, Fayao and Cheng, Jun},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={17784--17793},
+  year={2023}
+}

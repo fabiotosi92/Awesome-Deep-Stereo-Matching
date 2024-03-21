@@ -1,0 +1,7 @@
+@inproceedings{mostafavi2021event,
+  title     =  {Event-Intensity Stereo: Estimating Depth by the Best of Both Worlds},
+  author    =  {Mostafavi, Mohammad and Yoon, Kuk-Jin and Choi, Jonghyun},
+  booktitle =  {Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages     =  {4258--4267},
+  year      =  {2021}
+}

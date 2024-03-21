@@ -1,0 +1,8 @@
+@inproceedings{kim2022pointfix,
+  title={PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation},
+  author={Kim, Kwonyoung and Park, Jungin and Lee, Jiyoung and Min, Dongbo and Sohn, Kwanghoon},
+  booktitle={European Conference on Computer Vision},
+  pages={568--585},
+  year={2022},
+  organization={Springer}
+}

@@ -1,0 +1,10 @@
+@article{poggi2021confidence,
+  title={On the confidence of stereo matching in a deep-learning era: a quantitative evaluation},
+  author={Poggi, Matteo and Kim, Seungryong and Tosi, Fabio and Kim, Sunok and Aleotti, Filippo and Min, Dongbo and Sohn, Kwanghoon and Mattoccia, Stefano},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={44},
+  number={9},
+  pages={5293--5313},
+  year={2021},
+  publisher={IEEE}
+}

@@ -1,0 +1,8 @@
+@InProceedings{Song_2021_CVPR,
+    author    = {Song, Xiao and Yang, Guorun and Zhu, Xinge and Zhou, Hui and Wang, Zhe and Shi, Jianping},
+    title     = {AdaStereo: A Simple and Efficient Approach for Adaptive Stereo Matching},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {10328-10337}
+}

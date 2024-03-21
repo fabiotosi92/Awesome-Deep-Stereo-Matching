@@ -1,0 +1,7 @@
+@InProceedings{Badki_2020_CVPR_Bi3D,
+author = {Badki, Abhishek and Troccoli, Alejandro and Kim, Kihwan and Kautz, Jan and Sen, Pradeep and Gallo, Orazio},
+title = {Bi3D: Stereo Depth Estimation via Binary Classifications},
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+} 
