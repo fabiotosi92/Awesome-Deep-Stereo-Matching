@@ -1,0 +1,7 @@
+@inproceedings{liang2018learning_iResNet,
+  title={Learning for disparity estimation through feature constancy},
+  author={Liang, Zhengfa and Feng, Yiliu and Guo, Yulan and Liu, Hengzhu and Chen, Wei and Qiao, Linbo and Zhou, Li and Zhang, Jianfeng},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={2811--2820},
+  year={2018}
+}

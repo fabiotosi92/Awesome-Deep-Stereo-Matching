@@ -1,0 +1,7 @@
+@inproceedings{saikia2019autodispnet,
+  title={Autodispnet: Improving disparity estimation with automl},
+  author={Saikia, Tonmoy and Marrakchi, Yassine and Zela, Arber and Hutter, Frank and Brox, Thomas},
+  booktitle={Proceedings of the ieee/cvf international conference on computer vision},
+  pages={1812--1823},
+  year={2019}
+}

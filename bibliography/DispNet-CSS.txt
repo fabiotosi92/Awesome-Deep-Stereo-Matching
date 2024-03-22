@@ -1,0 +1,7 @@
+@inproceedings{ilg2018occlusions,
+  title={Occlusions, motion and depth boundaries with a generic network for disparity, optical flow or scene flow estimation},
+  author={Ilg, Eddy and Saikia, Tonmoy and Keuper, Margret and Brox, Thomas},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
+  pages={614--630},
+  year={2018}
+}

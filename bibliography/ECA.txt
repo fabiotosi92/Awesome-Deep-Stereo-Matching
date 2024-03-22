@@ -1,0 +1,8 @@
+@inproceedings{yu2018deep,
+  title={Deep stereo matching with explicit cost aggregation sub-architecture},
+  author={Yu, Lidong and Wang, Yucheng and Wu, Yuwei and Jia, Yunde},
+  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  volume={32},
+  number={1},
+  year={2018}
+}

@@ -1,0 +1,7 @@
+@InProceedings{Nie_2019_CVPR,
+author = {Nie, Guang-Yu and Cheng, Ming-Ming and Liu, Yun and Liang, Zhengfa and Fan, Deng-Ping and Liu, Yue and Wang, Yongtian},
+title = {Multi-Level Context Ultra-Aggregation for Stereo Matching},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+} 

@@ -1,0 +1,7 @@
+@inproceedings{yin2019hierarchical,
+  title={Hierarchical discrete distribution decomposition for match density estimation},
+  author={Yin, Zhichao and Darrell, Trevor and Yu, Fisher},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={6044--6053},
+  year={2019}
+}

@@ -1,0 +1,7 @@
+@inproceedings{kendall2017end_GC-NET,
+  title={End-to-end learning of geometry and context for deep stereo regression},
+  author={Kendall, Alex and Martirosyan, Hayk and Dasgupta, Saumitro and Henry, Peter and Kennedy, Ryan and Bachrach, Abraham and Bry, Adam},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={66--75},
+  year={2017}
+}

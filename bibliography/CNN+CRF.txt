@@ -1,0 +1,7 @@
+@inproceedings{knobelreiter2017end,
+  title={End-to-end training of hybrid CNN-CRF models for stereo},
+  author={Knobelreiter, Patrick and Reinbacher, Christian and Shekhovtsov, Alexander and Pock, Thomas},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={2339--2348},
+  year={2017}
+}

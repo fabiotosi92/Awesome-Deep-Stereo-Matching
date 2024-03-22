@@ -1,0 +1,8 @@
+@inproceedings{song2019edgestereo,
+  title={Edgestereo: A context integrated residual pyramid network for stereo matching},
+  author={Song, Xiao and Zhao, Xu and Hu, Hanwen and Fang, Liangji},
+  booktitle={Computer Vision--ACCV 2018: 14th Asian Conference on Computer Vision, Perth, Australia, December 2--6, 2018, Revised Selected Papers, Part V 14},
+  pages={20--35},
+  year={2019},
+  organization={Springer}
+}

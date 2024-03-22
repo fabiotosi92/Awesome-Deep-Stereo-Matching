@@ -1,0 +1,7 @@
+@inproceedings{pang2017cascade,
+  title={Cascade residual learning: A two-stage convolutional neural network for stereo matching},
+  author={Pang, Jiahao and Sun, Wenxiu and Ren, Jimmy SJ and Yang, Chengxi and Yan, Qiong},
+  booktitle={Proceedings of the IEEE international conference on computer vision workshops},
+  pages={887--895},
+  year={2017}
+}
