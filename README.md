@@ -57,6 +57,7 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
    * **ETH3D**: *"A multi-view stereo benchmark with high-resolution images and multi-camera videos"*, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Schops_A_Multi-View_Stereo_CVPR_2017_paper.pdf)] [[Dataset](https://www.eth3d.net/)] [[Bibtex](./bibliography/ETH3D.txt)]
 
+
    * **Middlebury 2021 Mobile Dataset**: [[Website](https://vision.middlebury.edu/stereo/data/scenes2021/)] [[Bibtex](./bibliography/Middlebury_v3.txt)]
 
    * **The Booster Dataset**: *"Open Challenges in Deep Stereo: The Booster Dataset"*, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ramirez_Open_Challenges_in_Deep_Stereo_The_Booster_Dataset_CVPR_2022_paper.pdf)] [[Dataset](https://cvlab-unibo.github.io/booster-web/)] [[Bibtex](./bibliography/Booster.txt)]
@@ -91,7 +92,7 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 
 <details open>
-<summary style="font-size: larger; font-weight: bold;"> Synthetic </summary><ul>
+<summary style="font-size: larger; font-weight: bold;"> Synthetic </summary>
 
 * **Freiburg SceneFlow**: *"A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation"*, *CVPR, 2016*. [[Paper](https://lmb.informatik.uni-freiburg.de/Publications/2016/MIFDB16/paper-MIFDB16.pdf)] [[Dataset](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)] [[Bibtex](./bibliography/SceneFlow.txt)]
 
@@ -112,7 +113,6 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 * **Dynamic Replica**: *"DynamicStereo: Consistent Dynamic Depth From Stereo Videos"*, *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Karaev_DynamicStereo_Consistent_Dynamic_Depth_From_Stereo_Videos_CVPR_2023_paper.pdf)] [[Dataset](https://dynamic-stereo.github.io/)] [[Bibtex](./bibliography/Dynamic_Replica.txt)]
 
-</ul>
 </details>
 
 ## Papers
