@@ -1,11 +1,3 @@
-<!-- [START_HIDDEN]
-<style>
-  .nested-details {
-    margin-left: 20px; 
-  }
-</style>
-[END_HIDDEN] -->
-
 # awesome-Stereo-Matching
 Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art stereo matching resources maintained by Fabio Tosi and Matteo Poggi. This repository aims to provide a comprehensive collection of the latest and most influential papers on stereo matching published in top-tier computer vision conferences and prestigious journals.
 
@@ -33,13 +25,7 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 5. [Talks & Tutorials](#talks)
 
 
-<div>
-  <style>
-    .nested-details {
-      margin-left: 20px; 
-    }
-  </style>
-</div>
+
 
 ## Survey
 
@@ -59,13 +45,10 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 ## Datasets
 
 
-<details open>
-<summary style="font-size: larger; font-weight: bold;">Real-World </summary>
+<details><summary style="font-size: larger; font-weight: bold;">  Real-World</summary><ul>
 
-
-   <details open class="nested-details">
-    <summary style="font-size: larger; font-weight: bold;">Passive</summary>
-
+   <details><summary> Passive </summary>
+   
    * **Middlebury v3**: *"High-resolution stereo datasets with subpixel-accurate ground truth"*, *GCPR 2014*. [[Paper](https://elib.dlr.de/90624/1/ScharsteinEtal2014.pdf)] [[Dataset](https://vision.middlebury.edu/stereo/eval3/)] [[Bibtex](./bibliography/Middlebury_v3.txt)]
 
    * **KITTI 2012**: *"Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite"*, *CVPR, 2012*. [[Paper](https://projet.liris.cnrs.fr/imagine/pub/proceedings/CVPR2012/data/papers/424_O3C-04.pdf)] [[Dataset](https://www.cvlibs.net/datasets/kitti/)] [[Bibtex](./bibliography/KITTI_2012.txt)]
@@ -82,11 +65,9 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
    * **Holopix50k**: *"Holopix50k: A Large-Scale In-the-Wild Stereo Image Dataset"*, *CVPR, 2020*. [[Dataset](https://leiainc.github.io/holopix50k/)] [[Paper](https://arxiv.org/abs/2003.11172)] [[Bibtex](./bibliography/Holopix50k.txt)]
 
    * **InStereo2K**: *"InStereo2K: A Large Real Dataset for Stereo Matching in Indoor Scenes"*, *Science China Information Sciences, 2020*. [[Paper](https://link.springer.com/article/10.1007/s11432-019-2803-x)] [[Github](https://github.com/YuhuaXu/StereoDataset)]
-
-
    </details>
-   <details open class="nested-details">
-    <summary style="font-size: larger; font-weight: bold;">Multimodal</summary>
+
+<details><summary> Multimodal </summary>
 
    * **DSEC**: *"DSEC: A Stereo Event Camera Dataset for Driving Scenarios"*, *RAL, 2021*. [[Paper](https://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf)] [[Code](https://github.com/uzh-rpg/DSEC)] [[Dataset](https://dsec.ifi.uzh.ch/)] [[Bibtex](./bibliography/DSEC.txt)]
 
@@ -96,16 +77,19 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
    * **MS^2**: *"Deep Depth Estimation From Thermal Image"*, *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shin_Deep_Depth_Estimation_From_Thermal_Image_CVPR_2023_paper.pdf)] [[Dataset](https://sites.google.com/view/multi-spectral-stereo-dataset)] [[Bibtex](./bibliography/MS2.txt)] 
 
-   </details>
+</details>
 
-   <details open class="nested-details">
-    <summary style="font-size: larger; font-weight: bold;">Rendered</summary>
+<details><summary> Rendered </summary>
 
    * **The NeRF-Stereo Dataset**: *"NeRF-Supervised
    Deep Stereo"*, *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Dataset](https://amsacta.unibo.it/id/eprint/7218/)] [[Bibtex](./bibliography/NS-Stereo.txt)] 
 
-   </details>
 </details>
+
+</ul>
+</details>
+
+
 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Synthetic</summary>
@@ -135,13 +119,10 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 ### End-to-End Learning
 
-
-
-
 <details open>
-<summary style="font-size: larger; font-weight: bold;">Vanilla Stereo Networks</summary>
+<summary style="font-size: larger; font-weight: bold;">Vanilla Stereo Networks</summary><ul>
 
-  <details open class="nested-details">
+  <details open>
     <summary style="font-size: larger; font-weight: bold;">2D Architectures</summary>
     
    * **DispNet-C**: *"A large dataset to train convolutional networks for disparity, optical flow, and scene flow estimation"*, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Mayer_A_Large_Dataset_CVPR_2016_paper.pdf)] [[Bibtex](./bibliography/SceneFlow.txt)]
@@ -292,6 +273,7 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 * **NMRF**: *"Neural Markov Random Field for Stereo Matching"*, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2403.11193.pdf)] [[Code](https://github.com/aeolusguan/NMRF)] [[Bibtex](./bibliography/NMRF.txt)]
 
+</ul>
 </details>
 
 <details open>
@@ -374,6 +356,7 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 <summary style="font-size: larger; font-weight: bold;">Semantic Stereo Matching</summary>
 
 * **RSS-Net**: *"Real-time semantic stereo matching"*, *ICRA, 2020*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9196784/)] [[Bibtex](./bibliography/RSS-Net.txt)]
+
 
 </details>
 
