@@ -1,8 +1,11 @@
+<!-- 
 <style>
   .nested-details {
     margin-left: 20px; 
   }
 </style>
+-->
+
 
 # awesome-Stereo-Matching
 Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art stereo matching resources maintained by Fabio Tosi and Matteo Poggi. This repository aims to provide a comprehensive collection of the latest and most influential papers on stereo matching published in top-tier computer vision conferences and prestigious journals.
@@ -30,7 +33,14 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
    - [Event Stereo](#event-stereo)
 5. [Talks & Tutorials](#talks)
 
-
+<!-- HTML snippet with CSS -->
+<div>
+  <style>
+    .nested-details {
+      margin-left: 20px; 
+    }
+  </style>
+</div>
 
 ## Survey
 
@@ -95,6 +105,7 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
    Deep Stereo"*, *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Dataset](https://amsacta.unibo.it/id/eprint/7218/)] [[Bibtex](./bibliography/NS-Stereo.txt)] 
 
    </details>
+</details>
 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Synthetic</summary>
