@@ -158,7 +158,16 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
    * **PSMNet**: *"Pyramid Stereo Matching Network"*, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chang_Pyramid_Stereo_Matching_CVPR_2018_paper.pdf)] [[Code](https://github.com/JiaRenChang/PSMNet)] [[Bibtex](./bibliography/PSMNet.txt)]
 
-   * **EMCUA**: *"Pyramid Stereo Matching Network"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nie_Multi-Level_Context_Ultra-Aggregation_for_Stereo_Matching_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/EMCUA.txt)]
+   * **EMCUA**: *"Multi-Level Context Ultra-Aggregation for Stereo Matching"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Nie_Multi-Level_Context_Ultra-Aggregation_for_Stereo_Matching_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/EMCUA.txt)]
+
+   * **CSPN**: *"Learning depth with convolutional spatial propagation network"*, *TPAMI, 2019*. [[Paper](https://arxiv.org/pdf/1810.02695.pdf)] [[Code](https://github.com/XinJCheng/CSPN)] [[Bibtex](./bibliography/CSPN.txt)]
+
+   * **GA-Net**: *"Ga-net: Guided aggregation net for end-to-end stereo matching"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_GA-Net_Guided_Aggregation_Net_for_End-To-End_Stereo_Matching_CVPR_2019_paper.pdf)] [[Code](https://github.com/feihuzhang/GANet)] [[Bibtex](./bibliography/GANet.txt)]
+
+   * **Stereodrnet**: *"Stereodrnet: Dilated residual stereonet"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chabra_StereoDRNet_Dilated_Residual_StereoNet_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/Stereodrnet.txt)]
+
+   * **PDSNet**: *"Practical deep stereo (pds): Toward applications-friendly deep stereo matching"*, *NeurIPS, 2018*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/ade55409d1224074754035a5a937d2e0-Paper.pdf)] [[Code](https://github.com/tlkvstepan/PracticalDeepStereo_NIPS2018)] [[Bibtex](./bibliography/PDSNet.txt)]
+
 
   </details>
 
