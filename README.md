@@ -45,9 +45,9 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 ## Datasets
 
 
-<details><summary style="font-size: larger; font-weight: bold;">  Real-World</summary><ul>
+<details><summary style="font-size: larger; font-weight: bold;">Real-World</summary><ul>
 
-   <details><summary> Passive </summary>
+   <details><summary style="font-size: larger; font-weight: bold;"> Passive </summary>
    
    * **Middlebury v3**: *"High-resolution stereo datasets with subpixel-accurate ground truth"*, *GCPR 2014*. [[Paper](https://elib.dlr.de/90624/1/ScharsteinEtal2014.pdf)] [[Dataset](https://vision.middlebury.edu/stereo/eval3/)] [[Bibtex](./bibliography/Middlebury_v3.txt)]
 
@@ -67,7 +67,7 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
    * **InStereo2K**: *"InStereo2K: A Large Real Dataset for Stereo Matching in Indoor Scenes"*, *Science China Information Sciences, 2020*. [[Paper](https://link.springer.com/article/10.1007/s11432-019-2803-x)] [[Github](https://github.com/YuhuaXu/StereoDataset)]
    </details>
 
-<details><summary> Multimodal </summary>
+<details><summary style="font-size: larger; font-weight: bold;"> Multimodal </summary>
 
    * **DSEC**: *"DSEC: A Stereo Event Camera Dataset for Driving Scenarios"*, *RAL, 2021*. [[Paper](https://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf)] [[Code](https://github.com/uzh-rpg/DSEC)] [[Dataset](https://dsec.ifi.uzh.ch/)] [[Bibtex](./bibliography/DSEC.txt)]
 
@@ -79,7 +79,7 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 </details>
 
-<details><summary> Rendered </summary>
+<details><summary style="font-size: larger; font-weight: bold;"> Rendered </summary>
 
    * **The NeRF-Stereo Dataset**: *"NeRF-Supervised
    Deep Stereo"*, *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Dataset](https://amsacta.unibo.it/id/eprint/7218/)] [[Bibtex](./bibliography/NS-Stereo.txt)] 
@@ -92,7 +92,7 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 
 <details open>
-<summary style="font-size: larger; font-weight: bold;">Synthetic</summary>
+<summary style="font-size: larger; font-weight: bold;"> Synthetic </summary>
 
 * **Freiburg SceneFlow**: *"A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation"*, *CVPR, 2016*. [[Paper](https://lmb.informatik.uni-freiburg.de/Publications/2016/MIFDB16/paper-MIFDB16.pdf)] [[Dataset](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)] [[Bibtex](./bibliography/SceneFlow.txt)]
 
