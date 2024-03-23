@@ -1,0 +1,7 @@
+@inproceedings{khamis2018stereonet,
+  title={Stereonet: Guided hierarchical refinement for real-time edge-aware depth prediction},
+  author={Khamis, Sameh and Fanello, Sean and Rhemann, Christoph and Kowdle, Adarsh and Valentin, Julien and Izadi, Shahram},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
+  pages={573--590},
+  year={2018}
+}

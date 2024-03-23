@@ -1,0 +1,7 @@
+@inproceedings{tonioni2017unsupervised,
+  title={Unsupervised adaptation for deep stereo},
+  author={Tonioni, Alessio and Poggi, Matteo and Mattoccia, Stefano and Di Stefano, Luigi},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={1605--1613},
+  year={2017}
+}

@@ -1,0 +1,7 @@
+@inproceedings{zhang2019ga,
+  title={Ga-net: Guided aggregation net for end-to-end stereo matching},
+  author={Zhang, Feihu and Prisacariu, Victor and Yang, Ruigang and Torr, Philip HS},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={185--194},
+  year={2019}
+}

@@ -1,0 +1,10 @@
+@article{cheng2019learning,
+  title={Learning depth with convolutional spatial propagation network},
+  author={Cheng, Xinjing and Wang, Peng and Yang, Ruigang},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={42},
+  number={10},
+  pages={2361--2379},
+  year={2019},
+  publisher={IEEE}
+}

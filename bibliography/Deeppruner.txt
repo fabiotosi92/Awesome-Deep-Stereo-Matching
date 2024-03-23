@@ -1,0 +1,7 @@
+@inproceedings{duggal2019deeppruner,
+  title={Deeppruner: Learning efficient stereo matching via differentiable patchmatch},
+  author={Duggal, Shivam and Wang, Shenlong and Ma, Wei-Chiu and Hu, Rui and Urtasun, Raquel},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
+  pages={4384--4393},
+  year={2019}
+}

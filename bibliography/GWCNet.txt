@@ -1,0 +1,6 @@
+@inproceedings{guo2019group,
+  title={Group-wise correlation stereo network},
+  author={Guo, Xiaoyang and Yang, Kai and Yang, Wukui and Wang, Xiaogang and Li, Hongsheng},
+  booktitle=CVPR,
+  year={2019}
+}

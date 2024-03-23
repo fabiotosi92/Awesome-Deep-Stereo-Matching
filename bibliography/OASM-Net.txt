@@ -1,0 +1,8 @@
+@inproceedings{li2018occlusion,
+  title={Occlusion aware stereo matching via cooperative unsupervised learning},
+  author={Li, Ang and Yuan, Zejian},
+  booktitle={Asian Conference on Computer Vision},
+  pages={197--213},
+  year={2018},
+  organization={Springer}
+}

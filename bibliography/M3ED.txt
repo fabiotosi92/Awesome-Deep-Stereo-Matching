@@ -1,0 +1,7 @@
+@inproceedings{chaney2023m3ed,
+  title={M3ed: Multi-robot, multi-sensor, multi-environment event dataset},
+  author={Chaney, Kenneth and Cladera, Fernando and Wang, Ziyun and Bisulco, Anthony and Hsieh, M Ani and Korpela, Christopher and Kumar, Vijay and Taylor, Camillo J and Daniilidis, Kostas},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4015--4022},
+  year={2023}
+}

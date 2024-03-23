@@ -1,0 +1,7 @@
+@article{tulyakov2018practical,
+  title={Practical deep stereo (pds): Toward applications-friendly deep stereo matching},
+  author={Tulyakov, Stepan and Ivanov, Anton and Fleuret, Francois},
+  journal={Advances in neural information processing systems},
+  volume={31},
+  year={2018}
+}

@@ -1,0 +1,10 @@
+@article{tonioni2019unsupervised,
+  title={Unsupervised domain adaptation for depth prediction from images},
+  author={Tonioni, Alessio and Poggi, Matteo and Mattoccia, Stefano and Di Stefano, Luigi},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={42},
+  number={10},
+  pages={2396--2409},
+  year={2019},
+  publisher={IEEE}
+}

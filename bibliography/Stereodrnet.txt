@@ -1,0 +1,7 @@
+@inproceedings{chabra2019stereodrnet,
+  title={Stereodrnet: Dilated residual stereonet},
+  author={Chabra, Rohan and Straub, Julian and Sweeney, Christopher and Newcombe, Richard and Fuchs, Henry},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={11786--11795},
+  year={2019}
+}

@@ -1,0 +1,7 @@
+@inproceedings{wu2019semantic,
+  title={Semantic stereo matching with pyramid cost volumes},
+  author={Wu, Zhenyao and Wu, Xinyi and Zhang, Xiaoping and Wang, Song and Ju, Lili},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
+  pages={7484--7493},
+  year={2019}
+}

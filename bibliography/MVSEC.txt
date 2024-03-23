@@ -1,0 +1,10 @@
+@article{zhu2018multivehicle,
+  title={The multivehicle stereo event camera dataset: An event camera dataset for 3D perception},
+  author={Zhu, Alex Zihao and Thakur, Dinesh and {\"O}zaslan, Tolga and Pfrommer, Bernd and Kumar, Vijay and Daniilidis, Kostas},
+  journal={IEEE Robotics and Automation Letters},
+  volume={3},
+  number={3},
+  pages={2032--2039},
+  year={2018},
+  publisher={IEEE}
+}

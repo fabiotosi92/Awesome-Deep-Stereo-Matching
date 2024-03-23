@@ -1,0 +1,8 @@
+@inproceedings{wang2019anytime,
+  title={Anytime stereo image depth estimation on mobile devices},
+  author={Wang, Yan and Lai, Zihang and Huang, Gao and Wang, Brian H and Van Der Maaten, Laurens and Campbell, Mark and Weinberger, Kilian Q},
+  booktitle={2019 international conference on robotics and automation (ICRA)},
+  pages={5893--5900},
+  year={2019},
+  organization={IEEE}
+}
