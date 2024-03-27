@@ -1,0 +1,8 @@
+@inproceedings{zhan2019dsnet,
+  title={DSNet: Joint learning for scene segmentation and disparity estimation},
+  author={Zhan, Wujing and Ou, Xinqi and Yang, Yunyi and Chen, Long},
+  booktitle={2019 International Conference on Robotics and Automation (ICRA)},
+  pages={2946--2952},
+  year={2019},
+  organization={IEEE}
+}

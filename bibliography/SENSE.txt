@@ -1,0 +1,7 @@
+@inproceedings{jiang2019sense,
+  title={Sense: A shared encoder network for scene-flow estimation},
+  author={Jiang, Huaizu and Sun, Deqing and Jampani, Varun and Lv, Zhaoyang and Learned-Miller, Erik and Kautz, Jan},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
+  pages={3195--3204},
+  year={2019}
+}

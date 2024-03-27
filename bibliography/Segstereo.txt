@@ -1,0 +1,7 @@
+@inproceedings{yang2018segstereo,
+  title={Segstereo: Exploiting semantic information for disparity estimation},
+  author={Yang, Guorun and Zhao, Hengshuang and Shi, Jianping and Deng, Zhidong and Jia, Jiaya},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
+  pages={636--651},
+  year={2018}
+}
