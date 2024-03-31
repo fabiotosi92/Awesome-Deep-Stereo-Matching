@@ -341,7 +341,7 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 </details>
 
 <details open>
-<summary style="font-size: larger; font-weight: bold;">Efficient Deep Stereo Architectures</summary>
+<summary style="font-size: larger; font-weight: bold;">Efficient-Oriented Deep Stereo Architectures</summary>
 
 * **Stereonet**: *"Stereonet: Guided hierarchical refinement for real-time edge-aware depth prediction"*, *ECCV, 2018*. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sameh_Khamis_StereoNet_Guided_Hierarchical_ECCV_2018_paper.pdf)] [[Code](https://github.com/neka-nat/StereoNet)] [[Bibtex](./bibliography/Stereonet.txt)] 
 
@@ -596,10 +596,12 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 </details>
 
+</details>
+
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Transparent and Reflective (ToM) Surfaces </summary>
 
-</details>
+
 
 </ul>
 </details>
