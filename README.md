@@ -31,6 +31,9 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 * *"Quantitative evaluation of confidence measures in a machine learning world"*, *ICCV, 2017*. [[Paper](https://arxiv.org/abs/2101.00431)] [[Bibtex](./bibliography/QuantitativeConf.txt)]
 
+* *"A survey on deep learning techniques for stereo-based depth estimation"*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9233988&casa_token=thq8xzMfDVQAAAAA:LqT40M8CQY9Xt8j8pKTUJr2E89KAB9c1DGG1Pw9q1YMG__o5htMzH1Xx3_wlPwLcesYHgvc&tag=1)] [[Bibtex](./bibliography/survey-stereo-2.txt)]
+
+
 * *"On the synergies between machine learning and binocular stereo for depth estimation from images: a survey"*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021*. [[Paper](https://arxiv.org/pdf/2004.08566.pdf)] [[Bibtex](./bibliography/OnTheSynergies.txt)]
 
 * *"On the Confidence of Stereo Matching in a Deep-Learning Era: A Quantitative Evaluation"*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022*. [[Paper](https://arxiv.org/abs/2101.00431)] [[Bibtex](./bibliography/OnTheConfidence.txt)]
@@ -625,13 +628,14 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 * **FedStereo**: *"Federated Online Adaptation for Deep Stereo"*, *CVPR, 2024*. [[Paper](https://fedstereo.github.io/)] [[Bibtex](./bibliography/FedStereo.txt)]
 
+* **RAG-Continual**: *"Reusable Architecture Growth for Continual Stereo Matching"*, *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475553)]  [[Code](https://github.com/chzhang18/RAG)] [[Bibtex](./bibliography/RAG-Continual.txt)]
+
 </details>
 
 </details>
 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Transparent and Reflective (ToM) Surfaces </summary>
-
 
 
 </ul>

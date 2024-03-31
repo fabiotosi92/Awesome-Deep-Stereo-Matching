@@ -1,0 +1,10 @@
+@article{laga2020survey,
+  title={A survey on deep learning techniques for stereo-based depth estimation},
+  author={Laga, Hamid and Jospin, Laurent Valentin and Boussaid, Farid and Bennamoun, Mohammed},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={44},
+  number={4},
+  pages={1738--1764},
+  year={2020},
+  publisher={IEEE}
+}
