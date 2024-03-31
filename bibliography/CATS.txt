@@ -1,0 +1,7 @@
+@InProceedings{Treible_2017_CVPR,
+author = {Treible, Wayne and Saponaro, Philip and Sorensen, Scott and Kolagunda, Abhishek and O'Neal, Michael and Phelan, Brian and Sherbondy, Kelly and Kambhamettu, Chandra},
+title = {CATS: A Color and Thermal Stereo Benchmark},
+booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {July},
+year = {2017}
+} 

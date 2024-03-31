@@ -1,0 +1,9 @@
+@inproceedings{liu2022local_LaC,
+  title={Local similarity pattern and cost self-reassembling for deep stereo matching networks},
+  author={Liu, Biyang and Yu, Huimin and Long, Yangqi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={2},
+  pages={1647--1655},
+  year={2022}
+}

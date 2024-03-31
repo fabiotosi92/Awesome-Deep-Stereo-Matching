@@ -1,0 +1,6 @@
+@inproceedings{wang2024selective,
+  title={Selective-Stereo: Adaptive Frequency Information Selection for Stereo Matching},
+  author={Wang, Xianqi and Xu, Gangwei and Jia, Hao and Yang, Xin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2024}
+}

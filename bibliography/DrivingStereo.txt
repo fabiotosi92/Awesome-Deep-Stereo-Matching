@@ -1,0 +1,7 @@
+@InProceedings{Yang_2019_CVPR,
+author = {Yang, Guorun and Song, Xiao and Huang, Chaoqin and Deng, Zhidong and Shi, Jianping and Zhou, Bolei},
+title = {DrivingStereo: A Large-Scale Dataset for Stereo Matching in Autonomous Driving Scenarios},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+} 

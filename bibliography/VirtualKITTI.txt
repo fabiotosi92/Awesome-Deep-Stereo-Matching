@@ -1,0 +1,6 @@
+@article{cabon2020virtual,
+  title={Virtual kitti 2},
+  author={Cabon, Yohann and Murray, Naila and Humenberger, Martin},
+  journal={arXiv preprint arXiv:2001.10773},
+  year={2020}
+}

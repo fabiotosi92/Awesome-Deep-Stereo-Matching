@@ -1,0 +1,7 @@
+@InProceedings{Pang_2018_CVPR,
+author = {Pang, Jiahao and Sun, Wenxiu and Yang, Chengxi and Ren, Jimmy and Xiao, Ruichao and Zeng, Jin and Lin, Liang},
+title = {Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domains},
+booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2018}
+} 

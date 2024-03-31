@@ -1,0 +1,8 @@
+@inproceedings{wang2019web,
+  title={Web stereo video supervision for depth prediction from dynamic scenes},
+  author={Wang, Chaoyang and Lucey, Simon and Perazzi, Federico and Wang, Oliver},
+  booktitle={2019 International Conference on 3D Vision (3DV)},
+  pages={348--357},
+  year={2019},
+  organization={IEEE}
+}

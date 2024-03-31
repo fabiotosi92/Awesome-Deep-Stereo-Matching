@@ -1,0 +1,6 @@
+@inproceedings{Xu_CVPR_2024_ADL,
+  title={Adaptive Multi-Modal Cross-Entropy Loss for Stereo Matching},
+  author={Xu, Peng and Xiang, Zhiyu and Qiao, Chenyu and Fu, Jingyun and Zhao, Xijun},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2024}
+}

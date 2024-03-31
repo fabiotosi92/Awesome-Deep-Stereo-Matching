@@ -1,0 +1,8 @@
+@inproceedings{butler2012naturalistic,
+  title={A naturalistic open source movie for optical flow evaluation},
+  author={Butler, Daniel J and Wulff, Jonas and Stanley, Garrett B and Black, Michael J},
+  booktitle={Computer Vision--ECCV 2012: 12th European Conference on Computer Vision, Florence, Italy, October 7-13, 2012, Proceedings, Part VI 12},
+  pages={611--625},
+  year={2012},
+  organization={Springer}
+}

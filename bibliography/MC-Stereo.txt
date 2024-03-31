@@ -1,0 +1,6 @@
+@article{Feng_2024_3DV_MC-Stereo,
+  title={MC-Stereo: Multi-peak Lookup and Cascade Search Range for Stereo Matching},
+  author={Feng, Miaojie and Cheng, Junda and Jia, Hao and Liu, Longliang and Xu, Gangwei and Yang, Xin},
+  booktitle={International Conference on 3D Vision (3DV)},
+  year={2024}
+}
