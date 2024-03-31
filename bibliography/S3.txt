@@ -1,0 +1,7 @@
+@inproceedings{huang2021s3,
+  title={S3: Learnable sparse signal superdensity for guided depth estimation},
+  author={Huang, Yu-Kai and Liu, Yueh-Cheng and Wu, Tsung-Han and Su, Hung-Ting and Chang, Yu-Cheng and Tsou, Tsung-Lin and Wang, Yu-An and Hsu, Winston H},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={16706--16716},
+  year={2021}
+}

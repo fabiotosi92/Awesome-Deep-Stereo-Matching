@@ -337,16 +337,8 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 * **ICVP**: *"Image-Coupled Volume Propagation for Stereo Matching"*, *ICIP, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10222247)] [[Code](https://github.com/ohkwon718/icvp)] [[Bibtex](./bibliography/ICVP.txt)]
 
-
-
-
-
-
 </ul>
 </details>
-
-
-
 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Efficient Deep Stereo Architectures</summary>
@@ -354,7 +346,6 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 * **Stereonet**: *"Stereonet: Guided hierarchical refinement for real-time edge-aware depth prediction"*, *ECCV, 2018*. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sameh_Khamis_StereoNet_Guided_Hierarchical_ECCV_2018_paper.pdf)] [[Code](https://github.com/neka-nat/StereoNet)] [[Bibtex](./bibliography/Stereonet.txt)] 
 
 * **Deeppruner**: *"Deeppruner: Learning efficient stereo matching via differentiable patchmatch"*, *ICCV, 2019*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Duggal_DeepPruner_Learning_Efficient_Stereo_Matching_via_Differentiable_PatchMatch_ICCV_2019_paper.pdf)] [[Code](https://github.com/uber-research/DeepPruner)] [[Bibtex](./bibliography/Deeppruner.txt)] 
-
 
 * **Anytime**: *"Anytime stereo image depth estimation on mobile devices"*, *ICRA, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794003)] [[Code](https://github.com/mileyan/AnyNet)] [[Bibtex](./bibliography/Anytime.txt)] 
 
@@ -376,7 +367,6 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 * **MobileStereoNet**: *"MobileStereoNet: Towards Lightweight Deep Networks for Stereo Matching"*, *WACV, 2022*. [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Shamsafar_MobileStereoNet_Towards_Lightweight_Deep_Networks_for_Stereo_Matching_WACV_2022_paper.pdf)] [[Code](https://github.com/cogsys-tuebingen/mobilestereonet)] [[Bibtex](./bibliography/MobileStereoNet.txt)]
 
-
 * **ACVNet**: *"Attention Concatenation Volume for Accurate and Efficient Stereo Matching"*, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Attention_Concatenation_Volume_for_Accurate_and_Efficient_Stereo_Matching_CVPR_2022_paper.pdf)] [[Code](https://github.com/gangweiX/ACVNet)] [[Bibtex](./bibliography/ACVNet.txt)]
 
 * **PBCStereo**: *"PBCStereo: A Compressed Stereo Network with Pure Binary Convolutional Operations"*, *ACCV, 2022*. [[Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Cai_PBCStereo_A_Compressed_Stereo_Network_with_Pure_Binary_Convolutional_Operations_ACCV_2022_paper.pdf)] [[Bibtex](./bibliography/PBCStereo.txt)]
@@ -386,6 +376,8 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 * **StereoVAE**: *"StereoVAE: A lightweight stereo-matching system using embedded GPUs"*, *ICRA, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10160441)] [[Bibtex](./bibliography/StereoVAE.txt)]
 
 * **TemporalStereo**: *"TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network"*, *IROS, 2023*. [[Paper](https://arxiv.org/pdf/2211.13755.pdf)] [[Code](https://github.com/youmi-zym/TemporalStereo)]  [[Bibtex](./bibliography/TemporalStereo.txt)]
+
+* **IINet**: *"IINet: Implicit Intra-inter Information Fusion for Real-Time Stereo Matching"*, *AAAI, 2024*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28107/28218)]  [[Bibtex](./bibliography/IINet.txt)]
 
 
 </details>
@@ -424,6 +416,26 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Multi-modal  Deep Stereo Architectures</summary><ul>
 
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Guided/Active Stereo Networks</summary>
+
+* **GSD**: *"Guided stereo matching"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Poggi_Guided_Stereo_Matching_CVPR_2019_paper.pdf)] [[Code](https://github.com/mattpoggi/guided-stereo)] [[Bibtex](./bibliography/GSD.txt)]
+
+* **S<sup>3**: *"S<sup>3</sup>: Learnable sparse signal superdensity for guided depth estimation*, CVPR, 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_S3_Learnable_Sparse_Signal_Superdensity_for_Guided_Depth_Estimation_CVPR_2021_paper.pdf)] [[Bibtex](./bibliography/S3.txt)]
+
+* **LSMD-Net**: *"LSMD-Net: LiDAR-Stereo Fusion with Mixture Density Network for Depth Sensing"*, *ACCV, 2022*. [[Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Yin_LSMD-Net_LiDAR-Stereo_Fusion_with_Mixture_Density_Network_for_Depth_Sensing_ACCV_2022_paper.pdf)] [[Bibtex](./bibliography/LSMD-Net.txt)]
+
+* **VPP**: *"Active Stereo Without Pattern Projector"*, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Bartolomei_Active_Stereo_Without_Pattern_Projector_ICCV_2023_paper.pdf)] [[Code](https://vppstereo.github.io/)] [[Bibtex](./bibliography/VPP.txt)]
+
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Cross-Spectral Stereo Networks</summary>
+
+</details>
+
+
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Event Stereo Networks</summary>
 
@@ -441,10 +453,7 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 </details>
 
-<details open>
-<summary style="font-size: larger; font-weight: bold;">Active Stereo Networks</summary>
 
-</details>
 
 </ul>
 </details>
@@ -488,13 +497,13 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 * **Reversing-Stereo**: *"Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation"*, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.07130.pdf)] [[Code](https://github.com/FilippoAleotti/Reversing)] [[Bibtex](./bibliography/Reversing-Stereo.txt)]
 
-
+</details>
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Cross-Framework Supervision</summary>
 
 </details>
 
-</details>
+
 
 
 </ul>

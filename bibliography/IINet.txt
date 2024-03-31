@@ -1,0 +1,11 @@
+@article{Li_Zhang_Su_Tao_2024_IINet, 
+  title={IINet: Implicit Intra-inter Information Fusion for Real-Time Stereo Matching}, 
+  volume={38}, url={https://ojs.aaai.org/index.php/AAAI/article/view/28107}, 
+  DOI={10.1609/aaai.v38i4.28107}, 
+  number={4}, 
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  author={Li, Ximeng and Zhang, Chen and Su, Wanjuan and Tao, Wenbing}, 
+  year={2024}, 
+  month={Mar.}, 
+  pages={3225-3233} 
+}

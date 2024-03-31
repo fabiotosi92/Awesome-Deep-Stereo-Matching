@@ -1,0 +1,7 @@
+@inproceedings{poggi2019guided,
+  title={Guided stereo matching},
+  author={Poggi, Matteo and Pallotti, Davide and Tosi, Fabio and Mattoccia, Stefano},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={979--988},
+  year={2019}
+}

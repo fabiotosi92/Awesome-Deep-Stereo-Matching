@@ -1,0 +1,7 @@
+@inproceedings{bartolomei2023active,
+  title={Active stereo without pattern projector},
+  author={Bartolomei, Luca and Poggi, Matteo and Tosi, Fabio and Conti, Andrea and Mattoccia, Stefano},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={18470--18482},
+  year={2023}
+}
