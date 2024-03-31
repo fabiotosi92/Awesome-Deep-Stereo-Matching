@@ -1,0 +1,7 @@
+@inproceedings{shaked2017improved,
+  title={Improved stereo matching with constant highway networks and reflective confidence learning},
+  author={Shaked, Amit and Wolf, Lior},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={4641--4650},
+  year={2017}
+}

@@ -1,0 +1,7 @@
+@inproceedings{tosi2018beyond,
+  title={Beyond local reasoning for stereo confidence estimation with deep learning},
+  author={Tosi, Fabio and Poggi, Matteo and Benincasa, Antonio and Mattoccia, Stefano},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={319--334},
+  year={2018}
+}

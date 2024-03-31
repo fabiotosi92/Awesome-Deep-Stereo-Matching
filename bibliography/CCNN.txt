@@ -1,0 +1,9 @@
+@inproceedings{poggi2016learning,
+  title={Learning from scratch a confidence measure.},
+  author={Poggi, Matteo and Mattoccia, Stefano},
+  booktitle={Bmvc},
+  volume={2},
+  number={3},
+  pages={4},
+  year={2016}
+}

@@ -1,0 +1,9 @@
+@inproceedings{seki2016patch,
+  title={Patch Based Confidence Prediction for Dense Disparity Map.},
+  author={Seki, Akihito and Pollefeys, Marc},
+  booktitle={BMVC},
+  volume={2},
+  number={3},
+  pages={4},
+  year={2016}
+}

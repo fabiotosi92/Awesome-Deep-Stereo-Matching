@@ -33,7 +33,7 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 * *"On the synergies between machine learning and binocular stereo for depth estimation from images: a survey"*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021*. [[Paper](https://arxiv.org/pdf/2004.08566.pdf)] [[Bibtex](./bibliography/OnTheSynergies.txt)]
 
-* *"On the Confidence of Stereo Matching in a Deep-Learning Era: A Quantitative Evaluation"*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Poggi_Quantitative_Evaluation_of_ICCV_2017_paper.pdf)] [[Bibtex](./bibliography/OnTheConfidence.txt)]
+* *"On the Confidence of Stereo Matching in a Deep-Learning Era: A Quantitative Evaluation"*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022*. [[Paper](https://arxiv.org/abs/2101.00431)] [[Bibtex](./bibliography/OnTheConfidence.txt)]
 
 
 ## CodeBase
@@ -459,8 +459,39 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 </details>
 
 
+### Confidence Estimation
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Machine Learning Approaches</summary><ul>
 
 
+</ul>
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Deep Learning Approaches</summary><ul>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Disparity-based</summary>
+
+* **CCNN**: *"Learning from scratch a confidence measure"*, BMVC, 2016. [[Paper](https://www.researchgate.net/profile/Stefano-Mattoccia-2/publication/317191595_Learning_from_scratch_a_confidence_measure/links/593f9db3a6fdcc1b10aac9ec/Learning-from-scratch-a-confidence-measure.pdf)] [[Code](https://github.com/fabiotosi92/CCNN-Tensorflow)] [[Bibtex](./bibliography/CCNN.txt)]
+
+* **PBCP**: *"Patch Based Confidence Prediction for Dense Disparity Map"*, BMVC, 2016. [[Paper](https://www.cvlibs.net/projects/autonomous_vision_survey/literature/Seki2016BMVC.pdf)]  [[Bibtex](./bibliography/PBCP.txt)]
+
+* **LGC**: *"Beyond local reasoning for stereo confidence estimation with deep learning"*, ECCV, 2018. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabio_Tosi_Beyond_local_reasoning_ECCV_2018_paper.pdf)] [[Code](https://github.com/fabiotosi92/LGC-Tensorflow)] [[Bibtex](./bibliography/LGC.txt)]
+
+
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Cost Volume-based</summary>
+
+* **RCN**: *"Improved stereo matching with constant highway networks and reflective confidence learning"*, CVPR, 2017. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Shaked_Improved_Stereo_Matching_CVPR_2017_paper.pdf)] [[Code](https://github.com/amitshaked/resmatch)] [[Bibtex](./bibliography/RCN.txt)]
+
+</details>
+
+</ul>
+</details>
 
 ### Challenges and Solutions
 
