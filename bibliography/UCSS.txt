@@ -1,0 +1,9 @@
+@inproceedings{liang2019unsupervised,
+  title={Unsupervised cross-spectral stereo matching by learning to synthesize},
+  author={Liang, Mingyang and Guo, Xiaoyang and Li, Hongsheng and Wang, Xiaogang and Song, You},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  number={01},
+  pages={8706--8713},
+  year={2019}
+}

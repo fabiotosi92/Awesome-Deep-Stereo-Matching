@@ -1,0 +1,9 @@
+@article{yang2021rlstereo,
+  title={RLStereo: Real-time stereo matching based on reinforcement learning},
+  author={Yang, Menglong and Wu, Fangrui and Li, Wei},
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={9442--9455},
+  year={2021},
+  publisher={IEEE}
+}

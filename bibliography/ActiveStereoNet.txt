@@ -1,0 +1,7 @@
+@InProceedings{Zhang_2018_ECCV,
+author = {Zhang, Yinda and Khamis, Sameh and Rhemann, Christoph and Valentin, Julien and Kowdle, Adarsh and Tankovich, Vladimir and Schoenberg, Michael and Izadi, Shahram and Funkhouser, Thomas and Fanello, Sean},
+title = {ActiveStereoNet: End-to-End Self-Supervised Learning for Active Stereo Systems},
+booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+month = {September},
+year = {2018}
+} 

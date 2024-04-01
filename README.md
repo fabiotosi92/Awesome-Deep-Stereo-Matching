@@ -1,5 +1,5 @@
-# awesome-Stereo-Matching
-Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art stereo matching resources maintained by Fabio Tosi and Matteo Poggi. This repository aims to provide a comprehensive collection of the latest and most influential papers on stereo matching published in top-tier computer vision conferences and prestigious journals.
+# Awesome-Deep-Stereo-Matching
+Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of state-of-the-art stereo matching resources maintained by Fabio Tosi and Matteo Poggi. This repository aims to provide a comprehensive collection of the latest and most influential papers on stereo matching published in top-tier computer vision conferences and prestigious journals.
 
 ## Table of Contents
 
@@ -121,9 +121,9 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 * **UnrealStereo4K**: *"SMD-Nets: Stereo Mixture Density Networks"*, *CVPR, 2021*. [[Paper](http://www.cvlibs.net/publications/Tosi2021CVPR.pdf)] [[Dataset](https://github.com/fabiotosi92/SMD-Nets)] [[Bibtex](./bibliography/SMD-Nets.txt)]
 
+* **IRS**: *"IRS: A large naturalistic indoor robotics stereo dataset to train deep models for disparity and surface normal estimation"*, *ICME, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9428423&casa_token=wdItdcnJ3QkAAAAA:OZDqHpMb0LlKp_t_unpp8aZWh0dvRai0KkZAtdI_jvioFMqjv3goGrR3AIjmObzMjRmE_7k)] [[Dataset](https://github.com/HKBU-HPML/IRS)] [[Bibtex](./bibliography/Irs.txt)]
 
 * **CREStereo**: *"Practical stereo matching via cascaded recurrent network with adaptive correlation"*, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Practical_Stereo_Matching_via_Cascaded_Recurrent_Network_With_Adaptive_Correlation_CVPR_2022_paper.pdf)] [[Dataset](https://github.com/megvii-research/CREStereo)] [[Bibtex](./bibliography/CreStereo.txt)]
-
 
 * **SimStereo**: *"Active-Passive SimStereo – Benchmarking the Cross-Generalization Capabilities of Deep Learning-based Stereo Methods"*, *NeurIPS, 2022*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/bc3a68a20e5c8ba5cbefc1ecf74bfaaa-Paper-Datasets_and_Benchmarks.pdf)] [[Dataset](https://ieee-dataport.org/open-access/active-passive-simstereo)] [[Bibtex](./bibliography/SimStereo.txt)]
 
@@ -199,7 +199,7 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 </details>
 
 
-### End-to-End Learning
+### End-to-End Architectures
 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Foundational Deep Stereo Architectures</summary><ul>
@@ -366,6 +366,8 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 * **CoEX**: *"Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation"*, *IROS, 2021*. [[Paper](https://antabangun.github.io/projects/CoEx/)] [[Code](https://github.com/antabangun/coex)] [[Bibtex](./bibliography/CoEX.txt)]
 
+* **RLStereo**: *"RLStereo: Real-time stereo matching based on reinforcement learning"*, *TIP, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9614986)] [[Bibtex](./bibliography/RLStereo.txt)]
+
 * **Separable-Stereo**: *"Separable Convolutions for Optimizing 3D Stereo Networks"*, *ICIP, 2021*. [[Paper](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/kognitive-systeme/projects/deepstereovision/)] [[Code](https://github.com/cogsys-tuebingen/separable-3D-convs-for-stereo-matching)] [[Bibtex](./bibliography/Separable-Stereo.txt)]
 
 * **MobileStereoNet**: *"MobileStereoNet: Towards Lightweight Deep Networks for Stereo Matching"*, *WACV, 2022*. [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Shamsafar_MobileStereoNet_Towards_Lightweight_Deep_Networks_for_Stereo_Matching_WACV_2022_paper.pdf)] [[Code](https://github.com/cogsys-tuebingen/mobilestereonet)] [[Bibtex](./bibliography/MobileStereoNet.txt)]
@@ -406,6 +408,12 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 </details>
 
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Normal-Assisted Stereo Matching</summary>
+
+</details>
+
+
 
 <details open>
 <summary style="font-size: larger; font-weight: bold;"> Scene Flow </summary>
@@ -420,10 +428,15 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 <summary style="font-size: larger; font-weight: bold;">Multi-modal  Deep Stereo Architectures</summary><ul>
 
 
+
 <details open>
-<summary style="font-size: larger; font-weight: bold;">Guided/Active Stereo Networks</summary>
+<summary style="font-size: larger; font-weight: bold;">Depth-Guided Sensor Stereo Networks</summary>
 
 * **GSD**: *"Guided stereo matching"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Poggi_Guided_Stereo_Matching_CVPR_2019_paper.pdf)] [[Code](https://github.com/mattpoggi/guided-stereo)] [[Bibtex](./bibliography/GSD.txt)]
+
+* **LidarStereoNet**: *"Noise-Aware Unsupervised Deep Lidar-Stereo Fusion"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_Noise-Aware_Unsupervised_Deep_Lidar-Stereo_Fusion_CVPR_2019_paper.pdf)] [[Code](https://github.com/XuelianCheng/LidarStereoNet)] [[Bibtex](./bibliography/LidarStereoNet.txt)]
+
+* **Pseudo-LiDAR++**: *"Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving"*, *ICLR, 2020*. [[Paper](https://arxiv.org/pdf/1906.06310.pdf)] [[Code](https://github.com/mileyan/Pseudo_Lidar_V2)] [[Bibtex](./bibliography/Pseudo-LiDAR++.txt)]
 
 * **S<sup>3**: *"S<sup>3</sup>: Learnable sparse signal superdensity for guided depth estimation*, CVPR, 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_S3_Learnable_Sparse_Signal_Superdensity_for_Guided_Depth_Estimation_CVPR_2021_paper.pdf)] [[Bibtex](./bibliography/S3.txt)]
 
@@ -434,7 +447,31 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 </details>
 
 <details open>
+<summary style="font-size: larger; font-weight: bold;">Pattern Projection-Based Stereo Networks</summary>
+
+* **ActiveStereoNet**: *"ActiveStereoNet: End-to-End Self-Supervised Learning for Active Stereo Systems"*, *ECCV, 2018*. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yinda_Zhang_Active_Stereo_Net_ECCV_2018_paper.pdf)] [[Bibtex](./bibliography/ActiveStereoNet.txt)]
+
+* **Polka Lines**: *"Polka Lines: Learning Structured Illumination and Reconstruction for Active Stereo"*, *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Baek_Polka_Lines_Learning_Structured_Illumination_and_Reconstruction_for_Active_Stereo_CVPR_2021_paper.pdf)] [[Bibtex](./bibliography/Polka.txt)]
+
+* **Activezero**: *"Activezero: Mixed domain learning for active stereovision with zero annotation"*, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_ActiveZero_Mixed_Domain_Learning_for_Active_Stereovision_With_Zero_Annotation_CVPR_2022_paper.pdf)] [[Code](https://github.com/haosulab/ActiveZero/tree/master)] [[Bibtex](./bibliography/Activezero.txt)]
+
+* **MonoStereoFusion**: *"Depth Estimation by Combining Binocular Stereo and Monocular Structured-Light"*, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Depth_Estimation_by_Combining_Binocular_Stereo_and_Monocular_Structured-Light_CVPR_2022_paper.pdf)] [[Code](https://github.com/YuhuaXu/MonoStereoFusion)] [[Bibtex](./bibliography/MonoStereoFusion.txt)]
+
+
+* **Activezero++**: *"Activezero++: Mixed domain learning stereo and confidence-based depth completion with zero annotation"*, *TPAMI, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10219021&casa_token=tEPEB1O5d74AAAAA:YLArSfK76hUPakJOvHaWTylzix6QgWx6MgSprE9AhUtIpp79yXFYFOXe0H9ahHEByzJsDpY)] [[Bibtex](./bibliography/Activezero++.txt)]
+
+</details>
+
+
+<details open>
 <summary style="font-size: larger; font-weight: bold;">Cross-Spectral Stereo Networks</summary>
+
+* **UCSS**: *"Unsupervised cross-spectral stereo matching by learning to synthesize"*, *AAAI, 2019*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/4894/4767)] [[Code - Unofficial](https://github.com/rish-av/cross_spectral_stereo)] [[Bibtex](./bibliography/UCSS.txt)]
+
+
+* **RGB-MS**: *"RGB-Multispectral matching: Dataset, learning methodology, evaluation"*, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tosi_RGB-Multispectral_Matching_Dataset_Learning_Methodology_Evaluation_CVPR_2022_paper.pdf)] [[Code](https://cvlab-unibo.github.io/rgb-ms-web/)] [[Bibtex](./bibliography/RGB-MS.txt)]
+
+* **DPS-Net**: *"DPS-Net: Deep Polarimetric Stereo Depth Estimation"*, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tian_DPS-Net_Deep_Polarimetric_Stereo_Depth_Estimation_ICCV_2023_paper.pdf)] [[Code](https://github.com/Ethereal-Tian/DPS-Net)] [[Bibtex](./bibliography/DPS-Net.txt)]
 
 </details>
 
@@ -456,7 +493,12 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 </details>
 
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Gated Stereo Networks</summary>
 
+* **GatedStereo**: *"Gated Stereo: Joint Depth Estimation from Gated and Wide-Baseline Active Stereo Cues"*, *CVPR, 2023*. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/papers/Walz_Gated_Stereo_Joint_Depth_Estimation_From_Gated_and_Wide-Baseline_Active_CVPR_2023_paper.pdf)] [[WebPage](https://light.princeton.edu/publication/gatedstereo/)] [[Bibtex](./bibliography/Gated.txt)]
+
+</details>
 
 </ul>
 </details>
@@ -524,6 +566,8 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Self-Supervised</summary>
+
+* **USM**: *"Unsupervised learning of stereo matching"*, *ICCV, 2017*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhou_Unsupervised_Learning_of_ICCV_2017_paper.pdf)] [[Bibtex](./bibliography/Flow2Stereo.txt)]
 
 * **OASM-Net**: *"Occlusion aware stereo matching via cooperative unsupervised learning"*, *ACCV, 2018*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-20876-9_13)] [[Bibtex](./bibliography/OASM-Net.txt)]
 
@@ -636,6 +680,10 @@ Welcome to the "awesome-Stereo" repository, a curated list of state-of-the-art s
 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Transparent and Reflective (ToM) Surfaces </summary>
+
+* **DDF**: *"Deep Depth Fusion for Black, Transparent, Reflective and Texture-Less Objects"*, *ICRA, 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9196894)]  [[Code](https://github.com/chzhang18/RAG)] [[Bibtex](./bibliography/DDF.txt)]
+
+* **Depth4ToM**: *"Learning Depth Estimation for Transparent and Mirror Surfaces"*, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Costanzino_Learning_Depth_Estimation_for_Transparent_and_Mirror_Surfaces_ICCV_2023_paper.pdf)]  [[Code](https://cvlab-unibo.github.io/Depth4ToM/)] [[Bibtex](./bibliography/Depth4ToM.txt)]
 
 
 </ul>

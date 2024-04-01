@@ -1,0 +1,7 @@
+@inproceedings{zhou2017unsupervised,
+  title={Unsupervised learning of stereo matching},
+  author={Zhou, Chao and Zhang, Hong and Shen, Xiaoyong and Jia, Jiaya},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={1567--1575},
+  year={2017}
+}

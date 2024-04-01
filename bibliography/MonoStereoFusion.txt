@@ -1,0 +1,8 @@
+@InProceedings{Xu_2022_CVPR,
+    author    = {Xu, Yuhua and Yang, Xiaoli and Yu, Yushan and Jia, Wei and Chu, Zhaobi and Guo, Yulan},
+    title     = {Depth Estimation by Combining Binocular Stereo and Monocular Structured-Light},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {1746-1755}
+}

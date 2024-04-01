@@ -1,0 +1,7 @@
+@article{chen2023activezero++,
+  title={Activezero++: Mixed domain learning stereo and confidence-based depth completion with zero annotation},
+  author={Chen, Rui and Liu, Isabella and Yang, Edward and Tao, Jianyu and Zhang, Xiaoshuai and Ran, Qing and Liu, Zhu and Xu, Jing and Su, Hao},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
+}

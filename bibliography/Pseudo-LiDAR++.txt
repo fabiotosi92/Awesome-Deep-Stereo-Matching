@@ -1,0 +1,6 @@
+@inproceedings{you2020pseudo,
+  title={Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving},
+  author={You, Yurong and Wang, Yan and Chao, Wei-Lun and Garg, Divyansh and Pleiss, Geoff and Hariharan, Bharath and Campbell, Mark and Weinberger, Kilian Q},
+  booktitle={ICLR},
+  year={2020}
+}

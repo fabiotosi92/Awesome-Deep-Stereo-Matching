@@ -1,0 +1,7 @@
+@inproceedings{liu2022activezero,
+  title={Activezero: Mixed domain learning for active stereovision with zero annotation},
+  author={Liu, Isabella and Yang, Edward and Tao, Jianyu and Chen, Rui and Zhang, Xiaoshuai and Ran, Qing and Liu, Zhu and Su, Hao},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={13033--13042},
+  year={2022}
+}

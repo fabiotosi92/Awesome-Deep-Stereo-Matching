@@ -1,0 +1,8 @@
+@inproceedings{chai2020deep,
+  title={Deep depth fusion for black, transparent, reflective and texture-less objects},
+  author={Chai, Chun-Yu and Wu, Yu-Po and Tsao, Shiao-Li},
+  booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={6766--6772},
+  year={2020},
+  organization={IEEE}
+}

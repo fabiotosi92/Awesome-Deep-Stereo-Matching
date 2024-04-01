@@ -1,0 +1,7 @@
+@InProceedings{Cheng_2019_CVPR,
+author = {Cheng, Xuelian and Zhong, Yiran and Dai, Yuchao and Ji, Pan and Li, Hongdong},
+title = {Noise-Aware Unsupervised Deep Lidar-Stereo Fusion},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+} 

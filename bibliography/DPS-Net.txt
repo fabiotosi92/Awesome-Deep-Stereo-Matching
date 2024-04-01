@@ -1,0 +1,8 @@
+@InProceedings{Tian_2023_ICCV,
+    author    = {Tian, Chaoran and Pan, Weihong and Wang, Zimo and Mao, Mao and Zhang, Guofeng and Bao, Hujun and Tan, Ping and Cui, Zhaopeng},
+    title     = {DPS-Net: Deep Polarimetric Stereo Depth Estimation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {3569-3579}
+}

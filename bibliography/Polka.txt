@@ -1,0 +1,8 @@
+@InProceedings{Baek_2021_CVPR,
+    author    = {Baek, Seung-Hwan and Heide, Felix},
+    title     = {Polka Lines: Learning Structured Illumination and Reconstruction for Active Stereo},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {5757-5767}
+}

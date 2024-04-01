@@ -1,0 +1,8 @@
+@inproceedings{wang2021irs,
+  title={Irs: A large naturalistic indoor robotics stereo dataset to train deep models for disparity and surface normal estimation},
+  author={Wang, Qiang and Zheng, Shizhen and Yan, Qingsong and Deng, Fei and Zhao, Kaiyong and Chu, Xiaowen},
+  booktitle={2021 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2021},
+  organization={IEEE}
+}
