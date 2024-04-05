@@ -1,0 +1,8 @@
+@inproceedings{walters2021there,
+  title={There and back again: Self-supervised multispectral correspondence estimation},
+  author={Walters, Celyn and Mendez, Oscar and Johnson, Mark and Bowden, Richard},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={5147--5154},
+  year={2021},
+  organization={IEEE}
+}

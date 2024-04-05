@@ -1,0 +1,8 @@
+@inproceedings{fu2018learning,
+  title={Learning confidence measures by multi-modal convolutional neural networks},
+  author={Fu, Zehua and Fard, Mohsen Ardabilian},
+  booktitle={2018 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={1321--1330},
+  year={2018},
+  organization={IEEE}
+}

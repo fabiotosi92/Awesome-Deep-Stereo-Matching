@@ -1,0 +1,8 @@
+@inproceedings{zhang2022stereo,
+  title={Stereo Depth Estimation with Echoes},
+  author={Zhang, Chenghao and Tian, Kun and Ni, Bolin and Meng, Gaofeng and Fan, Bin and Zhang, Zhaoxiang and Pan, Chunhong},
+  booktitle={European Conference on Computer Vision},
+  pages={496--513},
+  year={2022},
+  organization={Springer}
+}

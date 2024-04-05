@@ -1,0 +1,7 @@
+@inproceedings{cheng2024stereo,
+  title={Stereo Matching in Time: 100+ FPS Video Stereo Matching for Extended Reality},
+  author={Cheng, Ziang and Yang, Jiayu and Li, Hongdong},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={8719--8728},
+  year={2024}
+}

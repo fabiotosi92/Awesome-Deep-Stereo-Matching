@@ -1,0 +1,7 @@
+@inproceedings{mehltretter2019cnn,
+  title={Cnn-based cost volume analysis as confidence measure for dense matching},
+  author={Mehltretter, Max and Heipke, Christian},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision workshops},
+  pages={0--0},
+  year={2019}
+}

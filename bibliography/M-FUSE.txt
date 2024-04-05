@@ -1,0 +1,7 @@
+@inproceedings{mehl2023m,
+  title={M-fuse: Multi-frame fusion for scene flow estimation},
+  author={Mehl, Lukas and Jahedi, Azin and Schmalfuss, Jenny and Bruhn, Andr{\'e}s},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={2020--2029},
+  year={2023}
+}

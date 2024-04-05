@@ -1,0 +1,7 @@
+@InProceedings{Cao_2019_CVPR,
+author = {Cao, Zhe and Kar, Abhishek and Hane, Christian and Malik, Jitendra},
+title = {Learning Independent Object Motion From Unlabelled Stereoscopic Videos},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+} 

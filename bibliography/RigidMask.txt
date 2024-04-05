@@ -1,0 +1,7 @@
+@inproceedings{yang2021learning,
+  title={Learning to segment rigid motions from two frames},
+  author={Yang, Gengshan and Ramanan, Deva},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={1266--1275},
+  year={2021}
+}

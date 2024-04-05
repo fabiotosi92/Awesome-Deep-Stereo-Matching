@@ -1,0 +1,8 @@
+@InProceedings{Chang_2023_CVPR,
+    author    = {Chang, Tianyu and Yang, Xun and Zhang, Tianzhu and Wang, Meng},
+    title     = {Domain Generalized Stereo Matching via Hierarchical Visual Transformation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {9559-9568}
+}

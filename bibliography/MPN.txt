@@ -1,0 +1,8 @@
+@inproceedings{kim2017deep,
+  title={Deep stereo confidence prediction for depth estimation},
+  author={Kim, Sunok and Min, Dongbo and Ham, Bumsub and Kim, Seungryong and Sohn, Kwanghoon},
+  booktitle={2017 ieee international conference on image processing (icip)},
+  pages={992--996},
+  year={2017},
+  organization={IEEE}
+}

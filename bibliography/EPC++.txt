@@ -1,0 +1,10 @@
+@article{luo2019every,
+  title={Every pixel counts++: Joint learning of geometry and motion with 3d holistic understanding},
+  author={Luo, Chenxu and Yang, Zhenheng and Wang, Peng and Wang, Yang and Xu, Wei and Nevatia, Ram and Yuille, Alan},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={42},
+  number={10},
+  pages={2624--2641},
+  year={2019},
+  publisher={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{Xiong_2023_BMVC,
+author    = {Zhexiao Xiong and Feng Qiao and Yu Zhang and Nathan Jacobs},
+title     = {StereoFlowGAN: Co-training for Stereo and Flow with Unsupervised Domain Adaptation},
+booktitle = {34th British Machine Vision Conference 2023, {BMVC} 2023, Aberdeen, UK, November 20-24, 2023},
+publisher = {BMVA},
+year      = {2023},
+url       = {https://papers.bmvc2023.org/0240.pdf}
+}

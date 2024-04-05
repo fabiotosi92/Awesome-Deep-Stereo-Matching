@@ -1,0 +1,9 @@
+@article{schuster2020sceneflowfields++,
+  title={SceneFlowFields++: Multi-frame matching, visibility prediction, and robust interpolation for scene flow estimation},
+  author={Schuster, Ren{\'e} and Wasenm{\"u}ller, Oliver and Unger, Christian and Kuschk, Georg and Stricker, Didier},
+  journal={International journal of computer vision},
+  volume={128},
+  pages={527--546},
+  year={2020},
+  publisher={Springer}
+}

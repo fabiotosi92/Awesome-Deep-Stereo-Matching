@@ -1,0 +1,7 @@
+@inproceedings{jiao2021effiscene,
+  title={Effiscene: Efficient per-pixel rigidity inference for unsupervised joint learning of optical flow, depth, camera pose and motion segmentation},
+  author={Jiao, Yang and Tran, Trac D and Shi, Guangming},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5538--5547},
+  year={2021}
+}

@@ -1,0 +1,7 @@
+@inproceedings{godard2019digging,
+  title={Digging into self-supervised monocular depth estimation},
+  author={Godard, Cl{\'e}ment and Mac Aodha, Oisin and Firman, Michael and Brostow, Gabriel J},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
+  pages={3828--3838},
+  year={2019}
+}

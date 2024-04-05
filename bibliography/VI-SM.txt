@@ -1,0 +1,7 @@
+@inproceedings{liu2020visually,
+  title={Visually imbalanced stereo matching},
+  author={Liu, Yicun and Ren, Jimmy and Zhang, Jiawei and Liu, Jianbo and Lin, Mude},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2029--2038},
+  year={2020}
+}

@@ -1,0 +1,9 @@
+@article{pan2019joint,
+  title={Joint stereo video deblurring, scene flow estimation and moving object segmentation},
+  author={Pan, Liyuan and Dai, Yuchao and Liu, Miaomiao and Porikli, Fatih and Pan, Quan},
+  journal={IEEE Transactions on Image Processing},
+  volume={29},
+  pages={1748--1761},
+  year={2019},
+  publisher={IEEE}
+}

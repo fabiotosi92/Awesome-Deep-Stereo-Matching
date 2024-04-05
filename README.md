@@ -78,6 +78,8 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
    * **CATS**: *"CATS: A Color and Thermal Stereo Benchmark"*, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Treible_CATS_A_Color_CVPR_2017_paper.pdf)] [[Dataset](https://bigdatavision.org/CAT/download.html)] [[Bibtex](./bibliography/CATS.txt)]
 
+   * **RGB-NIR-Stereo**: *"Deep material-aware cross-spectral stereo matching"*, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhi_Deep_Material-Aware_Cross-Spectral_CVPR_2018_paper.pdf)] [[Code](https://github.com/tiancheng-zhi/cs-stereo)] [[Bibtex](./bibliography/CS-Stereo.txt)]
+
    * **MVSEC**: *"The Multivehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception"*, *RAL 2018*. [[Paper](https://arxiv.org/abs/1801.10202)] [[Dataset](https://daniilidis-group.github.io/mvsec/)] [[Bibtex](./bibliography/MVSEC.txt)]
 
    * **DSEC**: *"DSEC: A Stereo Event Camera Dataset for Driving Scenarios"*, *RAL, 2021*. [[Paper](https://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf)] [[Code](https://github.com/uzh-rpg/DSEC)] [[Dataset](https://dsec.ifi.uzh.ch/)] [[Bibtex](./bibliography/DSEC.txt)]
@@ -258,20 +260,20 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
    * **PDSNet**: *"Practical deep stereo (pds): Toward applications-friendly deep stereo matching"*, *NeurIPS, 2018*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/ade55409d1224074754035a5a937d2e0-Paper.pdf)] [[Code](https://github.com/tlkvstepan/PracticalDeepStereo_NIPS2018)] [[Bibtex](./bibliography/PDSNet.txt)]
 
-
    * **CasStereo**: *"Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching"*, *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Cascade_Cost_Volume_for_High-Resolution_Multi-View_Stereo_and_Stereo_Matching_CVPR_2020_paper.pdf)] [[Code](https://github.com/alibaba/cascade-stereo)]  [[Bibtex](./bibliography/CasStereo.txt)]
 
    * **WaveletStereo**: *"WaveletStereo: Learning Wavelet Coefficients of Disparity Map in Stereo Matching"*, *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_WaveletStereo_Learning_Wavelet_Coefficients_of_Disparity_Map_in_Stereo_Matching_CVPR_2020)] [[Bibtex](./bibliography/WaveletStereo.txt)]
-
 
    * **CFNet**: *"CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching"*, *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Shen_CFNet_Cascade_and_Fused_Cost_Volume_for_Robust_Stereo_Matching_CVPR_2021_paper.pdf)] [[Code](https://github.com/gallenszl/CFNet)] [[Bibtex](./bibliography/CFNet.txt)]
 
    * **UASNet**: *"UASNet: Uncertainty Adaptive Sampling Network for Deep Stereo Matching"*, *ICCV, 2021* [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Mao_UASNet_Uncertainty_Adaptive_Sampling_Network_for_Deep_Stereo_Matching_ICCV_2021_paper.pdf)] [[Bibtex](./bibliography/UASNet.txt)]
 
-
    * **PCWNet**: *"PCW-Net: Pyramid Combination and Warping Cost Volume for Stereo Matching"*, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920280.pdf)] [[Code](https://github.com/gallenszl/PCWNet)] [[Bibtex](./bibliography/PCWNet.txt)]
 
    * **ICVP**: *"Image-Coupled Volume Propagation for Stereo Matching"*, *ICIP, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10222247)] [[Code](https://github.com/ohkwon718/icvp)] [[Bibtex](./bibliography/ICVP.txt)]
+
+   * **SEDNet**: *"Learning the distribution of errors in stereo matching for joint disparity and uncertainty estimation"*, CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf)] [[Code](https://github.com/lly00412/SEDNet)] [[Bibtex](./bibliography/SEDNet.txt)]
+
 
   </details>
 
@@ -297,10 +299,11 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
    * **EAI-Stereo**: *"EAI-Stereo: Error Aware Iterative Network for Stereo Matching"*, *ACCV, 2022*. [[Paper](https://openaccess.thecvf.com/content/ACCV2022/html/Zhao_EAI-Stereo_Error_Aware_Iterative_Network_for_Stereo_Matching_ACCV_2022_paper.html)] [[Code](https://github.com/smartadpole/EAI-Stereo)] [[Bibtex](./bibliography/EAI-Stereo.txt)]
 
-
    * **IGEV-Stereo**: *"Iterative Geometry Encoding Volume for Stereo Matching"*, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Iterative_Geometry_Encoding_Volume_for_Stereo_Matching_CVPR_2023_paper.pdf)] [[Code](https://github.com/gangweiX/IGEV)] [[Bibtex](./bibliography/IGEV-Stereo.txt)]
 
    * **DLNR**: *"High-Frequency Stereo Matching Network"*, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_High-Frequency_Stereo_Matching_Network_CVPR_2023_paper.pdf)] [[Code](https://github.com/David-Zhao-1997/High-frequency-Stereo-Matching-Network)] [[Bibtex](./bibliography/DLNR.txt)]
+
+   * **Dynamic Stereo**: *"DynamicStereo: Consistent Dynamic Depth From Stereo Videos"*, *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Karaev_DynamicStereo_Consistent_Dynamic_Depth_From_Stereo_Videos_CVPR_2023_paper.pdf)] [[Code](https://dynamic-stereo.github.io/)] [[Bibtex](./bibliography/Dynamic_Replica.txt)]
 
    * **CREStereo++**: *"Uncertainty Guided Adaptive Warping for Robust and Efficient Stereo Matching"*, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Jing_Uncertainty_Guided_Adaptive_Warping_for_Robust_and_Efficient_Stereo_Matching_ICCV_2023_paper.pdf)] [[Bibtex](./bibliography/CREStereo++.txt)]
 
@@ -309,6 +312,10 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
    * **Any-Stereo**: *"Any-Stereo: Arbitrary Scale Disparity Estimation for Iterative Stereo Matching"*, *AAAI, 2024*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28119/28242)] [[Code](https://github.com/Zhaohuai-L/Any-Stereo)] [[Bibtex](./bibliography/Any-Stereo.txt)]
 
    * **MC-Stereo**: *"MC-Stereo: Multi-peak Lookup and Cascade Search Range for Stereo Matching"*, *3DV, 2024*. [[Paper](https://arxiv.org/pdf/2311.02340.pdf)] [[Code](https://github.com/MiaoJieF/MC-Stereo)] [[Bibtex](./bibliography/MC-Stereo.txt)]
+
+   * **ICGNet**: *"Learning Intra-view and Cross-view Geometric Knowledge for Stereo Matching"*, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2402.19270.pdf)] [[Code](https://github.com/DFSDDDDD1199/ICGNet)] [[Bibtex](./bibliography/ICGNet.txt)]
+
+   * **XR-Stereo**: *"Stereo Matching in Time: 100+ FPS Video Stereo Matching for Extended Reality"*, *WACV, 2024*. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cheng_Stereo_Matching_in_Time_100_FPS_Video_Stereo_Matching_for_WACV_2024_paper.pdf)] [[Code](https://github.com/za-cheng/XR-Stereo)] [[Bibtex](./bibliography/XR-Stereo.txt)]
 
   </details>
 
@@ -363,6 +370,9 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 * **BGNet**: *"Bilateral Grid Learning for Stereo Matching Networks"*, *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Bilateral_Grid_Learning_for_Stereo_Matching_Networks_CVPR_2021_paper.pdf)] [[Code](https://github.com/3DCVdeveloper/BGNet)] [[Bibtex](./bibliography/BGNet.txt)]
 
+* **DecNet**: *"A Decomposition Model for Stereo Matching"*, *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yao_A_Decomposition_Model_for_Stereo_Matching_CVPR_2021_paper.pdf)] [[Code](https://github.com/YaoChengTang/DecNet)] [[Bibtex](./bibliography/DecNet.txt)]
+
+
 * **CoEX**: *"Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation"*, *IROS, 2021*. [[Paper](https://antabangun.github.io/projects/CoEx/)] [[Code](https://github.com/antabangun/coex)] [[Bibtex](./bibliography/CoEX.txt)]
 
 * **RLStereo**: *"RLStereo: Real-time stereo matching based on reinforcement learning"*, *TIP, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9614986)] [[Bibtex](./bibliography/RLStereo.txt)]
@@ -383,7 +393,6 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 * **IINet**: *"IINet: Implicit Intra-inter Information Fusion for Real-Time Stereo Matching"*, *AAAI, 2024*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28107/28218)]  [[Bibtex](./bibliography/IINet.txt)]
 
-
 </details>
 
 
@@ -392,7 +401,6 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Semantic Stereo Matching</summary>
-
 
 * **Segstereo**: *"Segstereo: Exploiting semantic information for disparity estimation"*, *ECCV, 2018*. [[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Guorun_Yang_SegStereo_Exploiting_Semantic_ECCV_2018_paper.pdf)] [[Code](https://github.com/yangguorun/SegStereo)]  [[Bibtex](./bibliography/Segstereo.txt)]
 
@@ -410,6 +418,21 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Normal-Assisted Stereo Matching</summary>
 
+* **NA-Stereo**: *"Normal Assisted Stereo Depth Estimation"*, *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kusupati_Normal_Assisted_Stereo_Depth_Estimation_CVPR_2020_paper.pdf)] [[Code](https://github.com/udaykusupati/Normal-Assisted-Stereo)] [[Bibtex](./bibliography/NA-Stereo.txt)]
+
+
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Stereo Matching and Optical Flow</summary>
+
+* **BridgeDepthFlow**: *"Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lai_Bridging_Stereo_Matching_and_Optical_Flow_via_Spatiotemporal_Correspondence_CVPR_2019_paper.pdf)] [[Code](https://github.com/lelimite4444/BridgeDepthFlow)] [[Bibtex](./bibliography/BridgeDepthFlow.txt)]
+
+* **UnOS**: *"UnOS: Unified Unsupervised Optical-Flow and Stereo-Depth Estimation by Watching Videos"*, *CVPR, 2019*. [[Paper](https://ieeexplore.ieee.org/iel7/34/9185119/08769907.pdf)] [[Code](https://github.com/baidu-research/UnDepthflow)]  [[Bibtex](./bibliography/UnOS.txt)]
+
+* **StereoFlowGAN**: *"StereoFlowGAN: Co-training for Stereo and Flow with Unsupervised Domain Adaptation"*, *BMVC, 2023*. [[Paper](https://papers.bmvc2023.org/0240.pdf)] [[Bibtex](./bibliography/StereoFlowGAN.txt)]
+
+
 </details>
 
 
@@ -417,7 +440,37 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 <details open>
 <summary style="font-size: larger; font-weight: bold;"> Scene Flow </summary>
 
+* **FlowNet3.0**: *"Occlusions, motion and depth boundaries with a generic network for disparity, optical flow or scene flow estimation"*, *ECCV, 2018*. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Eddy_Ilg_Occlusions_Motion_and_ECCV_2018_paper.pdf)] [[Code](https://github.com/lmb-freiburg/netdef_models)] [[Bibtex](./bibliography/FlowNet3.0.txt)]
+
+* **DRISF**: *"Deep Rigid Instance Scene Flow"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Ma_Deep_Rigid_Instance_Scene_Flow_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/DRISF.txt)]
+
+* **DeblurringSF**: *"Joint stereo video deblurring, scene flow estimation and moving object segmentation"*, *TIP, 2019*. [[Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08866754.pdf)] [[Bibtex](./bibliography/DeblurringSF.txt)]
+
+* **IOSF**: *"Learning Independent Object Motion From Unlabelled Stereoscopic Videos"*, *TPAMI, 2019*. [[Paper](IOSF )] [[Bibtex](./bibliography/IOSF.txt)]
+
+* **EPC++**: *"Every pixel counts++: Joint learning of geometry and motion with 3d holistic understanding"*, *TPAMI, 2019*. [[Paper](https://ieeexplore.ieee.org/iel7/34/9185119/08769907.pdf)] [[Code](https://github.com/chenxuluo/EPC)]  [[Bibtex](./bibliography/EPC++.txt)]
+
 * **SENSE**: *"Sense: A shared encoder network for scene-flow estimation"*, *ICCV, 2019*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_SENSE_A_Shared_Encoder_Network_for_Scene-Flow_Estimation_ICCV_2019_paper.pdf)] [[Code](https://github.com/NVlabs/SENSE)]  [[Bibtex](./bibliography/SENSE.txt)]
+
+* **StereoExpansion**: *"Upgrading Optical Flow to 3D Scene Flow through Optical Expansion"*, *ICCV, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Upgrading_Optical_Flow_to_3D_Scene_Flow_Through_Optical_Expansion_CVPR_2020_paper.pdf)] [[Code](https://github.com/gengshan-y/expansion)]  [[Bibtex](./bibliography/StereoExpansion.txt)]
+
+
+* **DWARF**: *"Learning end-to-end scene flow by distilling single tasks knowledge"*, *AAAI, 2020*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6613/6467)] [[Code](https://github.com/FilippoAleotti/DWARF-Tensorflow)]  [[Bibtex](./bibliography/DWARF.txt)]
+
+* **SceneFlowFields++**: *"SceneFlowFields++: Multi-frame matching, visibility prediction, and robust interpolation for scene flow estimation"*, *IJCV, 2020*. [[Paper](https://arxiv.org/pdf/1902.10099.pdf)] [[Bibtex](./bibliography/SceneFlowFields++.txt)]
+
+
+* **Effiscene**: *"Effiscene: Efficient per-pixel rigidity inference for unsupervised joint learning of optical flow, depth, camera pose and motion segmentation"*, *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiao_EffiScene_Efficient_Per-Pixel_Rigidity_Inference_for_Unsupervised_Joint_Learning_of_CVPR_2021_paper.pdf)] [[Bibtex](./bibliography/Effiscene.txt)]
+
+* **RigidMask**: *"Learning to Segment Rigid Motions from Two Frames"*, *CVPR, 2021*. [[Paper](http://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Learning_To_Segment_Rigid_Motions_From_Two_Frames_CVPR_2021_paper.pdf)] [[Code](https://github.com/gengshan-y/rigidmask)] [[Bibtex](./bibliography/RigidMask.txt)]
+
+* **CamLiFlow**: *"Learning optical flow and scene flow with bidirectional camera-lidar fusion"*, *TPAMI, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10310261)] [[Code](https://github.com/MCG-NJU/CamLiFlow)] [[Bibtex](./bibliography/CamLiFlow.txt)]
+
+* **M-FUSE**: *"M-fuse: Multi-frame fusion for scene flow estimation"*, *WACV, 2023*. [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Mehl_M-FUSE_Multi-Frame_Fusion_for_Scene_Flow_Estimation_WACV_2023_paper.pdf)] [[Code](https://github.com/cv-stuttgart/M-FUSE)] [[Bibtex](./bibliography/M-FUSE.txt)]
+
+* **OpticalExpansion**: *"Learning Optical Expansion from Scale Matching"*, *CVPR, 2023*. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/papers/Ling_Learning_Optical_Expansion_From_Scale_Matching_CVPR_2023_paper.pdf)] [[Bibtex](./bibliography/OpticalExpansion.txt)]
+
+
 
 </details>
 
@@ -425,7 +478,6 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Multi-modal  Deep Stereo Architectures</summary><ul>
-
 
 
 <details open>
@@ -440,6 +492,8 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 * **S<sup>3**: *"S<sup>3</sup>: Learnable sparse signal superdensity for guided depth estimation*, CVPR, 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_S3_Learnable_Sparse_Signal_Superdensity_for_Guided_Depth_Estimation_CVPR_2021_paper.pdf)] [[Bibtex](./bibliography/S3.txt)]
 
 * **LSMD-Net**: *"LSMD-Net: LiDAR-Stereo Fusion with Mixture Density Network for Depth Sensing"*, *ACCV, 2022*. [[Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Yin_LSMD-Net_LiDAR-Stereo_Fusion_with_Mixture_Density_Network_for_Depth_Sensing_ACCV_2022_paper.pdf)] [[Bibtex](./bibliography/LSMD-Net.txt)]
+
+* **CamLiFlow**: *"Learning optical flow and scene flow with bidirectional camera-lidar fusion"*, *TPAMI, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10310261)] [[Code](https://github.com/MCG-NJU/CamLiFlow)] [[Bibtex](./bibliography/CamLiFlow.txt)]
 
 * **VPP**: *"Active Stereo Without Pattern Projector"*, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Bartolomei_Active_Stereo_Without_Pattern_Projector_ICCV_2023_paper.pdf)] [[Code](https://vppstereo.github.io/)] [[Bibtex](./bibliography/VPP.txt)]
 
@@ -465,8 +519,11 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Cross-Spectral Stereo Networks</summary>
 
+* **CS-Stereo**: *"Deep material-aware cross-spectral stereo matching"*, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhi_Deep_Material-Aware_Cross-Spectral_CVPR_2018_paper.pdf)] [[Code](https://github.com/tiancheng-zhi/cs-stereo)] [[Bibtex](./bibliography/CS-Stereo.txt)]
+
 * **UCSS**: *"Unsupervised cross-spectral stereo matching by learning to synthesize"*, *AAAI, 2019*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/4894/4767)] [[Code - Unofficial](https://github.com/rish-av/cross_spectral_stereo)] [[Bibtex](./bibliography/UCSS.txt)]
 
+* **SS-MCE**: *"There and back again: Self-supervised multispectral correspondence estimation"*, *ICRA, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561621)]  [[Bibtex](./bibliography/SS-MCE.txt)]
 
 * **RGB-MS**: *"RGB-Multispectral matching: Dataset, learning methodology, evaluation"*, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tosi_RGB-Multispectral_Matching_Dataset_Learning_Methodology_Evaluation_CVPR_2022_paper.pdf)] [[Code](https://cvlab-unibo.github.io/rgb-ms-web/)] [[Bibtex](./bibliography/RGB-MS.txt)]
 
@@ -499,11 +556,19 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 </details>
 
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Stereo Networks with Echoes </summary>
+
+* **StereoEchoes**: *"Stereo Depth Estimation with Echoes"*, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870489.pdf)] [[Bibtex](./bibliography/StereoEchoes.txt)]
+
+
+</details>
+
 </ul>
 </details>
 
 
-### Confidence Estimation
+### Confidence/Uncertainty Estimation
 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Machine Learning Approaches</summary><ul>
@@ -522,7 +587,15 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 * **PBCP**: *"Patch Based Confidence Prediction for Dense Disparity Map"*, BMVC, 2016. [[Paper](https://www.cvlibs.net/projects/autonomous_vision_survey/literature/Seki2016BMVC.pdf)]  [[Bibtex](./bibliography/PBCP.txt)]
 
-* **LGC**: *"Beyond local reasoning for stereo confidence estimation with deep learning"*, ECCV, 2018. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabio_Tosi_Beyond_local_reasoning_ECCV_2018_paper.pdf)] [[Code](https://github.com/fabiotosi92/LGC-Tensorflow)] [[Bibtex](./bibliography/LGC.txt)]
+* **EFN/LFN**: *"Stereo matching confidence learning based on multi-modal convolution neural networks"*, RFMI, 2017. [[Paper](http://www.arts-pi.org.tn/rfmi2017/papers/10_CameraReadySubmission_llncs2e%20(3).pdf)] [[Bibtex](./bibliography/EFN.txt)]
+
+* **MMC**: *"Learning confidence measures by multi-modal convolutional neural networks"*, WACV, 2018. [[Paper](WACV)] [[Bibtex](./bibliography/MMC.txt)]
+
+* **LGC/ConfNet**: *"Beyond local reasoning for stereo confidence estimation with deep learning"*, ECCV, 2018. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabio_Tosi_Beyond_local_reasoning_ECCV_2018_paper.pdf)] [[Code](https://github.com/fabiotosi92/LGC-Tensorflow)] [[Bibtex](./bibliography/LGC.txt)]
+
+* **SEDNet**: *"Learning the distribution of errors in stereo matching for joint disparity and uncertainty estimation"*, CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf)] [[Code](https://github.com/lly00412/SEDNet)] [[Bibtex](./bibliography/SEDNet.txt)]
+
+
 
 
 </details>
@@ -531,6 +604,19 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 <summary style="font-size: larger; font-weight: bold;">Cost Volume-based</summary>
 
 * **RCN**: *"Improved stereo matching with constant highway networks and reflective confidence learning"*, CVPR, 2017. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Shaked_Improved_Stereo_Matching_CVPR_2017_paper.pdf)] [[Code](https://github.com/amitshaked/resmatch)] [[Bibtex](./bibliography/RCN.txt)]
+
+* **MPN**: *"Deep stereo confidence prediction for depth estimation"*, ICIP, 2017. [[Paper](https://ieeexplore.ieee.org/iel7/8267582/8296222/08296430.pdf)] [[Bibtex](./bibliography/MPN.txt)]
+
+* **UCN**: *"Unified confidence estimation networks for robust stereo matching"*, TIP, 2018. [[Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08510870.pdf)] [[Bibtex](./bibliography/UCN.txt)]
+
+* **LAF**: *"Laf-net: Locally adaptive fusion networks for stereo confidence estimation"*, CVPR, 2019. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_LAF-Net_Locally_Adaptive_Fusion_Networks_for_Stereo_Confidence_Estimation_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/LAF.txt)]
+
+* **CRNN**: *"Pixel-Wise Confidences for Stereo Disparities Using Recurrent Neural Networks"*, BMVC, 2019. [[Paper](https://publica.fraunhofer.de/bitstreams/c1f200e0-49e6-488c-84de-d217a550bdf6/download)] [[Bibtex](./bibliography/CRNN.txt)]
+
+* **ACN**: *"Adversarial confidence estimation networks for robust stereo matching"*, TITS, 2020. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_LAF-Net_Locally_Adaptive_Fusion_Networks_for_Stereo_Confidence_Estimation_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/ACN.txt)]
+
+* **CVA**: *"Cnn-based cost volume analysis as confidence measure for dense matching"*, ICCVW, 2019. [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/3DRW/Mehltretter_CNN-Based_Cost_Volume_Analysis_as_Confidence_Measure_for_Dense_Matching_ICCVW_2019_paper.pdf)] [[Bibtex](./bibliography/CVA.txt)]
+
 
 </details>
 
@@ -566,17 +652,21 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Self-Supervised</summary>
 
+* **MonoDepth/StereoDepth**: *"Unsupervised monocular depth estimation with left-right consistency"*, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Godard_Unsupervised_Monocular_Depth_CVPR_2017_paper.pdf)] [[Code](https://github.com/mrharicot/monodepth)] [[Bibtex](./bibliography/MonoDepth.txt)]
+
 * **USM**: *"Unsupervised learning of stereo matching"*, *ICCV, 2017*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhou_Unsupervised_Learning_of_ICCV_2017_paper.pdf)] [[Bibtex](./bibliography/Flow2Stereo.txt)]
 
 * **OASM-Net**: *"Occlusion aware stereo matching via cooperative unsupervised learning"*, *ACCV, 2018*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-20876-9_13)] [[Bibtex](./bibliography/OASM-Net.txt)]
 
 * **Flow2Stereo**: *"Flow2Stereo: Effective Self-Supervised Learning of Optical Flow and Stereo Matching"*, *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Flow2Stereo_Effective_Self-Supervised_Learning_of_Optical_Flow_and_Stereo_Matching_CVPR_2020_paper.pdf)] [[Code](https://github.com/ppliuboy/Flow2Stereo)] [[Bibtex](./bibliography/Flow2Stereo.txt)]
 
-* **Reversing-Stereo**: *"Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation"*, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.07130.pdf)] [[Code](https://github.com/FilippoAleotti/Reversing)] [[Bibtex](./bibliography/Reversing-Stereo.txt)]
-
 </details>
 <details open>
-<summary style="font-size: larger; font-weight: bold;">Cross-Framework Supervision</summary>
+<summary style="font-size: larger; font-weight: bold;">Cross-Framework/Proxy Supervision</summary>
+
+* **Reversing-Stereo**: *"Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation"*, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.07130.pdf)] [[Code](https://github.com/FilippoAleotti/Reversing)] [[Bibtex](./bibliography/Reversing-Stereo.txt)]
+
+* **NeRF-Supervised Stereo**: "*NeRF-Supervised Deep Stereo*", *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Website](https://nerfstereo.github.io/)] [[Code](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo)] [[Bibtex](./bibliography/NS-Stereo.txt)] 
 
 </details>
 
@@ -602,6 +692,10 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 * **GraftNet**: "*GraftNet: Towards Domain Generalized Stereo Matching With a Broad-Spectrum and Task-Oriented Feature*", *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_GraftNet_Towards_Domain_Generalized_Stereo_Matching_With_a_Broad-Spectrum_and_CVPR_2022_paper.pdf)] [[Code](https://github.com/SpadeLiu/Graft-PSMNet)] [[Bibtex](./bibliography/GraftNet.txt)] 
 
 * **ITSA**: "*ITSA: An Information-Theoretic Approach to Automatic Shortcut Avoidance and Domain Generalization in Stereo Matching Networks*", *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chuah_ITSA_An_Information-Theoretic_Approach_to_Automatic_Shortcut_Avoidance_and_Domain_CVPR_2022_paper.pdf)] [[Code](https://github.com/waychin-weiqin/ITSA)] [[Bibtex](./bibliography/ITSA.txt)] 
+
+* **HVT**: "*Domain Generalized Stereo Matching via Hierarchical Visual Transformation*", *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_Domain_Generalized_Stereo_Matching_via_Hierarchical_Visual_Transformation_CVPR_2023_paper.pdf)] [[Code](https://github.com/cty8998/HVT-PSMNet)] [[Bibtex](./bibliography/HVT.txt)] 
+
+* **MRL-Stereo**: "*Masked representation learning for domain generalized stereo matching*", *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Rao_Masked_Representation_Learning_for_Domain_Generalized_Stereo_Matching_CVPR_2023_paper.pdf)] [[Bibtex](./bibliography/MRL-Stereo.txt)] 
 
 </details>
 
@@ -629,6 +723,9 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 * **StereoGAN**: "*StereoGAN: Bridging Synthetic-to-Real Domain Gap by Joint Optimization of Domain Translation and Stereo Matching*", *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_StereoGAN_Bridging_Synthetic-to-Real_Domain_Gap_by_Joint_Optimization_of_Domain_CVPR_2020_paper.pdf)] [[Code](https://github.com/ruiliu-ai/StereoGAN)] [[Bibtex](./bibliography/StereoGAN.txt)] 
  
 * **LSSI**: "*Learning Stereo from Single Images*", *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460698.pdf)] [[Code](https://github.com/nianticlabs/stereo-from-mono/)] [[Bibtex](./bibliography/LSSI.txt)] 
+
+* **FoggyStereo**: "*FoggyStereo: Stereo Matching with Fog Volume Representation*", *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yao_FoggyStereo_Stereo_Matching_With_Fog_Volume_Representation_CVPR_2022_paper.pdf)] [[Code](https://github.com/nianticlabs/stereo-from-mono/)] [[Bibtex](./bibliography/FoggyStereo.txt)] 
+
 
 * **NeRF-Supervised Stereo**: "*NeRF-Supervised Deep Stereo*", *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Website](https://nerfstereo.github.io/)] [[Code](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo)] [[Bibtex](./bibliography/NS-Stereo.txt)] 
 
@@ -682,11 +779,39 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 * **DDF**: *"Deep Depth Fusion for Black, Transparent, Reflective and Texture-Less Objects"*, *ICRA, 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9196894)]  [[Code](https://github.com/chzhang18/RAG)] [[Bibtex](./bibliography/DDF.txt)]
 
+* **TA-Stereo**: *"Transparent Objects: A Corner Case in Stereo Matching"*, *ICRA, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161385)]  [[Code](mias.group/TA-Stereo)] [[Bibtex](./bibliography/TA-Stereo.txt)]
+
 * **Depth4ToM**: *"Learning Depth Estimation for Transparent and Mirror Surfaces"*, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Costanzino_Learning_Depth_Estimation_for_Transparent_and_Mirror_Surfaces_ICCV_2023_paper.pdf)]  [[Code](https://cvlab-unibo.github.io/Depth4ToM/)] [[Bibtex](./bibliography/Depth4ToM.txt)]
+
+</details>
+
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Asymmetric Stereo </summary>
+
+* **Visually-Imbalanced Stereo**: "*Visually Imbalanced Stereo Matching*", *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Visually_Imbalanced_Stereo_Matching_CVPR_2020_paper.pdf)] [[Code](https://github.com/DandilionLau/Visually-Imbalanced-Stereo)] [[Bibtex](./bibliography/VI-SM.txt)] 
+
+* **NDR**: "*Neural disparity refinement for arbitrary resolution stereo*", *3DV, 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9665913?casa_token=3rm4WpqLb_QAAAAA:5Sa0RO547j8LsaEYUeppzB33gZJg5Y3tfiPVwM9rzs9MEAuoHSta0Kdw3Cm9NrtfOOdFkIwp)] [[Code](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR.txt)] 
+
+* **DA-AS**: *"Degradation-agnostic Correspondence from Resolution-asymmetric Stereo"*, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Degradation-Agnostic_Correspondence_From_Resolution-Asymmetric_Stereo_CVPR_2022_paper.pdf)] [[Bibtex](./bibliography/DA-AS.txt)]
+
+* **SASS**: *"Unsupervised Deep Asymmetric Stereo Matching with Spatially-Adaptive Self-Similarity"*, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Unsupervised_Deep_Asymmetric_Stereo_Matching_With_Spatially-Adaptive_Self-Similarity_CVPR_2023_paper.pdf)] [[Bibtex](./bibliography/SASS.txt)]
+
+
+
+</details>
 
 
 </ul>
 </details>
+
+## Workshops
+
+* **NTIRE 2023: HR Depth from Images of Specular and Transparent Surfaces**. P. Z. Ramirez, F. Tosi, L. Di Stefano, R. Timofte
+A. Costanzino, M. Poggi, S. Salti, S. Mattoccia; CVPRW 2023, Vancouver, Canada [[Website](https://cvlab-unibo.github.io/booster-web/ntire.html)]
+
+* **Robust Vision Challenge (ROB)**, Zendel et al., ECCV 2022 [[Website](http://www.robustvision.net/)]
+
 
 
 

@@ -1,0 +1,10 @@
+@article{kim2020adversarial,
+  title={Adversarial confidence estimation networks for robust stereo matching},
+  author={Kim, Sunok and Min, Dongbo and Kim, Seungryong and Sohn, Kwanghoon},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={22},
+  number={11},
+  pages={6875--6889},
+  year={2020},
+  publisher={IEEE}
+}

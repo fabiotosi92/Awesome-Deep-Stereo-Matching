@@ -1,0 +1,7 @@
+@inproceedings{zhi2018deep,
+  title={Deep material-aware cross-spectral stereo matching},
+  author={Zhi, Tiancheng and Pires, Bernardo R and Hebert, Martial and Narasimhan, Srinivasa G},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={1916--1925},
+  year={2018}
+}

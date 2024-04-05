@@ -1,0 +1,9 @@
+@inproceedings{aleotti2020learning,
+  title={Learning end-to-end scene flow by distilling single tasks knowledge},
+  author={Aleotti, Filippo and Poggi, Matteo and Tosi, Fabio and Mattoccia, Stefano},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={07},
+  pages={10435--10442},
+  year={2020}
+}

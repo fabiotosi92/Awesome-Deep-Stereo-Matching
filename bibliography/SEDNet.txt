@@ -1,0 +1,7 @@
+@inproceedings{chen2023learning,
+  title={Learning the distribution of errors in stereo matching for joint disparity and uncertainty estimation},
+  author={Chen, Liyan and Wang, Weihan and Mordohai, Philippos},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={17235--17244},
+  year={2023}
+}

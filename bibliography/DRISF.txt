@@ -1,0 +1,7 @@
+ @InProceedings{Ma_2019_CVPR,
+author = {Ma, Wei-Chiu and Wang, Shenlong and Hu, Rui and Xiong, Yuwen and Urtasun, Raquel},
+title = {Deep Rigid Instance Scene Flow},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+} 

@@ -1,0 +1,7 @@
+@inproceedings{gul2019pixel,
+  title={Pixel-Wise Confidences for Stereo Disparities Using Recurrent Neural Networks.},
+  author={Gul, Muhammad Shahzeb Khan and B{\"a}tz, Michel and Keinert, Joachim},
+  booktitle={BMVC},
+  pages={23},
+  year={2019}
+}

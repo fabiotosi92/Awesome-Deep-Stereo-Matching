@@ -1,0 +1,10 @@
+@article{kim2018unified,
+  title={Unified confidence estimation networks for robust stereo matching},
+  author={Kim, Sunok and Min, Dongbo and Kim, Seungryong and Sohn, Kwanghoon},
+  journal={IEEE Transactions on Image Processing},
+  volume={28},
+  number={3},
+  pages={1299--1313},
+  year={2018},
+  publisher={IEEE}
+}

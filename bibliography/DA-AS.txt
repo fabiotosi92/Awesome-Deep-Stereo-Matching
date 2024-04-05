@@ -1,0 +1,8 @@
+@InProceedings{Chen_2022_CVPR,
+    author    = {Chen, Xihao and Xiong, Zhiwei and Cheng, Zhen and Peng, Jiayong and Zhang, Yueyi and Zha, Zheng-Jun},
+    title     = {Degradation-Agnostic Correspondence From Resolution-Asymmetric Stereo},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {12962-12971}
+}

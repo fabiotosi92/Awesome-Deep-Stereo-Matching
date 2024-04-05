@@ -1,0 +1,7 @@
+@inproceedings{yang2020upgrading,
+  title={Upgrading optical flow to 3d scene flow through optical expansion},
+  author={Yang, Gengshan and Ramanan, Deva},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={1334--1343},
+  year={2020}
+}

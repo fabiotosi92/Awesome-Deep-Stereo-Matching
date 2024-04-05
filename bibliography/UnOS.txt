@@ -1,0 +1,7 @@
+@InProceedings{Wang_2019_CVPR,
+author = {Wang, Yang and Wang, Peng and Yang, Zhenheng and Luo, Chenxu and Yang, Yi and Xu, Wei},
+title = {UnOS: Unified Unsupervised Optical-Flow and Stereo-Depth Estimation by Watching Videos},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+} 

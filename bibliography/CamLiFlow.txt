@@ -1,0 +1,7 @@
+@article{liu2023learning,
+  title={Learning optical flow and scene flow with bidirectional camera-lidar fusion},
+  author={Liu, Haisong and Lu, Tao and Xu, Yihui and Liu, Jia and Wang, Limin},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
+}

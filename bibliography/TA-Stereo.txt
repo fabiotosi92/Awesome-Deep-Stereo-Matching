@@ -1,0 +1,8 @@
+@inproceedings{wu2023transparent,
+  title={Transparent Objects: A Corner Case in Stereo Matching},
+  author={Wu, Zhiyuan and Su, Shuai and Chen, Qijun and Fan, Rui},
+  booktitle={2023 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={12353--12359},
+  year={2023},
+  organization={IEEE}
+}

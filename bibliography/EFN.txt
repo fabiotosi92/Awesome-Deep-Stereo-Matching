@@ -1,0 +1,8 @@
+@inproceedings{fu2019stereo,
+  title={Stereo matching confidence learning based on multi-modal convolution neural networks},
+  author={Fu, Zehua and Ardabilian, Mohsen and Stern, Guillaume},
+  booktitle={Representations, Analysis and Recognition of Shape and Motion from Imaging Data: 7th International Workshop, RFMI 2017, Savoie, France, December 17--20, 2017, Revised Selected Papers 7},
+  pages={69--81},
+  year={2019},
+  organization={Springer}
+}

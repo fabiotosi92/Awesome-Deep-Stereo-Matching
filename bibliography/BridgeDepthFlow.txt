@@ -1,0 +1,7 @@
+@InProceedings{Lai_2019_CVPR,
+author = {Lai, Hsueh-Ying and Tsai, Yi-Hsuan and Chiu, Wei-Chen},
+title = {Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+} 

@@ -1,0 +1,8 @@
+@InProceedings{Yao_2022_CVPR,
+    author    = {Yao, Chengtang and Yu, Lidong},
+    title     = {FoggyStereo: Stereo Matching With Fog Volume Representation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {13043-13052}
+}

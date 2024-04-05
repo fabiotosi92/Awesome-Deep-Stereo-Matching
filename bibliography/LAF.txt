@@ -1,0 +1,7 @@
+@inproceedings{kim2019laf,
+  title={Laf-net: Locally adaptive fusion networks for stereo confidence estimation},
+  author={Kim, Sunok and Kim, Seungryong and Min, Dongbo and Sohn, Kwanghoon},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={205--214},
+  year={2019}
+}

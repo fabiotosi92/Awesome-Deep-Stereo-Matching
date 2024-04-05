@@ -1,0 +1,8 @@
+@InProceedings{Rao_2023_CVPR,
+    author    = {Rao, Zhibo and Xiong, Bangshu and He, Mingyi and Dai, Yuchao and He, Renjie and Shen, Zhelun and Li, Xing},
+    title     = {Masked Representation Learning for Domain Generalized Stereo Matching},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {5435-5444}
+}

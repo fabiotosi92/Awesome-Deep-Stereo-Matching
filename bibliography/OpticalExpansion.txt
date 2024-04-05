@@ -1,0 +1,7 @@
+@inproceedings{ling2023learning,
+  title={Learning Optical Expansion from Scale Matching},
+  author={Ling, Han and Sun, Yinghui and Sun, Quansen and Ren, Zhenwen},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5445--5454},
+  year={2023}
+}

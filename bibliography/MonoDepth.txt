@@ -1,0 +1,7 @@
+@inproceedings{godard2017unsupervised,
+  title={Unsupervised monocular depth estimation with left-right consistency},
+  author={Godard, Cl{\'e}ment and Mac Aodha, Oisin and Brostow, Gabriel J},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={270--279},
+  year={2017}
+}

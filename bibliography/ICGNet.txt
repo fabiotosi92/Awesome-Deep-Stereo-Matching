@@ -1,0 +1,6 @@
+@article{gong2024learning,
+  title={Learning Intra-view and Cross-view Geometric Knowledge for Stereo Matching},
+  author={Gong, Rui and Liu, Weide and Gu, Zaiwang and Yang, Xulei and Cheng, Jun},
+  journal={arXiv preprint arXiv:2402.19270},
+  year={2024}
+}
