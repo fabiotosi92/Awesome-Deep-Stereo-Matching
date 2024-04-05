@@ -1,0 +1,8 @@
+   @article{mattoccia2013stereo,
+  title={Stereo vision: Algorithms and applications},
+  author={Mattoccia, Stefano},
+  journal={University of Bologna},
+  volume={22},
+  year={2013},
+  publisher={Citeseer}
+}

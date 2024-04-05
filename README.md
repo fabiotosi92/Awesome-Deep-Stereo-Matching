@@ -3,7 +3,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 ## Table of Contents
 
-1. [Survey](#survey)
+1. [Survey & Fundamentals](#fundamentals)
 2. [CodeBase](#codebase)
 3. [Datasets](#datasets)
    - [Real-World](#real-world)
@@ -30,8 +30,18 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 
 
+<h2 id="fundamentals"> Survey & Fundamentals </h2>
 
-## Survey
+<details open><summary style="font-size: larger; font-weight: bold;"> Basics</summary><ul>
+
+   * *"A taxonomy and evaluation of dense two-frame stereo correspondence algorithms"*, *International Journal of Computer Vision (TPAMI), 2002*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9233988&casa_token=thq8xzMfDVQAAAAA:LqT40M8CQY9Xt8j8pKTUJr2E89KAB9c1DGG1Pw9q1YMG__o5htMzH1Xx3_wlPwLcesYHgvc&tag=1)] [[Bibtex](./bibliography/taxonomy.txt)]
+
+   * *"Stereo Vision: Algorithms and Applications"* [[Slides](http://vision.deis.unibo.it/~smatt/Seminars/StereoVision.pdf)] [[Bibtex](./bibliography/stereo-vision.txt)]
+
+
+
+
+</details>
 
 <details open><summary style="font-size: larger; font-weight: bold;"> Deep Stereo Matching</summary><ul>
 
