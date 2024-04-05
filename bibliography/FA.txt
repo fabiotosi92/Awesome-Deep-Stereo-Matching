@@ -1,0 +1,10 @@
+@article{kim2017feature,
+  title={Feature augmentation for learning confidence measure in stereo matching},
+  author={Kim, Sunok and Min, Dongbo and Kim, Seungryong and Sohn, Kwanghoon},
+  journal={IEEE Transactions on Image Processing},
+  volume={26},
+  number={12},
+  pages={6019--6033},
+  year={2017},
+  publisher={IEEE}
+}

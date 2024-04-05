@@ -780,6 +780,36 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Machine Learning Approaches</summary><ul>
 
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Disparity-based</summary>
+
+* **ENS7**: *"Ensemble learning for confidence measures in stereo vision"*, CVPR, 2013. [[Paper](http://openaccess.thecvf.com/content_cvpr_2013/papers/Haeusler_Ensemble_Learning_for_2013_CVPR_paper.pdf)]  [[Bibtex](./bibliography/ENS23.txt)]
+
+* **O1**: *"Learning a general-purpose confidence measure based on o (1) features and a smarter aggregation strategy for semi global matching"*, 3DV, 2016. [[Paper](http://vision.disi.unibo.it/~mpoggi/papers/3dv2016_o1.pdf)]  [[Bibtex1](./bibliography/O1.txt)] [[Bibtex2](./bibliography/O1_1.txt)]
+
+
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Cost Volume-based</summary>
+
+* **ENS23**: *"Ensemble learning for confidence measures in stereo vision"*, CVPR, 2013. [[Paper](http://openaccess.thecvf.com/content_cvpr_2013/papers/Haeusler_Ensemble_Learning_for_2013_CVPR_paper.pdf)]  [[Bibtex](./bibliography/ENS23.txt)]
+
+* **GCP**: *"Learning to detect ground control points for improving the accuracy of stereo matching"*, CVPR, 2014. [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Spyropoulos_Learning_to_Detect_2014_CVPR_paper.pdf)]  [[Bibtex1](./bibliography/GCP.txt)] [[Bibtex2](./bibliography/GCP1.txt)]
+
+* **LEV**: *"Leveraging stereo matching with learning-based confidence measures"*, CVPR, 2015. [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Park_Leveraging_Stereo_Matching_2015_CVPR_paper.pdf)]  [[Bibtex1](./bibliography/LEV.txt)] [[Bibtex2](./bibliography/LEV1.txt)]
+
+* **FA**: *"Feature augmentation for learning confidence measure in stereo matching"*, TIP, 2017. [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Park_Leveraging_Stereo_Matching_2015_CVPR_paper.pdf)]  [[Bibtex](./bibliography/FA.txt)]
+
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">SGM-specific</summary>
+
+* **SGMForest**: *"Learning to fuse proposals from multiple scanline optimizations in semi-global matching"*, ECCV, 2018. [[Paper](http://vision.disi.unibo.it/~mpoggi/papers/3dv2016_o1.pdf)]  [[Bibtex](./bibliography/SGMForest.txt)]
+
+
+</details>
 
 </ul>
 </details>

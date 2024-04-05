@@ -1,0 +1,9 @@
+@article{spyropoulos2016correctness,
+  title={Correctness prediction, accuracy improvement and generalization of stereo matching using supervised learning},
+  author={Spyropoulos, Aristotle and Mordohai, Philippos},
+  journal={International Journal of Computer Vision},
+  volume={118},
+  pages={300--318},
+  year={2016},
+  publisher={Springer}
+}

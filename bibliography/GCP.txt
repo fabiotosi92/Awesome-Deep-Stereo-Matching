@@ -1,0 +1,7 @@
+@inproceedings{spyropoulos2014learning,
+  title={Learning to detect ground control points for improving the accuracy of stereo matching},
+  author={Spyropoulos, Aristotle and Komodakis, Nikos and Mordohai, Philippos},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={1621--1628},
+  year={2014}
+}

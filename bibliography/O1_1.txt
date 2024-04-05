@@ -1,0 +1,9 @@
+@article{poggi2020learning,
+  title={Learning a confidence measure in the disparity domain from o (1) features},
+  author={Poggi, Matteo and Tosi, Fabio and Mattoccia, Stefano},
+  journal={Computer Vision and Image Understanding},
+  volume={193},
+  pages={102905},
+  year={2020},
+  publisher={Elsevier}
+}

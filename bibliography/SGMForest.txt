@@ -1,0 +1,7 @@
+@inproceedings{schonberger2018learning,
+  title={Learning to fuse proposals from multiple scanline optimizations in semi-global matching},
+  author={Schonberger, Johannes L and Sinha, Sudipta N and Pollefeys, Marc},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={739--755},
+  year={2018}
+}

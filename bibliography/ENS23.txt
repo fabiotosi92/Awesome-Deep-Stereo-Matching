@@ -1,0 +1,7 @@
+@inproceedings{haeusler2013ensemble,
+  title={Ensemble learning for confidence measures in stereo vision},
+  author={Haeusler, Ralf and Nair, Rahul and Kondermann, Daniel},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={305--312},
+  year={2013}
+}

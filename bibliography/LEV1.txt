@@ -1,0 +1,10 @@
+@article{park2018learning,
+  title={Learning and selecting confidence measures for robust stereo matching},
+  author={Park, Min-Gyu and Yoon, Kuk-Jin},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={41},
+  number={6},
+  pages={1397--1411},
+  year={2018},
+  publisher={IEEE}
+}

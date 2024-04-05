@@ -1,0 +1,8 @@
+@inproceedings{poggi2016learning,
+  title={Learning a general-purpose confidence measure based on o (1) features and a smarter aggregation strategy for semi global matching},
+  author={Poggi, Matteo and Mattoccia, Stefano},
+  booktitle={2016 Fourth international conference on 3D vision (3DV)},
+  pages={509--518},
+  year={2016},
+  organization={IEEE}
+}

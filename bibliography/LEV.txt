@@ -1,0 +1,7 @@
+@inproceedings{park2015leveraging,
+  title={Leveraging stereo matching with learning-based confidence measures},
+  author={Park, Min-Gyu and Yoon, Kuk-Jin},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={101--109},
+  year={2015}
+}
