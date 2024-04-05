@@ -9,34 +9,48 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
    <!--*- [Real-World (Passive)](#real-world-passive)
    - [Real-World (Multimodal)](#real-world-multimodal)
    - [Synthetic](#synthetic) --!>
-4. [Papers](#papers)
-   * [End-to-End Learning](#end-to-end-learning)
+4. [Frameworks](#frameworks)
+   - [Learning for Stereo Pipeline](#learning-for-stereo-pipeline)
+      <!--** [Matching Cost](#matching-cost)
+      * [Optimization](#optimization)
+      * [Refinement](#refinement) --!>
+   - [End-to-End Architectures](#end-to-end-architectures)
+   - [Challenges and Solutions](#challenges-and-solutions)
+   - [Confidence Estimation](#confidence-estimation)
        <!--* [Stereo Networks](#stereo-networks)
       * [Addressing Stereo Over-Smoothing Issue](#addressing-stereo-over-smoothing-issue)
       * [Zero-shot Generalization](#zero-shot-generalization)
       * [Self-Supervised](#self-supervised)
       * [Online Continual Adaptation](#online-continual-adaptation)
       * [Offline Adaptation](#offline-adaptation) --!>
-   - [Stereo Pipeline](#stereo-pipeline)
-      <!--** [Matching Cost](#matching-cost)
-      * [Optimization](#optimization)
-      * [Refinement](#refinement) --!>
-   - [Event Stereo](#event-stereo)
-5. [Talks & Tutorials](#talks)
+5. [Workshops](#workshops)
+5. [Tutorials](#tutorials)
 
 
 
 
 ## Survey
 
-* *"Quantitative evaluation of confidence measures in a machine learning world"*, *ICCV, 2017*. [[Paper](https://arxiv.org/abs/2101.00431)] [[Bibtex](./bibliography/QuantitativeConf.txt)]
+<details open><summary style="font-size: larger; font-weight: bold;"> Deep Stereo Matching</summary><ul>
 
-* *"A survey on deep learning techniques for stereo-based depth estimation"*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9233988&casa_token=thq8xzMfDVQAAAAA:LqT40M8CQY9Xt8j8pKTUJr2E89KAB9c1DGG1Pw9q1YMG__o5htMzH1Xx3_wlPwLcesYHgvc&tag=1)] [[Bibtex](./bibliography/survey-stereo-2.txt)]
+   * *"A survey on deep learning techniques for stereo-based depth estimation"*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9233988&casa_token=thq8xzMfDVQAAAAA:LqT40M8CQY9Xt8j8pKTUJr2E89KAB9c1DGG1Pw9q1YMG__o5htMzH1Xx3_wlPwLcesYHgvc&tag=1)] [[Bibtex](./bibliography/survey-stereo-2.txt)]
 
 
-* *"On the synergies between machine learning and binocular stereo for depth estimation from images: a survey"*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021*. [[Paper](https://arxiv.org/pdf/2004.08566.pdf)] [[Bibtex](./bibliography/OnTheSynergies.txt)]
+   * *"On the synergies between machine learning and binocular stereo for depth estimation from images: a survey"*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021*. [[Paper](https://arxiv.org/pdf/2004.08566.pdf)] [[Bibtex](./bibliography/OnTheSynergies.txt)]
 
-* *"On the Confidence of Stereo Matching in a Deep-Learning Era: A Quantitative Evaluation"*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022*. [[Paper](https://arxiv.org/abs/2101.00431)] [[Bibtex](./bibliography/OnTheConfidence.txt)]
+</ul>
+</details>
+
+<details open><summary style="font-size: larger; font-weight: bold;"> Learned Confidence Estimation </summary><ul>
+
+   * *"Quantitative evaluation of confidence measures in a machine learning world"*, *ICCV, 2017*. [[Paper](https://arxiv.org/abs/2101.00431)] [[Bibtex](./bibliography/QuantitativeConf.txt)]
+
+   * *"On the Confidence of Stereo Matching in a Deep-Learning Era: A Quantitative Evaluation"*, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022*. [[Paper](https://arxiv.org/abs/2101.00431)] [[Bibtex](./bibliography/OnTheConfidence.txt)]
+
+</ul>
+</details>
+
+
 
 
 ## CodeBase
@@ -48,9 +62,11 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 ## Datasets
 
 
-<details><summary style="font-size: larger; font-weight: bold;"> Real-World </summary><ul>
+<details open><summary style="font-size: larger; font-weight: bold;"> Real-World </summary><ul>
 
-   <details><summary style="font-size: larger; font-weight: bold;"> RGB </summary>
+
+
+   <details open><summary style="font-size: larger; font-weight: bold;"> RGB </summary>
    
    * **Middlebury v3**: *"High-resolution stereo datasets with subpixel-accurate ground truth"*, *GCPR 2014*. [[Paper](https://elib.dlr.de/90624/1/ScharsteinEtal2014.pdf)] [[Dataset](https://vision.middlebury.edu/stereo/eval3/)] [[Bibtex](./bibliography/Middlebury_v3.txt)]
 
@@ -71,10 +87,13 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
    * **Holopix50k**: *"Holopix50k: A Large-Scale In-the-Wild Stereo Image Dataset"*, *CVPR, 2020*. [[Dataset](https://leiainc.github.io/holopix50k/)] [[Paper](https://arxiv.org/abs/2003.11172)] [[Bibtex](./bibliography/Holopix50k.txt)]
 
    * **InStereo2K**: *"InStereo2K: A Large Real Dataset for Stereo Matching in Indoor Scenes"*, *Science China Information Sciences, 2020*. [[Paper](https://link.springer.com/article/10.1007/s11432-019-2803-x)] [[Github](https://github.com/YuhuaXu/StereoDataset)]
+
+      
    </details>
 
-<details><summary style="font-size: larger; font-weight: bold;"> Multimodal </summary>
 
+
+   <details open><summary style="font-size: larger; font-weight: bold;"> Multimodal </summary>
 
    * **CATS**: *"CATS: A Color and Thermal Stereo Benchmark"*, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Treible_CATS_A_Color_CVPR_2017_paper.pdf)] [[Dataset](https://bigdatavision.org/CAT/download.html)] [[Bibtex](./bibliography/CATS.txt)]
 
@@ -92,14 +111,16 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
    * **MS^2**: *"Deep Depth Estimation From Thermal Image"*, *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shin_Deep_Depth_Estimation_From_Thermal_Image_CVPR_2023_paper.pdf)] [[Dataset](https://sites.google.com/view/multi-spectral-stereo-dataset)] [[Bibtex](./bibliography/MS2.txt)] 
 
-</details>
+   </details>
 
-<details><summary style="font-size: larger; font-weight: bold;"> Rendered </summary>
 
-   * **The NeRF-Stereo Dataset**: *"NeRF-Supervised
-   Deep Stereo"*, *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Dataset](https://amsacta.unibo.it/id/eprint/7218/)] [[Bibtex](./bibliography/NS-Stereo.txt)] 
 
-</details>
+
+   <details open><summary style="font-size: larger; font-weight: bold;"> Rendered </summary>
+
+   * **The NeRF-Stereo Dataset**: *"NeRF-Supervised Deep Stereo"*, *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Dataset](https://amsacta.unibo.it/id/eprint/7218/)] [[Bibtex](./bibliography/NS-Stereo.txt)] 
+
+   </details>
 
 </ul>
 </details>
@@ -237,7 +258,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
   </details>
 
 
-  <details open class="nested-details">
+  <details class="nested-details">
     <summary style="font-size: larger; font-weight: bold;">3D Architectures</summary>
 
    * **GC-Net**: *"End-to-end learning of geometry and context for deep stereo regression"*, *ICCV, 2017*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kendall_End-To-End_Learning_of_ICCV_2017_paper.pdf)] [[Bibtex](./bibliography/GC-Net.txt)]
@@ -568,60 +589,6 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 </details>
 
 
-### Confidence/Uncertainty Estimation
-
-<details open>
-<summary style="font-size: larger; font-weight: bold;">Machine Learning Approaches</summary><ul>
-
-
-</ul>
-</details>
-
-<details open>
-<summary style="font-size: larger; font-weight: bold;">Deep Learning Approaches</summary><ul>
-
-<details open>
-<summary style="font-size: larger; font-weight: bold;">Disparity-based</summary>
-
-* **CCNN**: *"Learning from scratch a confidence measure"*, BMVC, 2016. [[Paper](https://www.researchgate.net/profile/Stefano-Mattoccia-2/publication/317191595_Learning_from_scratch_a_confidence_measure/links/593f9db3a6fdcc1b10aac9ec/Learning-from-scratch-a-confidence-measure.pdf)] [[Code](https://github.com/fabiotosi92/CCNN-Tensorflow)] [[Bibtex](./bibliography/CCNN.txt)]
-
-* **PBCP**: *"Patch Based Confidence Prediction for Dense Disparity Map"*, BMVC, 2016. [[Paper](https://www.cvlibs.net/projects/autonomous_vision_survey/literature/Seki2016BMVC.pdf)]  [[Bibtex](./bibliography/PBCP.txt)]
-
-* **EFN/LFN**: *"Stereo matching confidence learning based on multi-modal convolution neural networks"*, RFMI, 2017. [[Paper](http://www.arts-pi.org.tn/rfmi2017/papers/10_CameraReadySubmission_llncs2e%20(3).pdf)] [[Bibtex](./bibliography/EFN.txt)]
-
-* **MMC**: *"Learning confidence measures by multi-modal convolutional neural networks"*, WACV, 2018. [[Paper](WACV)] [[Bibtex](./bibliography/MMC.txt)]
-
-* **LGC/ConfNet**: *"Beyond local reasoning for stereo confidence estimation with deep learning"*, ECCV, 2018. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabio_Tosi_Beyond_local_reasoning_ECCV_2018_paper.pdf)] [[Code](https://github.com/fabiotosi92/LGC-Tensorflow)] [[Bibtex](./bibliography/LGC.txt)]
-
-* **SEDNet**: *"Learning the distribution of errors in stereo matching for joint disparity and uncertainty estimation"*, CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf)] [[Code](https://github.com/lly00412/SEDNet)] [[Bibtex](./bibliography/SEDNet.txt)]
-
-
-
-
-</details>
-
-<details open>
-<summary style="font-size: larger; font-weight: bold;">Cost Volume-based</summary>
-
-* **RCN**: *"Improved stereo matching with constant highway networks and reflective confidence learning"*, CVPR, 2017. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Shaked_Improved_Stereo_Matching_CVPR_2017_paper.pdf)] [[Code](https://github.com/amitshaked/resmatch)] [[Bibtex](./bibliography/RCN.txt)]
-
-* **MPN**: *"Deep stereo confidence prediction for depth estimation"*, ICIP, 2017. [[Paper](https://ieeexplore.ieee.org/iel7/8267582/8296222/08296430.pdf)] [[Bibtex](./bibliography/MPN.txt)]
-
-* **UCN**: *"Unified confidence estimation networks for robust stereo matching"*, TIP, 2018. [[Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08510870.pdf)] [[Bibtex](./bibliography/UCN.txt)]
-
-* **LAF**: *"Laf-net: Locally adaptive fusion networks for stereo confidence estimation"*, CVPR, 2019. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_LAF-Net_Locally_Adaptive_Fusion_Networks_for_Stereo_Confidence_Estimation_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/LAF.txt)]
-
-* **CRNN**: *"Pixel-Wise Confidences for Stereo Disparities Using Recurrent Neural Networks"*, BMVC, 2019. [[Paper](https://publica.fraunhofer.de/bitstreams/c1f200e0-49e6-488c-84de-d217a550bdf6/download)] [[Bibtex](./bibliography/CRNN.txt)]
-
-* **ACN**: *"Adversarial confidence estimation networks for robust stereo matching"*, TITS, 2020. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_LAF-Net_Locally_Adaptive_Fusion_Networks_for_Stereo_Confidence_Estimation_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/ACN.txt)]
-
-* **CVA**: *"Cnn-based cost volume analysis as confidence measure for dense matching"*, ICCVW, 2019. [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/3DRW/Mehltretter_CNN-Based_Cost_Volume_Analysis_as_Confidence_Measure_for_Dense_Matching_ICCVW_2019_paper.pdf)] [[Bibtex](./bibliography/CVA.txt)]
-
-
-</details>
-
-</ul>
-</details>
 
 ### Challenges and Solutions
 
@@ -805,6 +772,65 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 </ul>
 </details>
 
+
+
+
+### Confidence Estimation
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Machine Learning Approaches</summary><ul>
+
+
+</ul>
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Deep Learning Approaches</summary><ul>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Disparity-based</summary>
+
+* **CCNN**: *"Learning from scratch a confidence measure"*, BMVC, 2016. [[Paper](https://www.researchgate.net/profile/Stefano-Mattoccia-2/publication/317191595_Learning_from_scratch_a_confidence_measure/links/593f9db3a6fdcc1b10aac9ec/Learning-from-scratch-a-confidence-measure.pdf)] [[Code](https://github.com/fabiotosi92/CCNN-Tensorflow)] [[Bibtex](./bibliography/CCNN.txt)]
+
+* **PBCP**: *"Patch Based Confidence Prediction for Dense Disparity Map"*, BMVC, 2016. [[Paper](https://www.cvlibs.net/projects/autonomous_vision_survey/literature/Seki2016BMVC.pdf)]  [[Bibtex](./bibliography/PBCP.txt)]
+
+* **EFN/LFN**: *"Stereo matching confidence learning based on multi-modal convolution neural networks"*, RFMI, 2017. [[Paper](http://www.arts-pi.org.tn/rfmi2017/papers/10_CameraReadySubmission_llncs2e%20(3).pdf)] [[Bibtex](./bibliography/EFN.txt)]
+
+* **MMC**: *"Learning confidence measures by multi-modal convolutional neural networks"*, WACV, 2018. [[Paper](WACV)] [[Bibtex](./bibliography/MMC.txt)]
+
+* **LGC/ConfNet**: *"Beyond local reasoning for stereo confidence estimation with deep learning"*, ECCV, 2018. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabio_Tosi_Beyond_local_reasoning_ECCV_2018_paper.pdf)] [[Code](https://github.com/fabiotosi92/LGC-Tensorflow)] [[Bibtex](./bibliography/LGC.txt)]
+
+* **SEDNet**: *"Learning the distribution of errors in stereo matching for joint disparity and uncertainty estimation"*, CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf)] [[Code](https://github.com/lly00412/SEDNet)] [[Bibtex](./bibliography/SEDNet.txt)]
+
+
+
+
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Cost Volume-based</summary>
+
+* **RCN**: *"Improved stereo matching with constant highway networks and reflective confidence learning"*, CVPR, 2017. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Shaked_Improved_Stereo_Matching_CVPR_2017_paper.pdf)] [[Code](https://github.com/amitshaked/resmatch)] [[Bibtex](./bibliography/RCN.txt)]
+
+* **MPN**: *"Deep stereo confidence prediction for depth estimation"*, ICIP, 2017. [[Paper](https://ieeexplore.ieee.org/iel7/8267582/8296222/08296430.pdf)] [[Bibtex](./bibliography/MPN.txt)]
+
+* **UCN**: *"Unified confidence estimation networks for robust stereo matching"*, TIP, 2018. [[Paper](https://ieeexplore.ieee.org/iel7/83/4358840/08510870.pdf)] [[Bibtex](./bibliography/UCN.txt)]
+
+* **LAF**: *"Laf-net: Locally adaptive fusion networks for stereo confidence estimation"*, CVPR, 2019. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_LAF-Net_Locally_Adaptive_Fusion_Networks_for_Stereo_Confidence_Estimation_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/LAF.txt)]
+
+* **CRNN**: *"Pixel-Wise Confidences for Stereo Disparities Using Recurrent Neural Networks"*, BMVC, 2019. [[Paper](https://publica.fraunhofer.de/bitstreams/c1f200e0-49e6-488c-84de-d217a550bdf6/download)] [[Bibtex](./bibliography/CRNN.txt)]
+
+* **ACN**: *"Adversarial confidence estimation networks for robust stereo matching"*, TITS, 2020. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_LAF-Net_Locally_Adaptive_Fusion_Networks_for_Stereo_Confidence_Estimation_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/ACN.txt)]
+
+* **CVA**: *"Cnn-based cost volume analysis as confidence measure for dense matching"*, ICCVW, 2019. [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/3DRW/Mehltretter_CNN-Based_Cost_Volume_Analysis_as_Confidence_Measure_for_Dense_Matching_ICCVW_2019_paper.pdf)] [[Bibtex](./bibliography/CVA.txt)]
+
+
+</details>
+
+</ul>
+</details>
+
+
 ## Workshops
 
 * **NTIRE 2023: HR Depth from Images of Specular and Transparent Surfaces**. P. Z. Ramirez, F. Tosi, L. Di Stefano, R. Timofte
@@ -815,7 +841,7 @@ A. Costanzino, M. Poggi, S. Salti, S. Mattoccia; CVPRW 2023, Vancouver, Canada [
 
 
 
-## Talks & Tutorials
+## Tutorials
 
 * **Facing depth estimation in-the-wild with deep networks**. M. Poggi, F. Tosi, F. Aleotti, K. Batsos, P. Mordohai, S. Mattoccia; ECCV 2020, SEC, Glasgow [[Website](https://sites.google.com/view/eccv-2020-robust-depth/home)]
 
