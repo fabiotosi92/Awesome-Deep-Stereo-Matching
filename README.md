@@ -428,7 +428,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 
 <details open id="multi-task">
-<summary style="font-size: larger; font-weight: bold;">Multi-task Deep Stereo Architectures</summary><ul>
+<summary style="font-size: larger; font-weight: bold;">Multi-Task Deep Stereo Architectures</summary><ul>
 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Semantic Stereo Matching</summary>
@@ -508,7 +508,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 </details>
 
 <details open id="multi-modal">
-<summary style="font-size: larger; font-weight: bold;">Multi-modal  Deep Stereo Architectures</summary><ul>
+<summary style="font-size: larger; font-weight: bold;">Multi-Modal  Deep Stereo Architectures</summary><ul>
 
 
 <details open>
