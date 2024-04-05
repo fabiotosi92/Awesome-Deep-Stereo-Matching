@@ -6,25 +6,27 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 1. [Survey](#survey)
 2. [CodeBase](#codebase)
 3. [Datasets](#datasets)
-   <!--*- [Real-World (Passive)](#real-world-passive)
-   - [Real-World (Multimodal)](#real-world-multimodal)
-   - [Synthetic](#synthetic) --!>
+   - [Real-World](#real-world)
+   - [Synthetic](#synthetic) 
 4. [Frameworks](#frameworks)
    - [Learning for Stereo Pipeline](#learning-for-stereo-pipeline)
-      <!--** [Matching Cost](#matching-cost)
-      * [Optimization](#optimization)
-      * [Refinement](#refinement) --!>
+      - [Matching Cost](#matching-cost)
+      - [Optimization](#optimization) 
+      - [Refinement](#refinement) 
    - [End-to-End Architectures](#end-to-end-architectures)
-   - [Challenges and Solutions](#challenges-and-solutions)
+      - [Foundational Deep Stereo Architectures](#foundational)
+      - [Efficient-Oriented Deep Stereo Architectures](#efficient-oriented) 
+      - [Multi-task Deep Stereo Architectures](#multi-task) 
+      - [Multi-modal Deep Stereo Architectures](#multi-modal) 
+   - [Challenges & Solutions](#challenges-and-solutions)
+      - [Addressing the Over-Smoothing Issue](#over-smoothing)
+      - [Missing Ground Truth Depth](#missing-gt) 
+      - [Domain Shift](#domain-shift) 
+      - [Transparent and Reflective (ToM) Surfaces ](#tom) 
+      - [Asymmetric Stereo ](#asymmetric) 
    - [Confidence Estimation](#confidence-estimation)
-       <!--* [Stereo Networks](#stereo-networks)
-      * [Addressing Stereo Over-Smoothing Issue](#addressing-stereo-over-smoothing-issue)
-      * [Zero-shot Generalization](#zero-shot-generalization)
-      * [Self-Supervised](#self-supervised)
-      * [Online Continual Adaptation](#online-continual-adaptation)
-      * [Offline Adaptation](#offline-adaptation) --!>
 5. [Workshops](#workshops)
-5. [Tutorials](#tutorials)
+6. [Tutorials & Talks](#tutorials-talks)
 
 
 
@@ -51,8 +53,6 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 </details>
 
 
-
-
 ## CodeBase
 
 * **OpenStereo**: *"OpenStereo: A Comprehensive Benchmark for Stereo Matching and Strong Baseline"*, *arXiv, 2023* [[Code](https://github.com/XiandaGuo/OpenStereo)] [[Paper](https://arxiv.org/pdf/2312.00343.pdf)] [[Bibtex](./bibliography/OpenStereo.txt)]
@@ -62,7 +62,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 ## Datasets
 
 
-<details open><summary style="font-size: larger; font-weight: bold;"> Real-World </summary><ul>
+<details open id="real-world"><summary style="font-size: larger; font-weight: bold;">Real-World</summary><ul>
 
 
 
@@ -127,8 +127,8 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 
 
-<details open>
-<summary style="font-size: larger; font-weight: bold;"> Synthetic </summary>
+<details open id="synthetic">
+<summary style="font-size: larger; font-weight: bold;">Synthetic</summary>
 
 
 * **MPI Sintel**: *"A naturalistic open source movie for optical flow evaluation"*, *ECCV, 2012*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Mehl_Spring_A_High-Resolution_High-Detail_Dataset_and_Benchmark_for_Scene_Flow_CVPR_2023_paper.pdf)] [[Dataset](http://sintel.is.tue.mpg.de/)] [[Bibtex](./bibliography/MPISintel.txt)]
@@ -161,7 +161,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 ### Learning for Stereo Pipeline
 
-<details open>
+<details open id="matching-cost">
 <summary style="font-size: larger; font-weight: bold;">Matching Cost</summary>
 
 
@@ -183,7 +183,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 </details>
 
-<details open>
+<details open id="optimization">
 <summary style="font-size: larger; font-weight: bold;">Optimization</summary>
 
 * **GCP**: *"Learning to detect ground control points for improving the accuracy of stereo matching"*, *CVPR, 2014*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Spyropoulos_Learning_to_Detect_2014_CVPR_paper.pdf)] [[Bibtex](./bibliography/GCP.txt)]
@@ -200,7 +200,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 </details>
 
-<details open>
+<details  open id="refinement">
 <summary style="font-size: larger; font-weight: bold;">Refinement</summary>
 
 * **GDN**: *"Improved stereo matching with constant highway networks and reflective confidence learning"*, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Shaked_Improved_Stereo_Matching_CVPR_2017_paper.pdf)] [[Code](https://github.com/amitshaked/resmatch)] [[Bibtex](./bibliography/GDN.txt)]
@@ -224,7 +224,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 ### End-to-End Architectures
 
-<details open>
+<details open id="foundational">
 <summary style="font-size: larger; font-weight: bold;">Foundational Deep Stereo Architectures</summary><ul>
 
 
@@ -370,7 +370,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 </ul>
 </details>
 
-<details open>
+<details open id="efficient-oriented">
 <summary style="font-size: larger; font-weight: bold;">Efficient-Oriented Deep Stereo Architectures</summary>
 
 * **Stereonet**: *"Stereonet: Guided hierarchical refinement for real-time edge-aware depth prediction"*, *ECCV, 2018*. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sameh_Khamis_StereoNet_Guided_Hierarchical_ECCV_2018_paper.pdf)] [[Code](https://github.com/neka-nat/StereoNet)] [[Bibtex](./bibliography/Stereonet.txt)] 
@@ -417,7 +417,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 </details>
 
 
-<details open>
+<details open id="multi-task">
 <summary style="font-size: larger; font-weight: bold;">Multi-task Deep Stereo Architectures</summary><ul>
 
 <details open>
@@ -497,7 +497,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 </details>
 
-<details open>
+<details open id="multi-modal">
 <summary style="font-size: larger; font-weight: bold;">Multi-modal  Deep Stereo Architectures</summary><ul>
 
 
@@ -590,9 +590,9 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 
 
-### Challenges and Solutions
+### Challenges & Solutions
 
-<details open>
+<details open id="over-smoothing">
 <summary style="font-size: larger; font-weight: bold;">Addressing the Over-Smoothing Issue</summary>
 
 * **SM-CDE**: *"On the over-smoothing problem of cnn based disparity estimation"*, *ICCV, 2019*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/html/Chen_On_the_Over-Smoothing_Problem_of_CNN_Based_Disparity_Estimation_ICCV_2019_paper.html)] [[Bibtex](./bibliography/SM-CDE.txt)] 
@@ -613,7 +613,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 </details>
 
-<details open>
+<details open id="missing-gt">
 <summary style="font-size: larger; font-weight: bold;">Missing Ground Truth Depth</summary><ul>
 
 <details open>
@@ -628,7 +628,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 * **Flow2Stereo**: *"Flow2Stereo: Effective Self-Supervised Learning of Optical Flow and Stereo Matching"*, *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Flow2Stereo_Effective_Self-Supervised_Learning_of_Optical_Flow_and_Stereo_Matching_CVPR_2020_paper.pdf)] [[Code](https://github.com/ppliuboy/Flow2Stereo)] [[Bibtex](./bibliography/Flow2Stereo.txt)]
 
 </details>
-<details open>
+<details open >
 <summary style="font-size: larger; font-weight: bold;">Cross-Framework/Proxy Supervision</summary>
 
 * **Reversing-Stereo**: *"Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation"*, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.07130.pdf)] [[Code](https://github.com/FilippoAleotti/Reversing)] [[Bibtex](./bibliography/Reversing-Stereo.txt)]
@@ -643,7 +643,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 </ul>
 </details>
 
-<details open>
+<details open id="domain-shift">
 <summary style="font-size: larger; font-weight: bold;">Domain Shift</summary><ul>
 
 <details open>
@@ -741,7 +741,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 
 </details>
 
-<details open>
+<details open id="tom">
 <summary style="font-size: larger; font-weight: bold;">Transparent and Reflective (ToM) Surfaces </summary>
 
 * **DDF**: *"Deep Depth Fusion for Black, Transparent, Reflective and Texture-Less Objects"*, *ICRA, 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9196894)]  [[Code](https://github.com/chzhang18/RAG)] [[Bibtex](./bibliography/DDF.txt)]
@@ -753,7 +753,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 </details>
 
 
-<details open>
+<details open id="asymmetric">
 <summary style="font-size: larger; font-weight: bold;">Asymmetric Stereo </summary>
 
 * **Visually-Imbalanced Stereo**: "*Visually Imbalanced Stereo Matching*", *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Visually_Imbalanced_Stereo_Matching_CVPR_2020_paper.pdf)] [[Code](https://github.com/DandilionLau/Visually-Imbalanced-Stereo)] [[Bibtex](./bibliography/VI-SM.txt)] 
@@ -871,7 +871,7 @@ A. Costanzino, M. Poggi, S. Salti, S. Mattoccia; CVPRW 2023, Vancouver, Canada [
 
 
 
-## Tutorials
+<h2 id="tutorials-talks"> Tutorials & Talks </h2>
 
 * **Facing depth estimation in-the-wild with deep networks**. M. Poggi, F. Tosi, F. Aleotti, K. Batsos, P. Mordohai, S. Mattoccia; ECCV 2020, SEC, Glasgow [[Website](https://sites.google.com/view/eccv-2020-robust-depth/home)]
 
