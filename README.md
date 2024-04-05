@@ -258,7 +258,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
   </details>
 
 
-  <details class="nested-details">
+  <details open class="nested-details">
     <summary style="font-size: larger; font-weight: bold;">3D Architectures</summary>
 
    * **GC-Net**: *"End-to-end learning of geometry and context for deep stereo regression"*, *ICCV, 2017*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Kendall_End-To-End_Learning_of_ICCV_2017_paper.pdf)] [[Bibtex](./bibliography/GC-Net.txt)]
