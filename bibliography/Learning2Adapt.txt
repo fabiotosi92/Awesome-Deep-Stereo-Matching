@@ -1,0 +1,7 @@
+@inproceedings{tonioni2019learning,
+  title={Learning to adapt for stereo},
+  author={Tonioni, Alessio and Rahnama, Oscar and Joy, Thomas and Stefano, Luigi Di and Ajanthan, Thalaiyasingam and Torr, Philip HS},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={9661--9670},
+  year={2019}
+}

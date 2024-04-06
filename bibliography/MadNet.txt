@@ -1,0 +1,7 @@
+@inproceedings{tonioni2019real,
+  title={Real-time self-adaptive deep stereo},
+  author={Tonioni, Alessio and Tosi, Fabio and Poggi, Matteo and Mattoccia, Stefano and Stefano, Luigi Di},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={195--204},
+  year={2019}
+}

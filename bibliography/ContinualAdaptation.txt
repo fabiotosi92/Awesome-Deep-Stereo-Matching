@@ -1,0 +1,10 @@
+@article{poggi2021continual,
+  title={Continual adaptation for deep stereo},
+  author={Poggi, Matteo and Tonioni, Alessio and Tosi, Fabio and Mattoccia, Stefano and Di Stefano, Luigi},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={44},
+  number={9},
+  pages={4713--4729},
+  year={2021},
+  publisher={IEEE}
+}

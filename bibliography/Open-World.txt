@@ -1,0 +1,7 @@
+@inproceedings{zhong2018open,
+  title={Open-world stereo video matching with deep rnn},
+  author={Zhong, Yiran and Li, Hongdong and Dai, Yuchao},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={101--116},
+  year={2018}
+}
