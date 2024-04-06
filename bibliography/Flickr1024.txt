@@ -1,0 +1,7 @@
+@inproceedings{wang2019flickr1024,
+  title={Flickr1024: A large-scale dataset for stereo image super-resolution},
+  author={Wang, Yingqian and Wang, Longguang and Yang, Jungang and An, Wei and Guo, Yulan},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops},
+  pages={0--0},
+  year={2019}
+}
