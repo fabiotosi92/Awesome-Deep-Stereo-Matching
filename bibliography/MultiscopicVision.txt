@@ -1,0 +1,8 @@
+@inproceedings{yuan2021stereo,
+  title={Stereo matching by self-supervision of multiscopic vision},
+  author={Yuan, Weihao and Zhang, Yazhan and Wu, Bingkun and Zhu, Siyu and Tan, Ping and Wang, Michael Yu and Chen, Qifeng},
+  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={5702--5709},
+  year={2021},
+  organization={IEEE}
+}
