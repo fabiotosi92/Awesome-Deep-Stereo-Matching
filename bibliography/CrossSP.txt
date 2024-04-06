@@ -1,0 +1,7 @@
+@article{guo2023unsupervised,
+  title={Unsupervised Cross-Spectrum Depth Estimation by Visible-Light and Thermal Cameras},
+  author={Guo, Yubin and Qi, Xinlei and Xie, Jin and Xu, Cheng-Zhong and Kong, Hui},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2023},
+  publisher={IEEE}
+}
