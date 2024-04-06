@@ -1,0 +1,8 @@
+@InProceedings{Chen_2021_ICCV,
+    author    = {Chen, Zhi and Ye, Xiaoqing and Yang, Wei and Xu, Zhenbo and Tan, Xiao and Zou, Zhikang and Ding, Errui and Zhang, Xinming and Huang, Liusheng},
+    title     = {Revealing the Reciprocal Relations Between Self-Supervised Stereo and Monocular Depth Estimation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {15529-15538}
+}
