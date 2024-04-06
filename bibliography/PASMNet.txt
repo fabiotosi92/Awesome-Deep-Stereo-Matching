@@ -1,0 +1,10 @@
+@article{wang2020parallax,
+  title={Parallax attention for unsupervised stereo correspondence learning},
+  author={Wang, Longguang and Guo, Yulan and Wang, Yingqian and Liang, Zhengfa and Lin, Zaiping and Yang, Jungang and An, Wei},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={44},
+  number={4},
+  pages={2108--2125},
+  year={2020},
+  publisher={IEEE}
+}

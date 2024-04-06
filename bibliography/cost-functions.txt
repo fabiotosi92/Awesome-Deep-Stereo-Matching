@@ -1,0 +1,8 @@
+@inproceedings{hirschmuller2007evaluation,
+  title={Evaluation of cost functions for stereo matching},
+  author={Hirschmuller, Heiko and Scharstein, Daniel},
+  booktitle={2007 IEEE conference on computer vision and pattern recognition},
+  pages={1--8},
+  year={2007},
+  organization={IEEE}
+}
