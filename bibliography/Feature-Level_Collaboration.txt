@@ -1,0 +1,8 @@
+@InProceedings{Chi_2021_CVPR,
+    author    = {Chi, Cheng and Wang, Qingjie and Hao, Tianyu and Guo, Peng and Yang, Xin},
+    title     = {Feature-Level Collaboration: Joint Unsupervised Learning of Optical Flow, Stereo Depth and Camera Motion},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2021},
+    pages     = {2463-2473}
+}
