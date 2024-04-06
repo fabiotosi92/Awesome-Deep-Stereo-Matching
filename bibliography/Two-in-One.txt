@@ -1,0 +1,8 @@
+
+@inproceedings{zhou2023two,
+  title={Two-in-one depth: Bridging the gap between monocular and binocular self-supervised depth estimation},
+  author={Zhou, Zhengming and Dong, Qiulei},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={9411--9421},
+  year={2023}
+}

@@ -1,0 +1,10 @@
+@article{zhang2019dispsegnet,
+  title={Dispsegnet: Leveraging semantics for end-to-end learning of disparity estimation from stereo imagery},
+  author={Zhang, Junming and Skinner, Katherine A and Vasudevan, Ram and Johnson-Roberson, Matthew},
+  journal={IEEE Robotics and Automation Letters},
+  volume={4},
+  number={2},
+  pages={1162--1169},
+  year={2019},
+  publisher={IEEE}
+}
