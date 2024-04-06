@@ -1,0 +1,8 @@
+@inproceedings{mao2019semi,
+  title={Semi-dense stereo matching using dual CNNs},
+  author={Mao, Wendong and Wang, Mingjie and Zhou, Jun and Gong, Minglun},
+  booktitle={2019 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+  pages={1588--1597},
+  year={2019},
+  organization={IEEE}
+}

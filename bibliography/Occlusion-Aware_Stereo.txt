@@ -1,0 +1,10 @@
+@article{li2021unsupervised,
+  title={Unsupervised occlusion-aware stereo matching with directed disparity smoothing},
+  author={Li, Ang and Yuan, Zejian and Ling, Yonggen and Chi, Wanchao and Zhang, Shenghao and Zhang, Chong},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={23},
+  number={7},
+  pages={7457--7468},
+  year={2021},
+  publisher={IEEE}
+}

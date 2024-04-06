@@ -17,7 +17,7 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
       - [Foundational Deep Stereo Architectures](#foundational)
       - [Efficient-Oriented Deep Stereo Architectures](#efficient-oriented) 
       - [Multi-Task Deep Stereo Architectures](#multi-task) 
-      - [Multi-Modal Deep Stereo Architectures](#multi-modal) 
+      - [Beyond Visual Spectrum Deep Stereo Architectures](#multi-modal) 
    - [Challenges & Solutions](#challenges-and-solutions)
       - [Addressing the Over-Smoothing Issue](#over-smoothing)
       - [Missing Ground Truth Depth](#missing-gt) 
@@ -193,6 +193,8 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 * **CBMV**: *"CBMV: A coalesced bidirectional matching volume for disparity estimation"*, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Batsos_CBMV_A_Coalesced_CVPR_2018_paper.pdf)] [[Bibtex](./bibliography/CBMV.txt)]
 
 * **SDC**: *"SDC - stacked dilated convolution: A unified descriptor network for dense matching tasks"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Schuster_SDC_-_Stacked_Dilated_Convolution_A_Unified_Descriptor_Network_for_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/SDC.txt)]
+
+* **Semi-dense Stereo**: *"Semi-dense Stereo Matching using Dual CNNs"*, *WACV, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8659297)] [[Bibtex](./bibliography/Semi-dense_Stereo.txt)]
 
 </details>
 
@@ -519,7 +521,7 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 </details>
 
 <details open id="multi-modal">
-<summary style="font-size: larger; font-weight: bold;">Multi-Modal  Deep Stereo Architectures</summary><ul>
+<summary style="font-size: larger; font-weight: bold;">Beyond Visual Spectrum Deep Stereo Architectures</summary><ul>
 
 
 <details open>
@@ -664,6 +666,8 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 * **Feature-Level Collaboration**: *"Feature-Level Collaboration: Joint Unsupervised Learning of Optical Flow,
 Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chi_Feature-Level_Collaboration_Joint_Unsupervised_Learning_of_Optical_Flow_Stereo_Depth_CVPR_2021_paper.pdf)] [[Bibtex](./bibliography/Feature-Level_Collaboration.txt)]
 
+* **Occlusion-Aware Stereo**: *"Unsupervised Occlusion-Aware Stereo Matching With Directed Disparity Smoothing"*, *TITS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9404889)] [[Bibtex](./bibliography/Occlusion-Aware_Stereo.txt)]
+
 </details>
 <details open >
 <summary style="font-size: larger; font-weight: bold;">Cross-Framework/Proxy Supervision</summary>
@@ -761,6 +765,8 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 * **ZOLE**: *"Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domain"*, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pang_Zoom_and_Learn_CVPR_2018_paper.pdf)] [[Code](https://github.com/jiahaopang/zole)] [[Bibtex](./bibliography/v.txt)]
 
 * **AdaStereo**: *"AdaStereo: A Simple and Efficient Approach for Adaptive Stereo Matching"*, *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_AdaStereo_A_Simple_and_Efficient_Approach_for_Adaptive_Stereo_Matching_CVPR_2021_paper.pdf)] [[Bibtex](./bibliography/AdaStereo.txt)]
+
+* **UnDAF**: *"UnDAF: A General Unsupervised Domain Adaptation Framework for Disparity or Optical Flow Estimation"*, *CVPR, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811811)] [[Code](https://sites.google.com/view/undaf)] [[Bibtex](./bibliography/UnDAF.txt)]
 
 * **UCFNet**: *"Digging Into Uncertainty-Based Pseudo-Label for Robust Stereo Matching"*, *TPAMI, 2023*. [[Paper](https://arxiv.org/pdf/2307.16509.pdf)] [[Code](https://github.com/gallenszl/UCFNet?tab=readme-ov-file)] [[Bibtex](./bibliography/UCFNet.txt)]
 
