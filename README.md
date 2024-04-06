@@ -153,7 +153,9 @@ Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of stat
 * **Virtual KITTI**: *"Virtual kitti 2"*, *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2001.10773.pdf)] [[Dataset](https://europe.naverlabs.com/Research/Computer-Vision/Proxy-Virtual-Worlds/)] [[Bibtex](./bibliography/VirtualKITTI.txt)]
 
 
-* **TartanAir**: *"TartanAir: A dataset to push the limits of visual slam"*, *IROS, 2020*. [[Paper](https://ieeexplore.ieee.org/document/9341801?denied=)] [[Dataset](https://theairlab.org/tartanair-dataset/shorter)] [[Bibtex](./bibliography/TartanAir.txt)]
+* **TartanAir**: *"TartanAir: A dataset to push the limits of visual slam"*, *IROS, 2020*. [[Paper](https://ieeexplore.ieee.org/document/9341801?denied=)] [[Dataset](https://theairlab.org/tartanair-dataset)] [[Bibtex](./bibliography/TartanAir.txt)]
+
+* **Semi-synthesis**: *"Semi-synthesis: A fast way to produce effective datasets for stereo matching"*, *ICCVW, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/WAD/papers/He_Semi-Synthesis_A_Fast_Way_To_Produce_Effective_Datasets_for_Stereo_CVPRW_2021_paper.pdf)] [[Bibtex](./bibliography/Semi-synthesis.txt)]
 
 * **UnrealStereo4K**: *"SMD-Nets: Stereo Mixture Density Networks"*, *CVPR, 2021*. [[Paper](http://www.cvlibs.net/publications/Tosi2021CVPR.pdf)] [[Dataset](https://github.com/fabiotosi92/SMD-Nets)] [[Bibtex](./bibliography/SMD-Nets.txt)]
 

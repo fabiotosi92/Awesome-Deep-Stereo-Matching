@@ -1,0 +1,7 @@
+@inproceedings{he2021semi,
+  title={Semi-synthesis: A fast way to produce effective datasets for stereo matching},
+  author={He, Ju and Zhou, Enyu and Sun, Liusheng and Lei, Fei and Liu, Chenyang and Sun, Wenxiu},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2884--2893},
+  year={2021}
+}
