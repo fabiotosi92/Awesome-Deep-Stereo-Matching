@@ -1,0 +1,10 @@
+@article{joung2019unsupervised,
+  title={Unsupervised stereo matching using confidential correspondence consistency},
+  author={Joung, Sunghun and Kim, Seungryong and Park, Kihong and Sohn, Kwanghoon},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={21},
+  number={5},
+  pages={2190--2203},
+  year={2019},
+  publisher={IEEE}
+}
