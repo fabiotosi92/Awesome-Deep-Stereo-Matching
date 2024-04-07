@@ -1,0 +1,7 @@
+@InProceedings{Poggi_2017_CVPR_Workshops,
+author = {Poggi, Matteo and Tosi, Fabio and Mattoccia, Stefano},
+title = {Even More Confident Predictions With Deep Machine-Learning},
+booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {July},
+year = {2017}
+} 

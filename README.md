@@ -890,8 +890,6 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 * **SEDNet**: *"Learning the distribution of errors in stereo matching for joint disparity and uncertainty estimation"*, CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf)] [[Code](https://github.com/lly00412/SEDNet)] [[Bibtex](./bibliography/SEDNet.txt)]
 
 
-
-
 </details>
 
 <details open>
@@ -913,6 +911,16 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 
 
 </details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Multiple Confidence Fusion</summary>
+
+* **Learning Local Consistency**: *"Learning to predict stereo reliability enforcing local consistency of confidence maps"*, CVPR, 2017. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Poggi_Learning_to_Predict_CVPR_2017_paper.pdf)] [[Bibtex](./bibliography/++.txt)]
+
+* **EMC**: *"Even More Confident Predictions With Deep Machine-Learning"*, CVPRW, 2017. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Poggi_Learning_to_Predict_CVPR_2017_paper.pdf)] [[Bibtex](./bibliography/EMC.txt)]
+
+</details>
+
 
 </ul>
 </details>

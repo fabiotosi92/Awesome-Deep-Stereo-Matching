@@ -1,0 +1,7 @@
+@inproceedings{poggi2017learning,
+  title={Learning to predict stereo reliability enforcing local consistency of confidence maps},
+  author={Poggi, Matteo and Mattoccia, Stefano},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={2452--2461},
+  year={2017}
+}
