@@ -1,0 +1,8 @@
+@inproceedings{poggi2021leveraging,
+  title={Leveraging a weakly adversarial paradigm for joint learning of disparity and confidence estimation},
+  author={Poggi, Matteo and Tosi, Fabio and Aleotti, Filippo and Mattoccia, Stefano},
+  booktitle={2020 25th International Conference on Pattern Recognition (ICPR)},
+  pages={270--277},
+  year={2021},
+  organization={IEEE}
+}

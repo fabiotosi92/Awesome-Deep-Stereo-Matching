@@ -1,0 +1,9 @@
+@article{mehltretter2022joint,
+  title={Joint estimation of depth and its uncertainty from stereo images using bayesian deep learning},
+  author={Mehltretter, Max},
+  journal={ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  volume={2},
+  pages={69--78},
+  year={2022},
+  publisher={Copernicus Publications G{\"o}ttingen, Germany}
+}
