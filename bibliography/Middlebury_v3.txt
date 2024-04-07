@@ -1,0 +1,8 @@
+@inproceedings{scharstein2014high,
+  title={High-resolution stereo datasets with subpixel-accurate ground truth},
+  author={Scharstein, Daniel and Hirschm{\"u}ller, Heiko and Kitajima, York and Krathwohl, Greg and Ne{\v{s}}i{\'c}, Nera and Wang, Xi and Westling, Porter},
+  booktitle={Pattern Recognition: 36th German Conference, GCPR 2014, M{\"u}nster, Germany, September 2-5, 2014, Proceedings 36},
+  pages={31--42},
+  year={2014},
+  organization={Springer}
+}
