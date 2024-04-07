@@ -1,0 +1,7 @@
+@inproceedings{gidaris2017detect,
+  title={Detect, replace, refine: Deep structured prediction for pixel wise labeling},
+  author={Gidaris, Spyros and Komodakis, Nikos},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={5248--5257},
+  year={2017}
+}

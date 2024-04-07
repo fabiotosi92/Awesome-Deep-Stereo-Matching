@@ -1,4 +1,3 @@
-
 @inproceedings{zhou2023two,
   title={Two-in-one depth: Bridging the gap between monocular and binocular self-supervised depth estimation},
   author={Zhou, Zhengming and Dong, Qiulei},

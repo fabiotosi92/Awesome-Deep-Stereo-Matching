@@ -1,0 +1,8 @@
+@inproceedings{batsos2018recresnet,
+  title={Recresnet: A recurrent residual cnn architecture for disparity map enhancement},
+  author={Batsos, Konstantinos and Mordohai, Philippos},
+  booktitle={2018 International Conference on 3D Vision (3DV)},
+  pages={238--247},
+  year={2018},
+  organization={IEEE}
+}

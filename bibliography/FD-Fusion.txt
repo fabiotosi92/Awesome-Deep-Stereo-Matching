@@ -1,0 +1,8 @@
+@inproceedings{ferrera2019fast,
+  title={Fast stereo disparity maps refinement by fusion of data-based and model-based estimations},
+  author={Ferrera, Maxime and Boulch, Alexandre and Moras, Julien},
+  booktitle={2019 International Conference on 3D Vision (3DV)},
+  pages={9--17},
+  year={2019},
+  organization={IEEE}
+}

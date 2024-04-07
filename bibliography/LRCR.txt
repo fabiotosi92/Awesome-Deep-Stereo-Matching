@@ -1,0 +1,7 @@
+@inproceedings{jie2018left,
+  title={Left-right comparative recurrent model for stereo matching},
+  author={Jie, Zequn and Wang, Pengfei and Ling, Yonggen and Zhao, Bo and Wei, Yunchao and Feng, Jiashi and Liu, Wei},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={3838--3846},
+  year={2018}
+}

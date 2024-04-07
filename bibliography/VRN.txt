@@ -1,0 +1,9 @@
+@article{knobelreiter2021learned,
+  title={Learned collaborative stereo refinement},
+  author={Kn{\"o}belreiter, Patrick and Pock, Thomas},
+  journal={International Journal of Computer Vision},
+  volume={129},
+  pages={2565--2582},
+  year={2021},
+  publisher={Springer}
+}

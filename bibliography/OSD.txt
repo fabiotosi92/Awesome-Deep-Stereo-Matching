@@ -1,0 +1,9 @@
+@article{ye2017efficient,
+  title={Efficient stereo matching leveraging deep local and context information},
+  author={Ye, Xiaoqing and Li, Jiamao and Wang, Han and Huang, Hexiao and Zhang, Xiaolin},
+  journal={IEEE Access},
+  volume={5},
+  pages={18745--18755},
+  year={2017},
+  publisher={IEEE}
+}
