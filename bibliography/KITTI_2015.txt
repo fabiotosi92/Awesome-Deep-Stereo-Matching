@@ -1,0 +1,7 @@
+@inproceedings{menze2015object,
+  title={Object scene flow for autonomous vehicles},
+  author={Menze, Moritz and Geiger, Andreas},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={3061--3070},
+  year={2015}
+}

@@ -1,0 +1,8 @@
+@inproceedings{geiger2012we,
+  title={Are we ready for autonomous driving? the kitti vision benchmark suite},
+  author={Geiger, Andreas and Lenz, Philip and Urtasun, Raquel},
+  booktitle={2012 IEEE conference on computer vision and pattern recognition},
+  pages={3354--3361},
+  year={2012},
+  organization={IEEE}
+}
