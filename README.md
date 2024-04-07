@@ -105,12 +105,9 @@ We use the :triangular_flag_on_post: symbol to highlight the absolute most groun
 
    * **Holopix50k**: *"Holopix50k: A Large-Scale In-the-Wild Stereo Image Dataset"*, *CVPR, 2020*. [[Paper](https://arxiv.org/abs/2003.11172)] [[Dataset](https://leiainc.github.io/holopix50k/)]  [[Bibtex](./bibliography/Holopix50k.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Holopix50k:+A+Large-Scale+In-the-Wild+Stereo+Image+Dataset&btnG=)]
 
-   * **InStereo2K**: *"InStereo2K: A Large Real Dataset for Stereo Matching in Indoor Scenes"*, *Science China Information Sciences, 2020*. [[Paper](https://link.springer.com/article/10.1007/s11432-019-2803-x)] [[Github](https://github.com/YuhuaXu/StereoDataset)]
+   * **InStereo2K**: *"InStereo2K: A Large Real Dataset for Stereo Matching in Indoor Scenes"*, *Science China Information Sciences, 2020*. [[Paper](https://link.springer.com/article/10.1007/s11432-019-2803-x)] [[Github](https://github.com/YuhuaXu/StereoDataset)] [[Bibtex](./bibliography/InStereo2K.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=InStereo2K%3A+A+Large+Real+Dataset+for+Stereo+Matching+in+Indoor+Scenes&btnG=)]
 
-      
    </details>
-
-
 
    <details open><summary style="font-size: larger; font-weight: bold;"> Multimodal </summary>
 

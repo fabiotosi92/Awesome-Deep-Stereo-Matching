@@ -1,0 +1,9 @@
+@article{bao2020instereo2k,
+  title={Instereo2k: a large real dataset for stereo matching in indoor scenes},
+  author={Bao, Wei and Wang, Wei and Xu, Yuhua and Guo, Yulan and Hong, Siyu and Zhang, Xiaohu},
+  journal={Science China Information Sciences},
+  volume={63},
+  pages={1--11},
+  year={2020},
+  publisher={Springer}
+}
