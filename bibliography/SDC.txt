@@ -1,0 +1,7 @@
+@inproceedings{schuster2019sdc,
+  title={Sdc-stacked dilated convolution: A unified descriptor network for dense matching tasks},
+  author={Schuster, Ren{\'e} and Wasenmuller, Oliver and Unger, Christian and Stricker, Didier},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2556--2565},
+  year={2019}
+}

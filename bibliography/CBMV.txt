@@ -1,0 +1,7 @@
+@inproceedings{batsos2018cbmv,
+  title={CBMV: A coalesced bidirectional matching volume for disparity estimation},
+  author={Batsos, Konstantinos and Cai, Changjiang and Mordohai, Philippos},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={2060--2069},
+  year={2018}
+}

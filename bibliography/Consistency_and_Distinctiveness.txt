@@ -1,0 +1,10 @@
+@article{zhang2017fundamental,
+  title={Fundamental principles on learning new features for effective dense matching},
+  author={Zhang, Feihu and Wah, Benjamin W},
+  journal={IEEE Transactions on Image Processing},
+  volume={27},
+  number={2},
+  pages={822--836},
+  year={2017},
+  publisher={IEEE}
+}

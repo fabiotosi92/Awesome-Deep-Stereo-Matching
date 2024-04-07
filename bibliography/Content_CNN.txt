@@ -1,0 +1,7 @@
+@inproceedings{luo2016efficient,
+  title={Efficient deep learning for stereo matching},
+  author={Luo, Wenjie and Schwing, Alexander G and Urtasun, Raquel},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={5695--5703},
+  year={2016}
+}

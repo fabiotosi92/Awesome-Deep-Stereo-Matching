@@ -1,0 +1,10 @@
+@article{park2016look,
+  title={Look wider to match image patches with convolutional neural networks},
+  author={Park, Haesol and Lee, Kyoung Mu},
+  journal={IEEE Signal Processing Letters},
+  volume={24},
+  number={12},
+  pages={1788--1792},
+  year={2016},
+  publisher={IEEE}
+}

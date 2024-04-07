@@ -1,0 +1,7 @@
+@inproceedings{seki2017sgm,
+  title={Sgm-nets: Semi-global matching with neural networks},
+  author={Seki, Akihito and Pollefeys, Marc},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={231--240},
+  year={2017}
+}

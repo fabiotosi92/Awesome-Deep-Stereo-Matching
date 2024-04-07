@@ -1,0 +1,7 @@
+@inproceedings{tulyakov2017weakly,
+  title={Weakly supervised learning of deep metrics for stereo reconstruction},
+  author={Tulyakov, Stepan and Ivanov, Anton and Fleuret, Francois},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={1339--1348},
+  year={2017}
+}
