@@ -1,0 +1,7 @@
+@inproceedings{schops2017multi,
+  title={A multi-view stereo benchmark with high-resolution images and multi-camera videos},
+  author={Schops, Thomas and Schonberger, Johannes L and Galliani, Silvano and Sattler, Torsten and Schindler, Konrad and Pollefeys, Marc and Geiger, Andreas},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={3260--3269},
+  year={2017}
+}
