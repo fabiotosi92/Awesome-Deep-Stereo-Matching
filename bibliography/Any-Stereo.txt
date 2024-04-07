@@ -1,6 +1,7 @@
 @article{Liang_Li_2024_Any-Stereo, 
    title={Any-Stereo: Arbitrary Scale Disparity Estimation for Iterative Stereo Matching}, 
-   volume={38}, url={https://ojs.aaai.org/index.php/AAAI/article/view/28119}, 
+   volume={38}, 
+   url={https://ojs.aaai.org/index.php/AAAI/article/view/28119}, 
    DOI={10.1609/aaai.v38i4.28119},
    number={4}, 
    journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
