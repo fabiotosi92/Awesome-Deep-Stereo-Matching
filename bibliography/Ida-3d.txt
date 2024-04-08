@@ -1,0 +1,7 @@
+@inproceedings{peng2020ida,
+  title={Ida-3d: Instance-depth-aware 3d object detection from stereo vision for autonomous driving},
+  author={Peng, Wanli and Pan, Hao and Liu, He and Sun, Yi},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={13015--13024},
+  year={2020}
+}

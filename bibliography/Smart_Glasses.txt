@@ -1,0 +1,8 @@
+@InProceedings{Wang_2023_CVPR,
+    author    = {Wang, Jialiang and Scharstein, Daniel and Bapat, Akash and Blackburn-Matzen, Kevin and Yu, Matthew and Lehman, Jonathan and Alsisan, Suhib and Wang, Yanghan and Tsai, Sam and Frahm, Jan-Michael and He, Zijian and Vajda, Peter and Cohen, Michael F. and Uyttendaele, Matt},
+    title     = {A Practical Stereo Depth System for Smart Glasses},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {21498-21507}
+}

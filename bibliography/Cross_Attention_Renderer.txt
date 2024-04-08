@@ -1,0 +1,7 @@
+@inproceedings{du2023learning,
+  title={Learning to render novel views from wide-baseline stereo pairs},
+  author={Du, Yilun and Smith, Cameron and Tewari, Ayush and Sitzmann, Vincent},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4970--4980},
+  year={2023}
+}

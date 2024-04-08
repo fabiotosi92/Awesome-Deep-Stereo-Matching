@@ -1,0 +1,8 @@
+@inproceedings{xie2016deep3d,
+  title={Deep3d: Fully automatic 2d-to-3d video conversion with deep convolutional neural networks},
+  author={Xie, Junyuan and Girshick, Ross and Farhadi, Ali},
+  booktitle={Computer Vision--ECCV 2016: 14th European Conference, Amsterdam, The Netherlands, October 11--14, 2016, Proceedings, Part IV 14},
+  pages={842--857},
+  year={2016},
+  organization={Springer}
+}

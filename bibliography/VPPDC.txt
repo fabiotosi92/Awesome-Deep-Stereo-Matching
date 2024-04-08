@@ -1,0 +1,7 @@
+@inproceedings{bartolomei2024revisiting,
+      title={Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization}, 
+      author={Luca Bartolomei and Matteo Poggi and Andrea Conti and Fabio Tosi and Stefano Mattoccia},
+      year={2024},
+      booktitle={2024 International Conference on 3D Vision (3DV)},
+      organization={IEEE}
+}

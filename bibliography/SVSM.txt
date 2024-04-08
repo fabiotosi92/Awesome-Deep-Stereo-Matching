@@ -1,0 +1,7 @@
+@InProceedings{Luo_2018_CVPR,
+author = {Luo, Yue and Ren, Jimmy and Lin, Mude and Pang, Jiahao and Sun, Wenxiu and Li, Hongsheng and Lin, Liang},
+title = {Single View Stereo Matching},
+booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2018}
+} 

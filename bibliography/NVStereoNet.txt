@@ -1,0 +1,7 @@
+@inproceedings{smolyanskiy2018importance,
+  title={On the importance of stereo for accurate depth estimation: An efficient semi-supervised deep neural network approach},
+  author={Smolyanskiy, Nikolai and Kamenev, Alexey and Birchfield, Stan},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition workshops},
+  pages={1007--1015},
+  year={2018}
+}

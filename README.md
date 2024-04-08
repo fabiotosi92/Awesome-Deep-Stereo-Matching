@@ -31,8 +31,9 @@ We use the :triangular_flag_on_post: symbol to highlight the absolute most groun
       - [Transparent and Reflective (ToM) Surfaces ](#tom) 
       - [Asymmetric Stereo ](#asymmetric) 
    - [Confidence Estimation](#confidence-estimation)
-5. [Workshops](#workshops)
-6. [Tutorials & Talks](#tutorials-talks)
+5. [Applications](#applications)
+6. [Workshops](#workshops)
+7. [Tutorials & Talks](#tutorials-talks)
 
 
 
@@ -448,6 +449,8 @@ We use the :triangular_flag_on_post: symbol to highlight the absolute most groun
 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Lightweight Network Architecture Design</summary>
+
+* **NVStereoNet**: *"On the importance of stereo for accurate depth estimation: An efficient semi-supervised deep neural network approach"*, *CVPRW, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Smolyanskiy_On_the_Importance_CVPR_2018_paper.pdf)] [[Code](https://github.com/NVIDIA-AI-IOT/redtail)] [[Bibtex](./bibliography/NVStereoNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=On+the+Importance+of+Stereo+for+Accurate+Depth+Estimation%3A+An+Efficient+Semi-Supervised+Deep+Neural+Network+Approach&btnG=)]
 
 * **MadNet**: *"Real-Time Self-Adaptive Deep Stereo"*, *CVPR, 2019*. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tonioni_Real-Time_Self-Adaptive_Deep_Stereo_CVPR_2019_paper.pdf)] [[Code](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo?tab=readme-ov-file)] [[Bibtex](./bibliography/MadNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Real-Time+Self-Adaptive+Deep+Stereo&btnG=)]
 
@@ -989,6 +992,34 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 
 </ul>
 </details>
+
+
+## Applications
+
+(Not an exhaustive list)
+
+* **Deep3d**: *"Deep3d: Fully automatic 2d-to-3d video conversion with deep convolutional neural networks"*, *ECCV, 2016*. [[Paper](https://arxiv.org/pdf/1604.03650.pdf)] [[Code](https://github.com/piiswrong/deep3d)] [[Bibtex](./bibliography/Deep3d.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=eep3d%3A+Fully+automatic+2d-to-3d+video+conversion+with+deep+convolutional+neural+network&btnG=)]
+
+* **Geometry to the Rescue**: *"Unsupervised cnn for single view depth estimation: Geometry to the rescue"*, *ECCV, 2016*. [[Paper](https://arxiv.org/pdf/1603.04992)] [[Bibtex](./bibliography/Geometry_to_the_Rescue.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Unsupervised+CNN+for+single+view+depth+estimation%3A+Geometry+to+the+rescu&btnG=)]
+
+
+* **MonoDepth/StereoDepth**: *"Unsupervised monocular depth estimation with left-right consistency"*, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Godard_Unsupervised_Monocular_Depth_CVPR_2017_paper.pdf)] [[Code](https://github.com/mrharicot/monodepth)] [[Bibtex](./bibliography/MonoDepth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+monocular+depth+estimation+with+left-right+consistency&btnG=)]
+
+* **SVSM**: "Single View Stereo Matching", CVPR, 2028. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Single_View_Stereo_CVPR_2018_paper.pdf)] [[Code](https://github.com/yanqi1811/Single-View-Stereo-Matching)] [[Bibtex](./bibliography/SVSM.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Single+View+Stereo+Matching&btnG=)]
+
+* **MonoResMatch**: "Learning monocular depth estimation infusing traditional stereo knowledge", CVPR, 2019. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tosi_Learning_Monocular_Depth_Estimation_Infusing_Traditional_Stereo_Knowledge_CVPR_2019_paper.pdf)] [[Code](https://github.com/fabiotosi92/monoResMatch-Tensorflow)] [[Bibtex](./bibliography/MonoResMatch.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+monocular+depth+estimation+infusing+traditional+stereo+knowledge&btnG=)]
+
+* **Ida-3d**: "Ida-3d: Instance-depth-aware 3d object detection from stereo vision for autonomous driving", CVPR, 2020. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_IDA-3D_Instance-Depth-Aware_3D_Object_Detection_From_Stereo_Vision_for_Autonomous_CVPR_2020_paper.pdf)] [[Code](https://github.com/swords123/IDA-3D)] [[Bibtex](./bibliography/Ida-3d.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=IDA-3D%3A+Instance-Depth-Aware+3D+Object+Detection+From+Stereo+Vision+for+Autonomous+Driving&btnG=)]
+
+* **Stereopifu**: "Stereopifu: Depth aware clothed human digitization via stereo vision", CVPR, 2021. [[Paper](http://openaccess.thecvf.com/content/CVPR2021/papers/Hong_StereoPIFu_Depth_Aware_Clothed_Human_Digitization_via_Stereo_Vision_CVPR_2021_paper.pdf)] [[Code](https://github.com/CrisHY1995/StereoPIFu_Code)] [[Bibtex](./bibliography/Stereopifu.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoPIFu%3A+Depth+Aware+Clothed+Human+Digitization+via+Stereo+Vision&btnG=)]
+
+* **Smart Glasses**: "A Practical Stereo Depth System for Smart Glasses", CVPR, 2023. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_A_Practical_Stereo_Depth_System_for_Smart_Glasses_CVPR_2023_paper.pdf)] [[Bibtex](./bibliography/Smart_Glasses.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Practical+Stereo+Depth+System+for+Smart+Glasses&btnG=)]
+
+* **Cross Attention Renderer**: "Learning to render novel views from wide-baseline stereo pairs", CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Learning_To_Render_Novel_Views_From_Wide-Baseline_Stereo_Pairs_CVPR_2023_paper.pdf)] [[Code](https://github.com/yilundu/cross_attention_renderer)] [[Bibtex](./bibliography/Cross_Attention_Renderer.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+To+Render+Novel+Views+From+Wide-Baseline+Stereo+Pairs&btnG=)]
+
+* **VPPDC**: "Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization", 3DV, 2024. [[Paper](https://vppdc.github.io/assets/paper.pdf)] [[Code](https://vppdc.github.io/)] [[Bibtex](./bibliography/VPPDC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Revisiting+Depth+Completion+from+a+Stereo+Matching+Perspective+for+Cross-domain+Generalization&btnG=)]
+
+* **CoPoNeRF**: "Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs", CVPR, 2024. [[Paper](https://arxiv.org/pdf/2312.07246v1)] [[Code](https://github.com/KU-CVLAB/CoPoNeRF)] [[Bibtex](./bibliography/CoPoNeRF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Unifying+Correspondence%2C+Pose+and+NeRF+for+Pose-Free+Novel+View+Synthesis+from+Stereo+Pairs&btnG=)]
 
 
 ## Workshops

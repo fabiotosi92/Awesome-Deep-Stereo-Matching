@@ -1,0 +1,7 @@
+@InProceedings{Tosi_2019_CVPR,
+author = {Tosi, Fabio and Aleotti, Filippo and Poggi, Matteo and Mattoccia, Stefano},
+title = {Learning monocular depth estimation infusing traditional stereo knowledge},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}

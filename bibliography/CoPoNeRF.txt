@@ -1,0 +1,6 @@
+@article{hong2023unifying,
+  title={Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs},
+  author={Hong, Sunghwan and Jung, Jaewoo and Shin, Heeseong and Yang, Jiaolong and Kim, Seungryong and Luo, Chong},
+  journal={arXiv preprint arXiv:2312.07246},
+  year={2023}
+}

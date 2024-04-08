@@ -1,0 +1,8 @@
+@inproceedings{garg2016unsupervised,
+  title={Unsupervised cnn for single view depth estimation: Geometry to the rescue},
+  author={Garg, Ravi and Bg, Vijay Kumar and Carneiro, Gustavo and Reid, Ian},
+  booktitle={Computer Vision--ECCV 2016: 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part VIII 14},
+  pages={740--756},
+  year={2016},
+  organization={Springer}
+}

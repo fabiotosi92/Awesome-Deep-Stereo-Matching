@@ -1,0 +1,7 @@
+@inproceedings{hong2021stereopifu,
+  title={Stereopifu: Depth aware clothed human digitization via stereo vision},
+  author={Hong, Yang and Zhang, Juyong and Jiang, Boyi and Guo, Yudong and Liu, Ligang and Bao, Hujun},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={535--545},
+  year={2021}
+}
