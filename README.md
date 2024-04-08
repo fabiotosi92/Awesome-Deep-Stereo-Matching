@@ -1045,3 +1045,30 @@ A. Costanzino, M. Poggi, S. Salti, S. Mattoccia; CVPRW 2023, Vancouver, Canada [
 * **Lecture: Computer Vision (Prof. Andreas Geiger, University of Tübingen)**. [[Preliminaries](https://www.youtube.com/watch?v=6hr6xpOU-uw&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&index=12&pp=iAQB)] [[Block Matching](https://www.youtube.com/watch?v=EVzEJQl8WFk&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&index=13&t=830s&pp=iAQB)] [[Siamese Networks](https://www.youtube.com/watch?v=vLgsiIXNf0I&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&index=14&pp=iAQB)] [[Spatial Regularization](https://www.youtube.com/watch?v=gqz6R1qChVQ&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&index=15&t=359s&pp=iAQB)] [[End-to-End Learning](https://www.youtube.com/watch?v=9vrmwZ9Pl4o&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&index=16&t=639s&pp=iAQB)] 
 
 
+## Citation
+
+Please consider citing this list if you find this repository useful:
+
+```
+@article{poggi2021synergies,
+  title={On the synergies between machine learning and binocular stereo for depth estimation from images: a survey},
+  author={Poggi, Matteo and Tosi, Fabio and Batsos, Konstantinos and Mordohai, Philippos and Mattoccia, Stefano},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={44},
+  number={9},
+  pages={5314--5334},
+  year={2021},
+  publisher={IEEE}
+}
+
+@article{poggi2021confidence,
+  title={On the confidence of stereo matching in a deep-learning era: a quantitative evaluation},
+  author={Poggi, Matteo and Kim, Seungryong and Tosi, Fabio and Kim, Sunok and Aleotti, Filippo and Min, Dongbo and Sohn, Kwanghoon and Mattoccia, Stefano},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={44},
+  number={9},
+  pages={5293--5313},
+  year={2021},
+  publisher={IEEE}
+}
+```
