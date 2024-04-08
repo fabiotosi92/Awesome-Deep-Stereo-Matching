@@ -310,6 +310,8 @@ We use the :triangular_flag_on_post: symbol to highlight the absolute most groun
 
    * **UASNet**: *"UASNet: Uncertainty Adaptive Sampling Network for Deep Stereo Matching"*, *ICCV, 2021* [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Mao_UASNet_Uncertainty_Adaptive_Sampling_Network_for_Deep_Stereo_Matching_ICCV_2021_paper.pdf)] [[Bibtex](./bibliography/UASNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=UASNet:+Uncertainty+Adaptive+Sampling+Network+for+Deep+Stereo+Matching&btnG=)]
 
+   * **PCR**: *"Parallax contextual representations for stereo matching"*, *ICIP, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9506747)] [[Bibtex](./bibliography/PCR.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=PARALLAX+CONTEXTUAL+REPRESENTATIONS+FOR+STEREO+MATCHING&btnG=)]
+
    * **PCWNet**: *"PCW-Net: Pyramid Combination and Warping Cost Volume for Stereo Matching"*, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920280.pdf)] [[Code](https://github.com/gallenszl/PCWNet)] [[Bibtex](./bibliography/PCWNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PCW-Net:+Pyramid+Combination+and+Warping+Cost+Volume+for+Stereo+Matching&btnG=)]
 
    * **ICVP**: *"Image-Coupled Volume Propagation for Stereo Matching"*, *ICIP, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10222247)] [[Code](https://github.com/ohkwon718/icvp)] [[Bibtex](./bibliography/ICVP.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Image-Coupled+Volume+Propagation+for+Stereo+Matching&btnG=)]

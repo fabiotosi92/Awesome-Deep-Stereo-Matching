@@ -1,0 +1,8 @@
+@inproceedings{deng2021parallax,
+  title={Parallax contextual representations for stereo matching},
+  author={Deng, Hui and Liao, Qingmin and Lu, Zongqing and Xue, Jing-Hao},
+  booktitle={2021 IEEE International Conference on Image Processing (ICIP)},
+  pages={3193--3197},
+  year={2021},
+  organization={IEEE}
+}
