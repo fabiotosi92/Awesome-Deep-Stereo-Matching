@@ -603,6 +603,8 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 
 * **LidarStereoNet**: *"Noise-Aware Unsupervised Deep Lidar-Stereo Fusion"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_Noise-Aware_Unsupervised_Deep_Lidar-Stereo_Fusion_CVPR_2019_paper.pdf)] [[Code](https://github.com/XuelianCheng/LidarStereoNet)] [[Bibtex](./bibliography/LidarStereoNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Noise-Aware+Unsupervised+Deep+Lidar-Stereo+Fusion&btnG=)]
 
+* **Stereo-LiDAR-CCVNorm**: *"3d lidar and stereo fusion using stereo matching network with conditional cost volume normalization"*, *IROS, 2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8968170?casa_token=ejW3T3WNT8IAAAAA:LN2rFtefaSnrUWMzZFIE8LJESFM6WbY3xQwjM-jzSo0fGHTBTqVjPa1f2pYrqbz1Oe173gUZ)] [[Code](https://github.com/zswang666/Stereo-LiDAR-CCVNorm)] [[Bibtex](./bibliography/LidarStereoNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=3D+LiDAR+and+Stereo+Fusion+using+Stereo+Matching+Network+with+Conditional+Cost+Volume+Normalization&btnG=)]
+
 * **Pseudo-LiDAR++**: *"Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving"*, *ICLR, 2020*. [[Paper](https://arxiv.org/pdf/1906.06310.pdf)] [[Code](https://github.com/mileyan/Pseudo_Lidar_V2)] [[Bibtex](./bibliography/Pseudo-LiDAR++.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pseudo-LiDAR++:+Accurate+Depth+for+3D+Object+Detection+in+Autonomous+Driving&btnG=)]
 
 * **S<sup>3**: *"S<sup>3</sup>: Learnable sparse signal superdensity for guided depth estimation*, CVPR, 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_S3_Learnable_Sparse_Signal_Superdensity_for_Guided_Depth_Estimation_CVPR_2021_paper.pdf)] [[Bibtex](./bibliography/S3.txt)]
@@ -661,6 +663,8 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 * **SCSNet**: *"Selection and Cross Similarity for Event-Image Deep Stereo"*, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920467.pdf)] [[Code](https://github.com/Chohoonhee/SCSNet)] [[Bibtex](./bibliography/SCSNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Selection+and+Cross+Similarity+for+Event-Image+Deep+Stereo&btnG=)]
 
 * **DTC-SPADE**: *"Discrete Time Convolution for Fast Event-Based Stereo"*, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Discrete_Time_Convolution_for_Fast_Event-Based_Stereo_CVPR_2022_paper.pdf)] [[Bibtex](./bibliography/DTC-SPADE.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Discrete+Time+Convolution+for+Fast+Event-Based+Stereo&btnG=)]
+
+* **EFS**: *"Event-image fusion stereo using cross-modality feature propagation"*, *AAAI, 2022*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/19923/19682)] [[Bibtex](./bibliography/EFS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Event-Image+Fusion+Stereo+Using+Cross-Modality+Feature+Propagation&btnG=)]
 
 * **ADES**: *"Learning Adaptive Dense Event Stereo From the Image Domain"*, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Cho_Learning_Adaptive_Dense_Event_Stereo_From_the_Image_Domain_CVPR_2023_paper.pdf)] [[Bibtex](./bibliography/ADES.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+Adaptive+Dense+Event+Stereo+From+the+Image+Domain&btnG=)]
 
@@ -959,7 +963,6 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 
 * **SEDNet**: *"Learning the distribution of errors in stereo matching for joint disparity and uncertainty estimation"*, CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf)] [[Code](https://github.com/lly00412/SEDNet)] [[Bibtex](./bibliography/SEDNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+the+distribution+of+errors+in+stereo+matching+for+joint+disparity+and+uncertainty+estimation&btnG=)]
 
-
 </details>
 
 <details open>
@@ -990,6 +993,13 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 * **EMC**: *"Even More Confident Predictions With Deep Machine-Learning"*, CVPRW, 2017. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Poggi_Learning_to_Predict_CVPR_2017_paper.pdf)] [[Bibtex](./bibliography/EMC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Even+More+Confident+Predictions+With+Deep+Machine-Learning&btnG=)]
 
 </details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Sensor-based</summary>
+
+</details>
+
+* **Lidar-Confidence**: *"Unsupervised confidence for lidar depth maps and applications"*, IROS, 2022. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981654)] [[Bibtex](./bibliography/Lidar-Confidence.txt)] [[Code](https://github.com/andreaconti/lidar-confidence)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Unsupervised+confidence+for+LiDAR+depth+maps+and+applications&btnG=)]
 
 
 </ul>
