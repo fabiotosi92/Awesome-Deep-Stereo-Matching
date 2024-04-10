@@ -995,6 +995,9 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 
 * **CVA**: *"Cnn-based cost volume analysis as confidence measure for dense matching"*, ICCVW, 2019. [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/3DRW/Mehltretter_CNN-Based_Cost_Volume_Analysis_as_Confidence_Measure_for_Dense_Matching_ICCVW_2019_paper.pdf)] [[Bibtex](./bibliography/CVA.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cnn-based+cost+volume+analysis+as+confidence+measure+for+dense+matching&btnG=)]
 
+* **Disparity Plane Sweep**: *"Modeling Stereo-Confidence Out of the End-to-End Stereo-Matching Network via Disparity Plane Sweep"*, AAAI, 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28071/28148)] [[Bibtex](./bibliography/Disparity_Plane_Sweep.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Modeling+Stereo-Confidence+Out+of+the+End-to-End+Stereo-Matching+Network+via+Disparity+Plane+Sweep&btnG=)]
+
+
 
 </details>
 
