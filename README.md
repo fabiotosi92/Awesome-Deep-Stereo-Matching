@@ -1,7 +1,7 @@
 # Awesome-Deep-Stereo-Matching
 Welcome to the "Awesome-Deep-Stereo-Matching" repository, a curated list of state-of-the-art deep stereo matching resources maintained by [Fabio Tosi](https://fabiotosi92.github.io/) and [Matteo Poggi](https://mattpoggi.github.io/), both from the University of Bologna. This repository, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision), aims to provide a comprehensive collection of the latest and most influential papers on deep stereo matching published in top-tier computer vision conferences and prestigious journals.
 
-The methods included in this repository are appropriately categorized to facilitate navigation and understanding of the diverse approaches and techniques employed in deep stereo matching research.
+The methods included in this repository are appropriately categorized to facilitate navigation and understanding of the diverse approaches and techniques employed in deep stereo matching research. Additionally, for anyone in need, we also release the [reference bib](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching/blob/main/references.bib) which contains the bib entries for all the works included in this page.
 
 We use the :triangular_flag_on_post: symbol to highlight the absolute most groundbreaking works.
 
@@ -34,7 +34,7 @@ We use the :triangular_flag_on_post: symbol to highlight the absolute most groun
 5. [Applications](#applications)
 6. [Workshops](#workshops)
 7. [Tutorials & Talks](#tutorials-talks)
-
+8. [Citation](#citation)
 
 
 <h2 id="fundamentals"> Survey & Fundamentals </h2>
