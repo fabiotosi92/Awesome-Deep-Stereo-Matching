@@ -470,7 +470,7 @@ We use the :triangular_flag_on_post: symbol to highlight the absolute most groun
 
 * **RLStereo**: *"RLStereo: Real-time stereo matching based on reinforcement learning"*, *TIP, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9614986)] [[Bibtex](./bibliography/RLStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=RLStereo:+Real-time+stereo+matching+based+on+reinforcement+learning&btnG=)]
 
-* **MadNet2**: *"Federated Online Adaptation for Deep Stereo"*, *CVPR, 2024*. [[Paper](https://fedstereo.github.io/)] [[Bibtex](./bibliography/FedStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Federated+Online+Adaptation+for+Deep+Stereo&btnG=)]
+* **MadNet2**: *"Federated Online Adaptation for Deep Stereo"*, *CVPR, 2024*.  [[Bibtex](./bibliography/FedStereo.txt)] 
 
 </details>
 
