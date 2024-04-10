@@ -1,0 +1,8 @@
+@inproceedings{wang20193d,
+  title={3d lidar and stereo fusion using stereo matching network with conditional cost volume normalization},
+  author={Wang, Tsun-Hsuan and Hu, Hou-Ning and Lin, Chieh Hubert and Tsai, Yi-Hsuan and Chiu, Wei-Chen and Sun, Min},
+  booktitle={2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={5895--5902},
+  year={2019},
+  organization={IEEE}
+}

@@ -1,0 +1,7 @@
+@inproceedings{zbontar2015computing,
+  title={Computing the stereo matching cost with a convolutional neural network},
+  author={Zbontar, Jure and LeCun, Yann},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={1592--1599},
+  year={2015}
+}

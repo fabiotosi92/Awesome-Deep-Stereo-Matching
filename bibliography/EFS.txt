@@ -1,0 +1,9 @@
+@inproceedings{cho2022event,
+  title={Event-image fusion stereo using cross-modality feature propagation},
+  author={Cho, Hoonhee and Yoon, Kuk-Jin},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={1},
+  pages={454--462},
+  year={2022}
+}

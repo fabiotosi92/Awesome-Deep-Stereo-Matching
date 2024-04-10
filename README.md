@@ -186,7 +186,7 @@ We use the :triangular_flag_on_post: symbol to highlight the absolute most groun
 
 * **Deep Embed**: *"A deep visual correspondence embedding model for stereo matching costs"*, *ICCV, 2015*. [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Chen_A_Deep_Visual_ICCV_2015_paper.pdf)] [[Bibtex](./bibliography/Deep_Embed.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+deep+visual+correspondence+embedding+model+for+stereo+matching+costs&btnG=)]
 
-* :triangular_flag_on_post: **MC-CNN**: *"Stereo matching by training a convolutional neural network to compare image patches"*, *JMLR, 2016*. [[Paper](https://www.jmlr.org/papers/v17/15-535.html)] [[Code](https://github.com/jzbontar/mc-cnn)] [[Bibtex](./bibliography/MC-CNN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stereo+matching+by+training+a+convolutional+neural+network+to+compare+image+patches&btnG=)]
+* :triangular_flag_on_post: **MC-CNN**: *"Stereo matching by training a convolutional neural network to compare image patches"*, *JMLR, 2016*. [[Paper]( )] [[Code](https://github.com/jzbontar/mc-cnn)] [[Bibtex1](./bibliography/MC-CNN1.txt)]  [[Bibtex2](./bibliography/MC-CNN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Computing+the+Stereo+Matching+Cost+with+a+Convolutional+Neural+Network&btnG=)]
 
 * **Content CNN**: *"Efficient deep learning for stereo matching"*, *CVPR, 2016*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Luo_Efficient_Deep_Learning_CVPR_2016_paper.pdf)] [[Code](https://github.com/datvuthanh/Stereo-Matching)] [[Bibtex](./bibliography/Content_CNN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Efficient+deep+learning+for+stereo+matching&btnG=)]
 
@@ -823,6 +823,14 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 <summary style="font-size: larger; font-weight: bold;">Knowledge Transfer</summary>
 
 * **DKT-Stereo**: "*Robust Synthetic-to-Real Transfer for Stereo Matching*", *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2403.07705)] [[Code](https://github.com/jiaw-z/DKT-Stereo)] [[Bibtex](./bibliography/DKT-Stereo.txt)] 
+
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Data Augmentation Analysis </summary>
+
+* **NLCA-Net_v2**: "*Rethinking training strategy in stereo matching*", *TNNLS, 2022*. [[Paper](https://ieeexplore.ieee.org/iel7/5962385/10273172/09709604.pdf?casa_token=Bs47IDDe0r8AAAAA:J0ru7iqCpc1X1HGE3xsJ6u5I1gTAU8Z_wFAE_4QYg0-50X0dCUHvqrp7l8FZVsROvqZYwayc)] [[Code](https://github.com/Archaic-Atom/NLCA-Net_v2)] [[Bibtex](./bibliography/NLCA-Net_v2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Rethinking+Training+Strategy+in+Stereo+Matching&btnG=)]
+
 
 </details>
 

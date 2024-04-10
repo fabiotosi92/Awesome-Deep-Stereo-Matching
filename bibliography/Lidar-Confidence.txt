@@ -1,0 +1,8 @@
+@inproceedings{conti2022unsupervised,
+  title={Unsupervised confidence for lidar depth maps and applications},
+  author={Conti, Andrea and Poggi, Matteo and Aleotti, Filippo and Mattoccia, Stefano},
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={8352--8359},
+  year={2022},
+  organization={IEEE}
+}

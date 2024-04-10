@@ -1,11 +1,10 @@
-
-    @article{vzbontar2016stereo_MC-CNN,
-      title={Stereo matching by training a convolutional neural network to compare image patches},
-      author={{{Z}}bontar, Jure and LeCun, Yann},
-      journal={Journal of Machine Learning Research},
-      volume={17},
-      number={65},
-      pages={1--32},
-      year={2016}
-    }
+@article{vzbontar2016stereo_MC-CNN,
+  title={Stereo matching by training a convolutional neural network to compare image patches},
+  author={{{Z}}bontar, Jure and LeCun, Yann},
+  journal={Journal of Machine Learning Research},
+  volume={17},
+  number={65},
+  pages={1--32},
+  year={2016}
+}
     
