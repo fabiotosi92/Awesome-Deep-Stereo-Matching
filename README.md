@@ -360,6 +360,8 @@ We use the :triangular_flag_on_post: symbol to highlight the absolute most groun
 
    * **ICGNet**: *"Learning Intra-view and Cross-view Geometric Knowledge for Stereo Matching"*, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2402.19270.pdf)] [[Code](https://github.com/DFSDDDDD1199/ICGNet)] [[Bibtex](./bibliography/ICGNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+Intra-view+and+Cross-view+Geometric+Knowledge+for+Stereo+Matching&btnG=)]
 
+   * **MoCha-Stereo**: *"MoCha-Stereo: Motif Channel Attention Network for Stereo Matching"*, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.06842.pdf)] [[Code](https://github.com/ZYangChen/MoCha-Stereo)] [[Bibtex](./bibliography/MoCha-Stereo.txt)] [[Google Scholar](https://scholar.google.de/scholar?q=MoCha-Stereo:%20Motif%20Channel%20Attention%20Network%20for%20Stereo%20Matching)]
+
    * **XR-Stereo**: *"Stereo Matching in Time: 100+ FPS Video Stereo Matching for Extended Reality"*, *WACV, 2024*. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cheng_Stereo_Matching_in_Time_100_FPS_Video_Stereo_Matching_for_WACV_2024_paper.pdf)] [[Code](https://github.com/za-cheng/XR-Stereo)] [[Bibtex](./bibliography/XR-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stereo+Matching+in+Time:+100++FPS+Video+Stereo+Matching+for+Extended+Reality&btnG=)]
 
   </details>
