@@ -499,6 +499,7 @@ We use the :triangular_flag_on_post: symbol to highlight the absolute most groun
 
 * **NA-Stereo**: *"Normal Assisted Stereo Depth Estimation"*, *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kusupati_Normal_Assisted_Stereo_Depth_Estimation_CVPR_2020_paper.pdf)] [[Code](https://github.com/udaykusupati/Normal-Assisted-Stereo)] [[Bibtex](./bibliography/NA-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Normal+Assisted+Stereo+Depth+Estimation&btnG=)]
 
+* **HITNet**: *"HITNet: Hierarchical Iterative Tile Refinement Network for Real-time Stereo Matching"*, *CVPR, 2021*. [[Paper](https://arxiv.org/abs/2007.12140)] [[Code](https://github.com/google-research/google-research/tree/master/hitnet)] [[Bibtex](./bibliography/HITNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=HITNet:+Hierarchical+Iterative+Tile+Refinement+Network+for+Real-time+Stereo+Matching&btnG=)]
 
 </details>
 
