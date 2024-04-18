@@ -616,11 +616,15 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 
 * **Listereo**: *"Listereo: Generate dense depth maps from lidar and stereo imagery"*, *ICRA, 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9196628)] [[Bibtex](./bibliography/Listereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Listereo%3A+Generate+dense+depth+maps+from+lidar+and+stereo+imagery&btnG=)]
 
-* **S<sup>3**: *"S<sup>3</sup>: Learnable sparse signal superdensity for guided depth estimation*, CVPR, 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_S3_Learnable_Sparse_Signal_Superdensity_for_Guided_Depth_Estimation_CVPR_2021_paper.pdf)] [[Bibtex](./bibliography/S3.txt)]
+* **S<sup>3**: *"S<sup>3</sup>: Learnable sparse signal superdensity for guided depth estimation"*, CVPR, 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_S3_Learnable_Sparse_Signal_Superdensity_for_Guided_Depth_Estimation_CVPR_2021_paper.pdf)] [[Bibtex](./bibliography/S3.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=+Learnable+sparse+signal+superdensity+for+guided+depth+estimation&btnG=)]
 
 * **LSMD-Net**: *"LSMD-Net: LiDAR-Stereo Fusion with Mixture Density Network for Depth Sensing"*, *ACCV, 2022*. [[Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Yin_LSMD-Net_LiDAR-Stereo_Fusion_with_Mixture_Density_Network_for_Depth_Sensing_ACCV_2022_paper.pdf)] [[Bibtex](./bibliography/LSMD-Net.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=LSMD-Net:+LiDAR-Stereo+Fusion+with+Mixture+Density+Network+for+Depth+Sensing&btnG=)]
 
 * **CamLiFlow**: *"Learning optical flow and scene flow with bidirectional camera-lidar fusion"*, *TPAMI, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10310261)] [[Code](https://github.com/MCG-NJU/CamLiFlow)] [[Bibtex](./bibliography/CamLiFlow.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+optical+flow+and+scene+flow+with+bidirectional+camera-lidar+fusion&btnG=)]
+
+
+* **Active Disparity Sampling**: *"Active Disparity Sampling for Stereo Matching With Adjoint Network"*, *TIP, 2023*. [[Paper](https://ieeexplore.ieee.org/iel7/83/4358840/10367813.pdf?casa_token=LTr0bj333I8AAAAA:VbxzhxvyA--lpHpIUfFhMkHADyz8v4kIq6jxdQFYgi_ruTy2ahOIZk13YjuE0ynwkHfUnxOV)] [[Bibtex](./bibliography/ActiveDisparitySampling.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Active+Disparity+Sampling+for+Stereo+Matching+With+Adjoint+Network&btnG=)]
+
 
 * **VPP**: *"Active Stereo Without Pattern Projector"*, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Bartolomei_Active_Stereo_Without_Pattern_Projector_ICCV_2023_paper.pdf)] [[Code](https://vppstereo.github.io/)] [[Bibtex](./bibliography/VPP.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Active+Stereo+Without+Pattern+Projector&btnG=)]
 
@@ -1055,6 +1059,9 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 * **Smart Glasses**: "A Practical Stereo Depth System for Smart Glasses", CVPR, 2023. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_A_Practical_Stereo_Depth_System_for_Smart_Glasses_CVPR_2023_paper.pdf)] [[Bibtex](./bibliography/Smart_Glasses.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Practical+Stereo+Depth+System+for+Smart+Glasses&btnG=)]
 
 * **Cross Attention Renderer**: "Learning to render novel views from wide-baseline stereo pairs", CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Learning_To_Render_Novel_Views_From_Wide-Baseline_Stereo_Pairs_CVPR_2023_paper.pdf)] [[Code](https://github.com/yilundu/cross_attention_renderer)] [[Bibtex](./bibliography/Cross_Attention_Renderer.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+To+Render+Novel+Views+From+Wide-Baseline+Stereo+Pairs&btnG=)]
+
+
+* **SDCNet**: "Stereo-augmented depth completion from a single rgb-lidar image", ICRA, 2021. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561557)] [[Bibtex](./bibliography/SDCNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo-augmented+depth+completion+from+a+single+rgb-lidar+image&btnG=)]
 
 * **VPPDC**: "Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization", 3DV, 2024. [[Paper](https://vppdc.github.io/assets/paper.pdf)] [[Code](https://vppdc.github.io/)] [[Bibtex](./bibliography/VPPDC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Revisiting+Depth+Completion+from+a+Stereo+Matching+Perspective+for+Cross-domain+Generalization&btnG=)]
 
