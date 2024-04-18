@@ -602,6 +602,8 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Depth-Guided Sensor Stereo Networks</summary>
 
+* **LidarStereoFusion**: *"High-precision depth estimation with the 3d lidar and stereo fusion"*, *ICRA, 2018*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461048)]  [[Bibtex](./bibliography/LidarStereoFusion.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=igh-precision+depth+estimation+with+the+3d+lidar+and+stereo+fusion&btnG=Stereo-LiDAR Depth Estimation with Deformable Propagation and Learned Disparity-Depth Conversion)]
+
 * **GSD**: *"Guided stereo matching"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Poggi_Guided_Stereo_Matching_CVPR_2019_paper.pdf)] [[Code](https://github.com/mattpoggi/guided-stereo)] [[Bibtex](./bibliography/GSD.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Guided+stereo+matching&btnG=)]
 
 * **LidarStereoNet**: *"Noise-Aware Unsupervised Deep Lidar-Stereo Fusion"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cheng_Noise-Aware_Unsupervised_Deep_Lidar-Stereo_Fusion_CVPR_2019_paper.pdf)] [[Code](https://github.com/XuelianCheng/LidarStereoNet)] [[Bibtex](./bibliography/LidarStereoNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Noise-Aware+Unsupervised+Deep+Lidar-Stereo+Fusion&btnG=)]
@@ -609,6 +611,8 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 * **Stereo-LiDAR-CCVNorm**: *"3d lidar and stereo fusion using stereo matching network with conditional cost volume normalization"*, *IROS, 2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8968170?casa_token=ejW3T3WNT8IAAAAA:LN2rFtefaSnrUWMzZFIE8LJESFM6WbY3xQwjM-jzSo0fGHTBTqVjPa1f2pYrqbz1Oe173gUZ)] [[Code](https://github.com/zswang666/Stereo-LiDAR-CCVNorm)] [[Bibtex](./bibliography/LidarStereoNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=3D+LiDAR+and+Stereo+Fusion+using+Stereo+Matching+Network+with+Conditional+Cost+Volume+Normalization&btnG=)]
 
 * **Pseudo-LiDAR++**: *"Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving"*, *ICLR, 2020*. [[Paper](https://arxiv.org/pdf/1906.06310.pdf)] [[Code](https://github.com/mileyan/Pseudo_Lidar_V2)] [[Bibtex](./bibliography/Pseudo-LiDAR++.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pseudo-LiDAR++:+Accurate+Depth+for+3D+Object+Detection+in+Autonomous+Driving&btnG=)]
+
+* **Listereo**: *"Listereo: Generate dense depth maps from lidar and stereo imagery"*, *ICRA, 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9196628)] [[Bibtex](./bibliography/Listereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Listereo%3A+Generate+dense+depth+maps+from+lidar+and+stereo+imagery&btnG=)]
 
 * **S<sup>3**: *"S<sup>3</sup>: Learnable sparse signal superdensity for guided depth estimation*, CVPR, 2021. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_S3_Learnable_Sparse_Signal_Superdensity_for_Guided_Depth_Estimation_CVPR_2021_paper.pdf)] [[Bibtex](./bibliography/S3.txt)]
 
@@ -618,7 +622,7 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 
 * **VPP**: *"Active Stereo Without Pattern Projector"*, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Bartolomei_Active_Stereo_Without_Pattern_Projector_ICCV_2023_paper.pdf)] [[Code](https://vppstereo.github.io/)] [[Bibtex](./bibliography/VPP.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Active+Stereo+Without+Pattern+Projector&btnG=)]
 
-* **SDG-Depth**: *"Stereo-LiDAR Depth Estimation with Deformable Propagation and Learned Disparity-Depth Conversion"*, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2404.07545.pdf)] [[Code](https://github.com/SJTU-ViSYS/SDG-Depth)] [[Bibtex](./bibliography/SDG-Depth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Active+Stereo+Without+Pattern+Projector&btnG=)]
+* **SDG-Depth**: *"Stereo-LiDAR Depth Estimation with Deformable Propagation and Learned Disparity-Depth Conversion"*, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2404.07545.pdf)] [[Code](https://github.com/SJTU-ViSYS/SDG-Depth)] [[Bibtex](./bibliography/SDG-Depth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo-LiDAR+Depth+Estimation+with+Deformable+Propagation+and+Learned+Disparity-Depth+Conversion&btnG=)]
 
 </details>
 

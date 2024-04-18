@@ -1,0 +1,8 @@
+@inproceedings{park2018high,
+  title={High-precision depth estimation with the 3d lidar and stereo fusion},
+  author={Park, Kihong and Kim, Seungryong and Sohn, Kwanghoon},
+  booktitle={2018 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={2156--2163},
+  year={2018},
+  organization={IEEE}
+}

@@ -1,0 +1,8 @@
+@inproceedings{zhang2020listereo,
+  title={Listereo: Generate dense depth maps from lidar and stereo imagery},
+  author={Zhang, Junming and Ramanagopal, Manikandasriram Srinivasan and Vasudevan, Ram and Johnson-Roberson, Matthew},
+  booktitle={2020 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={7829--7836},
+  year={2020},
+  organization={IEEE}
+}
