@@ -602,7 +602,7 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Depth-Guided Sensor Stereo Networks</summary>
 
-* **LidarStereoFusion**: *"High-precision depth estimation with the 3d lidar and stereo fusion"*, *ICRA, 2018*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461048)]  [[Bibtex](./bibliography/LidarStereoFusion.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=igh-precision+depth+estimation+with+the+3d+lidar+and+stereo+fusion&btnG=Stereo-LiDAR Depth Estimation with Deformable Propagation and Learned Disparity-Depth Conversion)]
+* **LidarStereoFusion**: *"High-precision depth estimation with the 3d lidar and stereo fusion"*, *ICRA, 2018*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8461048)]  [[Bibtex](./bibliography/LidarStereoFusion.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=High-precision+depth+estimation+with+the+3d+lidar+and+stereo+fusion&btnG=)]
 
 * **GSD**: *"Guided stereo matching"*, *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Poggi_Guided_Stereo_Matching_CVPR_2019_paper.pdf)] [[Code](https://github.com/mattpoggi/guided-stereo)] [[Bibtex](./bibliography/GSD.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Guided+stereo+matching&btnG=)]
 
