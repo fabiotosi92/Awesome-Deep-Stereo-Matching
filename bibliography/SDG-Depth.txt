@@ -1,0 +1,6 @@
+@article{li2024stereo,
+  title={Stereo-LiDAR Depth Estimation with Deformable Propagation and Learned Disparity-Depth Conversion},
+  author={Li, Ang and Hu, Anning and Xi, Wei and Yu, Wenxian and Zou, Danping},
+  journal={arXiv preprint arXiv:2404.07545},
+  year={2024}
+}

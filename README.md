@@ -618,6 +618,8 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 
 * **VPP**: *"Active Stereo Without Pattern Projector"*, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Bartolomei_Active_Stereo_Without_Pattern_Projector_ICCV_2023_paper.pdf)] [[Code](https://vppstereo.github.io/)] [[Bibtex](./bibliography/VPP.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Active+Stereo+Without+Pattern+Projector&btnG=)]
 
+* **SDG-Depth**: *"Stereo-LiDAR Depth Estimation with Deformable Propagation and Learned Disparity-Depth Conversion"*, *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2404.07545.pdf)] [[Code](https://github.com/SJTU-ViSYS/SDG-Depth)] [[Bibtex](./bibliography/SDG-Depth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Active+Stereo+Without+Pattern+Projector&btnG=)]
+
 </details>
 
 <details open>
