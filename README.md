@@ -1070,6 +1070,9 @@ Stereo Depth and Camera Motion"*, *CVPR, 2021*. [[Paper](https://openaccess.thec
 
 ## Workshops
 
+* **NTIRE 2024: HR Depth from Images of Specular and Transparent Surfaces**. P. Z. Ramirez, F. Tosi, L. Di Stefano, R. Timofte
+A. Costanzino, M. Poggi, S. Salti, S. Mattoccia; CVPRW 2024, Seattle, US [[Website](https://cvlab-unibo.github.io/booster-web/ntire.html)]
+
 * **NTIRE 2023: HR Depth from Images of Specular and Transparent Surfaces**. P. Z. Ramirez, F. Tosi, L. Di Stefano, R. Timofte
 A. Costanzino, M. Poggi, S. Salti, S. Mattoccia; CVPRW 2023, Vancouver, Canada [[Website](https://cvlab-unibo.github.io/booster-web/ntire.html)]
 
