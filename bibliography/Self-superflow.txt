@@ -1,0 +1,8 @@
+@inproceedings{bendig2022self,
+  title={Self-superflow: self-supervised scene flow prediction in stereo sequences},
+  author={Bendig, Katharina and Schuster, Ren{\'e} and Stricker, Didier},
+  booktitle={2022 IEEE International Conference on Image Processing (ICIP)},
+  pages={481--485},
+  year={2022},
+  organization={IEEE}
+}
