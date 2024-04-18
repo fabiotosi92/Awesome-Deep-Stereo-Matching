@@ -1,0 +1,8 @@
+@inproceedings{choi2021stereo,
+  title={Stereo-augmented depth completion from a single rgb-lidar image},
+  author={Choi, Keunhoon and Jeong, Somi and Kim, Youngjung and Sohn, Kwanghoon},
+  booktitle={2021 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={13641--13647},
+  year={2021},
+  organization={IEEE}
+}

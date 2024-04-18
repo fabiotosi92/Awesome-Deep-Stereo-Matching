@@ -1,0 +1,7 @@
+@article{zhang2023active,
+  title={Active Disparity Sampling for Stereo Matching With Adjoint Network},
+  author={Zhang, Chenghao and Meng, Gaofeng and Tian, Kun and Ni, Bolin and Xiang, Shiming},
+  journal={IEEE Transactions on Image Processing},
+  year={2023},
+  publisher={IEEE}
+}
