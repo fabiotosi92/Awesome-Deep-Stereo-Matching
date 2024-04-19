@@ -989,6 +989,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **LGC/ConfNet**: *"Beyond local reasoning for stereo confidence estimation with deep learning"*, Tosi et al.,  ECCV, 2018. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Fabio_Tosi_Beyond_local_reasoning_ECCV_2018_paper.pdf)] [[Code](https://github.com/fabiotosi92/LGC-Tensorflow)] [[Bibtex](./bibliography/LGC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Beyond+local+reasoning+for+stereo+confidence+estimation+with+deep+learning&btnG=)]
 
+* **Self-adapting Confidence**: *"Self-adapting confidence estimation for stereo"*, Poggi et al.,  ECCV, 2020. [[Paper](https://arxiv.org/pdf/2008.06447.pdf)] [[Code](https://github.com/mattpoggi/self-adapting-confidence)] [[Bibtex](./bibliography/Self-adapting-confidence.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Self-adapting+confidence+estimation+for+stereo&btnG=)]
+
 * **SEDNet**: *"Learning the distribution of errors in stereo matching for joint disparity and uncertainty estimation"*, Chen et al., CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf)] [[Code](https://github.com/lly00412/SEDNet)] [[Bibtex](./bibliography/SEDNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+the+distribution+of+errors+in+stereo+matching+for+joint+disparity+and+uncertainty+estimation&btnG=)]
 
 </details>
@@ -1028,7 +1030,6 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Sensor-based</summary>
 
-</details>
 
 * **Lidar-Confidence**: *"Unsupervised confidence for lidar depth maps and applications"*, Conti et al., IROS, 2022. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9981654)] [[Bibtex](./bibliography/Lidar-Confidence.txt)] [[Code](https://github.com/andreaconti/lidar-confidence)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Unsupervised+confidence+for+LiDAR+depth+maps+and+applications&btnG=)]
 
