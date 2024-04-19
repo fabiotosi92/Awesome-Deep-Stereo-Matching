@@ -1060,12 +1060,13 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **Cross Attention Renderer**: "Learning to render novel views from wide-baseline stereo pairs", Du et al., *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Learning_To_Render_Novel_Views_From_Wide-Baseline_Stereo_Pairs_CVPR_2023_paper.pdf)] [[Code](https://github.com/yilundu/cross_attention_renderer)] [[Bibtex](./bibliography/Cross_Attention_Renderer.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+To+Render+Novel+Views+From+Wide-Baseline+Stereo+Pairs&btnG=)]
 
-
 * **SDCNet**: "Stereo-augmented depth completion from a single rgb-lidar image", Choi et al., *ICRA, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561557)] [[Bibtex](./bibliography/SDCNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo-augmented+depth+completion+from+a+single+rgb-lidar+image&btnG=)]
 
 * **VPPDC**: "Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization", Bartolomei et al., *3DV, 2024*. [[Paper](https://vppdc.github.io/assets/paper.pdf)] [[Code](https://vppdc.github.io/)] [[Bibtex](./bibliography/VPPDC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Revisiting+Depth+Completion+from+a+Stereo+Matching+Perspective+for+Cross-domain+Generalization&btnG=)]
 
 * **CoPoNeRF**: "Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs", Hong et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.07246v1)] [[Code](https://github.com/KU-CVLAB/CoPoNeRF)] [[Bibtex](./bibliography/CoPoNeRF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Unifying+Correspondence%2C+Pose+and+NeRF+for+Pose-Free+Novel+View+Synthesis+from+Stereo+Pairs&btnG=)]
+
+* **DSGN**: "Deep Stereo Geometry Network for 3D Object Detection", Chen et al., *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_DSGN_Deep_Stereo_Geometry_Network_for_3D_Object_Detection_CVPR_2020_paper.pdf)] [[Code](https://github.com/dvlab-research/DSGN)] [[Bibtex](./bibliography/DSGN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Deep+Stereo+Geometry+Network+for+3D+Object+Detection&btnG=)]
 
 
 ## Workshops

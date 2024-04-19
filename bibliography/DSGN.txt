@@ -1,0 +1,7 @@
+@inproceedings{chen2020dsgn,
+  title={Dsgn: Deep stereo geometry network for 3d object detection},
+  author={Chen, Yilun and Liu, Shu and Shen, Xiaoyong and Jia, Jiaya},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={12536--12545},
+  year={2020}
+}
