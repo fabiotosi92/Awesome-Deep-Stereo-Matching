@@ -1,0 +1,12 @@
+To contribute to the awesome-deep-stereo-matching GitHub repository, please follow these instructions for submitting a pull request:
+
+    1. Add the BibTeX entry for your work in a new text file under the bibliography/ directory. Name this file with the name of your project, e.g., bibliography/<YOUR-PROJECT>.txt.
+    2. Open the references.bib file and append your BibTeX entry at the bottom of the file.
+    3. Edit the README.md file and follow the format: **NAME**, *"TITLE"*, AUTHOR et al., *CONFERENCE, YEAR* [[Paper](link_PAPER)] [[Code](link_CODE)] [[Bibtex](./bibliography/<YOUR-PROJECT>.txt)] [[Google Scholar](link_GOOGLE_SCHOLAR)]. For example:
+
+        * **SMD-Nets**: *"SMD-Nets: Stereo Mixture Density Networks"*, Tosi et al.,  *CVPR, 2021*. [[Paper](http://www.cvlibs.net/publications/Tosi2021CVPR.pdf)] [[Code](https://github.com/fabiotosi92/SMD-Nets)] [[Bibtex](./bibliography/SMD-Nets.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SMD-Nets:+Stereo+Mixture+Density+Networks&btnG=)] 
+    
+    4. Make sure to add your work under the appropriate category in the README.md file.
+
+
+Please ensure that you replace <YOUR-PROJECT> with the actual name of your project when adding the BibTeX file and linking to it in the README.md file.

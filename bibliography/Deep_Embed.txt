@@ -1,9 +1,8 @@
-
-    @inproceedings{chen2015deep_Deep_Embed,
-      title={A deep visual correspondence embedding model for stereo matching costs},
-      author={Chen, Zhuoyuan and Sun, Xun and Wang, Liang and Yu, Yinan and Huang, Chang},
-      booktitle={Proceedings of the IEEE International Conference on Computer Vision},
-      pages={972--980},
-      year={2015}
-    }
+@inproceedings{chen2015deep_Deep_Embed,
+   title={A deep visual correspondence embedding model for stereo matching costs},
+   author={Chen, Zhuoyuan and Sun, Xun and Wang, Liang and Yu, Yinan and Huang, Chang},
+   booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+   pages={972--980},
+   year={2015}
+}
     

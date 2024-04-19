@@ -1,5 +1,5 @@
 @inproceedings{chen2024mocha,
-  title={MoCha-Stereo: Motif Channel Attention Network for Stereo Matching},
+        title={MoCha-Stereo: Motif Channel Attention Network for Stereo Matching},
 	author={Chen, Ziyang and Long, Wei and Yao, He and Zhang, Yongjun and Wang, Bingshu and Qin, Yongbin and Wu, Jia},
 	booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
 	year={2024}
