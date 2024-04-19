@@ -791,7 +791,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 * :triangular_flag_on_post: **DSM-Net**: "*Domain-invariant Stereo Matching Networks*", Zhang et al., *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470409.pdf)] [[Code](https://github.com/feihuzhang/DSMNet)] [[Bibtex](./bibliography/DSM-Net.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Domain-invariant+Stereo+Matching+Networks&btnG=)] 
 
 
-* **FCStereo**: "*Revisiting Domain Generalized Stereo Matching Networks From a Feature Consistency Perspective*", Zhang et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Revisiting_Domain_Generalized_Stereo_Matching_Networks_From_a_Feature_Consistency_CVPR_2022_paper.pdf)] [[Code](https://github.com/jiaw-z/FCStereo)] [[Bibtex](./bibliography/FCStereo.txt)] [[Bibtex](./bibliography/DSM-Net.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Revisiting+Domain+Generalized+Stereo+Matching+Networks+From+a+Feature+Consistency+Perspective&btnG=)] 
+* **FCStereo**: "*Revisiting Domain Generalized Stereo Matching Networks From a Feature Consistency Perspective*", Zhang et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Revisiting_Domain_Generalized_Stereo_Matching_Networks_From_a_Feature_Consistency_CVPR_2022_paper.pdf)] [[Code](https://github.com/jiaw-z/FCStereo)] [[Bibtex](./bibliography/FCStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Revisiting+Domain+Generalized+Stereo+Matching+Networks+From+a+Feature+Consistency+Perspective&btnG=)] 
 
 * **GraftNet**: "*GraftNet: Towards Domain Generalized Stereo Matching With a Broad-Spectrum and Task-Oriented Feature*", Liu et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_GraftNet_Towards_Domain_Generalized_Stereo_Matching_With_a_Broad-Spectrum_and_CVPR_2022_paper.pdf)] [[Code](https://github.com/SpadeLiu/Graft-PSMNet)] [[Bibtex](./bibliography/GraftNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=GraftNet%3A+Towards+Domain+Generalized+Stereo+Matching+With+a+Broad-Spectrum+and+Task-Oriented+Feature&btnG=)] 
 
@@ -861,10 +861,9 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Offline Adaptation</summary>
 
+* **Confidence-guided Adaptation**: *"Unsupervised adaptation for deep stereo"*, Tonioni et al., *ICCV, 2017*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tonioni_Unsupervised_Adaptation_for_ICCV_2017_paper.pdf)] [[Code](https://github.com/CVLAB-Unibo/Unsupervised-Adaptation-for-Deep-Stereo)] [[Bibtex1](./bibliography/Confidence_guided_Adaptation_0.txt)]  [[Bibtex2](./bibliography/Confidence_guided_Adaptation_1.txt)]
 
 * **Open-World Stereo**: *"Open-world stereo video matching with deep rnn"*, Zhong et al., *ECCV, 2018*. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yiran_Zhong_Open-World_Stereo_Video_ECCV_2018_paper.pdf)] [[Bibtex](./bibliography/Open-World.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Open-world+stereo+video+matching+with+deep+rnn&btnG=)] 
-
-* **Confidence-guided Adaptation**: *"Unsupervised adaptation for deep stereo"*, Tonioni et al., *ICCV, 2017*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Tonioni_Unsupervised_Adaptation_for_ICCV_2017_paper.pdf)] [[Code](https://github.com/CVLAB-Unibo/Unsupervised-Adaptation-for-Deep-Stereo)] [[Bibtex1](./bibliography/Confidence_guided_Adaptation_0.txt)]  [[Bibtex2](./bibliography/Confidence_guided_Adaptation_1.txt)]
 
 * **ZOLE**: *"Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domain"*, Pang et al., *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pang_Zoom_and_Learn_CVPR_2018_paper.pdf)] [[Code](https://github.com/jiahaopang/zole)] [[Bibtex](./bibliography/v.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+adaptation+for+deep+stereo&btnG=)]
 
@@ -872,9 +871,14 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **UnDAF**: *"UnDAF: A General Unsupervised Domain Adaptation Framework for Disparity or Optical Flow Estimation"*, Wang et al., *CVPR, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811811)] [[Code](https://sites.google.com/view/undaf)] [[Bibtex](./bibliography/UnDAF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=UnDAF:+A+General+Unsupervised+Domain+Adaptation+Framework+for+Disparity+or+Optical+Flow+Estimation&btnG=)]
 
+* **RAG**: *"Continual Stereo Matching of Continuous Driving Scenes With Growing Architecture"*, Zhang et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Continual_Stereo_Matching_of_Continuous_Driving_Scenes_With_Growing_Architecture_CVPR_2022_paper.pdf)] [[Bibtex](./bibliography/RAG.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Continual+Stereo+Matching+of+Continuous+Driving+Scenes+With+Growing+Architecture&btnG=)]
+
 * **UCFNet**: *"Digging Into Uncertainty-Based Pseudo-Label for Robust Stereo Matching"*, Shen et al., *TPAMI, 2023*. [[Paper](https://arxiv.org/pdf/2307.16509.pdf)] [[Code](https://github.com/gallenszl/UCFNet?tab=readme-ov-file)] [[Bibtex](./bibliography/UCFNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Digging+Into+Uncertainty-Based+Pseudo-Label+for+Robust+Stereo+Matching&btnG=)]
 
 * **StereoFlowGAN**: *"StereoFlowGAN: Co-training for Stereo and Flow with Unsupervised Domain Adaptation"*, Xiong et al., *BMVC, 2023*. [[Paper](https://papers.bmvc2023.org/0240.pdf)] [[Bibtex](./bibliography/StereoFlowGAN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=StereoFlowGAN:+Co-training+for+Stereo+and+Flow+with+Unsupervised+Domain+Adaptation&btnG=)]
+
+
+* **RAG-Continual**: *"Reusable Architecture Growth for Continual Stereo Matching"*, Zhang et al.,*TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475553)]  [[Code](https://github.com/chzhang18/RAG)] [[Bibtex](./bibliography/RAG-Continual.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reusable+Architecture+Growth+for+Continual+Stereo+Matching&btnG=)]
 
 </details>
 
@@ -888,13 +892,13 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **Continual Adaptation for Deep Stereo**: *"Continual adaptation for deep stereo"*, Poggi et al., *TPAMI, 2021*. [[Paper](https://ieeexplore.ieee.org/document/9418523?denied=)] [[Code](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo?tab=readme-ov-file)] [[Bibtex](./bibliography/ContinualAdaptation.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Continual+adaptation+for+deep+stereo&btnG=)]
 
-* **RAG**: *"Continual Stereo Matching of Continuous Driving Scenes With Growing Architecture"*, Zhang et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Continual_Stereo_Matching_of_Continuous_Driving_Scenes_With_Growing_Architecture_CVPR_2022_paper.pdf)] [[Bibtex](./bibliography/RAG.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Continual+Stereo+Matching+of+Continuous+Driving+Scenes+With+Growing+Architecture&btnG=)]
+
 
 * **PointFix**: *"PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation"*, Kim et al., *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980557.pdf)] [[Bibtex](./bibliography/PointFix.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PointFix:+Learning+to+Fix+Domain+Bias+for+Robust+Online+Stereo+Adaptation&btnG=)]
 
 * **FedStereo**: *"Federated Online Adaptation for Deep Stereo"*, Poggi et al., *CVPR, 2024*. [[Paper](https://fedstereo.github.io/)] [[Bibtex](./bibliography/FedStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Federated+Online+Adaptation+for+Deep+Stereo&btnG=)]
 
-* **RAG-Continual**: *"Reusable Architecture Growth for Continual Stereo Matching"*, Zhang et al.,*TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475553)]  [[Code](https://github.com/chzhang18/RAG)] [[Bibtex](./bibliography/RAG-Continual.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reusable+Architecture+Growth+for+Continual+Stereo+Matching&btnG=)]
+
 
 </details>
 
