@@ -513,6 +513,9 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Joint Stereo Matching and Optical Flow</summary>
 
+* **Multi-Task Learning Using Uncertainty**: *"Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics"*, Kendall et al., CVPR, 2018. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.pdf)]  [[Bibtex](./bibliography/Multi-Task-Learning.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=2005&sciodt=0%2C5&cites=502631552324336717&scipsc=&q=Multi-Task+Learning+Using+Uncertainty+to+Weigh+Losses+for+Scene+Geometry+and+Semantics&btnG=)]
+
+
 * **BridgeDepthFlow**: *"Bridging Stereo Matching and Optical Flow via Spatiotemporal Correspondence"*, Lai et al., *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lai_Bridging_Stereo_Matching_and_Optical_Flow_via_Spatiotemporal_Correspondence_CVPR_2019_paper.pdf)] [[Code](https://github.com/lelimite4444/BridgeDepthFlow)] [[Bibtex](./bibliography/BridgeDepthFlow.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Bridging+Stereo+Matching+and+Optical+Flow+via+Spatiotemporal+Correspondence&btnG=)]
 
 * **UnOS**: *"UnOS: Unified Unsupervised Optical-Flow and Stereo-Depth Estimation by Watching Videos"*, Wang et al., *CVPR, 2019*. [[Paper](https://ieeexplore.ieee.org/iel7/34/9185119/08769907.pdf)] [[Code](https://github.com/baidu-research/UnDepthflow)]  [[Bibtex](./bibliography/UnOS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=UnOS:+Unified+Unsupervised+Optical-Flow+and+Stereo-Depth+Estimation+by+Watching+Videos&btnG=)]
@@ -527,6 +530,9 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 <summary style="font-size: larger; font-weight: bold;">Joint Stereo Matching and Semantic Segmentation</summary>
 
 * **Segstereo**: *"Segstereo: Exploiting semantic information for disparity estimation"*, Yang et al., *ECCV, 2018*. [[Paper](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Guorun_Yang_SegStereo_Exploiting_Semantic_ECCV_2018_paper.pdf)] [[Code](https://github.com/yangguorun/SegStereo)]  [[Bibtex](./bibliography/Segstereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Segstereo:+Exploiting+semantic+information+for+disparity+estimation&btnG=)]
+
+* **Multi-Task Learning Using Uncertainty**: *"Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics"*, Kendall et al., CVPR, 2018. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.pdf)]  [[Bibtex](./bibliography/Multi-Task-Learning.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=2005&sciodt=0%2C5&cites=502631552324336717&scipsc=&q=Multi-Task+Learning+Using+Uncertainty+to+Weigh+Losses+for+Scene+Geometry+and+Semantics&btnG=)]
+
 
 * **DSNet**: *"DSNet: Joint learning for scene segmentation and disparity estimation"*, Zhan et al., *ICRA, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8793573)] [[Bibtex](./bibliography/DSNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DSNet:+Joint+learning+for+scene+segmentation+and+disparity+estimation&btnG=)]
 
@@ -969,6 +975,13 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 * **LEV**: *"Leveraging stereo matching with learning-based confidence measures"*, Park et al., CVPR, 2015. [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Park_Leveraging_Stereo_Matching_2015_CVPR_paper.pdf)]  [[Bibtex1](./bibliography/LEV.txt)] [[Bibtex2](./bibliography/LEV1.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Leveraging+stereo+matching+with+learning-based+confidence+measures&btnG=)]
 
 * **FA**: *"Feature augmentation for learning confidence measure in stereo matching"*, Kim et al., TIP, 2017. [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Park_Leveraging_Stereo_Matching_2015_CVPR_paper.pdf)]  [[Bibtex](./bibliography/FA.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+to+detect+ground+control+points+for+improving+the+accuracy+of+stereo+matching&btnG=)]
+
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Model-based</summary>
+
+* **Multi-Task Learning Using Uncertainty**: *"Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics"*, Kendall et al., CVPR, 2018. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kendall_Multi-Task_Learning_Using_CVPR_2018_paper.pdf)]  [[Bibtex](./bibliography/Multi-Task-Learning.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=2005&sciodt=0%2C5&cites=502631552324336717&scipsc=&q=Multi-Task+Learning+Using+Uncertainty+to+Weigh+Losses+for+Scene+Geometry+and+Semantics&btnG=)]
 
 </details>
 
