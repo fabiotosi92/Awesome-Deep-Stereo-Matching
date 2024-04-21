@@ -1,0 +1,7 @@
+@inproceedings{nuanes2021soft,
+  title={Soft cross entropy loss and bottleneck tri-cost volume for efficient stereo depth prediction},
+  author={Nuanes, Tyler and Elsey, Matt and Sankaranarayanan, Aswin and Shen, John},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2846--2854},
+  year={2021}
+}

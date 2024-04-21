@@ -73,6 +73,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
    * *"On the Confidence of Stereo Matching in a Deep-Learning Era: A Quantitative Evaluation"*, Poggi et al., *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022*. [[Paper](https://arxiv.org/abs/2101.00431)] [[Bibtex](./bibliography/OnTheConfidence.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=On+the+Confidence+of+Stereo+Matching+in+a+Deep-Learning+Era:+A+Quantitative+Evaluation&btnG=)]
 
 </ul>
+
 </details>
 
 
@@ -414,6 +415,9 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 * **Fast DS-CS**: *"Fast Deep Stereo with 2D Convolutional Processing of Cost Signatures"*, Yee et al., *WACV, 2020* [[Paper](https://openaccess.thecvf.com/content_WACV_2020/papers/Yee_Fast_Deep_Stereo_with_2D_Convolutional_Processing_of_Cost_Signatures_WACV_2020_paper.pdf)]  [[Code](https://github.com/ayanc/fdscs)]  [[Bibtex](./bibliography/FDCSC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Fast+Deep+Stereo+with+2D+Convolutional+Processing+of+Cost+Signatures&btnG=)]
 
 * **DecNet**: *"A Decomposition Model for Stereo Matching"*, Yao et al., *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Yao_A_Decomposition_Model_for_Stereo_Matching_CVPR_2021_paper.pdf)] [[Code](https://github.com/YaoChengTang/DecNet)] [[Bibtex](./bibliography/DecNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+Decomposition+Model+for+Stereo+Matching&btnG=)]
+
+
+* **BTC**: *"Soft Cross Entropy Loss and Bottleneck Tri-Cost Volume For Efficient Stereo Depth Prediction"*, Nuanes et al., *CVPRW, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021W/WAD/papers/Nuanes_Soft_Cross_Entropy_Loss_and_Bottleneck_Tri-Cost_Volume_for_Efficient_CVPRW_2021_paper.pdf)]  [[Bibtex](./bibliography/BTC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Soft+Cross+Entropy+Loss+and+Bottleneck+Tri-Cost+Volume+for+Efficient+Stereo+Depth+Prediction+&btnG=)]
 
 
 * **ACVNet**: *"Attention Concatenation Volume for Accurate and Efficient Stereo Matching"*, Xu et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Attention_Concatenation_Volume_for_Accurate_and_Efficient_Stereo_Matching_CVPR_2022_paper.pdf)] [[Code](https://github.com/gangweiX/ACVNet)] [[Bibtex](./bibliography/ACVNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Attention+Concatenation+Volume+for+Accurate+and+Efficient+Stereo+Matching&btnG=)]
