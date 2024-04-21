@@ -88,9 +88,9 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
    <details open id="real-world RGB"><summary style="font-size: larger; font-weight: bold;"> RGB </summary>
    
-   * **Middlebury v3**: *"High-resolution stereo datasets with subpixel-accurate ground truth"*, Scharstein et al., *GCPR 2014*. [[Paper](https://elib.dlr.de/90624/1/ScharsteinEtal2014.pdf)] [[Dataset](https://vision.middlebury.edu/stereo/eval3/)] [[Bibtex](./bibliography/Middlebury_v3.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=High-resolution+stereo+datasets+with+subpixel-accurate+ground+truth&btnG=)]
-
    * **KITTI 2012**: *"Are we ready for Autonomous Driving? The KITTI Vision Benchmark Suite"*, Geiger et al., *CVPR, 2012*. [[Paper](https://projet.liris.cnrs.fr/imagine/pub/proceedings/CVPR2012/data/papers/424_O3C-04.pdf)] [[Dataset](https://www.cvlibs.net/datasets/kitti/)] [[Bibtex](./bibliography/KITTI_2012.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Are+we+ready+for+Autonomous+Driving?+The+KITTI+Vision+Benchmark+Suite&btnG=)]
+
+   * **Middlebury v3**: *"High-resolution stereo datasets with subpixel-accurate ground truth"*, Scharstein et al., *GCPR 2014*. [[Paper](https://elib.dlr.de/90624/1/ScharsteinEtal2014.pdf)] [[Dataset](https://vision.middlebury.edu/stereo/eval3/)] [[Bibtex](./bibliography/Middlebury_v3.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=High-resolution+stereo+datasets+with+subpixel-accurate+ground+truth&btnG=)]
 
    * **KITTI 2015**: *"Object Scene Flow for Autonomous Vehicles"*, Menze et al., *CVPR, 2015*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Menze_Object_Scene_Flow_2015_CVPR_paper.pdf)] [[Dataset](https://www.cvlibs.net/datasets/kitti/)] [[Bibtex](./bibliography/KITTI_2015.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Object+Scene+Flow+for+Autonomous+Vehicles&btnG=)]
 
@@ -102,13 +102,15 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
    * **Flickr1024**: *"Flickr1024: A large-scale dataset for stereo image super-resolution"*, Wang et al., *ICCVW, 2019*. [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/LCI/Wang_Flickr1024_A_Large-Scale_Dataset_for_Stereo_Image_Super-Resolution_ICCVW_2019_paper.pdf)] [[Dataset](https://yingqianwang.github.io/Flickr1024/)] [[Bibtex](./bibliography/Flickr1024.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Flickr1024:+A+large-scale+dataset+for+stereo+image+super-resolution&btnG=)]
 
-   * **Middlebury 2021 Mobile Dataset**: [[Dataset](https://vision.middlebury.edu/stereo/data/scenes2021/)] [[Bibtex](./bibliography/Middlebury_v3.txt)]
-
-   * **The Booster Dataset**: *"Open Challenges in Deep Stereo: The Booster Dataset"*, Ramirez et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ramirez_Open_Challenges_in_Deep_Stereo_The_Booster_Dataset_CVPR_2022_paper.pdf)] [[Dataset](https://cvlab-unibo.github.io/booster-web/)] [[Bibtex](./bibliography/Booster.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Open+Challenges+in+Deep+Stereo:+The+Booster+Dataset&btnG=)]
-
    * **Holopix50k**: *"Holopix50k: A Large-Scale In-the-Wild Stereo Image Dataset"*, Hua et al., *CVPR, 2020*. [[Paper](https://arxiv.org/abs/2003.11172)] [[Dataset](https://leiainc.github.io/holopix50k/)]  [[Bibtex](./bibliography/Holopix50k.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Holopix50k:+A+Large-Scale+In-the-Wild+Stereo+Image+Dataset&btnG=)]
 
    * **InStereo2K**: *"InStereo2K: A Large Real Dataset for Stereo Matching in Indoor Scenes"*, Bao et al., *Science China Information Sciences, 2020*. [[Paper](https://link.springer.com/article/10.1007/s11432-019-2803-x)] [[Github](https://github.com/YuhuaXu/StereoDataset)] [[Bibtex](./bibliography/InStereo2K.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=InStereo2K%3A+A+Large+Real+Dataset+for+Stereo+Matching+in+Indoor+Scenes&btnG=)]
+
+   * **Middlebury 2021 Mobile Dataset**: [[Dataset](https://vision.middlebury.edu/stereo/data/scenes2021/)] [[Bibtex](./bibliography/Middlebury_v3.txt)]
+
+   * **Booster**: *"Open Challenges in Deep Stereo: The Booster Dataset"*, Ramirez et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Ramirez_Open_Challenges_in_Deep_Stereo_The_Booster_Dataset_CVPR_2022_paper.pdf)] [[Dataset](https://cvlab-unibo.github.io/booster-web/WHU-stereo)] [[Bibtex](./bibliography/Booster.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Open+Challenges+in+Deep+Stereo:+The+Booster+Dataset&btnG=)]
+
+   * **WHU-Stereo**: *"WHU-Stereo: A challenging benchmark for stereo matching of high-resolution satellite images"*, Li et al., *TGRS, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10044710&casa_token=qEuHzPZoVEoAAAAA:pU9i3aHcnnJqZuCmgqVpTEjK3UqrxBe5g48THFHdvIH7CKhP480X31SBeCJHMnVHGKkTUCE_&tag=1)] [[Dataset](https://github.com/Sheng029/WHU-Stereo)] [[Bibtex](./bibliography/WHU-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=WHU-stereo%3A+A+challenging+benchmark+for+stereo+matching+of+high-resolution+satellite+images&btnG=)]
 
    </details>
 
