@@ -41,7 +41,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 <h2 id="fundamentals"> Survey & Fundamentals </h2>
 
-<details open><summary style="font-size: larger; font-weight: bold;"> Basics</summary><ul>
+<details open><summary style="font-size: larger; font-weight: bold;"> Stereo Matching Basics</summary><ul>
 
    * *"A taxonomy and evaluation of dense two-frame stereo correspondence algorithms"*, Scharstein & Szeliski, *International Journal of Computer Vision (TPAMI), 2002*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9233988&casa_token=thq8xzMfDVQAAAAA:LqT40M8CQY9Xt8j8pKTUJr2E89KAB9c1DGG1Pw9q1YMG__o5htMzH1Xx3_wlPwLcesYHgvc&tag=1)] [[Bibtex](./bibliography/taxonomy.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+taxonomy+and+evaluation+of+dense+two-frame+stereo+correspondence+algorithms&btnG=)] 
 
