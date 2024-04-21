@@ -51,6 +51,9 @@ If you find this repository valuable, please consider [citing](#citation) it in 
    * *"Stereo Vision: Algorithms and Applications"*, S. Mattoccia, [[Slides](http://vision.deis.unibo.it/~smatt/Seminars/StereoVision.pdf)] [[Bibtex](./bibliography/stereo-vision.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stereo+Vision:+Algorithms+and+Applications&btnG=)]
 
 
+   * **SGM**: *"Stereo processing by semiglobal matching and mutual information"*, Heiko Hirschmuller, TPAMI, 2007. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4359315&casa_token=NOG3dp9K27gAAAAA:IGAioT6Q0C8ofBnal-o_YIzd77YMCYRwSFRJ5YIOn58WRj1KnFayOedgkSspsw4t4Txt-kwT)] [[Bibtex](./bibliography/SGM.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Processing+by+Semi-Global+Matching+and+Mutual+Information&btnG=)]
+
+
 </details>
 
 <details open><summary style="font-size: larger; font-weight: bold;"> Deep Stereo Matching</summary><ul>

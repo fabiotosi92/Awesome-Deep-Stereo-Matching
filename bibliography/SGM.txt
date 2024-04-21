@@ -1,0 +1,10 @@
+@article{hirschmuller2007stereo,
+  title={Stereo processing by semiglobal matching and mutual information},
+  author={Hirschmuller, Heiko},
+  journal={IEEE Transactions on pattern analysis and machine intelligence},
+  volume={30},
+  number={2},
+  pages={328--341},
+  year={2007},
+  publisher={IEEE}
+}
