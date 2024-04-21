@@ -1,0 +1,6 @@
+@book{szeliski2022computer,
+  title={Computer vision: algorithms and applications},
+  author={Szeliski, Richard},
+  year={2022},
+  publisher={Springer Nature}
+}

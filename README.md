@@ -47,11 +47,16 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
    * *"Evaluation of cost functions for stereo matching"*, Hirschmuller & Scharstein, CVPR, 2007. [[Paper](https://elib.dlr.de/53001/1/Hirschm%C3%BCllerStereoMatchingCvpr07.pdf)] [[Bibtex](./bibliography/cost-functions.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Evaluation+of+cost+functions+for+stereo+matching&btnG=)]
 
-
-   * *"Stereo Vision: Algorithms and Applications"*, S. Mattoccia, [[Slides](http://vision.deis.unibo.it/~smatt/Seminars/StereoVision.pdf)] [[Bibtex](./bibliography/stereo-vision.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stereo+Vision:+Algorithms+and+Applications&btnG=)]
-
-
    * **SGM**: *"Stereo processing by semiglobal matching and mutual information"*, Heiko Hirschmuller, TPAMI, 2007. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4359315&casa_token=NOG3dp9K27gAAAAA:IGAioT6Q0C8ofBnal-o_YIzd77YMCYRwSFRJ5YIOn58WRj1KnFayOedgkSspsw4t4Txt-kwT)] [[Bibtex](./bibliography/SGM.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Processing+by+Semi-Global+Matching+and+Mutual+Information&btnG=)]
+
+   * *"Computer Vision: Algorithms and Applications", 2nd Edition - (Chapter 12, Depth Estimation)*, Richard Szeliski [[Slides](http://cv2.csie.ntu.edu.tw/CV2/2023/textbook.pdf)] [[Bibtex](./bibliography/Computer-Vision.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stereo+Vision:+Algorithms+and+Applications&btnG=)]
+
+   * *"Stereo Matching"*, Richard Szeliski, University of Washington [[Slides](https://courses.cs.washington.edu/courses/cse576/08sp/lectures/Stereo.pdf)] 
+
+   * *"Stereo Vision"*, Fei-Fei Li, Stanford Vision Lab [[Slides](http://vision.stanford.edu/teaching/cs131_fall1415/lectures/lecture9_10_stereo_cs131.pdf)] 
+
+   * *"Stereo Vision: Algorithms and Applications"*, Stefano  Mattoccia, University of Bologna [[Slides](http://vision.deis.unibo.it/~smatt/Seminars/StereoVision.pdf)] [[Bibtex](./bibliography/stereo-vision.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stereo+Vision:+Algorithms+and+Applications&btnG=)]
+
 
 
 </details>
