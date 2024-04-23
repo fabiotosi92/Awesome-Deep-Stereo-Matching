@@ -256,9 +256,10 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **LRCR**: *"Left-right comparative recurrent model for stereo matching"*, Jie et al., *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Jie_Left-Right_Comparative_Recurrent_CVPR_2018_paper.pdf)] [[Bibtex](./bibliography/LRCR.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Left-right+comparative+recurrent+model+for+stereo+matching&btnG=)]
 
+* **FD-Fusion**: *"Fast stereo disparity maps refinement by fusion of data-based and model-based estimations"*, Ferrera et al., *3DV, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8886031)] [[Code](https://github.com/ferreram/FD-Fusion)] [[Bibtex](./bibliography/FD-Fusion.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Fast+stereo+disparity+maps+refinement+by+fusion+of+data-based+and+model-based+estimations&btnG=)]
+
 * **VRN**: *"Learned collaborative stereo refinement"*, Knobelreiter et al., *IJCV, 2021*. [[Paper](https://link.springer.com/article/10.1007/s11263-021-01485-5)] [[Bibtex](./bibliography/VRN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learned+collaborative+stereo+refinement&btnG=)]
 
-* **FD-Fusion**: *"Fast stereo disparity maps refinement by fusion of data-based and model-based estimations"*, Ferrera et al., *3DV, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8886031)] [[Code](https://github.com/ferreram/FD-Fusion)] [[Bibtex](./bibliography/FD-Fusion.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Fast+stereo+disparity+maps+refinement+by+fusion+of+data-based+and+model-based+estimations&btnG=)]
 
 * **NDR**: "*Neural disparity refinement for arbitrary resolution stereo*", Aleotti et al., *3DV, 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9665913?casa_token=3rm4WpqLb_QAAAAA:5Sa0RO547j8LsaEYUeppzB33gZJg5Y3tfiPVwM9rzs9MEAuoHSta0Kdw3Cm9NrtfOOdFkIwp)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR.txt)] 
 
@@ -288,11 +289,11 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
    * **DispNet-CSS**: *"Occlusions, motion and depth boundaries with a generic network for disparity, optical flow or scene flow estimation"*, Ilg et al., *ECCV, 2018*. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Eddy_Ilg_Occlusions_Motion_and_ECCV_2018_paper.pdf)]  [[Code](https://github.com/lmb-freiburg/netdef_models)]  [[Bibtex](./bibliography/DispNet-CSS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Occlusions,+motion+and+depth+boundaries+with+a+generic+network+for+disparity,+optical+flow+or+scene+flow+estimation&btnG=)]
 
+   * **EdgeStereo**: *"Edgestereo: A context integrated residual pyramid network for stereo matching"*, Song et al., *ACCV, 2018*. [[Paper](https://arxiv.org/pdf/1803.05196.pdf)]   [[Bibtex](./bibliography/Edgestereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Edgestereo:+A+context+integrated+residual+pyramid+network+for+stereo+matching&btnG=)]
+   
    * **AutoDispNet-CSS**: *"Autodispnet: Improving disparity estimation with automl"*, Saikia et al., *ICCV, 2019*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Saikia_AutoDispNet_Improving_Disparity_Estimation_With_AutoML_ICCV_2019_paper.pdf)]  [[Code](https://github.com/lmb-freiburg/autodispnet)]  [[Bibtex](./bibliography/AutoDispNet-CSS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Autodispnet:+Improving+disparity+estimation+with+automl&btnG=)]
 
    * **HD<sup>3**: *"Hierarchical discrete distribution decomposition for match density estimation"*, Yin et al., *ICCV, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yin_Hierarchical_Discrete_Distribution_Decomposition_for_Match_Density_Estimation_CVPR_2019_paper.pdf)]  [[Code](https://github.com/ucbdrive/hd3)]  [[Bibtex](./bibliography/HD3.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Hierarchical+discrete+distribution+decomposition+for+match+density+estimation&btnG=)]
-
-   * **EdgeStereo**: *"Edgestereo: A context integrated residual pyramid network for stereo matching"*, Song et al., *ACCV, 2018*. [[Paper](https://arxiv.org/pdf/1803.05196.pdf)]   [[Bibtex](./bibliography/Edgestereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Edgestereo:+A+context+integrated+residual+pyramid+network+for+stereo+matching&btnG=)]
 
    * **AANet**: *"AANet: Adaptive Aggregation Network for Efficient Stereo Matching"*, Xu et al., *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_AANet_Adaptive_Aggregation_Network_for_Efficient_Stereo_Matching_CVPR_2020_paper.pdf)] [[Code](https://github.com/haofeixu/aanet)] [[Bibtex](./bibliography/AANet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AANet:+Adaptive+Aggregation+Network+for+Efficient+Stereo+Matching&btnG=)]
 
@@ -310,6 +311,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
    * **PSMNet**: *"Pyramid Stereo Matching Network"*, Chang et al., *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Chang_Pyramid_Stereo_Matching_CVPR_2018_paper.pdf)] [[Code](https://github.com/JiaRenChang/PSMNet)] [[Bibtex](./bibliography/PSMNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pyramid+Stereo+Matching+Network&btnG=)]
 
+   * **PDSNet**: *"Practical deep stereo (pds): Toward applications-friendly deep stereo matching"*, Tulyakov et al., *NeurIPS, 2018*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/ade55409d1224074754035a5a937d2e0-Paper.pdf)] [[Code](https://github.com/tlkvstepan/PracticalDeepStereo_NIPS2018)] [[Bibtex](./bibliography/PDSNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Practical+deep+stereo+(pds):+Toward+applications-friendly+deep+stereo+matching&btnG=)]
+
    * **HSMNet**: *"Hierarchical deep stereo matching on high-resolution images"*, Yang et al., *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Hierarchical_Deep_Stereo_Matching_on_High-Resolution_Images_CVPR_2019_paper.pdf)] [[Code](https://github.com/gengshan-y/high-res-stereo)]  [[Bibtex](./bibliography/HSMNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Hierarchical+deep+stereo+matching+on+high-resolution+images&btnG=)]
 
    * **GWCNet**: *"Group-wise correlation stereo network"*, Guo et al., *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guo_Group-Wise_Correlation_Stereo_Network_CVPR_2019_paper.pdf)] [[Code](https://github.com/xy-guo/GwcNet)]  [[Bibtex](./bibliography/GWCNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Group-wise+correlation+stereo+network&btnG=)]
@@ -321,8 +324,6 @@ If you find this repository valuable, please consider [citing](#citation) it in 
    * **GA-Net**: *"Ga-net: Guided aggregation net for end-to-end stereo matching"*, Zhang et al., *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_GA-Net_Guided_Aggregation_Net_for_End-To-End_Stereo_Matching_CVPR_2019_paper.pdf)] [[Code](https://github.com/feihuzhang/GANet)] [[Bibtex](./bibliography/GANet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Ga-net:+Guided+aggregation+net+for+end-to-end+stereo+matching&btnG=)]
 
    * **Stereodrnet**: *"Stereodrnet: Dilated residual stereonet"*, Chabra et al., *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chabra_StereoDRNet_Dilated_Residual_StereoNet_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/Stereodrnet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stereodrnet:+Dilated+residual+stereonet&btnG=)]
-
-   * **PDSNet**: *"Practical deep stereo (pds): Toward applications-friendly deep stereo matching"*, Tulyakov et al., *NeurIPS, 2018*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2018/file/ade55409d1224074754035a5a937d2e0-Paper.pdf)] [[Code](https://github.com/tlkvstepan/PracticalDeepStereo_NIPS2018)] [[Bibtex](./bibliography/PDSNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Practical+deep+stereo+(pds):+Toward+applications-friendly+deep+stereo+matching&btnG=)]
 
    * **CasStereo**: *"Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching"*, Gu et al., *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Cascade_Cost_Volume_for_High-Resolution_Multi-View_Stereo_and_Stereo_Matching_CVPR_2020_paper.pdf)] [[Code](https://github.com/alibaba/cascade-stereo)]  [[Bibtex](./bibliography/CasStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cascade+Cost+Volume+for+High-Resolution+Multi-View+Stereo+and+Stereo+Matching&btnG=)]
 
@@ -450,9 +451,9 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **CasStereo**: *"Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching"*, Gu et al., *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gu_Cascade_Cost_Volume_for_High-Resolution_Multi-View_Stereo_and_Stereo_Matching_CVPR_2020_paper.pdf)] [[Code](https://github.com/alibaba/cascade-stereo)]  [[Bibtex](./bibliography/CasStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cascade+Cost+Volume+for+High-Resolution+Multi-View+Stereo+and+Stereo+Matching&btnG=)]
 
-* **BGNet**: *"Bilateral Grid Learning for Stereo Matching Networks"*, Xu et al., *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Bilateral_Grid_Learning_for_Stereo_Matching_Networks_CVPR_2021_paper.pdf)] [[Code](https://github.com/3DCVdeveloper/BGNet)] [[Bibtex](./bibliography/BGNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Bilateral+Grid+Learning+for+Stereo+Matching+Networks&btnG=)]
-
 * **MABNet**: *"MABNet: a lightweight stereo network based on multibranch adjustable bottleneck module"*, Xing et al.,  *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730341.pdf)] [[Code](https://github.com/JumpXing/MABNet)] [[Bibtex](./bibliography/MABNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MABNet:+a+lightweight+stereo+network+based+on+multibranch+adjustable+bottleneck+module&btnG=)] 
+
+* **BGNet**: *"Bilateral Grid Learning for Stereo Matching Networks"*, Xu et al., *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Bilateral_Grid_Learning_for_Stereo_Matching_Networks_CVPR_2021_paper.pdf)] [[Code](https://github.com/3DCVdeveloper/BGNet)] [[Bibtex](./bibliography/BGNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Bilateral+Grid+Learning+for+Stereo+Matching+Networks&btnG=)]
 
 * **Separable-Stereo**: *"Separable Convolutions for Optimizing 3D Stereo Networks"*, Rahim et al., *ICIP, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9506330)] [[Code](https://github.com/cogsys-tuebingen/separable-3D-convs-for-stereo-matching)] [[Bibtex](./bibliography/Separable-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Separable+Convolutions+for+Optimizing+3D+Stereo+Networks&btnG=)]
 
@@ -467,11 +468,10 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Efficient Inference Schemes</summary>
 
+* **Anytime**: *"Anytime stereo image depth estimation on mobile devices"*, Wang et al., *ICRA, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794003)] [[Code](https://github.com/mileyan/AnyNet)] [[Bibtex](./bibliography/Anytime.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Anytime+stereo+image+depth+estimation+on+mobile+devices&btnG=)] 
+
 * **StereoVAE**: *"StereoVAE: A lightweight stereo-matching system using embedded GPUs"*, Chang et al., *ICRA, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10160441)] [[Bibtex](./bibliography/StereoVAE.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=StereoVAE:+A+lightweight+stereo-matching+system+using+embedded+GPUs&btnG=)]
 
-
-
-* **Anytime**: *"Anytime stereo image depth estimation on mobile devices"*, Wang et al., *ICRA, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8794003)] [[Code](https://github.com/mileyan/AnyNet)] [[Bibtex](./bibliography/Anytime.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Anytime+stereo+image+depth+estimation+on+mobile+devices&btnG=)] 
 
 </details>
 
@@ -483,10 +483,6 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **MadNet**: *"Real-Time Self-Adaptive Deep Stereo"*, Tonioni et al., *CVPR, 2019*. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tonioni_Real-Time_Self-Adaptive_Deep_Stereo_CVPR_2019_paper.pdf)] [[Code](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo?tab=readme-ov-file)] [[Bibtex](./bibliography/MadNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Real-Time+Self-Adaptive+Deep+Stereo&btnG=)]
 
-* **MobileStereoNet**: *"MobileStereoNet: Towards Lightweight Deep Networks for Stereo Matching"*, Shamsafar et al., *WACV, 2022*. [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Shamsafar_MobileStereoNet_Towards_Lightweight_Deep_Networks_for_Stereo_Matching_WACV_2022_paper.pdf)] [[Code](https://github.com/cogsys-tuebingen/mobilestereonet)] [[Bibtex](./bibliography/MobileStereoNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MobileStereoNet:+Towards+Lightweight+Deep+Networks+for+Stereo+Matching&btnG=)]
-
-* **PBCStereo**: *"PBCStereo: A Compressed Stereo Network with Pure Binary Convolutional Operations"*, Cai et al., *ACCV, 2022*. [[Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Cai_PBCStereo_A_Compressed_Stereo_Network_with_Pure_Binary_Convolutional_Operations_ACCV_2022_paper.pdf)] [[Bibtex](./bibliography/PBCStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PBCStereo:+A+Compressed+Stereo+Network+with+Pure+Binary+Convolutional+Operations&btnG=)]
-
 * **Fadnet**: *"Fadnet: A Fast and Accurate Network for Disparity Estimation"*, Wang et al., *ICRA, 2020*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9197031)] [[Code](https://github.com/HKBU-HPML/FADNet)] [[Bibtex](./bibliography/Fadnet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Fadnet:+A+Fast+and+Accurate+Network+for+Disparity+Estimation&btnG=)]
 
 * **AAFS**: *"Attention-Aware Feature Aggregation for Real-time Stereo Matching on Edge Devices"*, Chang et al., *ACCV, 2020* [[Code](https://github.com/JiaRenChang/RealtimeStereo)] [[Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Chang_Attention-Aware_Feature_Aggregation_for_Real-time_Stereo_Matching_on_Edge_Devices_ACCV_2020_paper.pdf)] [[Bibtex](./bibliography/AAFS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Attention-Aware+Feature+Aggregation+for+Real-time+Stereo+Matching+on+Edge+Devices&btnG=)]
@@ -496,6 +492,10 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 * **CoEX**: *"Correlate-and-Excite: Real-Time Stereo Matching via Guided Cost Volume Excitation"*, Bangunharcana et al., *IROS, 2021*. [[Paper](https://antabangun.github.io/projects/CoEx/)] [[Code](https://github.com/antabangun/coex)] [[Bibtex](./bibliography/CoEX.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Correlate-and-Excite:+Real-Time+Stereo+Matching+via+Guided+Cost+Volume+Excitation&btnG=)]
 
 * **RLStereo**: *"RLStereo: Real-time stereo matching based on reinforcement learning"*, Yang et al., *TIP, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9614986)] [[Bibtex](./bibliography/RLStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=RLStereo:+Real-time+stereo+matching+based+on+reinforcement+learning&btnG=)]
+
+* **MobileStereoNet**: *"MobileStereoNet: Towards Lightweight Deep Networks for Stereo Matching"*, Shamsafar et al., *WACV, 2022*. [[Paper](https://openaccess.thecvf.com/content/WACV2022/papers/Shamsafar_MobileStereoNet_Towards_Lightweight_Deep_Networks_for_Stereo_Matching_WACV_2022_paper.pdf)] [[Code](https://github.com/cogsys-tuebingen/mobilestereonet)] [[Bibtex](./bibliography/MobileStereoNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=MobileStereoNet:+Towards+Lightweight+Deep+Networks+for+Stereo+Matching&btnG=)]
+
+* **PBCStereo**: *"PBCStereo: A Compressed Stereo Network with Pure Binary Convolutional Operations"*, Cai et al., *ACCV, 2022*. [[Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Cai_PBCStereo_A_Compressed_Stereo_Network_with_Pure_Binary_Convolutional_Operations_ACCV_2022_paper.pdf)] [[Bibtex](./bibliography/PBCStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PBCStereo:+A+Compressed+Stereo+Network+with+Pure+Binary+Convolutional+Operations&btnG=)]
 
 * **MadNet2**: *"Federated Online Adaptation for Deep Stereo"*, Poggi et al., *CVPR, 2024*.  [[Bibtex](./bibliography/FedStereo.txt)] 
 
@@ -1049,13 +1049,11 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **CRNN**: *"Pixel-Wise Confidences for Stereo Disparities Using Recurrent Neural Networks"*, Gul et al.,  BMVC, 2019. [[Paper](https://publica.fraunhofer.de/bitstreams/c1f200e0-49e6-488c-84de-d217a550bdf6/download)] [[Bibtex](./bibliography/CRNN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pixel-Wise+Confidences+for+Stereo+Disparities+Using+Recurrent+Neural+Networks&btnG=)]
 
-* **ACN**: *"Adversarial confidence estimation networks for robust stereo matching"*, Kim et al., T-ITS, 2020. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_LAF-Net_Locally_Adaptive_Fusion_Networks_for_Stereo_Confidence_Estimation_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/ACN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Adversarial+confidence+estimation+networks+for+robust+stereo+matching&btnG=)]
-
 * **CVA**: *"Cnn-based cost volume analysis as confidence measure for dense matching"*, Mehltretter et al., ICCVW, 2019. [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/3DRW/Mehltretter_CNN-Based_Cost_Volume_Analysis_as_Confidence_Measure_for_Dense_Matching_ICCVW_2019_paper.pdf)] [[Bibtex](./bibliography/CVA.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Cnn-based+cost+volume+analysis+as+confidence+measure+for+dense+matching&btnG=)]
 
 * **Disparity Plane Sweep**: *"Modeling Stereo-Confidence Out of the End-to-End Stereo-Matching Network via Disparity Plane Sweep"*, Lee et al., AAAI, 2024. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28071/28148)] [[Bibtex](./bibliography/Disparity_Plane_Sweep.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Modeling+Stereo-Confidence+Out+of+the+End-to-End+Stereo-Matching+Network+via+Disparity+Plane+Sweep&btnG=)]
 
-
+* **ACN**: *"Adversarial confidence estimation networks for robust stereo matching"*, Kim et al., T-ITS, 2020. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_LAF-Net_Locally_Adaptive_Fusion_Networks_for_Stereo_Confidence_Estimation_CVPR_2019_paper.pdf)] [[Bibtex](./bibliography/ACN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Adversarial+confidence+estimation+networks+for+robust+stereo+matching&btnG=)]
 
 </details>
 
