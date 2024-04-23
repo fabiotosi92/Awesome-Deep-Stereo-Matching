@@ -1,0 +1,10 @@
+@article{huang2019apolloscape,
+  title={The apolloscape open dataset for autonomous driving and its application},
+  author={Huang, Xinyu and Wang, Peng and Cheng, Xinjing and Zhou, Dingfu and Geng, Qichuan and Yang, Ruigang},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={42},
+  number={10},
+  pages={2702--2719},
+  year={2019},
+  publisher={IEEE}
+}

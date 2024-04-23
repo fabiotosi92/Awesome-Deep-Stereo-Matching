@@ -101,7 +101,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
    * **Middlebury v3**: *"High-resolution stereo datasets with subpixel-accurate ground truth"*, Scharstein et al., *GCPR 2014*. [[Paper](https://elib.dlr.de/90624/1/ScharsteinEtal2014.pdf)] [[Dataset](https://vision.middlebury.edu/stereo/eval3/)] [[Bibtex](./bibliography/Middlebury_v3.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=High-resolution+stereo+datasets+with+subpixel-accurate+ground+truth&btnG=)]
 
-   * **KITTI 2015**: *"Object Scene Flow for Autonomous Vehicles"*, Menze et al., *CVPR, 2015*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Menze_Object_Scene_Flow_2015_CVPR_paper.pdf)] [[Dataset](https://www.cvlibs.net/datasets/kitti/)] [[Bibtex](./bibliography/KITTI_2015.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Object+Scene+Flow+for+Autonomous+Vehicles&btnG=)]
+   * **Cityscapes**: *"The cityscapes dataset for semantic urban scene understanding"*, Cordts et al., *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf)] [[Dataset](https://www.cityscapes-dataset.com/)] [[Bibtex](./bibliography/Cityscapes.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=he+cityscapes+dataset+for+semantic+urban+scene+understandin&btnG=)]
 
    * **ETH3D**: *"A multi-view stereo benchmark with high-resolution images and multi-camera videos"*, Schops et al., *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Schops_A_Multi-View_Stereo_CVPR_2017_paper.pdf)] [[Dataset](https://www.eth3d.net/)] [[Bibtex](./bibliography/ETH3D.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+multi-view+stereo+benchmark+with+high-resolution+images+and+multi-camera+videos&btnG=)]
 
@@ -111,7 +111,14 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
    * **Flickr1024**: *"Flickr1024: A large-scale dataset for stereo image super-resolution"*, Wang et al., *ICCVW, 2019*. [[Paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/LCI/Wang_Flickr1024_A_Large-Scale_Dataset_for_Stereo_Image_Super-Resolution_ICCVW_2019_paper.pdf)] [[Dataset](https://yingqianwang.github.io/Flickr1024/)] [[Bibtex](./bibliography/Flickr1024.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Flickr1024:+A+large-scale+dataset+for+stereo+image+super-resolution&btnG=)]
 
+   * **ApolloScape**: *"The apolloscape open dataset for autonomous driving and its application"*, Huang et al., *TPAMI, 2019*. [[Paper](https://arxiv.org/pdf/1803.06184)] [[Dataset](https://github.com/ApolloScapeAuto/dataset-api)] [[Bibtex](./bibliography/ApolloScape.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=The+ApolloScape+Open+Dataset+for+Autonomous+Driving+and+its+Application&btnG=)]
+
    * **Holopix50k**: *"Holopix50k: A Large-Scale In-the-Wild Stereo Image Dataset"*, Hua et al., *CVPR, 2020*. [[Paper](https://arxiv.org/abs/2003.11172)] [[Dataset](https://leiainc.github.io/holopix50k/)]  [[Bibtex](./bibliography/Holopix50k.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Holopix50k:+A+Large-Scale+In-the-Wild+Stereo+Image+Dataset&btnG=)]
+
+   * **A*** **3d**: *"A** 3d dataset: Towards autonomous driving in challenging environments"*, Pham et al., *ICRA, 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9197385&casa_token=UIZZKw0XavsAAAAA:36qrDaMZQ7ANrOt0QIzEtWOEvQbuozXrCYi9vfD1BJuE4ip_D_A9rEmqqg0q9oLkz7bSG1zg&tag=1)] [[Github](https://github.com/I2RDL2/ASTAR-3D?tab=readme-ov-file#Download)] [[Bibtex](./bibliography/ASTAR-3D.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A*3D+Dataset%3A+Towards+Autonomous+Driving+in+Challenging+Environments&btnG=)]
+
+
+   * **A2D2**: *"Audi Autonomous Driving Dataset"*, Geyer et al., *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2004.06320.pdf)] [[Dataset](https://www.a2d2.audi/a2d2/en/dataset.html)] [[Bibtex](./bibliography/A2D2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A2d2%3A+Audi+autonomous+driving+dataset&btnG=)]
 
    * **InStereo2K**: *"InStereo2K: A Large Real Dataset for Stereo Matching in Indoor Scenes"*, Bao et al., *Science China Information Sciences, 2020*. [[Paper](https://link.springer.com/article/10.1007/s11432-019-2803-x)] [[Github](https://github.com/YuhuaXu/StereoDataset)] [[Bibtex](./bibliography/InStereo2K.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=InStereo2K%3A+A+Large+Real+Dataset+for+Stereo+Matching+in+Indoor+Scenes&btnG=)]
 
@@ -186,6 +193,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 * **Spring**: *"Spring: A High-Resolution High-Detail Dataset and Benchmark for Scene Flow, Optical Flow and Stereo"*, Mehl et al., *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Mehl_Spring_A_High-Resolution_High-Detail_Dataset_and_Benchmark_for_Scene_Flow_CVPR_2023_paper.html)] [[Dataset](http://spring-benchmark.org)] [[Bibtex](./bibliography/Spring.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Spring:+A+High-Resolution+High-Detail+Dataset+and+Benchmark+for+Scene+Flow,+Optical+Flow+and+Stereo&btnG=)]
 
 * **Dynamic Replica**: *"DynamicStereo: Consistent Dynamic Depth From Stereo Videos"*, Karaev et al., *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Karaev_DynamicStereo_Consistent_Dynamic_Depth_From_Stereo_Videos_CVPR_2023_paper.pdf)] [[Dataset](https://dynamic-stereo.github.io/)] [[Bibtex](./bibliography/Dynamic_Replica.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DynamicStereo:+Consistent+Dynamic+Depth+From+Stereo+Videos&btnG=)]
+
+* **All-In-One Drive**: *"A Comprehensive Perception Dataset with High-Density Long-Range Point Clouds"*, Weng et al., *arXiv  2023*. [[Paper](https://openreview.net/pdf?id=yl9aThYT9W)] [[Dataset](http://www.aiodrive.org/)] [[Bibtex](./bibliography/All-In-One.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=2005&sciodt=0%2C5&cites=13426829701666173810&scipsc=&q=All-In-One+Drive%3A+A+Comprehensive+Perception+Dataset+with+High-Density+Long-Range+Point+Clouds&btnG=)]
 
 </details>
 

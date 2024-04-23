@@ -1,0 +1,6 @@
+@article{geyer2020a2d2,
+  title={A2d2: Audi autonomous driving dataset},
+  author={Geyer, Jakob and Kassahun, Yohannes and Mahmudi, Mentar and Ricou, Xavier and Durgesh, Rupesh and Chung, Andrew S and Hauswald, Lorenz and Pham, Viet Hoang and M{\"u}hlegg, Maximilian and Dorn, Sebastian and others},
+  journal={arXiv preprint arXiv:2004.06320},
+  year={2020}
+}

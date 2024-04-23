@@ -1,0 +1,5 @@
+@article{weng2023all,
+  title={All-in-one drive: A comprehensive perception dataset with high-density long-range point clouds},
+  author={Weng, Xinshuo and Man, Yunze and Park, Jinhyung and Yuan, Ye and O'Toole, Matthew and Kitani, Kris M},
+  year={2023}
+}

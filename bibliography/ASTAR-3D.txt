@@ -1,0 +1,8 @@
+@inproceedings{pham20203d,
+  title={A* 3d dataset: Towards autonomous driving in challenging environments},
+  author={Pham, Quang-Hieu and Sevestre, Pierre and Pahwa, Ramanpreet Singh and Zhan, Huijing and Pang, Chun Ho and Chen, Yuda and Mustafa, Armin and Chandrasekhar, Vijay and Lin, Jie},
+  booktitle={2020 IEEE International conference on Robotics and Automation (ICRA)},
+  pages={2267--2273},
+  year={2020},
+  organization={IEEE}
+}
