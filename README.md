@@ -1101,6 +1101,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **DSGN**: "Deep Stereo Geometry Network for 3D Object Detection", Chen et al., *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_DSGN_Deep_Stereo_Geometry_Network_for_3D_Object_Detection_CVPR_2020_paper.pdf)] [[Code](https://github.com/dvlab-research/DSGN)] [[Bibtex](./bibliography/DSGN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Deep+Stereo+Geometry+Network+for+3D+Object+Detection&btnG=)]
 
+* **StereoNeRF**: "Generalizable Novel-View Synthesis using a Stereo Camera", Lee et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.13541.pdf)] [[WebSite](https://jinwonjoon.github.io/stereonerf/)] [[Bibtex](./bibliography/StereoNeRF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Generalizable+Novel-View+Synthesis+using+a+Stereo+Camera&btnG=)]
 
 ## Workshops
 
