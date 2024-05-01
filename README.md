@@ -365,6 +365,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
     
    * :triangular_flag_on_post: **RAFT-Stereo**: *"RAFT-Stereo: Multilevel Recurrent Field Transforms for Stereo Matching"*, Lipson et al., *3DV, 2021*. [[Paper](https://arxiv.org/abs/2109.07547)] [[Code](https://github.com/princeton-vl/RAFT-Stereo)] [[Bibtex](./bibliography/RAFT-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=RAFT-Stereo:+Multilevel+Recurrent+Field+Transforms+for+Stereo+Matching&btnG=)]
 
+   * **ORStereo**: *"Orstereo: Occlusion-aware recurrent stereo matching for 4k-resolution images"*, Hu et al., *IROS, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9635869&casa_token=xOCL674auMgAAAAA:cMdpD6Bfa_fmltkjCO2Ig2snwGn12h5vZuYIp0emUAe-CqQy0uO82F7vWOpCdaeg-xmeOi__&tag=1)] [[WebPage](https://theairlab.org/orstereo/)] [[Bibtex](./bibliography/ORStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=ORStereo%3A+Occlusion-Aware+Recurrent+Stereo+Matching+for+4K-Resolution+Images&btnG=)]
+
    * **SCV-Stereo**: *"SCV-Stereo: Learning Stereo Matching from a Sparse Cost Volume"*, Wang et al., *ICIP, 2021*. [[Paper](https://arxiv.org/abs/2107.08187)] [[Code](https://sites.google.com/view/scv-stereo)] [[Bibtex](./bibliography/SCV-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SCV-Stereo:+Learning+Stereo+Matching+from+a+Sparse+Cost+Volume&btnG=)] 
 
    * **CREStereo**: *"Practical Stereo Matching via Cascaded Recurrent Network with Adaptive Correlation"*, Li et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Practical_Stereo_Matching_via_Cascaded_Recurrent_Network_With_Adaptive_Correlation_CVPR_2022_paper.pdf)] [[Code](https://github.com/megvii-research/CREStereo)] [[Bibtex](./bibliography/CREStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Practical+Stereo+Matching+via+Cascaded+Recurrent+Network+with+Adaptive+Correlation&btnG=)]
@@ -445,6 +447,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **PCVNet**: *"Parameterized Cost Volume for Stereo Matching"*, Zeng et al., *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_Parameterized_Cost_Volume_for_Stereo_Matching_ICCV_2023_paper.pdf)] [[Code](https://github.com/jiaxiZeng/Parameterized-Cost-Volume-for-Stereo-Matching)] [[Bibtex](./bibliography/PCVNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Parameterized+Cost+Volume+for+Stereo+Matching&btnG=)]
 
+* **IINet**: *"IINet: Implicit Intra-inter Information Fusion for Real-Time Stereo Matching"*, Li et al., *AAAI, 2024*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28107/28218)]  [[Bibtex](./bibliography/IINet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IINet:+Implicit+Intra-inter+Information+Fusion+for+Real-Time+Stereo+Matching&btnG=)]
 
 
 </details>
@@ -464,8 +467,6 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 * **Separable-Stereo**: *"Separable Convolutions for Optimizing 3D Stereo Networks"*, Rahim et al., *ICIP, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9506330)] [[Code](https://github.com/cogsys-tuebingen/separable-3D-convs-for-stereo-matching)] [[Bibtex](./bibliography/Separable-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Separable+Convolutions+for+Optimizing+3D+Stereo+Networks&btnG=)]
 
 * **TemporalStereo**: *"TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network"*, Zhang et al., *IROS, 2023*. [[Paper](https://arxiv.org/pdf/2211.13755.pdf)] [[Code](https://github.com/youmi-zym/TemporalStereo)]  [[Bibtex](./bibliography/TemporalStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=TemporalStereo:+Efficient+Spatial-Temporal+Stereo+Matching+Network&btnG=)]
-
-* **IINet**: *"IINet: Implicit Intra-inter Information Fusion for Real-Time Stereo Matching"*, Li et al., *AAAI, 2024*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28107/28218)]  [[Bibtex](./bibliography/IINet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IINet:+Implicit+Intra-inter+Information+Fusion+for+Real-Time+Stereo+Matching&btnG=)]
 
 
 </details>
