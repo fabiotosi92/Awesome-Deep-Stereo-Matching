@@ -1,0 +1,6 @@
+@article{shi2024asgrasp,
+  title={ASGrasp: Generalizable Transparent Object Reconstruction and Grasping from RGB-D Active Stereo Camera},
+  author={Shi, Jun and Jin, Yixiang and Li, Dingzhe and Niu, Haoyu and Jin, Zhezhu and Wang, He and others},
+  journal={arXiv preprint arXiv:2405.05648},
+  year={2024}
+}

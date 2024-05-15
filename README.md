@@ -681,7 +681,9 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 * **MonoStereoFusion**: *"Depth Estimation by Combining Binocular Stereo and Monocular Structured-Light"*, Xu et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Depth_Estimation_by_Combining_Binocular_Stereo_and_Monocular_Structured-Light_CVPR_2022_paper.pdf)] [[Code](https://github.com/YuhuaXu/MonoStereoFusion)] [[Bibtex](./bibliography/MonoStereoFusion.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Depth+Estimation+by+Combining+Binocular+Stereo+and+Monocular+Structured-Light&btnG=)]
 
 
-* **Activezero++**: *"Activezero++: Mixed domain learning stereo and confidence-based depth completion with zero annotation"*, Chen et al., *TPAMI, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10219021&casa_token=tEPEB1O5d74AAAAA:YLArSfK76hUPakJOvHaWTylzix6QgWx6MgSprE9AhUtIpp79yXFYFOXe0H9ahHEByzJsDpY)] [[Bibtex](./bibliography/Activezero++.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Activezero++:+Mixed+domain+learning+stereo+and+confidence-based+depth+completion+with+zero+annotation&btnG=)]
+* **Activezero++**: *"Activezero++: Mixed domain learning stereo and confidence-based depth completion with zero annotation"*, Chen et al., *TPAMI, 2023*. [[Paper](https://arxiv.org/pdf/2405.05648)] [[Bibtex](./bibliography/Activezero++.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Activezero++:+Mixed+domain+learning+stereo+and+confidence-based+depth+completion+with+zero+annotation&btnG=)]
+
+* **ASGrasp**: *"ASGrasp: Generalizable Transparent Object Reconstruction and 6-DoF Grasp Detection from RGB-D Active Stereo Camera"*, Shi et al., *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.05648)] [[WebPage](https://pku-epic.github.io/ASGrasp)] [[Bibtex](./bibliography/ASGrasp.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=ASGrasp%3A+Generalizable+Transparent+Object+Reconstruction+and+Grasping+from+RGB-D+Active+Stereo+Camera&btnG=)]
 
 </details>
 
@@ -949,6 +951,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 * **TA-Stereo**: *"Transparent Objects: A Corner Case in Stereo Matching"*, Wu et al., *ICRA, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161385)]  [[Code](mias.group/TA-Stereo)] [[Bibtex](./bibliography/TA-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Transparent+Objects:+A+Corner+Case+in+Stereo+Matching&btnG=)]
 
 * **Depth4ToM**: *"Learning Depth Estimation for Transparent and Mirror Surfaces"*, Costanzino et al., *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Costanzino_Learning_Depth_Estimation_for_Transparent_and_Mirror_Surfaces_ICCV_2023_paper.pdf)]  [[Code](https://cvlab-unibo.github.io/Depth4ToM/)] [[Bibtex](./bibliography/Depth4ToM.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+Depth+Estimation+for+Transparent+and+Mirror+Surfaces&btnG=)]
+
+* **ASGrasp**: *"ASGrasp: Generalizable Transparent Object Reconstruction and 6-DoF Grasp Detection from RGB-D Active Stereo Camera"*, Shi et al., *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.05648)] [[WebPage](https://pku-epic.github.io/ASGrasp)] [[Bibtex](./bibliography/ASGrasp.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=ASGrasp%3A+Generalizable+Transparent+Object+Reconstruction+and+Grasping+from+RGB-D+Active+Stereo+Camera&btnG=)]
 
 </details>
 
