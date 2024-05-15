@@ -26,6 +26,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
       - [Efficient-Oriented Deep Stereo Architectures](#efficient-oriented) 
       - [Multi-Task Deep Stereo Architectures](#multi-task) 
       - [Beyond Visual Spectrum Deep Stereo Architectures](#multi-modal) 
+   - [Architectural Analysis](#architectural-analysis)
    - [Challenges & Solutions](#challenges-and-solutions)
       - [Addressing the Over-Smoothing Issue](#over-smoothing)
       - [Missing Ground Truth Depth](#missing-gt) 
@@ -744,7 +745,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 </ul>
 </details>
 
-### Architectural Analysis and Ablation Studies
+### Architectural Analysis
 
 * **OpenStereo**: *"OpenStereo: A Comprehensive Benchmark for Stereo Matching and Strong Baseline"*, Xianda et al., *arXiv, 2023*  [[Paper](https://arxiv.org/pdf/2312.00343.pdf)] [[Code](https://github.com/XiandaGuo/OpenStereo)] [[Bibtex](./bibliography/OpenStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=OpenStereo:+A+Comprehensive+Benchmark+for+Stereo+Matching+and+Strong+Baseline&btnG=)]
 
