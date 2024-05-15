@@ -744,7 +744,11 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 </ul>
 </details>
 
+### Architectural Analysis and Ablation Studies
 
+* **OpenStereo**: *"OpenStereo: A Comprehensive Benchmark for Stereo Matching and Strong Baseline"*, Xianda et al., *arXiv, 2023*  [[Paper](https://arxiv.org/pdf/2312.00343.pdf)] [[Code](https://github.com/XiandaGuo/OpenStereo)] [[Bibtex](./bibliography/OpenStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=OpenStereo:+A+Comprehensive+Benchmark+for+Stereo+Matching+and+Strong+Baseline&btnG=)]
+
+* *"Exploring the Usage of Pre-trained Features for Stereo Matching"*, Zhang et al., *IJCV, 2024*  [[Paper](https://link.springer.com/article/10.1007/s11263-024-02090-y)] [[Bibtex](./bibliography/ExploringFeatures.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Exploring+the+Usage+of+Pre-trained+Features+for+Stereo+Matching&btnG=)]
 
 ### Challenges & Solutions
 
