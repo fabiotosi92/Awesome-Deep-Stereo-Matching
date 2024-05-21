@@ -31,6 +31,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
       - [Addressing the Over-Smoothing Issue](#over-smoothing)
       - [Missing Ground Truth Depth](#missing-gt) 
       - [Domain Shift](#domain-shift) 
+      - [Adverse Weather ](#adverse-weather) 
       - [Transparent and Reflective (ToM) Surfaces ](#tom) 
       - [Asymmetric Stereo ](#asymmetric) 
    - [Confidence Estimation](#confidence-estimation)
@@ -507,6 +508,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **MadNet2**: *"Federated Online Adaptation for Deep Stereo"*, Poggi et al., *CVPR, 2024*.  [[Bibtex](./bibliography/FedStereo.txt)] 
 
+* **Distill-And-Prune**: *"Distill-then-prune: An Efficient Compression Framework for Real-time Stereo Matching Network on Edge Devices"*, Pan et al., *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.11809)] [[Bibtex](./bibliography/Distill-And-Prune.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Distill-then-prune%3A+An+Efficient+Compression+Framework+for+Real-time+Stereo+Matching+Network+on+Edge+Devices&btnG=)]
+
 </details>
 
 
@@ -948,10 +951,25 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 </details>
 
+
+
+<details open id="adverse-weather">
+<summary style="font-size: larger; font-weight: bold;">Adverse Weather</summary>
+
+* **DDF**: *"Dusk Till Dawn: Self-supervised Nighttime Stereo Depth Estimation using Visual Foundation Models"*, Vankadari et al., *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.11158)]  [[Code](https://github.com/madhubabuv/dtd)] [[Bibtex](./bibliography/Dusk-Till-Dawn.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Dusk+Till+Dawn%3A+Self-supervised+Nighttime+Stereo+Depth+Estimation+using+Visual+Foundation+Models&btnG=)]
+
+
+</details>
+
+
+
+
+
+
 <details open id="tom">
 <summary style="font-size: larger; font-weight: bold;">Transparent and Reflective (ToM) Surfaces </summary>
 
-* **DDF**: *"Deep Depth Fusion for Black, Transparent, Reflective and Texture-Less Objects"*, Chai et al., *ICRA, 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9196894)]  [[Code](https://github.com/chzhang18/RAG)] [[Bibtex](./bibliography/DDF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deep+Depth+Fusion+for+Black,+Transparent,+Reflective+and+Texture-Less+Objects&btnG=)]
+* **DDF**: *"Deep Depth Fusion for Black, Transparent, Reflective and Texture-Less Objects"*, Chai et al., *ICRA, 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9196894)] [[Bibtex](./bibliography/DDF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deep+Depth+Fusion+for+Black,+Transparent,+Reflective+and+Texture-Less+Objects&btnG=)]
 
 * **TA-Stereo**: *"Transparent Objects: A Corner Case in Stereo Matching"*, Wu et al., *ICRA, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161385)]  [[Code](mias.group/TA-Stereo)] [[Bibtex](./bibliography/TA-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Transparent+Objects:+A+Corner+Case+in+Stereo+Matching&btnG=)]
 
