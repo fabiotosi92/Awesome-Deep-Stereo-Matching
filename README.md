@@ -619,8 +619,9 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **SceneFlowFields++**: *"SceneFlowFields++: Multi-frame matching, visibility prediction, and robust interpolation for scene flow estimation"*, Schuster et al., *IJCV, 2020*. [[Paper](https://arxiv.org/pdf/1902.10099.pdf)] [[Bibtex](./bibliography/SceneFlowFields++.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SceneFlowFields++:+Multi-frame+matching,+visibility+prediction,+and+robust+interpolation+for+scene+flow+estimation&btnG=)]
 
-
 * **Effiscene**: *"Effiscene: Efficient per-pixel rigidity inference for unsupervised joint learning of optical flow, depth, camera pose and motion segmentation"*, Jiao et al., *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiao_EffiScene_Efficient_Per-Pixel_Rigidity_Inference_for_Unsupervised_Joint_Learning_of_CVPR_2021_paper.pdf)] [[Bibtex](./bibliography/Effiscene.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Effiscene:+Efficient+per-pixel+rigidity+inference+for+unsupervised+joint+learning+of+optical+flow,+depth,+camera+pose+and+motion+segmentation&btnG=)]
+
+* **RAFT-3D**: *"RAFT-3D: Scene Flow using Rigid-Motion Embeddings"*, Teed et al., *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Teed_RAFT-3D_Scene_Flow_Using_Rigid-Motion_Embeddings_CVPR_2021_paper.pdf)] [[Code](https://github.com/princeton-vl/RAFT-3D)] [[Bibtex](./bibliography/RAFT-3D.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=RAFT-3D%3A+Scene+Flow+using+Rigid-Motion+Embeddings&btnG=)]
 
 * **RigidMask**: *"Learning to Segment Rigid Motions from Two Frames"*, Yang et al., *CVPR, 2021*. [[Paper](http://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Learning_To_Segment_Rigid_Motions_From_Two_Frames_CVPR_2021_paper.pdf)] [[Code](https://github.com/gengshan-y/rigidmask)] [[Bibtex](./bibliography/RigidMask.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+to+Segment+Rigid+Motions+from+Two+Frames&btnG=)]
 
