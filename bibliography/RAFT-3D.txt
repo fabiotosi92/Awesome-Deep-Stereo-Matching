@@ -1,0 +1,7 @@
+@inproceedings{teed2021raft,
+  title={Raft-3d: Scene flow using rigid-motion embeddings},
+  author={Teed, Zachary and Deng, Jia},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={8375--8384},
+  year={2021}
+}
