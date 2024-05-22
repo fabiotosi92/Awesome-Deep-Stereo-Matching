@@ -707,6 +707,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **CrossSP**: *"Unsupervised Cross-Spectrum Depth Estimation by Visible-Light and Thermal Cameras"*, Guo et al., *T-ITS, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10146199)] [[Code](https://github.com/whitecrow1027/CrossSP_Depth)] [[Bibtex](./bibliography/CrossSP.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Cross-Spectrum+Depth+Estimation+by+Visible-Light+and+Thermal+Cameras&btnG=)]
 
+* **Gated-RCCB**: *"Cross-spectral Gated-RGB Stereo Depth Estimation"*, Brucker et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2405.12759)] [[WebPage](https://light.princeton.edu/gatedrccbstereo/)] [[Bibtex](./bibliography/Gated-RCCB.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Cross-spectral+Gated-RGB+Stereo+Depth+Estimation&btnG=)]
 
 </details>
 
@@ -734,6 +735,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 <summary style="font-size: larger; font-weight: bold;">Gated Stereo Networks</summary>
 
 * **GatedStereo**: *"Gated Stereo: Joint Depth Estimation from Gated and Wide-Baseline Active Stereo Cues"*, Walz et al., *CVPR, 2023*. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/papers/Walz_Gated_Stereo_Joint_Depth_Estimation_From_Gated_and_Wide-Baseline_Active_CVPR_2023_paper.pdf)] [[WebPage](https://light.princeton.edu/publication/gatedstereo/)] [[Bibtex](./bibliography/Gated.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Gated+Stereo:+Joint+Depth+Estimation+from+Gated+and+Wide-Baseline+Active+Stereo+Cues&btnG=)]
+
+* **Gated-RCCB**: *"Cross-spectral Gated-RGB Stereo Depth Estimation"*, Brucker et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2405.12759)] [[WebPage](https://light.princeton.edu/gatedrccbstereo/)] [[Bibtex](./bibliography/Gated-RCCB.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Cross-spectral+Gated-RGB+Stereo+Depth+Estimation&btnG=)]
 
 </details>
 
