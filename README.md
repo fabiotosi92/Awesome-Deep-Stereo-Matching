@@ -941,8 +941,10 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **Learning2Adapt**: *"Learning to adapt for stereo"*, Tonioni et al., *CVPR, 2019*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tonioni_Learning_to_Adapt_for_Stereo_CVPR_2019_paper.pdf)] [[Code](https://github.com/CVLAB-Unibo/Learning2AdaptForStereo)] [[Bibtex](./bibliography/Learning2Adapt.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+to+adapt+for+stereo&btnG=)]
 
-* **Continual Adaptation for Deep Stereo**: *"Continual adaptation for deep stereo"*, Poggi et al., *TPAMI, 2021*. [[Paper](https://ieeexplore.ieee.org/document/9418523?denied=)] [[Code](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo?tab=readme-ov-file)] [[Bibtex](./bibliography/ContinualAdaptation.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Continual+adaptation+for+deep+stereo&btnG=)]
+* **AoHNet**: *"Faster Self-adaptive Deep Stereo"*, Wang et al., *ACCV, 2020*. [[Paper](https://openaccess.thecvf.com/content/ACCV2020/papers/Wang_Faster_Self-adaptive_Deep_Stereo_ACCV_2020_paper.pdf)] [[Bibtex](./bibliography/AoHNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Faster+Self-adaptive+Deep+Stereo&btnG=)]
 
+
+* **Continual Adaptation for Deep Stereo**: *"Continual adaptation for deep stereo"*, Poggi et al., *TPAMI, 2021*. [[Paper](https://ieeexplore.ieee.org/document/9418523?denied=)] [[Code](https://github.com/CVLAB-Unibo/Real-time-self-adaptive-deep-stereo?tab=readme-ov-file)] [[Bibtex](./bibliography/ContinualAdaptation.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Continual+adaptation+for+deep+stereo&btnG=)]
 
 
 * **PointFix**: *"PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation"*, Kim et al., *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980557.pdf)] [[Bibtex](./bibliography/PointFix.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PointFix:+Learning+to+Fix+Domain+Bias+for+Robust+Online+Stereo+Adaptation&btnG=)]
