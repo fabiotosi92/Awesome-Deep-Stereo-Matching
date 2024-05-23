@@ -449,7 +449,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **PCVNet**: *"Parameterized Cost Volume for Stereo Matching"*, Zeng et al., *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zeng_Parameterized_Cost_Volume_for_Stereo_Matching_ICCV_2023_paper.pdf)] [[Code](https://github.com/jiaxiZeng/Parameterized-Cost-Volume-for-Stereo-Matching)] [[Bibtex](./bibliography/PCVNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Parameterized+Cost+Volume+for+Stereo+Matching&btnG=)]
 
-* **IINet**: *"IINet: Implicit Intra-inter Information Fusion for Real-Time Stereo Matching"*, Li et al., *AAAI, 2024*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28107/28218)]  [[Bibtex](./bibliography/IINet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IINet:+Implicit+Intra-inter+Information+Fusion+for+Real-Time+Stereo+Matching&btnG=)]
+* **IINet**: *"IINet: Implicit Intra-inter Information Fusion for Real-Time Stereo Matching"*, Li et al., *AAAI, 2024*. [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28107/28218)] [[Code](https://github.com/blindwatch/IINet)] [[Bibtex](./bibliography/IINet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IINet:+Implicit+Intra-inter+Information+Fusion+for+Real-Time+Stereo+Matching&btnG=)]
 
 
 </details>
