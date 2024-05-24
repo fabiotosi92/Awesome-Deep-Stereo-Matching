@@ -949,7 +949,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **PointFix**: *"PointFix: Learning to Fix Domain Bias for Robust Online Stereo Adaptation"*, Kim et al., *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980557.pdf)] [[Bibtex](./bibliography/PointFix.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PointFix:+Learning+to+Fix+Domain+Bias+for+Robust+Online+Stereo+Adaptation&btnG=)]
 
-* **FedStereo**: *"Federated Online Adaptation for Deep Stereo"*, Poggi et al., *CVPR, 2024*. [[Paper](https://fedstereo.github.io/)] [[Bibtex](./bibliography/FedStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Federated+Online+Adaptation+for+Deep+Stereo&btnG=)]
+* **FedStereo**: *"Federated Online Adaptation for Deep Stereo"*, Poggi et al., *CVPR, 2024*. [[Paper](https://fedstereo.github.io/)] [[Code](https://github.com/mattpoggi/fedstereo)] [[Bibtex](./bibliography/FedStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Federated+Online+Adaptation+for+Deep+Stereo&btnG=)]
 
 
 
