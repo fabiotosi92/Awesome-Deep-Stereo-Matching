@@ -1,0 +1,5 @@
+@InProceedings{kumar2024FGOSrect,
+author = {Anush Kumar and Fahim Mannan and Omid Hosseini Jafari and Shile Li and Felix Heide},
+title = {Flow-Guided Online Stereo Rectification for Wide Baseline Stereo},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+year = {2024}}

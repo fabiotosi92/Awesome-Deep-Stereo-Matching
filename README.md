@@ -1149,6 +1149,9 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **StereoNeRF**: "Generalizable Novel-View Synthesis using a Stereo Camera", Lee et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.13541.pdf)] [[WebSite](https://jinwonjoon.github.io/stereonerf/)] [[Bibtex](./bibliography/StereoNeRF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Generalizable+Novel-View+Synthesis+using+a+Stereo+Camera&btnG=)]
 
+* **Online Stereo Rectification**: "Flow-Guided Online Stereo Rectification for Wide Baseline Stereo", Kumar et al., *CVPR, 2024*. [[Paper](https://light.princeton.edu/wp-content/uploads/2024/04/Flow-Guided-Online-Stereo-Rectification-for-Wide-Baseline-Stereo.pdf)] [[WebSite](https://light.princeton.edu/publication/online-stereo-recification/)] [[Bibtex](./bibliography/OnlineStereoRectification.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Flow-Guided+Online+Stereo+Rectification+for+Wide+Baseline+Stereo&btnG=)]
+
+
 ## Workshops
 
 * **NTIRE 2024: HR Depth from Images of Specular and Transparent Surfaces**. P. Z. Ramirez, F. Tosi, L. Di Stefano, R. Timofte
