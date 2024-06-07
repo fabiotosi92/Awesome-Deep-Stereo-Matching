@@ -873,7 +873,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 </details>
 
 <details open>
-<summary style="font-size: larger; font-weight: bold;">Synthetic Data Generation and Domain Translation</summary>
+<summary style="font-size: larger; font-weight: bold;">Real-World Monocular to Synthetic Stereo Data</summary>
 
  
 * **LSSI**: "*Learning Stereo from Single Images*", Watson et al., *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460698.pdf)] [[Code](https://github.com/nianticlabs/stereo-from-mono/)] [[Bibtex](./bibliography/LSSI.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+Stereo+from+Single+Images&btnG=)] 
