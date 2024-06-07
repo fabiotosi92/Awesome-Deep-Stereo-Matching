@@ -875,11 +875,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Synthetic Data Generation and Domain Translation</summary>
 
-* **StereoGAN**: "*StereoGAN: Bridging Synthetic-to-Real Domain Gap by Joint Optimization of Domain Translation and Stereo Matching*", Liu et al.,  *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_StereoGAN_Bridging_Synthetic-to-Real_Domain_Gap_by_Joint_Optimization_of_Domain_CVPR_2020_paper.pdf)] [[Code](https://github.com/ruiliu-ai/StereoGAN)] [[Bibtex](./bibliography/StereoGAN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoGAN%3A+Bridging+Synthetic-to-Real+Domain+Gap+by+Joint+Optimization+of+Domain+Translation+and+Stereo+Matching&btnG=)] 
  
 * **LSSI**: "*Learning Stereo from Single Images*", Watson et al., *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460698.pdf)] [[Code](https://github.com/nianticlabs/stereo-from-mono/)] [[Bibtex](./bibliography/LSSI.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+Stereo+from+Single+Images&btnG=)] 
-
-* **FoggyStereo**: "*FoggyStereo: Stereo Matching with Fog Volume Representation*", Yao et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yao_FoggyStereo_Stereo_Matching_With_Fog_Volume_Representation_CVPR_2022_paper.pdf)] [[Code](https://github.com/nianticlabs/stereo-from-mono/)] [[Bibtex](./bibliography/FoggyStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=FoggyStereo%3A+Stereo+Matching+with+Fog+Volume+Representation&btnG=)] 
 
 
 * **NeRF-Supervised Stereo**: "*NeRF-Supervised Deep Stereo*", Tosi et al., *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Website](https://nerfstereo.github.io/)] [[Code](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo)] [[Bibtex](./bibliography/NS-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=NeRF-Supervised+Deep+Stereo&btnG=)] 
@@ -915,6 +912,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 * **Open-World Stereo**: *"Open-world stereo video matching with deep rnn"*, Zhong et al., *ECCV, 2018*. [[Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yiran_Zhong_Open-World_Stereo_Video_ECCV_2018_paper.pdf)] [[Bibtex](./bibliography/Open-World.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Open-world+stereo+video+matching+with+deep+rnn&btnG=)] 
 
 * **ZOLE**: *"Zoom and Learn: Generalizing Deep Stereo Matching to Novel Domain"*, Pang et al., *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pang_Zoom_and_Learn_CVPR_2018_paper.pdf)] [[Code](https://github.com/jiahaopang/zole)] [[Bibtex](./bibliography/v.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+adaptation+for+deep+stereo&btnG=)]
+
+* **StereoGAN**: "*StereoGAN: Bridging Synthetic-to-Real Domain Gap by Joint Optimization of Domain Translation and Stereo Matching*", Liu et al.,  *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_StereoGAN_Bridging_Synthetic-to-Real_Domain_Gap_by_Joint_Optimization_of_Domain_CVPR_2020_paper.pdf)] [[Code](https://github.com/ruiliu-ai/StereoGAN)] [[Bibtex](./bibliography/StereoGAN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoGAN%3A+Bridging+Synthetic-to-Real+Domain+Gap+by+Joint+Optimization+of+Domain+Translation+and+Stereo+Matching&btnG=)] 
 
 * **AdaStereo**: *"AdaStereo: A Simple and Efficient Approach for Adaptive Stereo Matching"*, Song et al., *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_AdaStereo_A_Simple_and_Efficient_Approach_for_Adaptive_Stereo_Matching_CVPR_2021_paper.pdf)] [[Bibtex](./bibliography/AdaStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AdaStereo:+A+Simple+and+Efficient+Approach+for+Adaptive+Stereo+Matching&btnG=)]
 
@@ -960,6 +959,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 <details open id="adverse-weather">
 <summary style="font-size: larger; font-weight: bold;">Adverse Weather</summary>
+
+* **FoggyStereo**: "*FoggyStereo: Stereo Matching with Fog Volume Representation*", Yao et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yao_FoggyStereo_Stereo_Matching_With_Fog_Volume_Representation_CVPR_2022_paper.pdf)] [[Code](https://github.com/nianticlabs/stereo-from-mono/)] [[Bibtex](./bibliography/FoggyStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=FoggyStereo%3A+Stereo+Matching+with+Fog+Volume+Representation&btnG=)] 
 
 * **DDF**: *"Dusk Till Dawn: Self-supervised Nighttime Stereo Depth Estimation using Visual Foundation Models"*, Vankadari et al., *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.11158)]  [[Code](https://github.com/madhubabuv/dtd)] [[Bibtex](./bibliography/Dusk-Till-Dawn.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Dusk+Till+Dawn%3A+Self-supervised+Nighttime+Stereo+Depth+Estimation+using+Visual+Foundation+Models&btnG=)]
 
