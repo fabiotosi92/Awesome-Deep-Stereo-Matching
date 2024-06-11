@@ -268,6 +268,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **NDR**: "*Neural disparity refinement for arbitrary resolution stereo*", Aleotti et al., *3DV, 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9665913?casa_token=3rm4WpqLb_QAAAAA:5Sa0RO547j8LsaEYUeppzB33gZJg5Y3tfiPVwM9rzs9MEAuoHSta0Kdw3Cm9NrtfOOdFkIwp)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR.txt)] 
 
+* **NDR_v2**: "*Neural disparity refinement*", Tosi et al., *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/iel8/34/4359286/10552115.pdf)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR_v2.txt)] 
+
 </details>
 
 
@@ -777,6 +779,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **ADL**: "*Adaptive Multi-Modal Cross-Entropy Loss for Stereo Matching*", Xu et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2306.15612.pdf)] [[Code](https://github.com/xxxupeng/ADL)] [[Bibtex](./bibliography/ADL.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Adaptive+Multi-Modal+Cross-Entropy+Loss+for+Stereo+Matching&btnG=)] 
 
+* **NDR_v2**: "*Neural disparity refinement*", Tosi et al., *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/iel8/34/4359286/10552115.pdf)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR_v2.txt)] 
 
 </details>
 
