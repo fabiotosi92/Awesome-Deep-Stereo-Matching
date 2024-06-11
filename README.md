@@ -268,7 +268,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **NDR**: "*Neural disparity refinement for arbitrary resolution stereo*", Aleotti et al., *3DV, 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9665913?casa_token=3rm4WpqLb_QAAAAA:5Sa0RO547j8LsaEYUeppzB33gZJg5Y3tfiPVwM9rzs9MEAuoHSta0Kdw3Cm9NrtfOOdFkIwp)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR.txt)] 
 
-* **NDR_v2**: "*Neural disparity refinement*", Tosi et al., *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/iel8/34/4359286/10552115.pdf)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR_v2.txt)] 
+* **NDR v2**: "*Neural disparity refinement*", Tosi et al., *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/iel8/34/4359286/10552115.pdf)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR_v2.txt)] 
 
 </details>
 
@@ -779,7 +779,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **ADL**: "*Adaptive Multi-Modal Cross-Entropy Loss for Stereo Matching*", Xu et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2306.15612.pdf)] [[Code](https://github.com/xxxupeng/ADL)] [[Bibtex](./bibliography/ADL.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Adaptive+Multi-Modal+Cross-Entropy+Loss+for+Stereo+Matching&btnG=)] 
 
-* **NDR_v2**: "*Neural disparity refinement*", Tosi et al., *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/iel8/34/4359286/10552115.pdf)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR_v2.txt)] 
+* **NDR v2**: "*Neural disparity refinement*", Tosi et al., *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/iel8/34/4359286/10552115.pdf)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR_v2.txt)] 
 
 </details>
 
@@ -872,6 +872,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 
 * **EVHS**: "*Expansion of Visual Hints for Improved Generalization in Stereo Matching*", Pilzer et al., *WACV, 2023*. [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Pilzer_Expansion_of_Visual_Hints_for_Improved_Generalization_in_Stereo_Matching_WACV_2023_paper.pdf)] [[Bibtex](./bibliography/EVHS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Expansion+of+Visual+Hints+for+Improved+Generalization+in+Stereo+Matching&btnG=)] 
+
+* **NDR v2**: "*Neural disparity refinement*", Tosi et al., *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/iel8/34/4359286/10552115.pdf)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR_v2.txt)] 
 
 </details>
 
@@ -1000,7 +1002,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **SASS**: *"Unsupervised Deep Asymmetric Stereo Matching with Spatially-Adaptive Self-Similarity"*, Song et al., *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Unsupervised_Deep_Asymmetric_Stereo_Matching_With_Spatially-Adaptive_Self-Similarity_CVPR_2023_paper.pdf)] [[Bibtex](./bibliography/SASS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Deep+Asymmetric+Stereo+Matching+with+Spatially-Adaptive+Self-Similarity&btnG=)]
 
-
+* **NDR v2**: "*Neural disparity refinement*", Tosi et al., *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/iel8/34/4359286/10552115.pdf)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR_v2.txt)] 
 
 </details>
 
