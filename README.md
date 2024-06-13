@@ -201,6 +201,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **All-In-One Drive**: *"A Comprehensive Perception Dataset with High-Density Long-Range Point Clouds"*, Weng et al., *arXiv  2023*. [[Paper](https://openreview.net/pdf?id=yl9aThYT9W)] [[Dataset](http://www.aiodrive.org/)] [[Bibtex](./bibliography/All-In-One.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=2005&sciodt=0%2C5&cites=13426829701666173810&scipsc=&q=All-In-One+Drive%3A+A+Comprehensive+Perception+Dataset+with+High-Density+Long-Range+Point+Clouds&btnG=)]
 
+* **PLT-D3**: *"PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow"*, Tokarsky et al., *arXiv  2024*. [[Paper](https://arxiv.org/pdf/2406.07667)] [[Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/36SQKM)] [[Bibtex](./bibliography/PLT-D3.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=PLT-D3%3A+A+High-fidelity+Dynamic+Driving+Simulation+Dataset+for+Stereo+Depth+and+Scene+Flow&btnG=)]
+
 </details>
 
 ## Frameworks

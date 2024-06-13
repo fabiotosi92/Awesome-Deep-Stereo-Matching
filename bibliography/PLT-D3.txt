@@ -1,0 +1,9 @@
+@data{DVN/36SQKM_2024,
+author = {Tokarsky, Joshua and Abdulhafiz, Ibrahim and Ayyalasomayajula, Satya and Mohsen, Mostafa and Rao, Navya G. and Forbes, Adam},
+publisher = {Harvard Dataverse},
+title = {{PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow}},
+year = {2024},
+version = {V1},
+doi = {10.7910/DVN/36SQKM},
+url = {https://doi.org/10.7910/DVN/36SQKM}
+}
