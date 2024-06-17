@@ -38,7 +38,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 5. [Applications](#applications)
 6. [Workshops](#workshops)
 7. [Tutorials & Talks](#tutorials-talks)
-8. [Citation](#citation)
+8. [Demos](#demos)
+9. [Citation](#citation)
 
 
 <h2 id="fundamentals"> Survey & Fundamentals </h2>
@@ -1189,6 +1190,11 @@ A. Costanzino, M. Poggi, S. Salti, S. Mattoccia; CVPRW 2023, Vancouver, Canada [
 
 * **Lecture: Computer Vision (Prof. Andreas Geiger, University of Tübingen)**. [[Preliminaries](https://www.youtube.com/watch?v=6hr6xpOU-uw&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&index=12&pp=iAQB)] [[Block Matching](https://www.youtube.com/watch?v=EVzEJQl8WFk&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&index=13&t=830s&pp=iAQB)] [[Siamese Networks](https://www.youtube.com/watch?v=vLgsiIXNf0I&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&index=14&pp=iAQB)] [[Spatial Regularization](https://www.youtube.com/watch?v=gqz6R1qChVQ&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&index=15&t=359s&pp=iAQB)] [[End-to-End Learning](https://www.youtube.com/watch?v=9vrmwZ9Pl4o&list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_&index=16&t=639s&pp=iAQB)] 
 
+
+
+<h2 id="demos"> Demos </h2>
+
+* **Robust depth perception through Virtual Pattern Projection (VPP)**.  L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia; CVPR 2024 DEMO, Seattle, US [[Website](https://vppstereo.github.io/demo.html)] [[Code](https://github.com/bartn8/cvpr24-demo)] [[Flyer](https://vppstereo.github.io/assets/demo/DEMO_CVPR_2024_LARGE.pdf)]
 
 ## Citation
 
