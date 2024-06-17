@@ -1180,6 +1180,8 @@ A. Costanzino, M. Poggi, S. Salti, S. Mattoccia; CVPRW 2023, Vancouver, Canada [
 
 <h2 id="tutorials-talks"> Tutorials & Talks </h2>
 
+* **Deep Stereo Matching in the Twenties**. M. Poggi, F. Tosi; CVPR 2024, Seattle, US [[Website](https://sites.google.com/view/stereo-twenties/home)]
+
 * **Facing depth estimation in-the-wild with deep networks**. M. Poggi, F. Tosi, F. Aleotti, K. Batsos, P. Mordohai, S. Mattoccia; ECCV 2020, SEC, Glasgow [[Website](https://sites.google.com/view/eccv-2020-robust-depth/home)]
 
 * **Learning and understanding single image depth estimation in the wild**.  M. Poggi, F. Tosi, F. Aleotti, S. Mattoccia, C. Godard, J. Watson, M. Firman, G.J. Brostow; CVPR 2020, Seattle, Washington, US  [[Website](https://sites.google.com/view/cvpr-2020-depth-from-mono/home)]
