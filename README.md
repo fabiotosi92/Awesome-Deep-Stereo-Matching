@@ -888,7 +888,6 @@ If you find this repository valuable, please consider [citing](#citation) it in 
  
 * **LSSI**: "*Learning Stereo from Single Images*", Watson et al., *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460698.pdf)] [[Code](https://github.com/nianticlabs/stereo-from-mono/)] [[Bibtex](./bibliography/LSSI.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+Stereo+from+Single+Images&btnG=)] 
 
-
 * **NeRF-Supervised Stereo**: "*NeRF-Supervised Deep Stereo*", Tosi et al., *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Website](https://nerfstereo.github.io/)] [[Code](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo)] [[Bibtex](./bibliography/NS-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=NeRF-Supervised+Deep+Stereo&btnG=)] 
 
 
@@ -1164,6 +1163,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **Online Stereo Rectification**: "Flow-Guided Online Stereo Rectification for Wide Baseline Stereo", Kumar et al., *CVPR, 2024*. [[Paper](https://light.princeton.edu/wp-content/uploads/2024/04/Flow-Guided-Online-Stereo-Rectification-for-Wide-Baseline-Stereo.pdf)] [[WebSite](https://light.princeton.edu/publication/online-stereo-recification/)] [[Bibtex](./bibliography/OnlineStereoRectification.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Flow-Guided+Online+Stereo+Rectification+for+Wide+Baseline+Stereo&btnG=)]
 
+* **StereoDiffusion**: "*StereoDiffusion: Training-Free Stereo Image Generation
+Using Latent Diffusion Models*", Wang et al., *CVPRW, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/GCV/papers/Wang_StereoDiffusion_Training-Free_Stereo_Image_Generation_Using_Latent_Diffusion_Models_CVPRW_2024_paper.pdf)] [[Code](https://github.com/lez-s/StereoDiffusion)] [[Bibtex](./bibliography/StereoDiffusion.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoDiffusion%3A+Training-Free+Stereo+Image+Generation+Using+Latent+Diffusion+Models&btnG=)] 
 
 ## Workshops
 
