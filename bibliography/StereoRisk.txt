@@ -1,0 +1,5 @@
+@inproceedings{liustereo,
+  title={Stereo Risk: A Continuous Modeling Approach to Stereo Matching},
+  author={Liu, Ce and Kumar, Suryansh and Gu, Shuhang and Timofte, Radu and Yao, Yao and Van Gool, Luc},
+  booktitle={Forty-first International Conference on Machine Learning}
+}

@@ -786,6 +786,9 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 * **NDR v2**: "*Neural disparity refinement*", Tosi et al., *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/iel8/34/4359286/10552115.pdf)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR_v2.txt)] 
 
+* **Stereo Risk**: "*Stereo Risk: A Continuous Modeling Approach to Stereo Matching*", Liu et al., *ICML, 2024*. [[Paper](https://arxiv.org/pdf/2407.03152)]  [[Bibtex](./bibliography/StereoRisk.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&scisbd=1&as_sdt=2005&sciodt=0%2C5&cites=17071509949921577102&scipsc=&q=Stereo+Risk%3A+A+Continuous+Modeling+Approach+to+Stereo+Matching&btnG=)] 
+
+
 </details>
 
 <details open id="missing-gt">
