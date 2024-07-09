@@ -1,0 +1,8 @@
+@inproceedings{ElShair2024,
+  author    = {El-Shair, Zaid A. and Abu-raddaha, Abdalmalek and Cofield, Aaron and Alawneh, Hisham and Aladem, Mohamed and Hamzeh, Yazan and Rawashdeh, Samir A.},
+  title     = {SID: Stereo Image Dataset for Autonomous Driving in Adverse Conditions},
+  booktitle = {2024 IEEE National Aerospace and Electronics Conference (NAECON)},
+  year      = {2024},
+  url       = {https://arxiv.org/pdf/2407.04908},
+  doi       = {10.7302/esz6-nv83},
+}

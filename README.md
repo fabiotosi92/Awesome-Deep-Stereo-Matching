@@ -130,6 +130,9 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
    * **WHU-Stereo**: *"WHU-Stereo: A challenging benchmark for stereo matching of high-resolution satellite images"*, Li et al., *TGRS, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10044710&casa_token=qEuHzPZoVEoAAAAA:pU9i3aHcnnJqZuCmgqVpTEjK3UqrxBe5g48THFHdvIH7CKhP480X31SBeCJHMnVHGKkTUCE_&tag=1)] [[Dataset](https://github.com/Sheng029/WHU-Stereo)] [[Bibtex](./bibliography/WHU-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=WHU-stereo%3A+A+challenging+benchmark+for+stereo+matching+of+high-resolution+satellite+images&btnG=)]
 
+
+   * **SID**: *"SID: Stereo Image Dataset for Autonomous Driving in Adverse Conditions"*, El-Shair et al., *NAECON, 2024*. [[Paper](https://arxiv.org/pdf/2407.04908)] [[Dataset](https://deepblue.lib.umich.edu/data/concern/data_sets/cc08hg37c)] [[Bibtex](./bibliography/SID.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=SID%3A+Stereo+Image+Dataset+for+Autonomous+Driving+in+Adverse+Conditions&btnG=)]
+
    </details>
 
    <details open><summary style="font-size: larger; font-weight: bold;"> Multimodal/Beyond-Visible </summary>
