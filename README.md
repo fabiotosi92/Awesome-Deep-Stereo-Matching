@@ -5,11 +5,21 @@ The methods included in this repository are appropriately categorized to facilit
 
 We use the :triangular_flag_on_post: symbol to highlight the absolute most groundbreaking works.
 
+:rotating_light: :rotating_light: :rotating_light: This repository is closely associated with our latest survey on deep stereo matching: ["A Survey on Deep Stereo Matching in the Twenties"](https://arxiv.org/pdf/2407.07816). This survey provides an in-depth overview of the field, complementing the curated list of resources found in this repository. 
+
+For citation purposes, you can find the BibTeX entry [here](./bibliography/inTheTwenties.txt).
+
+Additionally, we presented a tutorial on this topic at CVPR 2024. For more information about the tutorial, including slides and additional resources, please visit our [Tutorial Webpage](https://sites.google.com/view/stereo-twenties).
+
+
+**Full reference:**
+* "A Survey on Deep Stereo Matching in the Twenties", Tosi et al., *arXiv pre-print, 2024*. [[Paper](https://arxiv.org/pdf/2407.07816)] [[Bibtex](./bibliography/inTheTwenties.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Survey+on+Deep+Stereo+Matching+in+the+Twenties+&btnG=)] [[Tutorial](https://sites.google.com/view/stereo-twenties)]
+
 #### [How to submit a pull request?](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching/blob/main/how-to-PR.txt)
 
 If you find this repository valuable, please consider [citing](#citation) it in your work and giving it a star ! :star:
 
-## Table of Contents
+## :bookmark_tabs: Table of Contents
 
 1. [Survey & Fundamentals](#fundamentals)
 2. [CodeBase](#codebase)
@@ -66,6 +76,8 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 <details open><summary style="font-size: larger; font-weight: bold;"> Deep Stereo Matching</summary><ul>
 
+   * *"A Survey on Deep Stereo Matching in the Twenties"*, Tosi et al., *arXiv pre-print, 2024*. [[Paper](https://arxiv.org/pdf/2407.07816)] [[Bibtex](./bibliography/inTheTwenties.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Survey+on+Deep+Stereo+Matching+in+the+Twenties+&btnG=)] [[Tutorial](https://sites.google.com/view/stereo-twenties)]
+
    * *"A survey on deep learning techniques for stereo-based depth estimation"*, Laga et al., *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9233988&casa_token=thq8xzMfDVQAAAAA:LqT40M8CQY9Xt8j8pKTUJr2E89KAB9c1DGG1Pw9q1YMG__o5htMzH1Xx3_wlPwLcesYHgvc&tag=1)] [[Bibtex](./bibliography/survey-stereo-2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+survey+on+deep+learning+techniques+for+stereo-based+depth+estimation&btnG=)]
 
 
@@ -91,7 +103,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 
 
-## Datasets
+## :file_cabinet: Datasets
 
 
 <details open id="real-world"><summary style="font-size: larger; font-weight: bold;">Real-World</summary><ul>
@@ -794,6 +806,19 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 </details>
 
+<details open id="over-smoothing">
+<summary style="font-size: larger; font-weight: bold;">Continuous Estimation Problem</summary>
+
+* **SMD-Nets**: *"SMD-Nets: Stereo Mixture Density Networks"*, Tosi et al.,  *CVPR, 2021*. [[Paper](http://www.cvlibs.net/publications/Tosi2021CVPR.pdf)] [[Code](https://github.com/fabiotosi92/SMD-Nets)] [[Bibtex](./bibliography/SMD-Nets.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SMD-Nets:+Stereo+Mixture+Density+Networks&btnG=)] 
+
+* **NDR**: "*Neural disparity refinement for arbitrary resolution stereo*", Aleotti et al., *3DV, 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9665913?casa_token=3rm4WpqLb_QAAAAA:5Sa0RO547j8LsaEYUeppzB33gZJg5Y3tfiPVwM9rzs9MEAuoHSta0Kdw3Cm9NrtfOOdFkIwp)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Neural+disparity+refinement+for+arbitrary+resolution+stereo&btnG=)]  
+
+* **NDR v2**: "*Neural disparity refinement*", Tosi et al., *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/iel8/34/4359286/10552115.pdf)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR_v2.txt)] 
+
+
+</details>
+
+
 <details open id="missing-gt">
 <summary style="font-size: larger; font-weight: bold;">Missing Ground Truth Depth</summary><ul>
 
@@ -1205,9 +1230,20 @@ A. Costanzino, M. Poggi, S. Salti, S. Mattoccia; CVPRW 2023, Vancouver, Canada [
 
 * **Robust depth perception through Virtual Pattern Projection (VPP)**.  L. Bartolomei, M. Poggi, F. Tosi, A. Conti, S. Mattoccia; CVPR 2024 DEMO, Seattle, US [[Website](https://vppstereo.github.io/demo.html)] [[Code](https://github.com/bartn8/cvpr24-demo)] [[Flyer](https://vppstereo.github.io/assets/demo/DEMO_CVPR_2024_LARGE.pdf)]
 
-## Citation
+## :fountain_pen: Citation
 
 Please consider citing this list if you find this repository useful:
+
+```bibtex
+@article{tosi2024survey,
+  title={A Survey on Deep Stereo Matching in the Twenties},
+  author={Fabio Tosi and Luca Bartolomei and Matteo Poggi},
+  journal={arXiv preprint arXiv:2407.07816},
+  year={2024},
+  url={https://arxiv.org/abs/2407.07816},
+  note={Extended version of CVPR 2024 Tutorial "Deep Stereo Matching in the Twenties" (https://sites.google.com/view/stereo-twenties)},
+}
+```
 
 ```bibtex
 @article{poggi2021synergies,
