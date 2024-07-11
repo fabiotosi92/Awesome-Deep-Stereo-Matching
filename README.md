@@ -5,25 +5,29 @@ The methods included in this repository are appropriately categorized to facilit
 
 We use the :triangular_flag_on_post: symbol to highlight the absolute most groundbreaking works.
 
-:rotating_light: :rotating_light: :rotating_light: This repository is closely associated with our latest survey on deep stereo matching: ["A Survey on Deep Stereo Matching in the Twenties"](https://arxiv.org/pdf/2407.07816). This survey provides an in-depth overview of the field, complementing the curated list of resources found in this repository. 
-
-For citation purposes, you can find the BibTeX entry [here](./bibliography/inTheTwenties.txt).
+:rotating_light: :rotating_light: :rotating_light: This repository is closely associated with our surveys on deep stereo matching: 1) ["A Survey on Deep Stereo Matching in the Twenties"](https://arxiv.org/pdf/2407.07816), 2) ["On the Synergies between Machine Learning and Binocular Stereo for Depth Estimation from Images: a Survey"](https://arxiv.org/abs/2004.08566) and 3) ["On the confidence of stereo matching in a deep-learning era: a quantitative evaluation"](https://arxiv.org/abs/2101.00431). These surveys provides an in-depth overview of the field, complementing the curated list of resources found in this repository. 
 
 Additionally, we presented a tutorial on this topic at CVPR 2024. For more information about the tutorial, including slides and additional resources, please visit our [Tutorial Webpage](https://sites.google.com/view/stereo-twenties).
 
+If you find this repository valuable, please consider [citing](#citation) it in your work and giving it a star ! :star:
 
-**Full reference:**
+
+**Full reference(s):**
 * "A Survey on Deep Stereo Matching in the Twenties", Tosi et al., *arXiv pre-print, 2024*. [[Paper](https://arxiv.org/pdf/2407.07816)] [[Bibtex](./bibliography/inTheTwenties.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Survey+on+Deep+Stereo+Matching+in+the+Twenties+&btnG=)] [[Tutorial](https://sites.google.com/view/stereo-twenties)]
+
+* *"On the synergies between machine learning and binocular stereo for depth estimation from images: a survey"*, Poggi et al., *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021*. [[Paper](https://arxiv.org/pdf/2004.08566.pdf)] [[Bibtex](./bibliography/OnTheSynergies.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=On+the+synergies+between+machine+learning+and+binocular+stereo+for+depth+estimation+from+images:+a+survey&btnG=)]
+
+* *"On the Confidence of Stereo Matching in a Deep-Learning Era: A Quantitative Evaluation"*, Poggi et al., *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2022*. [[Paper](https://arxiv.org/abs/2101.00431)] [[Bibtex](./bibliography/OnTheConfidence.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=On+the+Confidence+of+Stereo+Matching+in+a+Deep-Learning+Era:+A+Quantitative+Evaluation&btnG=)]
 
 #### [How to submit a pull request?](https://github.com/fabiotosi92/Awesome-Deep-Stereo-Matching/blob/main/how-to-PR.txt)
 
-If you find this repository valuable, please consider [citing](#citation) it in your work and giving it a star ! :star:
+
 
 ## :bookmark_tabs: Table of Contents
 
 1. [Survey & Fundamentals](#fundamentals)
 2. [CodeBase](#codebase)
-3. [Datasets](#datasets)
+3. [Datasets](#file_cabinet-datasets)
    - [Real-World](#real-world)
    - [Synthetic](#synthetic) 
 4. [Frameworks](#frameworks)
@@ -49,7 +53,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 6. [Workshops](#workshops)
 7. [Tutorials & Talks](#tutorials-talks)
 8. [Demos](#demos)
-9. [Citation](#citation)
+9. [Citation](#fountain_pen-citation)
 
 
 <h2 id="fundamentals"> Survey & Fundamentals </h2>
