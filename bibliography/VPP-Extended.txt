@@ -1,0 +1,6 @@
+@article{bartolomei2024stereo,
+  title={Stereo-Depth Fusion through Virtual Pattern Projection},
+  author={Bartolomei, Luca and Poggi, Matteo and Tosi, Fabio and Conti, Andrea and Mattoccia, Stefano},
+  journal={arXiv preprint arXiv:2406.04345},
+  year={2024}
+}

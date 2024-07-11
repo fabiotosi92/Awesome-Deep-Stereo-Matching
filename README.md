@@ -704,6 +704,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **SDG-Depth**: *"Stereo-LiDAR Depth Estimation with Deformable Propagation and Learned Disparity-Depth Conversion"*, Li et al., *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2404.07545.pdf)] [[Code](https://github.com/SJTU-ViSYS/SDG-Depth)] [[Bibtex](./bibliography/SDG-Depth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo-LiDAR+Depth+Estimation+with+Deformable+Propagation+and+Learned+Disparity-Depth+Conversion&btnG=)]
 
+* **VPP-Extended**: *"Stereo-Depth Fusion through Virtual Pattern Projection"*, Bartolomei et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2406.04345)] [[Code](https://github.com/bartn8/vppstereo)] [[WebPage](https://vppstereo.github.io/extension.html)] [[Bibtex](./bibliography/VPP-Extended.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo-Depth+Fusion+through+Virtual+Pattern+Projection&btnG=)]
+
 </details>
 
 <details open>
