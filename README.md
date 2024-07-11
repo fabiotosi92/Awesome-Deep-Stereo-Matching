@@ -9,7 +9,7 @@ We use the :triangular_flag_on_post: symbol to highlight the absolute most groun
 
 Additionally, we presented a tutorial on this topic at CVPR 2024. For more information about the tutorial, including slides and additional resources, please visit our [Tutorial Webpage](https://sites.google.com/view/stereo-twenties).
 
-If you find this repository valuable, please consider [citing](#citation) it in your work and giving it a star ! :star:
+If you find this repository valuable, please consider [citing](#fountain_pen-citation) it in your work and giving it a star ! :star:
 
 
 **Full reference(s):**
@@ -48,6 +48,7 @@ If you find this repository valuable, please consider [citing](#citation) it in 
       - [Adverse Weather ](#adverse-weather) 
       - [Transparent and Reflective (ToM) Surfaces ](#tom) 
       - [Asymmetric Stereo ](#asymmetric) 
+      - [Continuous Estimation Problem ](#continuous-estimation) 
    - [Confidence Estimation](#confidence-estimation)
 5. [Applications](#applications)
 6. [Workshops](#workshops)
@@ -810,18 +811,6 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 </details>
 
-<details open id="over-smoothing">
-<summary style="font-size: larger; font-weight: bold;">Continuous Estimation Problem</summary>
-
-* **SMD-Nets**: *"SMD-Nets: Stereo Mixture Density Networks"*, Tosi et al.,  *CVPR, 2021*. [[Paper](http://www.cvlibs.net/publications/Tosi2021CVPR.pdf)] [[Code](https://github.com/fabiotosi92/SMD-Nets)] [[Bibtex](./bibliography/SMD-Nets.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SMD-Nets:+Stereo+Mixture+Density+Networks&btnG=)] 
-
-* **NDR**: "*Neural disparity refinement for arbitrary resolution stereo*", Aleotti et al., *3DV, 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9665913?casa_token=3rm4WpqLb_QAAAAA:5Sa0RO547j8LsaEYUeppzB33gZJg5Y3tfiPVwM9rzs9MEAuoHSta0Kdw3Cm9NrtfOOdFkIwp)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Neural+disparity+refinement+for+arbitrary+resolution+stereo&btnG=)]  
-
-* **NDR v2**: "*Neural disparity refinement*", Tosi et al., *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/iel8/34/4359286/10552115.pdf)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR_v2.txt)] 
-
-
-</details>
-
 
 <details open id="missing-gt">
 <summary style="font-size: larger; font-weight: bold;">Missing Ground Truth Depth</summary><ul>
@@ -1045,6 +1034,17 @@ If you find this repository valuable, please consider [citing](#citation) it in 
 
 </details>
 
+<details open id="continuous-estimation">
+<summary style="font-size: larger; font-weight: bold;">Continuous Estimation Problem</summary>
+
+* **SMD-Nets**: *"SMD-Nets: Stereo Mixture Density Networks"*, Tosi et al.,  *CVPR, 2021*. [[Paper](http://www.cvlibs.net/publications/Tosi2021CVPR.pdf)] [[Code](https://github.com/fabiotosi92/SMD-Nets)] [[Bibtex](./bibliography/SMD-Nets.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=SMD-Nets:+Stereo+Mixture+Density+Networks&btnG=)] 
+
+* **NDR**: "*Neural disparity refinement for arbitrary resolution stereo*", Aleotti et al., *3DV, 2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9665913?casa_token=3rm4WpqLb_QAAAAA:5Sa0RO547j8LsaEYUeppzB33gZJg5Y3tfiPVwM9rzs9MEAuoHSta0Kdw3Cm9NrtfOOdFkIwp)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Neural+disparity+refinement+for+arbitrary+resolution+stereo&btnG=)]  
+
+* **NDR v2**: "*Neural disparity refinement*", Tosi et al., *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/iel8/34/4359286/10552115.pdf)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR_v2.txt)] 
+
+
+</details>
 
 </ul>
 </details>
