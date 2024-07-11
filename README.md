@@ -5,7 +5,13 @@ The methods included in this repository are appropriately categorized to facilit
 
 We use the :triangular_flag_on_post: symbol to highlight the absolute most groundbreaking works.
 
-:rotating_light: :rotating_light: :rotating_light: This repository is closely associated with our surveys on deep stereo matching: 1) ["A Survey on Deep Stereo Matching in the Twenties"](https://arxiv.org/pdf/2407.07816), 2) ["On the Synergies between Machine Learning and Binocular Stereo for Depth Estimation from Images: a Survey"](https://arxiv.org/abs/2004.08566) and 3) ["On the confidence of stereo matching in a deep-learning era: a quantitative evaluation"](https://arxiv.org/abs/2101.00431). These surveys provides an in-depth overview of the field, complementing the curated list of resources found in this repository. 
+:rotating_light: :rotating_light: :rotating_light: This repository is closely associated with our surveys on deep stereo matching: 
+
+1) ["A Survey on Deep Stereo Matching in the Twenties"](https://arxiv.org/pdf/2407.07816), Tosi et al., 2024
+2) ["On the Synergies between Machine Learning and Binocular Stereo for Depth Estimation from Images: a Survey"](https://arxiv.org/abs/2004.08566), Poggi et al., 2021
+3) ["On the confidence of stereo matching in a deep-learning era: a quantitative evaluation"](https://arxiv.org/abs/2101.00431), Poggi et al., 2022
+
+These surveys provides an in-depth overview of the field, complementing the curated list of resources found in this repository. 
 
 Additionally, we presented a tutorial on this topic at CVPR 2024. For more information about the tutorial, including slides and additional resources, please visit our [Tutorial Webpage](https://sites.google.com/view/stereo-twenties).
 
