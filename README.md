@@ -764,6 +764,9 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **SAFE**: *"Depth From Asymmetric Frame-Event Stereo: A Divide-and-Conquer Approach"*, Chen et al., *WACV, 2024*. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Chen_Depth_From_Asymmetric_Frame-Event_Stereo_A_Divide-and-Conquer_Approach_WACV_2024_paper.pdf)] [[Bibtex](./bibliography/SAFE.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Depth+From+Asymmetric+Frame-Event+Stereo:+A+Divide-and-Conquer+Approach&btnG=)]
 
+* **TemporalEventStereo**: *"Temporal Event Stereo via Joint Learning with Stereoscopic Flow"*, Cho et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.10831)] [[Code](https://github.com/mickeykang16/TemporalEventStereo)] [[Bibtex](./bibliography/TemporalEventStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+Event+Stereo+via+Joint+Learning+with+Stereoscopic+Flow&btnG=)]
+
+
 </details>
 
 <details open>
