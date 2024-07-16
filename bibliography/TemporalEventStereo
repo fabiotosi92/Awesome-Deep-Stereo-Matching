@@ -1,0 +1,6 @@
+@inproceedings{cho2024temporal,
+  title={Temporal Event Stereo via Joint Learning with Stereoscopic Flow},
+  author={Cho, Hoonhee and Kang, Jae-Young and Yoon, Kuk-Jin},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2024}
+}
