@@ -54,6 +54,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
       - [Adverse Weather ](#adverse-weather) 
       - [Transparent and Reflective (ToM) Surfaces ](#tom) 
       - [Asymmetric Stereo ](#asymmetric) 
+      - [Temporal Consistency ](#temporal-consistency) 
       - [Continuous Estimation Problem ](#continuous-estimation) 
    - [Confidence Estimation](#confidence-estimation)
 5. [Applications](#applications)
@@ -426,6 +427,10 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
    * **MoCha-Stereo**: *"MoCha-Stereo: Motif Channel Attention Network for Stereo Matching"*, Chen et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.06842.pdf)] [[Code](https://github.com/ZYangChen/MoCha-Stereo)] [[Bibtex](./bibliography/MoCha-Stereo.txt)] [[Google Scholar](https://scholar.google.de/scholar?q=MoCha-Stereo:%20Motif%20Channel%20Attention%20Network%20for%20Stereo%20Matching)]
 
    * **XR-Stereo**: *"Stereo Matching in Time: 100+ FPS Video Stereo Matching for Extended Reality"*, Cheng et al., *WACV, 2024*. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cheng_Stereo_Matching_in_Time_100_FPS_Video_Stereo_Matching_for_WACV_2024_paper.pdf)] [[Code](https://github.com/za-cheng/XR-Stereo)] [[Bibtex](./bibliography/XR-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stereo+Matching+in+Time:+100++FPS+Video+Stereo+Matching+for+Extended+Reality&btnG=)]
+
+   * **Temporally-Consistent Stereo**: *"Temporally Consistent Stereo Matching"*, Zeng et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.11950)] [[Code](https://github.com/jiaxiZeng/Temporally-Consistent-Stereo-Matching)] [[Bibtex](./bibliography/Temporally-Consistent-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Temporally+Consistent+Stereo+Matching&btnG=)]
+
+   * **BiDA-Stereo**: *"Match-Stereo-Videos: Bidirectional Alignment for Consistent Dynamic Stereo Matching"*, Jing et al., *ECCV, 2024*. [[Paper](https://arxiv.org/abs/2403.10755)] [[Code](https://github.com/TomTomTommi/bidastereo)] [[Bibtex](./bibliography/Match-Stereo-Videos.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAStereo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match-Stereo-Videos%3A+Bidirectional+Alignment+for+Consistent+Dynamic+Stereo+Matching&btnG=)]
 
   </details>
 
@@ -1042,6 +1047,24 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **SASS**: *"Unsupervised Deep Asymmetric Stereo Matching with Spatially-Adaptive Self-Similarity"*, Song et al., *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Song_Unsupervised_Deep_Asymmetric_Stereo_Matching_With_Spatially-Adaptive_Self-Similarity_CVPR_2023_paper.pdf)] [[Bibtex](./bibliography/SASS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Deep+Asymmetric+Stereo+Matching+with+Spatially-Adaptive+Self-Similarity&btnG=)]
 
 * **NDR v2**: "*Neural disparity refinement*", Tosi et al., *TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/iel8/34/4359286/10552115.pdf)] [[Website](https://cvlab-unibo.github.io/neural-disparity-refinement-web/)] [[Bibtex](./bibliography/NDR_v2.txt)] 
+
+</details>
+
+<details open id="temporal-consistency">
+<summary style="font-size: larger; font-weight: bold;">Temporal Consistency</summary>
+
+
+   * **TemporalStereo**: *"TemporalStereo: Efficient Spatial-Temporal Stereo Matching Network"*, Zhang et al., *IROS, 2023*. [[Paper](https://arxiv.org/pdf/2211.13755.pdf)] [[Code](https://github.com/youmi-zym/TemporalStereo)]  [[Bibtex](./bibliography/TemporalStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=TemporalStereo:+Efficient+Spatial-Temporal+Stereo+Matching+Network&btnG=)]
+
+   * **Dynamic Stereo**: *"DynamicStereo: Consistent Dynamic Depth From Stereo Videos"*, Karaev et al., *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Karaev_DynamicStereo_Consistent_Dynamic_Depth_From_Stereo_Videos_CVPR_2023_paper.pdf)] [[Code](https://dynamic-stereo.github.io/)] [[Bibtex](./bibliography/Dynamic_Replica.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DynamicStereo:+Consistent+Dynamic+Depth+From+Stereo+Videos&btnG=)]
+
+   * **XR-Stereo**: *"Stereo Matching in Time: 100+ FPS Video Stereo Matching for Extended Reality"*, Cheng et al., *WACV, 2024*. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cheng_Stereo_Matching_in_Time_100_FPS_Video_Stereo_Matching_for_WACV_2024_paper.pdf)] [[Code](https://github.com/za-cheng/XR-Stereo)] [[Bibtex](./bibliography/XR-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stereo+Matching+in+Time:+100++FPS+Video+Stereo+Matching+for+Extended+Reality&btnG=)]
+
+   * **TemporalEventStereo**: *"Temporal Event Stereo via Joint Learning with Stereoscopic Flow"*, Cho et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.10831)] [[Code](https://github.com/mickeykang16/TemporalEventStereo)] [[Bibtex](./bibliography/TemporalEventStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+Event+Stereo+via+Joint+Learning+with+Stereoscopic+Flow&btnG=)]
+
+   * **Temporally-Consistent Stereo**: *"Temporally Consistent Stereo Matching"*, Zeng et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.11950)] [[Code](https://github.com/jiaxiZeng/Temporally-Consistent-Stereo-Matching)] [[Bibtex](./bibliography/Temporally-Consistent-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Temporally+Consistent+Stereo+Matching&btnG=)]
+
+   * **BiDA-Stereo**: *"Match-Stereo-Videos: Bidirectional Alignment for Consistent Dynamic Stereo Matching"*, Jing et al., *ECCV, 2024*. [[Paper](https://arxiv.org/abs/2403.10755)] [[Code](https://github.com/TomTomTommi/bidastereo)] [[Bibtex](./bibliography/Match-Stereo-Videos.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAStereo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match-Stereo-Videos%3A+Bidirectional+Alignment+for+Consistent+Dynamic+Stereo+Matching&btnG=)]
 
 </details>
 

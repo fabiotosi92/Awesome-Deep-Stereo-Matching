@@ -1,0 +1,6 @@
+@inproceedings{zeng2024temporally,
+  title={Temporally Consistent Stereo Matching},
+  author={Zeng, Jiaxi and Yao, Chengtang and Wu, Yuwei and Jia, Yunde},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2024}
+}
