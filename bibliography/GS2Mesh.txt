@@ -1,0 +1,6 @@
+@article{wolf2024surface,
+  title={Surface Reconstruction from Gaussian Splatting via Novel Stereo Views},
+  author={Wolf, Yaniv and Bracha, Amit and Kimmel, Ron},
+  journal={arXiv preprint arXiv:2404.01810},
+  year={2024}
+}
