@@ -771,6 +771,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **TemporalEventStereo**: *"Temporal Event Stereo via Joint Learning with Stereoscopic Flow"*, Cho et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.10831)] [[Code](https://github.com/mickeykang16/TemporalEventStereo)] [[Bibtex](./bibliography/TemporalEventStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Temporal+Event+Stereo+via+Joint+Learning+with+Stereoscopic+Flow&btnG=)]
 
+* **EventVPPStereo**: *"LiDAR-Event Stereo Fusion with Hallucinations"*, Bartolomei et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2408.04633)] [[WebPage](https://eventvppstereo.github.io/)] [[Code](https://github.com/bartn8/eventvppstereo/)] [[Bibtex](./bibliography/EventVPPStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LiDAR-Event+Stereo+Fusion+with+Hallucinations&btnG=)]
 
 </details>
 
