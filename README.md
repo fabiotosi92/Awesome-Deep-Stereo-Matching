@@ -157,6 +157,9 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **SID**: *"SID: Stereo Image Dataset for Autonomous Driving in Adverse Conditions"*, El-Shair et al., *NAECON, 2024*. [[Paper](https://arxiv.org/pdf/2407.04908)] [[Dataset](https://deepblue.lib.umich.edu/data/concern/data_sets/cc08hg37c)] [[Bibtex](./bibliography/SID.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=SID%3A+Stereo+Image+Dataset+for+Autonomous+Driving+in+Adverse+Conditions&btnG=)]
 
+
+   * **LayeredFlow**: *"LayeredFlow: A Real-World Benchmark for Non-Lambertian Multi-Layer Optical Flow"*, Wen et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2409.05688)] [[Dataset](https://github.com/princeton-vl/LayeredFlow)] [[Bibtex](./bibliography/LayeredFlow.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LayeredFlow%3A+A+Real-World+Benchmark+for+Non-Lambertian+Multi-Layer+Optical+Flow&btnG=)]
+
    </details>
 
    <details open><summary style="font-size: larger; font-weight: bold;"> Multimodal/Beyond-Visible </summary>
