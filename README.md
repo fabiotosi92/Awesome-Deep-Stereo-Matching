@@ -1240,7 +1240,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 Using Latent Diffusion Models*", Wang et al., *CVPRW, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/GCV/papers/Wang_StereoDiffusion_Training-Free_Stereo_Image_Generation_Using_Latent_Diffusion_Models_CVPRW_2024_paper.pdf)] [[Code](https://github.com/lez-s/StereoDiffusion)] [[Bibtex](./bibliography/StereoDiffusion.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoDiffusion%3A+Training-Free+Stereo+Image+Generation+Using+Latent+Diffusion+Models&btnG=)] 
 
 * **GS2Mesh**: "*GS2Mesh: Surface Reconstruction from Gaussian
-Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2404.01810)] [[WebPage](https://gs2mesh.github.io/)] [[Bibtex](./bibliography/GS2Mesh.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoDiffusion%3A+Training-Free+Stereo+Image+Generation+Using+Latent+Diffusion+Models&btnG=)] 
+Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2404.01810)] [[WebPage](https://gs2mesh.github.io/)] [[Bibtex](./bibliography/GS2Mesh.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=GS2Mesh%3A+Surface+Reconstruction+from+Gaussian+Splatting+via+Novel+Stereo+Views&btnG=)] 
 
 ## Workshops
 
