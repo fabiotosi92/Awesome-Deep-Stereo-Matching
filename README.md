@@ -1246,6 +1246,8 @@ Using Latent Diffusion Models*", Wang et al., *CVPRW, 2024*. [[Paper](https://op
 * **GS2Mesh**: "*GS2Mesh: Surface Reconstruction from Gaussian
 Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2404.01810)] [[WebPage](https://gs2mesh.github.io/)] [[Bibtex](./bibliography/GS2Mesh.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=GS2Mesh%3A+Surface+Reconstruction+from+Gaussian+Splatting+via+Novel+Stereo+Views&btnG=)] 
 
+* **StereoGS**: "*Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs*", Safadoust et al., *BMVC, 2024*. [[Paper](https://arxiv.org/pdf/2409.07456)] [[WebPage](https://kuis-ai.github.io/StereoGS/)] [[Bibtex](./bibliography/StereoGS.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Self-Evolving+Depth-Supervised+3D+Gaussian+Splatting+from+Rendered+Stereo+Pairs&btnG=)] 
+
 ## Workshops
 
 * **NTIRE 2024: HR Depth from Images of Specular and Transparent Surfaces**. P. Z. Ramirez, F. Tosi, L. Di Stefano, R. Timofte
