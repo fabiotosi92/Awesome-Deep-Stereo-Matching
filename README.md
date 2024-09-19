@@ -236,6 +236,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **PLT-D3**: *"PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow"*, Tokarsky et al., *arXiv  2024*. [[Paper](https://arxiv.org/pdf/2406.07667)] [[Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/36SQKM)] [[Bibtex](./bibliography/PLT-D3.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=PLT-D3%3A+A+High-fidelity+Dynamic+Driving+Simulation+Dataset+for+Stereo+Depth+and+Scene+Flow&btnG=)]
 
+* **QPS Dataset**: *"Disparity Estimation Using a Quad-Pixel Sensor"*, Wu et al., *BMVC, 2024*. [[Paper](https://arxiv.org/abs/2409.00665)] [[WebPage](http://www.ok.sc.e.titech.ac.jp/res/QP/index.html)] [[Dataset](https://www.dropbox.com/scl/fi/0sijedbg2kdqetmw16s9t/QP-Data-Zhuofeng-Wu.zip?rlkey=m33xsb70b4ivk0riyvg4fgk2u&st=k2fn4zkq&dl=0)] [[Bibtex](./bibliography/QPDNet.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Disparity+Estimation+Using+a+Quad-Pixel+Sensor&btnG=)]
+
 </details>
 
 ## Frameworks
@@ -434,6 +436,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
    * **Temporally-Consistent Stereo**: *"Temporally Consistent Stereo Matching"*, Zeng et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.11950)] [[Code](https://github.com/jiaxiZeng/Temporally-Consistent-Stereo-Matching)] [[Bibtex](./bibliography/Temporally-Consistent-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Temporally+Consistent+Stereo+Matching&btnG=)]
 
    * **BiDA-Stereo**: *"Match-Stereo-Videos: Bidirectional Alignment for Consistent Dynamic Stereo Matching"*, Jing et al., *ECCV, 2024*. [[Paper](https://arxiv.org/abs/2403.10755)] [[Code](https://github.com/TomTomTommi/bidastereo)] [[Bibtex](./bibliography/Match-Stereo-Videos.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAStereo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match-Stereo-Videos%3A+Bidirectional+Alignment+for+Consistent+Dynamic+Stereo+Matching&btnG=)]
+
+   * **QPDNet**: *"Disparity Estimation Using a Quad-Pixel Sensor"*, Wu et al., *BMVC, 2024*. [[Paper](https://arxiv.org/abs/2409.00665)] [[WebPage](http://www.ok.sc.e.titech.ac.jp/res/QP/index.html)] [[Dataset](https://www.dropbox.com/scl/fi/0sijedbg2kdqetmw16s9t/QP-Data-Zhuofeng-Wu.zip?rlkey=m33xsb70b4ivk0riyvg4fgk2u&st=k2fn4zkq&dl=0)] [[Bibtex](./bibliography/QPDNet.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Disparity+Estimation+Using+a+Quad-Pixel+Sensor&btnG=)]
 
   </details>
 
