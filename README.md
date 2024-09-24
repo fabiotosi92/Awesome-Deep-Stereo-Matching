@@ -1040,6 +1040,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **ASGrasp**: *"ASGrasp: Generalizable Transparent Object Reconstruction and 6-DoF Grasp Detection from RGB-D Active Stereo Camera"*, Shi et al., *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.05648)] [[WebPage](https://pku-epic.github.io/ASGrasp)] [[Bibtex](./bibliography/ASGrasp.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=ASGrasp%3A+Generalizable+Transparent+Object+Reconstruction+and+Grasping+from+RGB-D+Active+Stereo+Camera&btnG=)]
 
+* **D3RoMa**: *"D3RoMa: Disparity Diffusion-based Depth Sensing for Material-Agnostic Robotic Manipulation"*, Wei et al., *CoRL, 2024*. [[Paper](https://arxiv.org/pdf/2405.05648)] [[WebPage](https://pku-epic.github.io/D3RoMa/)]  [[Bibtex](./bibliography/D3RoMa.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=D3RoMa%3A+Disparity+Diffusion-based+Depth+Sensing+for+Material-Agnostic+Robotic+Manipulation&btnG=)]
+
 </details>
 
 
