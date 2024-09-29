@@ -461,6 +461,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **GOAT**: *"Global Occlusion-Aware Transformer for Robust Stereo Matching"*, Liu et al., *WACV, 2024*. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Global_Occlusion-Aware_Transformer_for_Robust_Stereo_Matching_WACV_2024_paper.pdf)] [[Code](https://github.com/Magicboomliu/GOAT)] [[Bibtex](./bibliography/GOAT.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Global+Occlusion-Aware+Transformer+for+Robust+Stereo+Matching&btnG=)]
 
+   * **FormerStereo**: *"Learning Representations from Foundation Models for Domain Generalized Stereo Matching"*, Zhang et al., *ECCV, 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05841.pdf)] [[Bibtex](./bibliography/FormerStereo.txt)]   [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+Representations+from+Foundation+Models+for+Domain+Generalized+Stereo+Matching&btnG=)]
+
   </details>
 
   <details open class="nested-details">
@@ -717,6 +719,9 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **SDG-Depth**: *"Stereo-LiDAR Depth Estimation with Deformable Propagation and Learned Disparity-Depth Conversion"*, Li et al., *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2404.07545.pdf)] [[Code](https://github.com/SJTU-ViSYS/SDG-Depth)] [[Bibtex](./bibliography/SDG-Depth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo-LiDAR+Depth+Estimation+with+Deformable+Propagation+and+Learned+Disparity-Depth+Conversion&btnG=)]
 
 * **VPP-Extended**: *"Stereo-Depth Fusion through Virtual Pattern Projection"*, Bartolomei et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2406.04345)] [[Code](https://github.com/bartn8/vppstereo)] [[WebPage](https://vppstereo.github.io/extension.html)] [[Bibtex](./bibliography/VPP-Extended.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo-Depth+Fusion+through+Virtual+Pattern+Projection&btnG=)]
+
+
+* **D3RoMa**: *"D3RoMa: Disparity Diffusion-based Depth Sensing for Material-Agnostic Robotic Manipulation"*, Wei et al., *CoRL, 2024*. [[Paper](https://arxiv.org/pdf/2405.05648)] [[WebPage](https://pku-epic.github.io/D3RoMa/)]  [[Bibtex](./bibliography/D3RoMa.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=D3RoMa%3A+Disparity+Diffusion-based+Depth+Sensing+for+Material-Agnostic+Robotic+Manipulation&btnG=)]
 
 </details>
 
