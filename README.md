@@ -64,7 +64,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 9. [Citation](#fountain_pen-citation)
 
 
-<h2 id="fundamentals"> Survey & Fundamentals </h2>
+<h2 id="fundamentals"> Surveys & Fundamentals </h2>
 
 <details open><summary style="font-size: larger; font-weight: bold;"> Stereo Matching Basics</summary><ul>
 
@@ -92,7 +92,6 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * *"A survey on deep learning techniques for stereo-based depth estimation"*, Laga et al., *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9233988&casa_token=thq8xzMfDVQAAAAA:LqT40M8CQY9Xt8j8pKTUJr2E89KAB9c1DGG1Pw9q1YMG__o5htMzH1Xx3_wlPwLcesYHgvc&tag=1)] [[Bibtex](./bibliography/survey-stereo-2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+survey+on+deep+learning+techniques+for+stereo-based+depth+estimation&btnG=)]
 
-
    * *"On the synergies between machine learning and binocular stereo for depth estimation from images: a survey"*, Poggi et al., *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021*. [[Paper](https://arxiv.org/pdf/2004.08566.pdf)] [[Bibtex](./bibliography/OnTheSynergies.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=On+the+synergies+between+machine+learning+and+binocular+stereo+for+depth+estimation+from+images:+a+survey&btnG=)]
 
 </ul>
@@ -108,6 +107,13 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 </details>
 
+
+<details open><summary style="font-size: larger; font-weight: bold;"> Event-Based Stereo</summary><ul>
+
+   * *"Event-based Stereo Depth Estimation: A Survey"*, Ghosh et al., *arXiv pre-print, 2024*. [[Paper](https://arxiv.org/pdf/2409.17680)] [[Bibtex](./bibliography/Event-Stereo-Survey.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Event-based+Stereo+Depth+Estimation%3A+A+Survey&btnG=)]
+
+</ul>
+</details>
 
 ## CodeBase
 
@@ -1080,6 +1086,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
    * **Temporally-Consistent Stereo**: *"Temporally Consistent Stereo Matching"*, Zeng et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.11950)] [[Code](https://github.com/jiaxiZeng/Temporally-Consistent-Stereo-Matching)] [[Bibtex](./bibliography/Temporally-Consistent-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Temporally+Consistent+Stereo+Matching&btnG=)]
 
    * **BiDA-Stereo**: *"Match-Stereo-Videos: Bidirectional Alignment for Consistent Dynamic Stereo Matching"*, Jing et al., *ECCV, 2024*. [[Paper](https://arxiv.org/abs/2403.10755)] [[Code](https://github.com/TomTomTommi/bidastereo)] [[Bibtex](./bibliography/Match-Stereo-Videos.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAStereo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match-Stereo-Videos%3A+Bidirectional+Alignment+for+Consistent+Dynamic+Stereo+Matching&btnG=)]
+
+   * **BiDA-Video**: *"Match Stereo Videos via Bidirectional Alignment"*, Jing et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[Code](https://github.com/TomTomTommi/bidavideo)] [[Bibtex](./bibliography/BiDA-Video.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match+Stereo+Videos+via+Bidirectional+Alignment&btnG=)]
 
 </details>
 

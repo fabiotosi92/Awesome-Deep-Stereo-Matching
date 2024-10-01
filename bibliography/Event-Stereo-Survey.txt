@@ -1,0 +1,6 @@
+@article{ghosh2024event,
+  title={Event-based Stereo Depth Estimation: A Survey},
+  author={Ghosh, Suman and Gallego, Guillermo},
+  journal={arXiv preprint arXiv:2409.17680},
+  year={2024}
+}

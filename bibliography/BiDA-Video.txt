@@ -1,0 +1,9 @@
+
+  @article{jing2024matchstereovideos,
+    title={Match Stereo Videos via Bidirectional Alignment}, 
+    author={Junpeng Jing and Ye Mao and Anlan Qiu and Krystian Mikolajczyk},
+    year={2024},
+    eprint={2403.10755},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+    }
