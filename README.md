@@ -166,6 +166,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **LayeredFlow**: *"LayeredFlow: A Real-World Benchmark for Non-Lambertian Multi-Layer Optical Flow"*, Wen et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2409.05688)] [[Dataset](https://github.com/princeton-vl/LayeredFlow)] [[Bibtex](./bibliography/LayeredFlow.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LayeredFlow%3A+A+Real-World+Benchmark+for+Non-Lambertian+Multi-Layer+Optical+Flow&btnG=)]
 
+   * **South Kensington SV**: *"Match Stereo Videos via Bidirectional Alignment"*, Jing et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[Code&Dataset](https://github.com/TomTomTommi/bidavideo)] [[Bibtex](./bibliography/BiDA-Video.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match+Stereo+Videos+via+Bidirectional+Alignment&btnG=)]
+
    </details>
 
    <details open><summary style="font-size: larger; font-weight: bold;"> Multimodal/Beyond-Visible </summary>
@@ -243,6 +245,9 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **PLT-D3**: *"PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow"*, Tokarsky et al., *arXiv  2024*. [[Paper](https://arxiv.org/pdf/2406.07667)] [[Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/36SQKM)] [[Bibtex](./bibliography/PLT-D3.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=PLT-D3%3A+A+High-fidelity+Dynamic+Driving+Simulation+Dataset+for+Stereo+Depth+and+Scene+Flow&btnG=)]
 
 * **QPS Dataset**: *"Disparity Estimation Using a Quad-Pixel Sensor"*, Wu et al., *BMVC, 2024*. [[Paper](https://arxiv.org/abs/2409.00665)] [[WebPage](http://www.ok.sc.e.titech.ac.jp/res/QP/index.html)] [[Dataset](https://www.dropbox.com/scl/fi/0sijedbg2kdqetmw16s9t/QP-Data-Zhuofeng-Wu.zip?rlkey=m33xsb70b4ivk0riyvg4fgk2u&st=k2fn4zkq&dl=0)] [[Bibtex](./bibliography/QPDNet.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Disparity+Estimation+Using+a+Quad-Pixel+Sensor&btnG=)]
+
+
+* **Infinigen Stereo Video**: *"Match Stereo Videos via Bidirectional Alignment"*, Jing et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[Code&Dataset](https://github.com/TomTomTommi/bidavideo)] [[Bibtex](./bibliography/BiDA-Video.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match+Stereo+Videos+via+Bidirectional+Alignment&btnG=)]
 
 </details>
 
