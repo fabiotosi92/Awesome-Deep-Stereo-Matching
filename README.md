@@ -450,7 +450,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **QPDNet**: *"Disparity Estimation Using a Quad-Pixel Sensor"*, Wu et al., *BMVC, 2024*. [[Paper](https://arxiv.org/abs/2409.00665)] [[WebPage](http://www.ok.sc.e.titech.ac.jp/res/QP/index.html)] [[Dataset](https://www.dropbox.com/scl/fi/0sijedbg2kdqetmw16s9t/QP-Data-Zhuofeng-Wu.zip?rlkey=m33xsb70b4ivk0riyvg4fgk2u&st=k2fn4zkq&dl=0)] [[Bibtex](./bibliography/QPDNet.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Disparity+Estimation+Using+a+Quad-Pixel+Sensor&btnG=)]
 
-   * **IGEV++**: *"IGEV++: Iterative Multi-range Geometry Encoding Volumes for Stereo Matching"*, Xu et al., *arXiv, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Iterative_Geometry_Encoding_Volume_for_Stereo_Matching_CVPR_2023_paper.pdf)] [[Code](https://github.com/gangweiX/IGEV-plusplus)] [[Bibtex](./bibliography/IGEV++.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=IGEV%2B%2B%3A+Iterative+Multi-range+Geometry+Encoding+Volumes+for+Stereo+Matching&btnG=)]
+   * **IGEV++**: *"IGEV++: Iterative Multi-range Geometry Encoding Volumes for Stereo Matching"*, Xu et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.00638)] [[Code](https://github.com/gangweiX/IGEV-plusplus)] [[Bibtex](./bibliography/IGEV++.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=IGEV%2B%2B%3A+Iterative+Multi-range+Geometry+Encoding+Volumes+for+Stereo+Matching&btnG=)]
 
   </details>
 
