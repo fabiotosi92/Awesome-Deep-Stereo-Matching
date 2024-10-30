@@ -892,6 +892,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **NeRF-Supervised Stereo**: "*NeRF-Supervised Deep Stereo*", Tosi et al., *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Website](https://nerfstereo.github.io/)] [[Code](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo)] [[Bibtex](./bibliography/NS-Stereo.txt)] 
 
+* **SAG**: "*Self-Assessed Generation: Trustworthy Label Generation for Optical Flow and Stereo Matching in Real-world*", Ling et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.10453)] [[Code](https://github.com/HanLingsgjk/UnifiedGeneralization)] [[Bibtex](./bibliography/SAG.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Self-Assessed+Generation%3A+Trustworthy+Label+Generation+for+Optical+Flow+and+Stereo+Matching+in+Real-world+&btnG=)] 
+
 </details>
 
 
@@ -954,6 +956,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **NeRF-Supervised Stereo**: "*NeRF-Supervised Deep Stereo*", Tosi et al., *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Website](https://nerfstereo.github.io/)] [[Code](https://github.com/fabiotosi92/NeRF-Supervised-Deep-Stereo)] [[Bibtex](./bibliography/NS-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=NeRF-Supervised+Deep+Stereo&btnG=)] 
 
+* **SAG**: "*Self-Assessed Generation: Trustworthy Label Generation for Optical Flow and Stereo Matching in Real-world*", Ling et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2410.10453)] [[Code](https://github.com/HanLingsgjk/UnifiedGeneralization)] [[Bibtex](./bibliography/SAG.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Self-Assessed+Generation%3A+Trustworthy+Label+Generation+for+Optical+Flow+and+Stereo+Matching+in+Real-world+&btnG=)] 
 
 </details>
 
@@ -1267,6 +1270,8 @@ Using Latent Diffusion Models*", Wang et al., *CVPRW, 2024*. [[Paper](https://op
 Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2404.01810)] [[WebPage](https://gs2mesh.github.io/)] [[Bibtex](./bibliography/GS2Mesh.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=GS2Mesh%3A+Surface+Reconstruction+from+Gaussian+Splatting+via+Novel+Stereo+Views&btnG=)] 
 
 * **StereoGS**: "*Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs*", Safadoust et al., *BMVC, 2024*. [[Paper](https://arxiv.org/pdf/2409.07456)] [[WebPage](https://kuis-ai.github.io/StereoGS/)] [[Bibtex](./bibliography/StereoGS.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Self-Evolving+Depth-Supervised+3D+Gaussian+Splatting+from+Rendered+Stereo+Pairs&btnG=)] 
+
+* **Binocular3DGS**: "*Binocular3DGS: Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis*", Han et al., *NeurIPS, 2024*. [[Paper](https://arxiv.org/pdf/2410.18822)] [[WebPage](https://hanl2010.github.io/Binocular3DGS/)] [[Code](https://github.com/hanl2010/Binocular3DGS)] [[Bibtex](./bibliography/Binocular3DGS.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0,5&q=Binocular+3DGS:+Binocular-Guided+3D+Gaussian+Splatting+with+View+Consistency+for+Sparse+View+Synthesis)]
 
 ## Workshops
 

@@ -1,0 +1,6 @@
+@inproceedings{han2024binocular,
+      title = {Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis},
+      author = {Han, Liang and Zhou, Junsheng and Liu, Yu-Shen and Han, Zhizhong},
+      booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+      year = {2024}
+}
