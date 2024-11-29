@@ -1,0 +1,6 @@
+@inproceedings{wu2022toward,
+title={Toward Practical Monocular Indoor Depth Estimation},
+author={Wu, Cho-Ying and Wang, Jialiang and Hall, Michael and Neumann, Ulrich and Su, Shuochen},
+booktitle={CVPR},
+year={2022}
+}

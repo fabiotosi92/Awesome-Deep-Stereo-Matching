@@ -1,0 +1,7 @@
+@inproceedings{knobelreiter2020belief,
+  title={Belief propagation reloaded: Learning bp-layers for labeling problems},
+  author={Knobelreiter, Patrick and Sormann, Christian and Shekhovtsov, Alexander and Fraundorfer, Friedrich and Pock, Thomas},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={7900--7909},
+  year={2020}
+}

@@ -237,6 +237,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **SimStereo**: *"Active-Passive SimStereo – Benchmarking the Cross-Generalization Capabilities of Deep Learning-based Stereo Methods"*, Jospin et al., *NeurIPS, 2022*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/bc3a68a20e5c8ba5cbefc1ecf74bfaaa-Paper-Datasets_and_Benchmarks.pdf)] [[Dataset](https://ieee-dataport.org/open-access/active-passive-simstereo)] [[Bibtex](./bibliography/SimStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Active-Passive+SimStereo+–+Benchmarking+the+Cross-Generalization+Capabilities+of+Deep+Learning-based+Stereo+Methods&btnG=)]
 
+* **SimSIN**: *"Toward practical monocular indoor depth estimation"*, Wu et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_Toward_Practical_Monocular_Indoor_Depth_Estimation_CVPR_2022_paper.pdf)] [[Dataset](https://github.com/facebookresearch/DistDepth)] [[Bibtex](./bibliography/SimSIN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Toward+practical+monocular+indoor+depth+estimation&btnG=)]
 
 * **Spring**: *"Spring: A High-Resolution High-Detail Dataset and Benchmark for Scene Flow, Optical Flow and Stereo"*, Mehl et al., *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Mehl_Spring_A_High-Resolution_High-Detail_Dataset_and_Benchmark_for_Scene_Flow_CVPR_2023_paper.html)] [[Dataset](http://spring-benchmark.org)] [[Bibtex](./bibliography/Spring.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Spring:+A+High-Resolution+High-Detail+Dataset+and+Benchmark+for+Scene+Flow,+Optical+Flow+and+Stereo&btnG=)]
 
@@ -482,6 +483,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
   <details open class="nested-details">
     <summary style="font-size: larger; font-weight: bold;">Markov Random Field-based Architectures</summary>
+
+   * **LBPS**: *"Belief Propagation Reloaded: Learning BP-Layers for Labeling Problems"*, Knobelreiter et al., *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Knobelreiter_Belief_Propagation_Reloaded_Learning_BP-Layers_for_Labeling_Problems_CVPR_2020_paper.pdf)] [[Code](https://github.com/VLOGroup/bp-layers)] [[Bibtex](./bibliography/LBPS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Belief+propagation+reloaded%3A+Learning+bp-layers+for+labeling+problem&btnG=)]
 
    * **NMRF**: *"Neural Markov Random Field for Stereo Matching"*, Guan et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2403.11193.pdf)] [[Code](https://github.com/aeolusguan/NMRF)] [[Bibtex](./bibliography/NMRF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Neural+Markov+Random+Field+for+Stereo+Matching&btnG=)]
 
