@@ -458,7 +458,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
    * **Stereo Anything**: *"Stereo Anything: Unifying Stereo Matching with Large-Scale Mixed Data"*, Guo et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.14053)] [[Code](https://github.com/XiandaGuo/OpenStereo)] [[Bibtex](./bibliography/StereoAnything.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anything%3A+Unifying+Stereo+Matching+with+Large-Scale+Mixed+Data&btnG=)]
 
 
-   * **Stereo Anywhere**: *"Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail"*, Bartolomei et al., *arXiv, 2024*. [[Paper](http://arxiv.org/abs/2412.04472)] [[Code](https://github.com/gangweiX/IGEV-plusplus)] [[WebPage](https://stereoanywhere.github.io/)] [[Bibtex](./bibliography/StereoAnywhere.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anywhere%3A+Robust+Zero-Shot+Deep+Stereo+Matching+Even+Where+Either+Stereo+or+Mono+Fail&btnG=)]
+   * **Stereo Anywhere**: *"Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail"*, Bartolomei et al., *arXiv, 2024*. [[Paper](http://arxiv.org/abs/2412.04472)] [[Code](https://github.com/bartn8/stereoanywhere/)] [[WebPage](https://stereoanywhere.github.io/)] [[Bibtex](./bibliography/StereoAnywhere.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anywhere%3A+Robust+Zero-Shot+Deep+Stereo+Matching+Even+Where+Either+Stereo+or+Mono+Fail&btnG=)]
   </details>
 
 
