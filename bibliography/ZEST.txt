@@ -1,0 +1,5 @@
+@inproceedings{louzero,
+  title={Zero-Shot Event-Intensity Asymmetric Stereo via Visual Prompting from Image Domain},
+  author={Lou, Hanyue and Liang, Jinxiu and Teng, Minggui and Fan, Bin and Xu, Yong and Shi, Boxin},
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}
+}

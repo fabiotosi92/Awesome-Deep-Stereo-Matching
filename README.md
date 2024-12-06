@@ -808,6 +808,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **EventVPPStereo**: *"LiDAR-Event Stereo Fusion with Hallucinations"*, Bartolomei et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2408.04633)] [[WebPage](https://eventvppstereo.github.io/)] [[Code](https://github.com/bartn8/eventvppstereo/)] [[Bibtex](./bibliography/EventVPPStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LiDAR-Event+Stereo+Fusion+with+Hallucinations&btnG=)]
 
+* **ZEST**: "*Zero-Shot Event-Intensity Asymmetric Stereo via Visual Prompting from Image Domain*", Lou et al., *NeurIPS, 2024*. [[Paper](https://openreview.net/pdf?id=E3ZMsqdO0D)] [[Code](https://github.com/HYLZ-2019/ZEST)] [[Bibtex](./bibliography/ZEST.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Zero-Shot+Event-Intensity+Asymmetric+Stereo+via+Visual+Prompting+from+Image+Domain&btnG=)] 
+
 </details>
 
 <details open>
@@ -935,6 +937,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **HVT**: "*Domain Generalized Stereo Matching via Hierarchical Visual Transformation*", Chang et al., *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chang_Domain_Generalized_Stereo_Matching_via_Hierarchical_Visual_Transformation_CVPR_2023_paper.pdf)] [[Code](https://github.com/cty8998/HVT-PSMNet)] [[Bibtex](./bibliography/HVT.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Domain+Generalized+Stereo+Matching+via+Hierarchical+Visual+Transformation&btnG=)] 
 
 * **MRL-Stereo**: "*Masked representation learning for domain generalized stereo matching*", Rao et al., *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Rao_Masked_Representation_Learning_for_Domain_Generalized_Stereo_Matching_CVPR_2023_paper.pdf)] [[Bibtex](./bibliography/MRL-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Masked+representation+learning+for+domain+generalized+stereo+matching&btnG=)] 
+
+* **HODC**: "*Hierarchical Object-Aware Dual-Level Contrastive Learning for Domain Generalized Stereo Matching*", Miao et al., *NeurIPS, 2024*. [[Paper](https://openreview.net/pdf?id=HcqV2bPFKz)] [[Website](https://joshmiao.github.io/HODC/)] [[Bibtex](./bibliography/HODC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Hierarchical+Object-Aware+Dual-Level+Contrastive+Learning+for+Domain+Generalized+Stereo+Matching&btnG=)] 
 
 </details>
 

@@ -1,0 +1,5 @@
+@inproceedings{miaohierarchical,
+  title={Hierarchical Object-Aware Dual-Level Contrastive Learning for Domain Generalized Stereo Matching},
+  author={Miao, Yikun and Wu, Meiqing and Lam, Siew Kei and Li, Changsheng and Srikanthan, Thambipillai},
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems}
+}
