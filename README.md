@@ -455,6 +455,10 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **IGEV++**: *"IGEV++: Iterative Multi-range Geometry Encoding Volumes for Stereo Matching"*, Xu et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.00638)] [[Code](https://github.com/gangweiX/IGEV-plusplus)] [[Bibtex](./bibliography/IGEV++.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=IGEV%2B%2B%3A+Iterative+Multi-range+Geometry+Encoding+Volumes+for+Stereo+Matching&btnG=)]
 
+   * **Stereo Anything**: *"Stereo Anything: Unifying Stereo Matching with Large-Scale Mixed Data"*, Guo et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.14053)] [[Code](https://github.com/XiandaGuo/OpenStereo)] [[Bibtex](./bibliography/StereoAnything.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anything%3A+Unifying+Stereo+Matching+with+Large-Scale+Mixed+Data&btnG=)]
+
+
+   * **Stereo Anywhere**: *"Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail"*, Bartolomei et al., *arXiv, 2024*. [[Paper](http://arxiv.org/abs/2412.04472)] [[Code](https://github.com/gangweiX/IGEV-plusplus)] [[WebPage](https://stereoanywhere.github.io/)] [[Bibtex](./bibliography/StereoAnywhere.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anywhere%3A+Robust+Zero-Shot+Deep+Stereo+Matching+Even+Where+Either+Stereo+or+Mono+Fail&btnG=)]
   </details>
 
 
@@ -759,6 +763,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **ASGrasp**: *"ASGrasp: Generalizable Transparent Object Reconstruction and 6-DoF Grasp Detection from RGB-D Active Stereo Camera"*, Shi et al., *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.05648)] [[WebPage](https://pku-epic.github.io/ASGrasp)] [[Bibtex](./bibliography/ASGrasp.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=ASGrasp%3A+Generalizable+Transparent+Object+Reconstruction+and+Grasping+from+RGB-D+Active+Stereo+Camera&btnG=)]
 
+
 </details>
 
 
@@ -977,6 +982,13 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 </details>
 
 <details open>
+<summary style="font-size: larger; font-weight: bold;">Monocular-Stereo Integration</summary>
+
+   * **Stereo Anywhere**: *"Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail"*, Bartolomei et al., *arXiv, 2024*. [[Paper](http://arxiv.org/abs/2412.04472)] [[Code](https://github.com/gangweiX/IGEV-plusplus)] [[WebPage](https://stereoanywhere.github.io/)] [[Bibtex](./bibliography/StereoAnywhere.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anywhere%3A+Robust+Zero-Shot+Deep+Stereo+Matching+Even+Where+Either+Stereo+or+Mono+Fail&btnG=)]
+
+</details>
+
+<details open>
 <summary style="font-size: larger; font-weight: bold;">Data Augmentation Analysis </summary>
 
 * **NLCA-Net_v2**: "*Rethinking training strategy in stereo matching*", Rao et al., *TNNLS, 2022*. [[Paper](https://ieeexplore.ieee.org/iel7/5962385/10273172/09709604.pdf?casa_token=Bs47IDDe0r8AAAAA:J0ru7iqCpc1X1HGE3xsJ6u5I1gTAU8Z_wFAE_4QYg0-50X0dCUHvqrp7l8FZVsROvqZYwayc)] [[Code](https://github.com/Archaic-Atom/NLCA-Net_v2)] [[Bibtex](./bibliography/NLCA-Net_v2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Rethinking+Training+Strategy+in+Stereo+Matching&btnG=)]
@@ -1068,6 +1080,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **ASGrasp**: *"ASGrasp: Generalizable Transparent Object Reconstruction and 6-DoF Grasp Detection from RGB-D Active Stereo Camera"*, Shi et al., *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.05648)] [[WebPage](https://pku-epic.github.io/ASGrasp)] [[Bibtex](./bibliography/ASGrasp.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=ASGrasp%3A+Generalizable+Transparent+Object+Reconstruction+and+Grasping+from+RGB-D+Active+Stereo+Camera&btnG=)]
 
 * **D3RoMa**: *"D3RoMa: Disparity Diffusion-based Depth Sensing for Material-Agnostic Robotic Manipulation"*, Wei et al., *CoRL, 2024*. [[Paper](https://arxiv.org/pdf/2405.05648)] [[WebPage](https://pku-epic.github.io/D3RoMa/)]  [[Bibtex](./bibliography/D3RoMa.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=D3RoMa%3A+Disparity+Diffusion-based+Depth+Sensing+for+Material-Agnostic+Robotic+Manipulation&btnG=)]
+
+* **Stereo Anywhere**: *"Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail"*, Bartolomei et al., *arXiv, 2024*. [[Paper](http://arxiv.org/abs/2412.04472)] [[Code](https://github.com/gangweiX/IGEV-plusplus)] [[WebPage](https://stereoanywhere.github.io/)] [[Bibtex](./bibliography/StereoAnywhere.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anywhere%3A+Robust+Zero-Shot+Deep+Stereo+Matching+Even+Where+Either+Stereo+or+Mono+Fail&btnG=)]
 
 </details>
 

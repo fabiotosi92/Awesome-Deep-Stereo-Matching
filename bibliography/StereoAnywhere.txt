@@ -1,0 +1,6 @@
+@article{bartolomei2024stereo,
+	title={Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail},
+	author={Bartolomei, Luca and Tosi, Fabio and Poggi, Matteo and Mattoccia, Stefano},
+	journal={arXiv preprint arXiv:2412.04472},
+	year={2024},
+}

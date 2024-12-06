@@ -1,0 +1,6 @@
+@article{guo2024stereo,
+  title={Stereo Anything: Unifying Stereo Matching with Large-Scale Mixed Data},
+  author={Guo, Xianda and Zhang, Chenming and Zhang, Youmin and Nie, Dujun and Wang, Ruilin and Zheng, Wenzhao and Poggi, Matteo and Chen, Long},
+  journal={arXiv preprint arXiv:2411.14053},
+  year={2024}
+}
