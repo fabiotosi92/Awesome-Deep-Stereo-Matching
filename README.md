@@ -459,6 +459,10 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 
    * **Stereo Anywhere**: *"Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail"*, Bartolomei et al., *arXiv, 2024*. [[Paper](http://arxiv.org/abs/2412.04472)] [[Code](https://github.com/bartn8/stereoanywhere/)] [[WebPage](https://stereoanywhere.github.io/)] [[Bibtex](./bibliography/StereoAnywhere.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anywhere%3A+Robust+Zero-Shot+Deep+Stereo+Matching+Even+Where+Either+Stereo+or+Mono+Fail&btnG=)]
+
+   * **AIO-Stereo**: *"All-in-One: Transferring Vision Foundation Models into Stereo Matching"*, Zhou et al., *AAAI, 2025*. [[Paper](https://arxiv.org/pdf/2412.09912)] [[Bibtex](./bibliography/AIO-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=All-in-One%3A+Transferring+Vision+Foundation+Models+into+Stereo+Matching&btnG=)]
+
+
   </details>
 
 
