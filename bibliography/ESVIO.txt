@@ -1,0 +1,10 @@
+@article{chen2023esvio,
+  title={Esvio: Event-based stereo visual inertial odometry},
+  author={Chen, Peiyu and Guan, Weipeng and Lu, Peng},
+  journal={IEEE Robotics and Automation Letters},
+  volume={8},
+  number={6},
+  pages={3661--3668},
+  year={2023},
+  publisher={IEEE}
+}

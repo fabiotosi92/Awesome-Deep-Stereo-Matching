@@ -1,0 +1,10 @@
+@article{gao2022vector,
+  title={Vector: A versatile event-centric benchmark for multi-sensor slam},
+  author={Gao, Ling and Liang, Yuxuan and Yang, Jiaqi and Wu, Shaoxun and Wang, Chenyu and Chen, Jiaben and Kneip, Laurent},
+  journal={IEEE Robotics and Automation Letters},
+  volume={7},
+  number={3},
+  pages={8217--8224},
+  year={2022},
+  publisher={IEEE}
+}

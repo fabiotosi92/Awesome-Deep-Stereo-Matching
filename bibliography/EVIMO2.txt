@@ -1,0 +1,6 @@
+@article{burner2022evimo2,
+  title={Evimo2: an event camera dataset for motion segmentation, optical flow, structure from motion, and visual inertial odometry in indoor scenes with monocular or stereo algorithms},
+  author={Burner, Levi and Mitrokhin, Anton and Ferm{\"u}ller, Cornelia and Aloimonos, Yiannis},
+  journal={arXiv preprint arXiv:2205.03467},
+  year={2022}
+}

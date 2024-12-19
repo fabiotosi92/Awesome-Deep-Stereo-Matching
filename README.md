@@ -178,19 +178,35 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **RGB-NIR-Stereo**: *"Deep material-aware cross-spectral stereo matching"*, Zhi et al., *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhi_Deep_Material-Aware_Cross-Spectral_CVPR_2018_paper.pdf)] [[Code](https://github.com/tiancheng-zhi/cs-stereo)] [[Bibtex](./bibliography/CS-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deep+material-aware+cross-spectral+stereo+matching&btnG=)]
 
-   * **MVSEC**: *"The Multivehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception"*, Zhu et al., *RAL 2018*. [[Paper](https://arxiv.org/abs/1801.10202)] [[Dataset](https://daniilidis-group.github.io/mvsec/)] [[Bibtex](./bibliography/MVSEC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+Multivehicle+Stereo+Event+Camera+Dataset:+An+Event+Camera+Dataset+for+3D+Perception&btnG=)]
-
-   * **DSEC**: *"DSEC: A Stereo Event Camera Dataset for Driving Scenarios"*, Gehrig et al., *RAL, 2021*. [[Paper](https://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf)] [[Code](https://github.com/uzh-rpg/DSEC)] [[Dataset](https://dsec.ifi.uzh.ch/)] [[Bibtex](./bibliography/DSEC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DSEC:+A+Stereo+Event+Camera+Dataset+for+Driving+Scenarios&btnG=)]
-
    * **RGB-MS**: *"RGB-Multispectral Matching: Dataset, Learning Methodology, Evaluation"*, Tosi et al., *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tosi_RGB-Multispectral_Matching_Dataset_Learning_Methodology_Evaluation_CVPR_2022_paper.pdf)] [[Dataset](https://cvlab-unibo.github.io/rgb-ms-web/)] [[Bibtex](./bibliography/RGB-MS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=RGB-Multispectral+Matching:+Dataset,+Learning+Methodology,+Evaluation&btnG=)]
    
-   * **M3ED**: *"M3ed: Multi-robot, multi-sensor, multi-environment event dataset"*, Chaney et al., *CVPRW, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chaney_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset_CVPRW_2023_paper.pdf)] [[Dataset](https://m3ed.io/)] [[Bibtex](./bibliography/M3ED.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=M3ed:+Multi-robot,+multi-sensor,+multi-environment+event+dataset&btnG=)]
-
    * **Gated Stereo**: *"Gated Stereo: Joint Depth Estimation from Gated and Wide-Baseline Active Stereo Cues"*, Walz et al., *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Walz_Gated_Stereo_Joint_Depth_Estimation_From_Gated_and_Wide-Baseline_Active_CVPR_2023_paper.pdf)] [[Dataset](https://light.princeton.edu/gatedstereo/)] [[Bibtex](./bibliography/Gated.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Gated+Stereo:+Joint+Depth+Estimation+from+Gated+and+Wide-Baseline+Active+Stereo+Cues&btnG=)]
 
    * **RPS/IPS**: *"DPS-Net: Deep Polarimetric Stereo Depth Estimation"*, Tian et al., *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Tian_DPS-Net_Deep_Polarimetric_Stereo_Depth_Estimation_ICCV_2023_paper.pdf)] [[Dataset](https://github.com/Ethereal-Tian/DPS-Net)] [[Bibtex](./bibliography/DPS-Net.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DPS-Net:+Deep+Polarimetric+Stereo+Depth+Estimation&btnG=)]
 
    * **MS^2**: *"Deep Depth Estimation From Thermal Image"*, Shin et al., *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Shin_Deep_Depth_Estimation_From_Thermal_Image_CVPR_2023_paper.pdf)] [[Dataset](https://sites.google.com/view/multi-spectral-stereo-dataset)] [[Bibtex](./bibliography/MS2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Deep+Depth+Estimation+From+Thermal+Image&btnG=)] 
+
+   </details>
+
+   <details open><summary style="font-size: larger; font-weight: bold;"> Event Camera Based</summary>
+
+   * **UZH-RPG**: *"Semi-Dense 3D Reconstruction with a Stereo Event Camera"*, Zhou et al., *ECCV, 2018*. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Zhou_Semi-Dense_3D_Reconstruction_ECCV_2018_paper.pdf)] [[Dataset](https://rpg.ifi.uzh.ch/ECCV18_stereo_davis.html)] [[Bibtex](./bibliography/UZH-RPG.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=semi+dense+stereo+event+camera&btnG=)]
+
+   * **MVSEC**: *"The Multivehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception"*, Zhu et al., *RAL 2018*. [[Paper](https://arxiv.org/abs/1801.10202)] [[Dataset](https://daniilidis-group.github.io/mvsec/)] [[Bibtex](./bibliography/MVSEC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+Multivehicle+Stereo+Event+Camera+Dataset:+An+Event+Camera+Dataset+for+3D+Perception&btnG=)]
+
+   * **DSEC**: *"DSEC: A Stereo Event Camera Dataset for Driving Scenarios"*, Gehrig et al., *RAL, 2021*. [[Paper](https://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf)] [[Code](https://github.com/uzh-rpg/DSEC)] [[Dataset](https://dsec.ifi.uzh.ch/)] [[Bibtex](./bibliography/DSEC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DSEC:+A+Stereo+Event+Camera+Dataset+for+Driving+Scenarios&btnG=)]
+
+   * **SHEF**: *"Stereo Hybrid Event-Frame (SHEF) Cameras for 3D Perception"*, Wang et al., *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2110.04988)] [[Dataset](https://github.com/ziweiWWANG/SHEF)] [[Bibtex](./bibliography/SHEF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=stereo+hybrid+event+frame&btnG=)]
+
+   * **TUM-VIE**: *"TUM-VIE: The TUM Stereo Visual-Inertial Event Data Set"*, Klenk et al., *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2108.07329)] [[Dataset](https://cvg.cit.tum.de/data/datasets/visual-inertial-event-dataset)] [[Bibtex](./bibliography/TUM-VIE.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=TUM-VIE%3A+The+TUM+Stereo+Visual-Inertial+Event+Data+Set&btnG=)]
+   
+   * **EVIMO2**: *"EVIMO2: An Event Camera Dataset for Motion Segmentation, Optical Flow, Structure from Motion, and Visual Inertial Odometry in Indoor Scenes with Monocular or Stereo Algorithms"*, Burner et al., *ArXiv, 2022*. [[Paper](https://arxiv.org/pdf/2205.03467)] [[Dataset](https://better-flow.github.io/evimo/download_evimo_2.html)] [[Bibtex](./bibliography/EVIMO2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=EVIMO2%3A+An+Event+Camera+Dataset+for+Motion+Segmentation%2C+Optical+Flow%2C+Structure+from+Motion%2C+and+Visual+Inertial+Odometry+in+Indoor+Scenes+with+Monocular+or+Stereo+Algorithms&btnG=)]
+
+   * **VECtor**: *"VECtor: A Versatile Event-Centric Benchmark for Multi-Sensor SLAM"*, Gao et al., *RAL, 2022*. [[Paper](https://arxiv.org/pdf/2207.01404)] [[Dataset](https://star-datasets.github.io/vector/)] [[Bibtex](./bibliography/VECtor.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=VECtor%3A+A+Versatile+Event-Centric+Benchmark+for+Multi-Sensor+SLAM&btnG=)]
+
+   * **ESVIO**: *"ESVIO: Event-based Stereo Visual Inertial Odometry"*, Chen et al., *RAL, 2023*. [[Paper](https://arxiv.org/pdf/2212.13184)] [[Dataset](https://github.com/arclab-hku/ESVIO)] [[Bibtex](./bibliography/ESVIO.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=ESVIO%3A+Event-based+Stereo+Visual+Inertial+Odometry&btnG=)]
+
+   * **M3ED**: *"M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset"*, Chaney et al., *CVPRW, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chaney_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset_CVPRW_2023_paper.pdf)] [[Dataset](https://m3ed.io/)] [[Bibtex](./bibliography/M3ED.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=M3ed:+Multi-robot,+multi-sensor,+multi-environment+event+dataset&btnG=)]
 
    </details>
 

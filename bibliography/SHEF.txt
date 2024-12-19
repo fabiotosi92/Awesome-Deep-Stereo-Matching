@@ -1,0 +1,8 @@
+@inproceedings{wang2021stereo,
+  title={Stereo hybrid event-frame (shef) cameras for 3d perception},
+  author={Wang, Ziwei and Pan, Liyuan and Ng, Yonhon and Zhuang, Zheyu and Mahony, Robert},
+  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={9758--9764},
+  year={2021},
+  organization={IEEE}
+}

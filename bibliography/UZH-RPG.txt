@@ -1,0 +1,7 @@
+@inproceedings{zhou2018semi,
+  title={Semi-dense 3D reconstruction with a stereo event camera},
+  author={Zhou, Yi and Gallego, Guillermo and Rebecq, Henri and Kneip, Laurent and Li, Hongdong and Scaramuzza, Davide},
+  booktitle={Proceedings of the European conference on computer vision (ECCV)},
+  pages={235--251},
+  year={2018}
+}

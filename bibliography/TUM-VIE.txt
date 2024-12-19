@@ -1,0 +1,8 @@
+@inproceedings{klenk2021tum,
+  title={Tum-vie: The tum stereo visual-inertial event dataset},
+  author={Klenk, Simon and Chui, Jason and Demmel, Nikolaus and Cremers, Daniel},
+  booktitle={2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={8601--8608},
+  year={2021},
+  organization={IEEE}
+}
