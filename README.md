@@ -188,13 +188,13 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
       <details open><summary style="font-size: larger; font-weight: bold;"> Event Camera Based</summary>
 
-      * **UZH-RPG**: *"Semi-Dense 3D Reconstruction with a Stereo Event Camera"*, Zhou et al., *ECCV, 2018*. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Zhou_Semi-Dense_3D_Reconstruction_ECCV_2018_paper.pdf)] [[Dataset](https://rpg.ifi.uzh.ch/ECCV18_stereo_davis.html)] [[Bibtex](./bibliography/UZH-RPG.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=semi+dense+stereo+event+camera&btnG=)]
+      * **UZH-RPG**: *"Semi-Dense 3D Reconstruction with a Stereo Event Camera"*, Zhou et al., *ECCV, 2018*. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yi_Zhou_Semi-Dense_3D_Reconstruction_ECCV_2018_paper.pdf)] [[Dataset](https://rpg.ifi.uzh.ch/ECCV18_stereo_davis.html)] [[Bibtex](./bibliography/UZH-RPG.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Semi-dense+3D+reconstruction+with+a+stereo+event+camera&btnG=)]
 
       * **MVSEC**: *"The Multivehicle Stereo Event Camera Dataset: An Event Camera Dataset for 3D Perception"*, Zhu et al., *RAL 2018*. [[Paper](https://arxiv.org/abs/1801.10202)] [[Dataset](https://daniilidis-group.github.io/mvsec/)] [[Bibtex](./bibliography/MVSEC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+Multivehicle+Stereo+Event+Camera+Dataset:+An+Event+Camera+Dataset+for+3D+Perception&btnG=)]
 
       * **DSEC**: *"DSEC: A Stereo Event Camera Dataset for Driving Scenarios"*, Gehrig et al., *RAL, 2021*. [[Paper](https://rpg.ifi.uzh.ch/docs/RAL21_DSEC.pdf)] [[Code](https://github.com/uzh-rpg/DSEC)] [[Dataset](https://dsec.ifi.uzh.ch/)] [[Bibtex](./bibliography/DSEC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=DSEC:+A+Stereo+Event+Camera+Dataset+for+Driving+Scenarios&btnG=)]
 
-      * **SHEF**: *"Stereo Hybrid Event-Frame (SHEF) Cameras for 3D Perception"*, Wang et al., *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2110.04988)] [[Dataset](https://github.com/ziweiWWANG/SHEF)] [[Bibtex](./bibliography/SHEF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=stereo+hybrid+event+frame&btnG=)]
+      * **SHEF**: *"Stereo Hybrid Event-Frame (SHEF) Cameras for 3D Perception"*, Wang et al., *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2110.04988)] [[Dataset](https://github.com/ziweiWWANG/SHEF)] [[Bibtex](./bibliography/SHEF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+hybrid+event-frame+%28shef%29+cameras+for+3d+perception&btnG=)]
 
       * **TUM-VIE**: *"TUM-VIE: The TUM Stereo Visual-Inertial Event Data Set"*, Klenk et al., *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2108.07329)] [[Dataset](https://cvg.cit.tum.de/data/datasets/visual-inertial-event-dataset)] [[Bibtex](./bibliography/TUM-VIE.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=TUM-VIE%3A+The+TUM+Stereo+Visual-Inertial+Event+Data+Set&btnG=)]
       
