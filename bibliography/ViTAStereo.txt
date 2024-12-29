@@ -1,0 +1,8 @@
+@article{li2024roadformer,
+  title={Playing to Vision Foundation Model's Strengths in Stereo Matching},
+  author={Chuang-Wei Liu and Chen, Qijun and Fan, Rui},
+  journal={IEEE Transactions on Intelligent Vehicles},
+  year={2024},
+  publisher={IEEE},
+  note={{DOI}:{10.1109/TIV.2024.3467287}},
+}
