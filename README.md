@@ -516,6 +516,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **FormerStereo**: *"Learning Representations from Foundation Models for Domain Generalized Stereo Matching"*, Zhang et al., *ECCV, 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05841.pdf)] [[Bibtex](./bibliography/FormerStereo.txt)]   [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+Representations+from+Foundation+Models+for+Domain+Generalized+Stereo+Matching&btnG=)]
 
+   * **ViTAStereo**: *"Playing to Vision Foundation Model’s Strengths in Stereo Matching"*, Zhang et al., *T-IV, 2024*. [[Paper](https://arxiv.org/pdf/2404.06261)] [[Code](https://github.com/CwLiuzzZ/ViTAS)] [[Bibtex](./bibliography/ViTAStereo.txt)]   [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Playing+to+Vision+Foundation+Model%E2%80%99s+Strengths+in+Stereo+Matching&btnG=)]
+
   </details>
 
   <details open class="nested-details">
