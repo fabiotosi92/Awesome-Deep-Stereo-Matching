@@ -7,9 +7,9 @@ We use the :triangular_flag_on_post: symbol to highlight the absolute most groun
 
 :rotating_light: :rotating_light: :rotating_light: This repository is closely associated with our surveys on deep stereo matching: 
 
-1) ["A Survey on Deep Stereo Matching in the Twenties"](https://arxiv.org/pdf/2407.07816), Tosi et al., 2024
-2) ["On the Synergies between Machine Learning and Binocular Stereo for Depth Estimation from Images: a Survey"](https://arxiv.org/abs/2004.08566), Poggi et al., 2021
-3) ["On the confidence of stereo matching in a deep-learning era: a quantitative evaluation"](https://arxiv.org/abs/2101.00431), Poggi et al., 2022
+1) ["A Survey on Deep Stereo Matching in the Twenties"](https://arxiv.org/pdf/2407.07816), Tosi et al., 2024 (IJCV accepted)
+2) ["On the Synergies between Machine Learning and Binocular Stereo for Depth Estimation from Images: a Survey"](https://arxiv.org/abs/2004.08566), Poggi et al., TPAMI 2021
+3) ["On the confidence of stereo matching in a deep-learning era: a quantitative evaluation"](https://arxiv.org/abs/2101.00431), Poggi et al., TPAMI 2022
 
 These surveys provides an in-depth overview of the field, complementing the curated list of resources found in this repository. 
 
@@ -88,7 +88,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 <details open><summary style="font-size: larger; font-weight: bold;"> Deep Stereo Matching</summary><ul>
 
-   * *"A Survey on Deep Stereo Matching in the Twenties"*, Tosi et al., *arXiv pre-print, 2024*. [[Paper](https://arxiv.org/pdf/2407.07816)] [[Bibtex](./bibliography/inTheTwenties.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Survey+on+Deep+Stereo+Matching+in+the+Twenties+&btnG=)] [[Tutorial](https://sites.google.com/view/stereo-twenties)]
+   * *"A Survey on Deep Stereo Matching in the Twenties"*, Tosi et al., *arXiv pre-print (accepted at IJCV), 2024*. [[Paper](https://arxiv.org/pdf/2407.07816)] [[Bibtex](./bibliography/inTheTwenties.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Survey+on+Deep+Stereo+Matching+in+the+Twenties+&btnG=)] [[Tutorial](https://sites.google.com/view/stereo-twenties)]
 
    * *"A survey on deep learning techniques for stereo-based depth estimation"*, Laga et al., *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9233988&casa_token=thq8xzMfDVQAAAAA:LqT40M8CQY9Xt8j8pKTUJr2E89KAB9c1DGG1Pw9q1YMG__o5htMzH1Xx3_wlPwLcesYHgvc&tag=1)] [[Bibtex](./bibliography/survey-stereo-2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+survey+on+deep+learning+techniques+for+stereo-based+depth+estimation&btnG=)]
 
