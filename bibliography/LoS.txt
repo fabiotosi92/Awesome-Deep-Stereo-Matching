@@ -1,0 +1,7 @@
+@inproceedings{li2024local,
+  title={LoS: Local Structure-Guided Stereo Matching},
+  author={Li, Kunhong and Wang, Longguang and Zhang, Ye and Xue, Kaiwen and Zhou, Shunbo and Guo, Yulan},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={19746--19756},
+  year={2024}
+}

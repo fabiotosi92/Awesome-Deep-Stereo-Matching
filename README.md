@@ -474,6 +474,9 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **MoCha-Stereo**: *"MoCha-Stereo: Motif Channel Attention Network for Stereo Matching"*, Chen et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.06842.pdf)] [[Code](https://github.com/ZYangChen/MoCha-Stereo)] [[Bibtex](./bibliography/MoCha-Stereo.txt)] [[Google Scholar](https://scholar.google.de/scholar?q=MoCha-Stereo:%20Motif%20Channel%20Attention%20Network%20for%20Stereo%20Matching)]
 
+
+   * **LoS**: *"LoS: Local Structure-guided Stereo Matching"*, Li et al., *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LoS_Local_Structure-Guided_Stereo_Matching_CVPR_2024_paper.pdf)] [[Code](https://github.com/SYSU-SAIL/LoS)] [[Bibtex](./bibliography/LoS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LoS%3A+Local+Structure-guided+Stereo+Matching&btnG=)]
+
    * **XR-Stereo**: *"Stereo Matching in Time: 100+ FPS Video Stereo Matching for Extended Reality"*, Cheng et al., *WACV, 2024*. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Cheng_Stereo_Matching_in_Time_100_FPS_Video_Stereo_Matching_for_WACV_2024_paper.pdf)] [[Code](https://github.com/za-cheng/XR-Stereo)] [[Bibtex](./bibliography/XR-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Stereo+Matching+in+Time:+100++FPS+Video+Stereo+Matching+for+Extended+Reality&btnG=)]
 
    * **Temporally-Consistent Stereo**: *"Temporally Consistent Stereo Matching"*, Zeng et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.11950)] [[Code](https://github.com/jiaxiZeng/Temporally-Consistent-Stereo-Matching)] [[Bibtex](./bibliography/Temporally-Consistent-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Temporally+Consistent+Stereo+Matching&btnG=)]
@@ -697,6 +700,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
   * **SEDNet**: *"Learning the distribution of errors in stereo matching for joint disparity and uncertainty estimation"*, Chen et al., CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf)] [[Code](https://github.com/lly00412/SEDNet)] [[Bibtex](./bibliography/SEDNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+the+distribution+of+errors+in+stereo+matching+for+joint+disparity+and+uncertainty+estimation&btnG=)]
 
+   * **LoS**: *"LoS: Local Structure-guided Stereo Matching"*, Li et al., *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LoS_Local_Structure-Guided_Stereo_Matching_CVPR_2024_paper.pdf)] [[Code](https://github.com/SYSU-SAIL/LoS)] [[Bibtex](./bibliography/LoS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LoS%3A+Local+Structure-guided+Stereo+Matching&btnG=)]
+   
 </details>
 
 
@@ -1023,7 +1028,11 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Monocular-Stereo Integration</summary>
 
+   * **LoS**: *"LoS: Local Structure-guided Stereo Matching"*, Li et al., *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LoS_Local_Structure-Guided_Stereo_Matching_CVPR_2024_paper.pdf)] [[Code](https://github.com/SYSU-SAIL/LoS)] [[Bibtex](./bibliography/LoS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LoS%3A+Local+Structure-guided+Stereo+Matching&btnG=)]
+
    * **Stereo Anywhere**: *"Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail"*, Bartolomei et al., *arXiv, 2024*. [[Paper](http://arxiv.org/abs/2412.04472)] [[Code](https://github.com/bartn8/stereoanywhere/)] [[WebPage](https://stereoanywhere.github.io/)] [[Bibtex](./bibliography/StereoAnywhere.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anywhere%3A+Robust+Zero-Shot+Deep+Stereo+Matching+Even+Where+Either+Stereo+or+Mono+Fail&btnG=)]
+
+   * **AIO-Stereo**: *"All-in-One: Transferring Vision Foundation Models into Stereo Matching"*, Zhou et al., *AAAI, 2025*. [[Paper](https://arxiv.org/pdf/2412.09912)] [[Bibtex](./bibliography/AIO-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=All-in-One%3A+Transferring+Vision+Foundation+Models+into+Stereo+Matching&btnG=)]
 
 </details>
 
