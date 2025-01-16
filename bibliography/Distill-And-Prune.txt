@@ -1,0 +1,8 @@
+@inproceedings{pan2024distill,
+  title={Distill-then-prune: An efficient compression framework for real-time stereo matching network on edge devices},
+  author={Pan, Baiyu and Jiao, Jichao and Pang, Jianxing and Cheng, Jun},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)},
+  pages={15113--15120},
+  year={2024},
+  organization={IEEE}
+}

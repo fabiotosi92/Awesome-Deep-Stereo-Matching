@@ -428,6 +428,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **SEDNet**: *"Learning the distribution of errors in stereo matching for joint disparity and uncertainty estimation"*, Chen et al., CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf)] [[Code](https://github.com/lly00412/SEDNet)] [[Bibtex](./bibliography/SEDNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+the+distribution+of+errors+in+stereo+matching+for+joint+disparity+and+uncertainty+estimation&btnG=)]
 
+   * **Coatrsnet**: *"Coatrsnet: Fully exploiting convolution and attention for stereo matching by region separation"*, Junda et al., IJCV, 2024. [[Paper](https://link.springer.com/content/pdf/10.1007/s11263-023-01872-0.pdf)] [[Bibtex](./bibliography/Coatrsnet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Coatrsnet%3A+Fully+exploiting+convolution+and+attention+for+stereo+matching+by+region+separation&btnG=)]
 
   </details>
 
@@ -612,7 +613,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **PBCStereo**: *"PBCStereo: A Compressed Stereo Network with Pure Binary Convolutional Operations"*, Cai et al., *ACCV, 2022*. [[Paper](https://openaccess.thecvf.com/content/ACCV2022/papers/Cai_PBCStereo_A_Compressed_Stereo_Network_with_Pure_Binary_Convolutional_Operations_ACCV_2022_paper.pdf)] [[Bibtex](./bibliography/PBCStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PBCStereo:+A+Compressed+Stereo+Network+with+Pure+Binary+Convolutional+Operations&btnG=)]
 
-* **MadNet2**: *"Federated Online Adaptation for Deep Stereo"*, Poggi et al., *CVPR, 2024*.  [[Bibtex](./bibliography/FedStereo.txt)] 
+* **MadNet2**: *"Federated Online Adaptation for Deep Stereo"*, Poggi et al., *CVPR, 2024*.  [[Paper](https://fedstereo.github.io/)] [[Code](https://github.com/mattpoggi/fedstereo)] [[Bibtex](./bibliography/FedStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Federated+Online+Adaptation+for+Deep+Stereo&btnG=)]
 
 * **Distill-And-Prune**: *"Distill-then-prune: An Efficient Compression Framework for Real-time Stereo Matching Network on Edge Devices"*, Pan et al., *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.11809)] [[Bibtex](./bibliography/Distill-And-Prune.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Distill-then-prune%3A+An+Efficient+Compression+Framework+for+Real-time+Stereo+Matching+Network+on+Edge+Devices&btnG=)]
 

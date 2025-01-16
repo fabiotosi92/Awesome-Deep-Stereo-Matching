@@ -1,0 +1,10 @@
+@article{cheng2024coatrsnet,
+  title={Coatrsnet: Fully exploiting convolution and attention for stereo matching by region separation},
+  author={Cheng, Junda and Xu, Gangwei and Guo, Peng and Yang, Xin},
+  journal={International Journal of Computer Vision},
+  volume={132},
+  number={1},
+  pages={56--73},
+  year={2024},
+  publisher={Springer}
+}
