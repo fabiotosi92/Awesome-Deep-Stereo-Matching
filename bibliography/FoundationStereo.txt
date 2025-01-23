@@ -1,0 +1,6 @@
+@article{wen2025stereo,
+  title={FoundationStereo: Zero-Shot Stereo Matching},
+  author={Bowen Wen and Matthew Trepte and Joseph Aribido and Jan Kautz and Orazio Gallo and Stan Birchfield},
+  journal={arXiv},
+  year={2025}
+}
