@@ -1318,7 +1318,6 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **Geometry to the Rescue**: *"Unsupervised cnn for single view depth estimation: Geometry to the rescue"*, Garg et al., *ECCV, 2016*. [[Paper](https://arxiv.org/pdf/1603.04992)] [[Bibtex](./bibliography/Geometry_to_the_Rescue.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Unsupervised+CNN+for+single+view+depth+estimation%3A+Geometry+to+the+rescu&btnG=)]
 
-
 * **MonoDepth/StereoDepth**: *"Unsupervised monocular depth estimation with left-right consistency"*, Godard et al., *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Godard_Unsupervised_Monocular_Depth_CVPR_2017_paper.pdf)] [[Code](https://github.com/mrharicot/monodepth)] [[Bibtex](./bibliography/MonoDepth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+monocular+depth+estimation+with+left-right+consistency&btnG=)]
 
 * **SVSM**: "Single View Stereo Matching", Luo et al., *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Single_View_Stereo_CVPR_2018_paper.pdf)] [[Code](https://github.com/yanqi1811/Single-View-Stereo-Matching)] [[Bibtex](./bibliography/SVSM.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Single+View+Stereo+Matching&btnG=)]
@@ -1347,16 +1346,22 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **Online Stereo Rectification**: "Flow-Guided Online Stereo Rectification for Wide Baseline Stereo", Kumar et al., *CVPR, 2024*. [[Paper](https://light.princeton.edu/wp-content/uploads/2024/04/Flow-Guided-Online-Stereo-Rectification-for-Wide-Baseline-Stereo.pdf)] [[WebSite](https://light.princeton.edu/publication/online-stereo-recification/)] [[Bibtex](./bibliography/OnlineStereoRectification.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Flow-Guided+Online+Stereo+Rectification+for+Wide+Baseline+Stereo&btnG=)]
 
-* **StereoDiffusion**: "StereoDiffusion: Training-Free Stereo Image Generation Using Latent Diffusion Models", Wang et al., *CVPRW, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/GCV/papers/Wang_StereoDiffusion_Training-Free_Stereo_Image_Generation_Using_Latent_Diffusion_Models_CVPRW_2024_paper.pdf)] [[Code](https://github.com/lez-s/StereoDiffusion)] [[Bibtex](./bibliography/StereoDiffusion.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoDiffusion%3A+Training-Free+Stereo+Image+Generation+Using+Latent+Diffusion+Models&btnG=)] 
-
-* **StereoGen**: "StereoGen: High-quality Stereo Image Generation from a Single Image", Wang et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.08654)] [[Bibtex](./bibliography/StereoGen.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoGen%3A+High-quality+Stereo+Image+Generation+from+a+Single+Image&btnG=)] 
-
 * **GS2Mesh**: "*GS2Mesh: Surface Reconstruction from Gaussian
 Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2404.01810)] [[WebPage](https://gs2mesh.github.io/)] [[Bibtex](./bibliography/GS2Mesh.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=GS2Mesh%3A+Surface+Reconstruction+from+Gaussian+Splatting+via+Novel+Stereo+Views&btnG=)] 
 
 * **StereoGS**: "Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs", Safadoust et al., *BMVC, 2024*. [[Paper](https://arxiv.org/pdf/2409.07456)] [[WebPage](https://kuis-ai.github.io/StereoGS/)] [[Bibtex](./bibliography/StereoGS.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Self-Evolving+Depth-Supervised+3D+Gaussian+Splatting+from+Rendered+Stereo+Pairs&btnG=)] 
 
 * **Binocular3DGS**: "*Binocular3DGS: Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis*", Han et al., *NeurIPS, 2024*. [[Paper](https://arxiv.org/pdf/2410.18822)] [[WebPage](https://hanl2010.github.io/Binocular3DGS/)] [[Code](https://github.com/hanl2010/Binocular3DGS)] [[Bibtex](./bibliography/Binocular3DGS.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0,5&q=Binocular+3DGS:+Binocular-Guided+3D+Gaussian+Splatting+with+View+Consistency+for+Sparse+View+Synthesis)]
+
+* **StereoDiffusion**: "StereoDiffusion: Training-Free Stereo Image Generation Using Latent Diffusion Models", Wang et al., *CVPRW, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/GCV/papers/Wang_StereoDiffusion_Training-Free_Stereo_Image_Generation_Using_Latent_Diffusion_Models_CVPRW_2024_paper.pdf)] [[Code](https://github.com/lez-s/StereoDiffusion)] [[Bibtex](./bibliography/StereoDiffusion.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoDiffusion%3A+Training-Free+Stereo+Image+Generation+Using+Latent+Diffusion+Models&btnG=)] 
+
+* **StereoGen**: "StereoGen: High-quality Stereo Image Generation from a Single Image", Wang et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.08654)] [[Bibtex](./bibliography/StereoGen.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoGen%3A+High-quality+Stereo+Image+Generation+from+a+Single+Image&btnG=)] 
+
+* **StereoCrafter**: "StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos", Zhao et al., *arXiv, 2024*. [[Paper](https://stereocrafter.github.io/static/pdfs/StereoCrafter_report.pdf)] [[WebPage](https://stereocrafter.github.io/)] [[GitHub](https://github.com/TencentARC/StereoCrafter)] [[Bibtex](./bibliography/StereoCrafter.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoCrafter%3A+Diffusion-based+Generation+of+Long+and+High-fidelity+Stereoscopic+3D+from+Monocular+Videos&btnG=)] 
+
+* **StereoCrafter-Zero**: "StereoCrafter-Zero: Zero-Shot Stereo Video Generation with Noisy Restart", Shi et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.14295?)] [[GitHub](https://github.com/shijianjian/StereoCrafter-Zero)] [[Bibtex](./bibliography/StereoCrafter-Zero.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoCrafter-Zero%3A+Zero-Shot+Stereo+Video+Generation+with+Noisy+Restart&btnG=)] 
+
+* **SpatialMe**: "SpatialMe: Stereo Video Conversion Using Depth-Warping and Blend-Inpainting", Zhang et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.11512)] [[Bibtex](./bibliography/SpatialMe.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=SpatialMe%3A+Stereo+Video+Conversion+Using+Depth-Warping+and+Blend-Inpainting&btnG=)] 
 
 ## Workshops
 
