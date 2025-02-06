@@ -490,7 +490,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **Stereo Anything**: *"Stereo Anything: Unifying Stereo Matching with Large-Scale Mixed Data"*, Guo et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.14053)] [[Code](https://github.com/XiandaGuo/OpenStereo)] [[Bibtex](./bibliography/StereoAnything.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anything%3A+Unifying+Stereo+Matching+with+Large-Scale+Mixed+Data&btnG=)]
 
-   * **MonSter**: *"MonSter: Marry Monodepth to Stereo Unleashes Power"*, Cheng et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.08643)] [[Code](https://github.com/Junda24/MonSte)] [[Bibtex](./bibliography/MonSter.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=MonSter%3A+Marry+Monodepth+to+Stereo+Unleashes+Power&btnG=)]
+   * **MonSter**: *"MonSter: Marry Monodepth to Stereo Unleashes Power"*, Cheng et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.08643)] [[Code](https://github.com/Junda24/MonSter)] [[Bibtex](./bibliography/MonSter.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=MonSter%3A+Marry+Monodepth+to+Stereo+Unleashes+Power&btnG=)]
 
    * **Stereo Anywhere**: *"Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail"*, Bartolomei et al., *arXiv, 2024*. [[Paper](http://arxiv.org/abs/2412.04472)] [[Code](https://github.com/bartn8/stereoanywhere/)] [[WebPage](https://stereoanywhere.github.io/)] [[Bibtex](./bibliography/StereoAnywhere.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anywhere%3A+Robust+Zero-Shot+Deep+Stereo+Matching+Even+Where+Either+Stereo+or+Mono+Fail&btnG=)]
 
@@ -1036,7 +1036,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **LoS**: *"LoS: Local Structure-guided Stereo Matching"*, Li et al., *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LoS_Local_Structure-Guided_Stereo_Matching_CVPR_2024_paper.pdf)] [[Code](https://github.com/SYSU-SAIL/LoS)] [[Bibtex](./bibliography/LoS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LoS%3A+Local+Structure-guided+Stereo+Matching&btnG=)]
 
-   * **MonSter**: *"MonSter: Marry Monodepth to Stereo Unleashes Power"*, Cheng et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.08643)] [[Code](https://github.com/Junda24/MonSte)] [[Bibtex](./bibliography/MonSter.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=MonSter%3A+Marry+Monodepth+to+Stereo+Unleashes+Power&btnG=)]
+   * **MonSter**: *"MonSter: Marry Monodepth to Stereo Unleashes Power"*, Cheng et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.08643)] [[Code](https://github.com/Junda24/MonSter)] [[Bibtex](./bibliography/MonSter.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=MonSter%3A+Marry+Monodepth+to+Stereo+Unleashes+Power&btnG=)]
 
    * **Stereo Anywhere**: *"Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail"*, Bartolomei et al., *arXiv, 2024*. [[Paper](http://arxiv.org/abs/2412.04472)] [[Code](https://github.com/bartn8/stereoanywhere/)] [[WebPage](https://stereoanywhere.github.io/)] [[Bibtex](./bibliography/StereoAnywhere.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anywhere%3A+Robust+Zero-Shot+Deep+Stereo+Matching+Even+Where+Either+Stereo+or+Mono+Fail&btnG=)]
 
