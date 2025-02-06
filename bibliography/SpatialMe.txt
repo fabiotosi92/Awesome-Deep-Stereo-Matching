@@ -1,0 +1,6 @@
+@article{zhang2024spatialme,
+  title={SpatialMe: Stereo Video Conversion Using Depth-Warping and Blend-Inpainting},
+  author={Zhang, Jiale and Jia, Qianxi and Liu, Yang and Zhang, Wei and Wei, Wei and Tian, Xin},
+  journal={arXiv preprint arXiv:2412.11512},
+  year={2024}
+}

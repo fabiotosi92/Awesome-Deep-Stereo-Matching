@@ -1,0 +1,6 @@
+@article{shi2024stereocrafter,
+  title={StereoCrafter-Zero: Zero-Shot Stereo Video Generation with Noisy Restart},
+  author={Shi, Jian and Wang, Qian and Li, Zhenyu and Wonka, Peter},
+  journal={arXiv preprint arXiv:2411.14295},
+  year={2024}
+}

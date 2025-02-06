@@ -1,0 +1,6 @@
+@article{zhao2024stereocrafter,
+            author      = {Zhao, Sijie and Hu, Wenbo and Cun, Xiaodong and Zhang, Yong and Li, Xiaoyu and Kong, Zhe and Gao, Xiangjun and Niu, Muyao and Shan, Ying},
+            title       = {StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos},
+            journal     = {arXiv preprint arXiv:2409.07447},
+            year        = {2024}
+           }
