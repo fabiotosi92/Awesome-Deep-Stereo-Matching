@@ -7,7 +7,7 @@ We use the :triangular_flag_on_post: symbol to highlight the absolute most groun
 
 :rotating_light: :rotating_light: :rotating_light: This repository is closely associated with our surveys on deep stereo matching: 
 
-1) ["A Survey on Deep Stereo Matching in the Twenties"](https://arxiv.org/pdf/2407.07816), Tosi et al., 2024 (IJCV accepted)
+1) ["A Survey on Deep Stereo Matching in the Twenties"](https://link.springer.com/content/pdf/10.1007/s11263-024-02331-0.pdf), Tosi et al., IJCV 2025
 2) ["On the Synergies between Machine Learning and Binocular Stereo for Depth Estimation from Images: a Survey"](https://arxiv.org/abs/2004.08566), Poggi et al., TPAMI 2021
 3) ["On the confidence of stereo matching in a deep-learning era: a quantitative evaluation"](https://arxiv.org/abs/2101.00431), Poggi et al., TPAMI 2022
 
@@ -19,7 +19,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 
 **Full reference(s):**
-* "A Survey on Deep Stereo Matching in the Twenties", Tosi et al., *arXiv pre-print, 2024*. [[Paper](https://arxiv.org/pdf/2407.07816)] [[Bibtex](./bibliography/inTheTwenties.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Survey+on+Deep+Stereo+Matching+in+the+Twenties+&btnG=)] [[Tutorial](https://sites.google.com/view/stereo-twenties)]
+* "A Survey on Deep Stereo Matching in the Twenties", Tosi et al., *IJCV, 2025*. [[Paper](https://link.springer.com/content/pdf/10.1007/s11263-024-02331-0.pdf)] [[Bibtex](./bibliography/inTheTwenties.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Survey+on+Deep+Stereo+Matching+in+the+Twenties+&btnG=)] [[Tutorial](https://sites.google.com/view/stereo-twenties)]
 
 * *"On the synergies between machine learning and binocular stereo for depth estimation from images: a survey"*, Poggi et al., *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021*. [[Paper](https://arxiv.org/pdf/2004.08566.pdf)] [[Bibtex](./bibliography/OnTheSynergies.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=On+the+synergies+between+machine+learning+and+binocular+stereo+for+depth+estimation+from+images:+a+survey&btnG=)]
 
@@ -88,7 +88,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 <details open><summary style="font-size: larger; font-weight: bold;"> Deep Stereo Matching</summary><ul>
 
-   * *"A Survey on Deep Stereo Matching in the Twenties"*, Tosi et al., *arXiv pre-print (accepted at IJCV), 2024*. [[Paper](https://arxiv.org/pdf/2407.07816)] [[Bibtex](./bibliography/inTheTwenties.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Survey+on+Deep+Stereo+Matching+in+the+Twenties+&btnG=)] [[Tutorial](https://sites.google.com/view/stereo-twenties)]
+   * *"A Survey on Deep Stereo Matching in the Twenties"*, Tosi et al., *IJCV, 2025*. [[Paper](https://link.springer.com/content/pdf/10.1007/s11263-024-02331-0.pdf)] [[Bibtex](./bibliography/inTheTwenties.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Survey+on+Deep+Stereo+Matching+in+the+Twenties+&btnG=)] [[Tutorial](https://sites.google.com/view/stereo-twenties)]
 
    * *"A survey on deep learning techniques for stereo-based depth estimation"*, Laga et al., *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9233988&casa_token=thq8xzMfDVQAAAAA:LqT40M8CQY9Xt8j8pKTUJr2E89KAB9c1DGG1Pw9q1YMG__o5htMzH1Xx3_wlPwLcesYHgvc&tag=1)] [[Bibtex](./bibliography/survey-stereo-2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+survey+on+deep+learning+techniques+for+stereo-based+depth+estimation&btnG=)]
 
@@ -1401,13 +1401,14 @@ A. Costanzino, M. Poggi, S. Salti, S. Mattoccia; CVPRW 2023, Vancouver, Canada [
 Please consider citing this list if you find this repository useful:
 
 ```bibtex
-@article{tosi2024survey,
-  title={A Survey on Deep Stereo Matching in the Twenties},
-  author={Fabio Tosi and Luca Bartolomei and Matteo Poggi},
-  journal={arXiv preprint arXiv:2407.07816},
-  year={2024},
-  url={https://arxiv.org/abs/2407.07816},
-  note={Extended version of CVPR 2024 Tutorial "Deep Stereo Matching in the Twenties" (https://sites.google.com/view/stereo-twenties)},
+@article{Tosi_IJCV_2025,
+  author    = {Fabio Tosi and Luca Bartolomei and Matteo Poggi},
+  title     = {A Survey on Deep Stereo Matching in the Twenties},
+  journal   = {International Journal of Computer Vision},
+  year      = {2025},
+  doi       = {10.1007/s11263-024-02331-0},
+  url       = {https://doi.org/10.1007/s11263-024-02331-0},
+  issn      = {1573-1405}
 }
 ```
 

@@ -1,8 +1,9 @@
-@article{tosi2024survey,
-  title={A Survey on Deep Stereo Matching in the Twenties},
-  author={Fabio Tosi and Luca Bartolomei and Matteo Poggi},
-  journal={arXiv preprint arXiv:2407.07816},
-  year={2024},
-  url={https://arxiv.org/abs/2407.07816},
-  note={Extended version of CVPR 2024 Tutorial "Deep Stereo Matching in the Twenties" (https://sites.google.com/view/stereo-twenties)},
+@article{Tosi_IJCV_2025,
+  author    = {Fabio Tosi and Luca Bartolomei and Matteo Poggi},
+  title     = {A Survey on Deep Stereo Matching in the Twenties},
+  journal   = {International Journal of Computer Vision},
+  year      = {2025},
+  doi       = {10.1007/s11263-024-02331-0},
+  url       = {https://doi.org/10.1007/s11263-024-02331-0},
+  issn      = {1573-1405}
 }
