@@ -1,6 +1,6 @@
-@article{bartolomei2024stereo,
-	title={Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail},
-	author={Bartolomei, Luca and Tosi, Fabio and Poggi, Matteo and Mattoccia, Stefano},
-	journal={arXiv preprint arXiv:2412.04472},
-	year={2024},
+@inproceedings{Bartolomei2025StereoAnywhere,
+  author    = {Luca Bartolomei and Fabio Tosi and Matteo Poggi and Stefano Mattoccia},
+  title     = {Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2025}
 }
