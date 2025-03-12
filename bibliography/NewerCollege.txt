@@ -1,0 +1,8 @@
+@inproceedings{ramezani2020newer,
+  title={The newer college dataset: Handheld lidar, inertial and vision with ground truth},
+  author={Ramezani, Milad and Wang, Yiduo and Camurri, Marco and Wisth, David and Mattamala, Matias and Fallon, Maurice},
+  booktitle={2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={4353--4360},
+  year={2020},
+  organization={IEEE}
+}

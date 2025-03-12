@@ -150,6 +150,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **Holopix50k**: *"Holopix50k: A Large-Scale In-the-Wild Stereo Image Dataset"*, Hua et al., *CVPR, 2020*. [[Paper](https://arxiv.org/abs/2003.11172)] [[Dataset](https://leiainc.github.io/holopix50k/)]  [[Bibtex](./bibliography/Holopix50k.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Holopix50k:+A+Large-Scale+In-the-Wild+Stereo+Image+Dataset&btnG=)]
 
+   * **Newer College**: *"The Newer College Dataset: Handheld LiDAR, Inertial and Vision with Ground Truth"*, Ramezani et al., *IROS, 2020*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9340849)] [[Dataset](https://ori-drs.github.io/newer-college-dataset/)]  [[Bibtex](./bibliography/NewerCollege.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=The+Newer+College+Dataset&btnG=)]
+
    * **A2D2**: *"Audi Autonomous Driving Dataset"*, Geyer et al., *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2004.06320.pdf)] [[Dataset](https://www.a2d2.audi/a2d2/en/dataset.html)] [[Bibtex](./bibliography/A2D2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A2d2%3A+Audi+autonomous+driving+dataset&btnG=)]
 
    * **InStereo2K**: *"InStereo2K: A Large Real Dataset for Stereo Matching in Indoor Scenes"*, Bao et al., *Science China Information Sciences, 2020*. [[Paper](https://link.springer.com/article/10.1007/s11432-019-2803-x)] [[Github](https://github.com/YuhuaXu/StereoDataset)] [[Bibtex](./bibliography/InStereo2K.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=InStereo2K%3A+A+Large+Real+Dataset+for+Stereo+Matching+in+Indoor+Scenes&btnG=)]
