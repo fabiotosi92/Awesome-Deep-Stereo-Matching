@@ -68,7 +68,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 <details open><summary style="font-size: larger; font-weight: bold;"> Stereo Matching Basics</summary><ul>
 
-   * *"A taxonomy and evaluation of dense two-frame stereo correspondence algorithms"*, Scharstein & Szeliski, *International Journal of Computer Vision (TPAMI), 2002*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9233988&casa_token=thq8xzMfDVQAAAAA:LqT40M8CQY9Xt8j8pKTUJr2E89KAB9c1DGG1Pw9q1YMG__o5htMzH1Xx3_wlPwLcesYHgvc&tag=1)] [[Bibtex](./bibliography/taxonomy.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+taxonomy+and+evaluation+of+dense+two-frame+stereo+correspondence+algorithms&btnG=)] 
+   * *"A taxonomy and evaluation of dense two-frame stereo correspondence algorithms"*, Scharstein & Szeliski, *International Journal of Computer Vision (IJCV), 2002*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9233988&casa_token=thq8xzMfDVQAAAAA:LqT40M8CQY9Xt8j8pKTUJr2E89KAB9c1DGG1Pw9q1YMG__o5htMzH1Xx3_wlPwLcesYHgvc&tag=1)] [[Bibtex](./bibliography/taxonomy.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+taxonomy+and+evaluation+of+dense+two-frame+stereo+correspondence+algorithms&btnG=)] 
 
    * *"Evaluation of cost functions for stereo matching"*, Hirschmuller & Scharstein, CVPR, 2007. [[Paper](https://elib.dlr.de/53001/1/Hirschm%C3%BCllerStereoMatchingCvpr07.pdf)] [[Bibtex](./bibliography/cost-functions.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Evaluation+of+cost+functions+for+stereo+matching&btnG=)]
 
@@ -88,7 +88,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 <details open><summary style="font-size: larger; font-weight: bold;"> Deep Stereo Matching</summary><ul>
 
-   * *"A Survey on Deep Stereo Matching in the Twenties"*, Tosi et al., *IJCV, 2025*. [[Paper](https://link.springer.com/content/pdf/10.1007/s11263-024-02331-0.pdf)] [[Bibtex](./bibliography/inTheTwenties.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Survey+on+Deep+Stereo+Matching+in+the+Twenties+&btnG=)] [[Tutorial](https://sites.google.com/view/stereo-twenties)]
+   * *"A Survey on Deep Stereo Matching in the Twenties"*, Tosi et al., *International Journal of Computer Vision (IJCV), 2025*. [[Paper](https://link.springer.com/content/pdf/10.1007/s11263-024-02331-0.pdf)] [[Bibtex](./bibliography/inTheTwenties.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Survey+on+Deep+Stereo+Matching+in+the+Twenties+&btnG=)] [[Tutorial](https://sites.google.com/view/stereo-twenties)]
 
    * *"A survey on deep learning techniques for stereo-based depth estimation"*, Laga et al., *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2020*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9233988&casa_token=thq8xzMfDVQAAAAA:LqT40M8CQY9Xt8j8pKTUJr2E89KAB9c1DGG1Pw9q1YMG__o5htMzH1Xx3_wlPwLcesYHgvc&tag=1)] [[Bibtex](./bibliography/survey-stereo-2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=A+survey+on+deep+learning+techniques+for+stereo-based+depth+estimation&btnG=)]
 
