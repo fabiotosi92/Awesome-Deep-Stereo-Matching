@@ -502,7 +502,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **FoundationStereo**: *"FoundationStereo: Zero-Shot Stereo Matching"*, Wen et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2501.09898)] [[Code](https://github.com/NVlabs/FoundationStereo)] [[WebPage](https://nvlabs.github.io/FoundationStereo/)] [[Bibtex](./bibliography/FoundationStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=FoundationStereo%3A+Zero-Shot+Stereo+Matching&btnG=#d=gs_cit&t=1737624791731&u=%2Fscholar%3Fq%3Dinfo%3AmPuArdM7kccJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dit)]
 
-   * **DEFOM-Stereo**: *"DEFOM-Stereo: Depth Foundation Model Based Stereo Matching"*, Jiang et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.09466)] [[Code](https://github.com/Insta360-Research-Team/DEFOM-Stereo)] [[Bibtex](./bibliography/DEFOM-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DEFOM-Stereo%3A+Depth+Foundation+Model+Based+Stereo+Matching&btnG=)]
+   * **DEFOM-Stereo**: *"DEFOM-Stereo: Depth Foundation Model Based Stereo Matching"*, Jiang et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2501.09466)] [[Code](https://github.com/Insta360-Research-Team/DEFOM-Stereo)] [[Bibtex](./bibliography/DEFOM-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DEFOM-Stereo%3A+Depth+Foundation+Model+Based+Stereo+Matching&btnG=)]
 
    * **AIO-Stereo**: *"All-in-One: Transferring Vision Foundation Models into Stereo Matching"*, Zhou et al., *AAAI, 2025*. [[Paper](https://arxiv.org/pdf/2412.09912)] [[Bibtex](./bibliography/AIO-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=All-in-One%3A+Transferring+Vision+Foundation+Models+into+Stereo+Matching&btnG=)]
 
@@ -1052,7 +1052,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **FoundationStereo**: *"FoundationStereo: Zero-Shot Stereo Matching"*, Wen et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2501.09898)] [[Code](https://github.com/NVlabs/FoundationStereo)] [[WebPage](https://nvlabs.github.io/FoundationStereo/)] [[Bibtex](./bibliography/FoundationStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=FoundationStereo%3A+Zero-Shot+Stereo+Matching&btnG=#d=gs_cit&t=1737624791731&u=%2Fscholar%3Fq%3Dinfo%3AmPuArdM7kccJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dit)]
 
-   * **DEFOM-Stereo**: *"DEFOM-Stereo: Depth Foundation Model Based Stereo Matching"*, Jiang et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2501.09466)] [[Code](https://github.com/Insta360-Research-Team/DEFOM-Stereo)] [[Bibtex](./bibliography/DEFOM-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DEFOM-Stereo%3A+Depth+Foundation+Model+Based+Stereo+Matching&btnG=)]
+   * **DEFOM-Stereo**: *"DEFOM-Stereo: Depth Foundation Model Based Stereo Matching"*, Jiang et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2501.09466)] [[Code](https://github.com/Insta360-Research-Team/DEFOM-Stereo)] [[Bibtex](./bibliography/DEFOM-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DEFOM-Stereo%3A+Depth+Foundation+Model+Based+Stereo+Matching&btnG=)]
 
    * **AIO-Stereo**: *"All-in-One: Transferring Vision Foundation Models into Stereo Matching"*, Zhou et al., *AAAI, 2025*. [[Paper](https://arxiv.org/pdf/2412.09912)] [[Bibtex](./bibliography/AIO-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=All-in-One%3A+Transferring+Vision+Foundation+Models+into+Stereo+Matching&btnG=)]
 
@@ -1374,6 +1374,8 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 * **StereoCrafter-Zero**: "StereoCrafter-Zero: Zero-Shot Stereo Video Generation with Noisy Restart", Shi et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.14295?)] [[GitHub](https://github.com/shijianjian/StereoCrafter-Zero)] [[Bibtex](./bibliography/StereoCrafter-Zero.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoCrafter-Zero%3A+Zero-Shot+Stereo+Video+Generation+with+Noisy+Restart&btnG=)] 
 
 * **SpatialMe**: "SpatialMe: Stereo Video Conversion Using Depth-Warping and Blend-Inpainting", Zhang et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.11512)] [[Bibtex](./bibliography/SpatialMe.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=SpatialMe%3A+Stereo+Video+Conversion+Using+Depth-Warping+and+Blend-Inpainting&btnG=)] 
+
+* **GenStereo**: "GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching", Qiao et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.12720)] [[WebPage](https://qjizhi.github.io/genstereo/)] [[Code](https://github.com/Qjizhi/GenStereo)] [[Demo](https://huggingface.co/spaces/FQiao/GenStereo)] [[Bibtex](./bibliography/GenStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=GenStereo%3A+Towards+Open-World+Generation+of+Stereo+Images+and+Unsupervised+Matching&btnG=)]   
 
 ## Workshops
 
