@@ -1,0 +1,8 @@
+@article{jing2025stereo,
+  author    = {Junpeng Jing and Weixun Luo and Ye Mao and Krystian Mikolajczyk},
+  title     = {Stereo Any Video: Temporally Consistent Stereo Matching},
+  journal   = {arXiv preprint arXiv:2503.05549},
+  year      = {2025},
+  month     = {March},
+  url       = {https://arxiv.org/abs/2503.05549},
+}
