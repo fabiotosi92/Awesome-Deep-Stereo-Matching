@@ -1,6 +1,9 @@
-@article{jiang2025defom,
-  title={DEFOM-Stereo: Depth Foundation Model Based Stereo Matching},
-  author={Jiang, Hualie and Lou, Zhiqiang and Ding, Laiyan and Xu, Rui and Tan, Minglang and Jiang, Wenjie and Huang, Rui},
-  journal={arXiv preprint arXiv:2501.09466},
-  year={2025}
+@inproceedings{jiang2025defom,
+  author    = {Hualie Jiang and Zhiqiang Lou and Laiyan Ding and Rui Xu and Minglang Tan and Wenjie Jiang and Rui Huang},
+  title     = {DEFOM-Stereo: Depth Foundation Model Based Stereo Matching},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2025},
+  archivePrefix = {arXiv},
+  eprint    = {2501.09466},
+  url       = {https://arxiv.org/abs/2501.09466}
 }
