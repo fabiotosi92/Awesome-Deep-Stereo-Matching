@@ -1095,6 +1095,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **RAG-Continual**: *"Reusable Architecture Growth for Continual Stereo Matching"*, Zhang et al.,*TPAMI, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10475553)]  [[Code](https://github.com/chzhang18/RAG)] [[Bibtex](./bibliography/RAG-Continual.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Reusable+Architecture+Growth+for+Continual+Stereo+Matching&btnG=)]
 
+* **CST-Stereo**: *"Consistency-aware Self-Training for Iterative-based Stereo Matching"*, Zhou et al.,*CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2503.23747)] [[Bibtex](./bibliography/CST-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Consistency-aware+Self-Training+for+Iterative-based+Stereo+Matching&btnG=)]
+
 </details>
 
 <details open>

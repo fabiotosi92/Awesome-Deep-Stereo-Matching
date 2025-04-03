@@ -1,0 +1,9 @@
+@inproceedings{Zhou2025ConsistencyAware,
+  author    = {Jingyi Zhou and Peng Ye and Haoyu Zhang and Jiakang Yuan and Rao Qiang and Liu YangChenXu and Wu Cailin and Feng Xu and Tao Chen},
+  title     = {Consistency-aware Self-Training for Iterative-based Stereo Matching},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2025},
+  archivePrefix = {arXiv},
+  eprint    = {2503.23747},
+  url       = {https://arxiv.org/abs/2503.23747}
+}
