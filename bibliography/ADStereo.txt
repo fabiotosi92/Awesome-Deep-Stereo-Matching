@@ -1,0 +1,7 @@
+@article{wang2025adstereo,
+  title={ADStereo: Efficient Stereo Matching with Adaptive Downsampling and Disparity Alignment},
+  author={Wang, Yun and Li, Kunhong and Wang, Longguang and Hu, Junjie and Wu, Dapeng Oliver and Guo, Yulan},
+  journal={IEEE Transactions on Image Processing},
+  year={2025},
+  publisher={IEEE}
+}

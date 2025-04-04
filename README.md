@@ -1330,37 +1330,14 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 (Not an exhaustive list)
 
-* **Deep3d**: *"Deep3d: Fully automatic 2d-to-3d video conversion with deep convolutional neural networks"*, Xie et al., *ECCV, 2016*. [[Paper](https://arxiv.org/pdf/1604.03650.pdf)] [[Code](https://github.com/piiswrong/deep3d)] [[Bibtex](./bibliography/Deep3d.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=eep3d%3A+Fully+automatic+2d-to-3d+video+conversion+with+deep+convolutional+neural+network&btnG=)]
-
-* **Geometry to the Rescue**: *"Unsupervised cnn for single view depth estimation: Geometry to the rescue"*, Garg et al., *ECCV, 2016*. [[Paper](https://arxiv.org/pdf/1603.04992)] [[Bibtex](./bibliography/Geometry_to_the_Rescue.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Unsupervised+CNN+for+single+view+depth+estimation%3A+Geometry+to+the+rescu&btnG=)]
-
-* **MonoDepth/StereoDepth**: *"Unsupervised monocular depth estimation with left-right consistency"*, Godard et al., *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Godard_Unsupervised_Monocular_Depth_CVPR_2017_paper.pdf)] [[Code](https://github.com/mrharicot/monodepth)] [[Bibtex](./bibliography/MonoDepth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+monocular+depth+estimation+with+left-right+consistency&btnG=)]
-
-* **SVSM**: "Single View Stereo Matching", Luo et al., *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Single_View_Stereo_CVPR_2018_paper.pdf)] [[Code](https://github.com/yanqi1811/Single-View-Stereo-Matching)] [[Bibtex](./bibliography/SVSM.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Single+View+Stereo+Matching&btnG=)]
-
-* **MonoResMatch**: "Learning monocular depth estimation infusing traditional stereo knowledge", Tosi et al., *CVPR, 2019*. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tosi_Learning_Monocular_Depth_Estimation_Infusing_Traditional_Stereo_Knowledge_CVPR_2019_paper.pdf)] [[Code](https://github.com/fabiotosi92/monoResMatch-Tensorflow)] [[Bibtex](./bibliography/MonoResMatch.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+monocular+depth+estimation+infusing+traditional+stereo+knowledge&btnG=)]
-
-* **Ida-3d**: "Ida-3d: Instance-depth-aware 3d object detection from stereo vision for autonomous driving", Peng et al., *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_IDA-3D_Instance-Depth-Aware_3D_Object_Detection_From_Stereo_Vision_for_Autonomous_CVPR_2020_paper.pdf)] [[Code](https://github.com/swords123/IDA-3D)] [[Bibtex](./bibliography/Ida-3d.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=IDA-3D%3A+Instance-Depth-Aware+3D+Object+Detection+From+Stereo+Vision+for+Autonomous+Driving&btnG=)]
-
-* **LIGA-Stereo**: "LIGA-Stereo: Learning Lidar Geometry aware Representations for Stereo-based 3d Detector", Guo et al., *ICCV, 2021*. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_LIGA-Stereo_Learning_LiDAR_Geometry_Aware_Representations_for_Stereo-Based_3D_Detector_ICCV_2021_paper.pdf)] [[Code](https://github.com/xy-guo/LIGA-Stereo)] [[Bibtex](./bibliography/LIGA-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LIGA-Stereo%3A+Learning+LiDAR+Geometry+Aware+Representations+for+Stereo-based+3D+Detector&btnG=)]
-
-* **Stereopifu**: "Stereopifu: Depth aware clothed human digitization via stereo vision", Hong et al., *CVPR, 2021*. [[Paper](http://openaccess.thecvf.com/content/CVPR2021/papers/Hong_StereoPIFu_Depth_Aware_Clothed_Human_Digitization_via_Stereo_Vision_CVPR_2021_paper.pdf)] [[Code](https://github.com/CrisHY1995/StereoPIFu_Code)] [[Bibtex](./bibliography/Stereopifu.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoPIFu%3A+Depth+Aware+Clothed+Human+Digitization+via+Stereo+Vision&btnG=)]
-
-* **Smart Glasses**: "A Practical Stereo Depth System for Smart Glasses", Wang et al., *CVPR, 2023*. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_A_Practical_Stereo_Depth_System_for_Smart_Glasses_CVPR_2023_paper.pdf)] [[Bibtex](./bibliography/Smart_Glasses.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Practical+Stereo+Depth+System+for+Smart+Glasses&btnG=)]
+<details open>
+<summary style="font-size: larger; font-weight: bold;">NeRF & 3D Gaussian Splatting</summary>
 
 * **Cross Attention Renderer**: "Learning to render novel views from wide-baseline stereo pairs", Du et al., *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Learning_To_Render_Novel_Views_From_Wide-Baseline_Stereo_Pairs_CVPR_2023_paper.pdf)] [[Code](https://github.com/yilundu/cross_attention_renderer)] [[Bibtex](./bibliography/Cross_Attention_Renderer.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+To+Render+Novel+Views+From+Wide-Baseline+Stereo+Pairs&btnG=)]
 
-* **SDCNet**: "Stereo-augmented depth completion from a single rgb-lidar image", Choi et al., *ICRA, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561557)] [[Bibtex](./bibliography/SDCNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo-augmented+depth+completion+from+a+single+rgb-lidar+image&btnG=)]
-
-* **VPPDC**: "Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization", Bartolomei et al., *3DV, 2024*. [[Paper](https://vppdc.github.io/assets/paper.pdf)] [[Code](https://vppdc.github.io/)] [[Bibtex](./bibliography/VPPDC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Revisiting+Depth+Completion+from+a+Stereo+Matching+Perspective+for+Cross-domain+Generalization&btnG=)]
-
-* **CoPoNeRF**: "Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs", Hong et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.07246v1)] [[Code](https://github.com/KU-CVLAB/CoPoNeRF)] [[Bibtex](./bibliography/CoPoNeRF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Unifying+Correspondence%2C+Pose+and+NeRF+for+Pose-Free+Novel+View+Synthesis+from+Stereo+Pairs&btnG=)]
-
-* **DSGN**: "Deep Stereo Geometry Network for 3D Object Detection", Chen et al., *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_DSGN_Deep_Stereo_Geometry_Network_for_3D_Object_Detection_CVPR_2020_paper.pdf)] [[Code](https://github.com/dvlab-research/DSGN)] [[Bibtex](./bibliography/DSGN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Deep+Stereo+Geometry+Network+for+3D+Object+Detection&btnG=)]
-
 * **StereoNeRF**: "Generalizable Novel-View Synthesis using a Stereo Camera", Lee et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.13541.pdf)] [[WebSite](https://jinwonjoon.github.io/stereonerf/)] [[Bibtex](./bibliography/StereoNeRF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Generalizable+Novel-View+Synthesis+using+a+Stereo+Camera&btnG=)]
 
-* **Online Stereo Rectification**: "Flow-Guided Online Stereo Rectification for Wide Baseline Stereo", Kumar et al., *CVPR, 2024*. [[Paper](https://light.princeton.edu/wp-content/uploads/2024/04/Flow-Guided-Online-Stereo-Rectification-for-Wide-Baseline-Stereo.pdf)] [[WebSite](https://light.princeton.edu/publication/online-stereo-recification/)] [[Bibtex](./bibliography/OnlineStereoRectification.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Flow-Guided+Online+Stereo+Rectification+for+Wide+Baseline+Stereo&btnG=)]
+* **CoPoNeRF**: "Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs", Hong et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.07246v1)] [[Code](https://github.com/KU-CVLAB/CoPoNeRF)] [[Bibtex](./bibliography/CoPoNeRF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Unifying+Correspondence%2C+Pose+and+NeRF+for+Pose-Free+Novel+View+Synthesis+from+Stereo+Pairs&btnG=)]
 
 * **GS2Mesh**: "*GS2Mesh: Surface Reconstruction from Gaussian
 Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2404.01810)] [[WebPage](https://gs2mesh.github.io/)] [[Bibtex](./bibliography/GS2Mesh.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=GS2Mesh%3A+Surface+Reconstruction+from+Gaussian+Splatting+via+Novel+Stereo+Views&btnG=)] 
@@ -1368,6 +1345,13 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 * **StereoGS**: "Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs", Safadoust et al., *BMVC, 2024*. [[Paper](https://arxiv.org/pdf/2409.07456)] [[WebPage](https://kuis-ai.github.io/StereoGS/)] [[Bibtex](./bibliography/StereoGS.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Self-Evolving+Depth-Supervised+3D+Gaussian+Splatting+from+Rendered+Stereo+Pairs&btnG=)] 
 
 * **Binocular3DGS**: "*Binocular3DGS: Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis*", Han et al., *NeurIPS, 2024*. [[Paper](https://arxiv.org/pdf/2410.18822)] [[WebPage](https://hanl2010.github.io/Binocular3DGS/)] [[Code](https://github.com/hanl2010/Binocular3DGS)] [[Bibtex](./bibliography/Binocular3DGS.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0,5&q=Binocular+3DGS:+Binocular-Guided+3D+Gaussian+Splatting+with+View+Consistency+for+Sparse+View+Synthesis)]
+
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Stereo Image Generation</summary>
+
+* **Deep3d**: *"Deep3d: Fully automatic 2d-to-3d video conversion with deep convolutional neural networks"*, Xie et al., *ECCV, 2016*. [[Paper](https://arxiv.org/pdf/1604.03650.pdf)] [[Code](https://github.com/piiswrong/deep3d)] [[Bibtex](./bibliography/Deep3d.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=eep3d%3A+Fully+automatic+2d-to-3d+video+conversion+with+deep+convolutional+neural+network&btnG=)]
 
 * **StereoDiffusion**: "StereoDiffusion: Training-Free Stereo Image Generation Using Latent Diffusion Models", Wang et al., *CVPRW, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/GCV/papers/Wang_StereoDiffusion_Training-Free_Stereo_Image_Generation_Using_Latent_Diffusion_Models_CVPRW_2024_paper.pdf)] [[Code](https://github.com/lez-s/StereoDiffusion)] [[Bibtex](./bibliography/StereoDiffusion.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoDiffusion%3A+Training-Free+Stereo+Image+Generation+Using+Latent+Diffusion+Models&btnG=)] 
 
@@ -1380,6 +1364,62 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 * **SpatialMe**: "SpatialMe: Stereo Video Conversion Using Depth-Warping and Blend-Inpainting", Zhang et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2412.11512)] [[Bibtex](./bibliography/SpatialMe.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=SpatialMe%3A+Stereo+Video+Conversion+Using+Depth-Warping+and+Blend-Inpainting&btnG=)] 
 
 * **GenStereo**: "GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching", Qiao et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.12720)] [[WebPage](https://qjizhi.github.io/genstereo/)] [[Code](https://github.com/Qjizhi/GenStereo)] [[Demo](https://huggingface.co/spaces/FQiao/GenStereo)] [[Bibtex](./bibliography/GenStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=GenStereo%3A+Towards+Open-World+Generation+of+Stereo+Images+and+Unsupervised+Matching&btnG=)]   
+
+* **Mono2Stereo-Bench**: "Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion", Yu et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2503.12720)] [[WebPage](https://mono2stereo-bench.github.io/)] [[Code](https://github.com/Qjizhi/GenStereo)] [[Demo](https://huggingface.co/Two-hot/Mono2Stereo/tree/main)] [[Bibtex](./bibliography/Mono2Stereo-Bench.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Mono2Stereo%3A+A+Benchmark+and+Empirical+Study+for+Stereo+Conversion&btnG=)]   
+
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Monocular Depth Estimation</summary>
+
+* **Geometry to the Rescue**: *"Unsupervised cnn for single view depth estimation: Geometry to the rescue"*, Garg et al., *ECCV, 2016*. [[Paper](https://arxiv.org/pdf/1603.04992)] [[Bibtex](./bibliography/Geometry_to_the_Rescue.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Unsupervised+CNN+for+single+view+depth+estimation%3A+Geometry+to+the+rescu&btnG=)]
+
+* **MonoDepth/StereoDepth**: *"Unsupervised monocular depth estimation with left-right consistency"*, Godard et al., *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Godard_Unsupervised_Monocular_Depth_CVPR_2017_paper.pdf)] [[Code](https://github.com/mrharicot/monodepth)] [[Bibtex](./bibliography/MonoDepth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+monocular+depth+estimation+with+left-right+consistency&btnG=)]
+
+* **SVSM**: "Single View Stereo Matching", Luo et al., *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Luo_Single_View_Stereo_CVPR_2018_paper.pdf)] [[Code](https://github.com/yanqi1811/Single-View-Stereo-Matching)] [[Bibtex](./bibliography/SVSM.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Single+View+Stereo+Matching&btnG=)]
+
+* **MonoResMatch**: "Learning monocular depth estimation infusing traditional stereo knowledge", Tosi et al., *CVPR, 2019*. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tosi_Learning_Monocular_Depth_Estimation_Infusing_Traditional_Stereo_Knowledge_CVPR_2019_paper.pdf)] [[Code](https://github.com/fabiotosi92/monoResMatch-Tensorflow)] [[Bibtex](./bibliography/MonoResMatch.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+monocular+depth+estimation+infusing+traditional+stereo+knowledge&btnG=)]
+
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Object Detection</summary>
+
+* **Ida-3d**: "Ida-3d: Instance-depth-aware 3d object detection from stereo vision for autonomous driving", Peng et al., *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Peng_IDA-3D_Instance-Depth-Aware_3D_Object_Detection_From_Stereo_Vision_for_Autonomous_CVPR_2020_paper.pdf)] [[Code](https://github.com/swords123/IDA-3D)] [[Bibtex](./bibliography/Ida-3d.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=IDA-3D%3A+Instance-Depth-Aware+3D+Object+Detection+From+Stereo+Vision+for+Autonomous+Driving&btnG=)]
+
+* **DSGN**: "Deep Stereo Geometry Network for 3D Object Detection", Chen et al., *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_DSGN_Deep_Stereo_Geometry_Network_for_3D_Object_Detection_CVPR_2020_paper.pdf)] [[Code](https://github.com/dvlab-research/DSGN)] [[Bibtex](./bibliography/DSGN.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Deep+Stereo+Geometry+Network+for+3D+Object+Detection&btnG=)]
+
+* **LIGA-Stereo**: "LIGA-Stereo: Learning Lidar Geometry aware Representations for Stereo-based 3d Detector", Guo et al., *ICCV, 2021*. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Guo_LIGA-Stereo_Learning_LiDAR_Geometry_Aware_Representations_for_Stereo-Based_3D_Detector_ICCV_2021_paper.pdf)] [[Code](https://github.com/xy-guo/LIGA-Stereo)] [[Bibtex](./bibliography/LIGA-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LIGA-Stereo%3A+Learning+LiDAR+Geometry+Aware+Representations+for+Stereo-based+3D+Detector&btnG=)]
+
+</details>
+
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Depth Completion</summary>
+
+* **VPPDC**: "Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization", Bartolomei et al., *3DV, 2024*. [[Paper](https://vppdc.github.io/assets/paper.pdf)] [[Code](https://vppdc.github.io/)] [[Bibtex](./bibliography/VPPDC.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Revisiting+Depth+Completion+from+a+Stereo+Matching+Perspective+for+Cross-domain+Generalization&btnG=)]
+
+* **SDCNet**: "Stereo-augmented depth completion from a single rgb-lidar image", Choi et al., *ICRA, 2021*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9561557)] [[Bibtex](./bibliography/SDCNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo-augmented+depth+completion+from+a+single+rgb-lidar+image&btnG=)]
+
+</details>
+
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Stereo Rectification</summary>
+
+* **Online Stereo Rectification**: "Flow-Guided Online Stereo Rectification for Wide Baseline Stereo", Kumar et al., *CVPR, 2024*. [[Paper](https://light.princeton.edu/wp-content/uploads/2024/04/Flow-Guided-Online-Stereo-Rectification-for-Wide-Baseline-Stereo.pdf)] [[WebSite](https://light.princeton.edu/publication/online-stereo-recification/)] [[Bibtex](./bibliography/OnlineStereoRectification.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Flow-Guided+Online+Stereo+Rectification+for+Wide+Baseline+Stereo&btnG=)]
+
+</details>
+
+<details open>
+<summary style="font-size: larger; font-weight: bold;">Others</summary>
+
+* **Stereopifu**: "Stereopifu: Depth aware clothed human digitization via stereo vision", Hong et al., *CVPR, 2021*. [[Paper](http://openaccess.thecvf.com/content/CVPR2021/papers/Hong_StereoPIFu_Depth_Aware_Clothed_Human_Digitization_via_Stereo_Vision_CVPR_2021_paper.pdf)] [[Code](https://github.com/CrisHY1995/StereoPIFu_Code)] [[Bibtex](./bibliography/Stereopifu.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoPIFu%3A+Depth+Aware+Clothed+Human+Digitization+via+Stereo+Vision&btnG=)]
+
+* **Smart Glasses**: "A Practical Stereo Depth System for Smart Glasses", Wang et al., *CVPR, 2023*. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_A_Practical_Stereo_Depth_System_for_Smart_Glasses_CVPR_2023_paper.pdf)] [[Bibtex](./bibliography/Smart_Glasses.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Practical+Stereo+Depth+System+for+Smart+Glasses&btnG=)]
+
+</details>
+
 
 ## Workshops
 

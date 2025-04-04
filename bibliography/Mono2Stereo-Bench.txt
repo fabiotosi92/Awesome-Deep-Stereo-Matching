@@ -1,0 +1,8 @@
+@inproceedings{yu2025mono2stereo,
+  title     = {Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion},
+  author    = {Yu, Songsong and Chen, Yuxin and Qi, Zhongang and Xie, Zeke and Wang, Yifan and Wang, Lijun and Shan, Ying and Lu, Huchuan},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2025},
+  doi       = {10.48550/arXiv.2503.22262},
+  url       = {https://doi.org/10.48550/arXiv.2503.22262}
+}
