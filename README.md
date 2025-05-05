@@ -228,6 +228,12 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
    </details>
 
 
+   <details open><summary style="font-size: larger; font-weight: bold;"> Internet Stereo Videos </summary>
+
+   * **Stereo4D**: *"Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos"*, Jin et al., *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.09621)] [[Dataset](https://stereo4d.github.io/)] [[Bibtex](./bibliography/Stereo4D.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=+Stereo4D+Learning+How+Things+Move+in+3D+from+Internet+Stereo+Videos+&btnG=)] 
+
+   </details>
+
    <details open><summary style="font-size: larger; font-weight: bold;"> NeRF-Rendered </summary>
 
    * **The NeRF-Stereo Dataset**: *"NeRF-Supervised Deep Stereo"*, Tosi et al., *CVPR 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Tosi_NeRF-Supervised_Deep_Stereo_CVPR_2023_paper.pdf)] [[Dataset](https://amsacta.unibo.it/id/eprint/7218/)] [[Bibtex](./bibliography/NS-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=NeRF-Supervised+Deep+Stereo&btnG=)] 
