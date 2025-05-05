@@ -227,7 +227,6 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
    </ul>
    </details>
 
-
    <details open><summary style="font-size: larger; font-weight: bold;"> Internet Stereo Videos </summary>
 
    * **Stereo4D**: *"Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos"*, Jin et al., *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.09621)] [[Dataset](https://stereo4d.github.io/)] [[Bibtex](./bibliography/Stereo4D.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=+Stereo4D+Learning+How+Things+Move+in+3D+from+Internet+Stereo+Videos+&btnG=)] 
