@@ -1375,6 +1375,8 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **Mono2Stereo-Bench**: "Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion", Yu et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2503.12720)] [[WebPage](https://mono2stereo-bench.github.io/)] [[Code](https://github.com/Qjizhi/GenStereo)] [[Demo](https://huggingface.co/Two-hot/Mono2Stereo/tree/main)] [[Bibtex](./bibliography/Mono2Stereo-Bench.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Mono2Stereo%3A+A+Benchmark+and+Empirical+Study+for+Stereo+Conversion&btnG=)]   
 
+* **SpatialDreamer**: "SpatialDreamer: Self-supervised Stereo Video Synthesis from Monocular Input", Zhen et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2411.11934)] [[WebPage](https://spatialdreamer.github.io/)] [[Bibtex](./bibliography/SpatialDreamer.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=SpatialDreamer%3A+Self-supervised+Stereo+Video+Synthesis+from+Monocular+Input&btnG=)]  
+
 * **Eye2Eye**: "Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis", Geyer et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.00135)] [[WebPage](https://video-eye2eye.github.io/)] [[Bibtex](./bibliography/Eye2Eye.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Eye2Eye%3A+A+Simple+Approach+for+Monocular-to-Stereo+Video+Synthesis&btnG=)]  
 
 </details>

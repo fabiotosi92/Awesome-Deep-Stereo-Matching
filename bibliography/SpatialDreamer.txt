@@ -1,0 +1,6 @@
+@article{lv2024spatialdreamer,
+  title={SpatialDreamer: Self-supervised Stereo Video Synthesis from Monocular Input},
+  author={Lv, Zhen and Long, Yangqi and Huang, Congzhentao and Li, Cao and Lv, Chengfei and Ren, Hao and Zheng, Dian},
+  journal={arXiv preprint arXiv:2411.11934},
+  year={2024}
+}
