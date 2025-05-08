@@ -847,6 +847,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **Gated-RCCB**: *"Cross-spectral Gated-RGB Stereo Depth Estimation"*, Brucker et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2405.12759)] [[WebPage](https://light.princeton.edu/gatedrccbstereo/)] [[Bibtex](./bibliography/Gated-RCCB.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Cross-spectral+Gated-RGB+Stereo+Depth+Estimation&btnG=)]
 
+* **ThermoStereoRT**: *"ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement"*, Hu et al., *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2504.07418)] [[Code](https://github.com/SJTU-ViSYS-team/ThermoStereoRT)] [[Bibtex](./bibliography/ThermoStereoRT.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=ThermoStereoRT%3A+Thermal+Stereo+Matching+in+Real+Time+via+Knowledge+Distillation+and+Attention-based+Refinement&btnG=)]
+
 </details>
 
 
