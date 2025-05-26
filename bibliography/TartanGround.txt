@@ -1,0 +1,5 @@
+@ARTICLE{patel25tartanground,
+      author={Patel, Manthan and Yang, Fan and Qiu, Yuheng and Cadena, Cesar and Scherer, Sebastian and Hutter, Marco and Wang, Wenshan},
+      journal={Under review for IEEE conferene}, 
+      title={TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation},
+      year={2025},}

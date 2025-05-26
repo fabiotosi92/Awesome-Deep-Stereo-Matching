@@ -1,0 +1,6 @@
+@article{liu2025multi,
+  title={Multi-Label Stereo Matching for Transparent Scene Depth Estimation},
+  author={Liu, Zhidan and Yao, Chengtang and Zeng, Jiaxi and Wu, Yuwei and Jia, Yunde},
+  journal={arXiv preprint arXiv:2505.14008},
+  year={2025}
+}

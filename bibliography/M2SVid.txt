@@ -1,0 +1,6 @@
+@article{shvetsova2025m2svid,
+  title={M2SVid: End-to-End Inpainting and Refinement for Monocular-to-Stereo Video Conversion},
+  author={Shvetsova, Nina and Bhat, Goutam and Truong, Prune and Kuehne, Hilde and Tombari, Federico},
+  journal={arXiv preprint arXiv:2505.16565},
+  year={2025}
+}

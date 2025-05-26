@@ -294,6 +294,9 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **FSD**: *"FoundationStereo: Zero-Shot Stereo Matching"*, Wen   et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2501.09898)] [[Dataset](https://drive.google.com/drive/folders/1YdC2a0_KTZ9xix_HyqNMPCrClpm0-XFU)] [[WebPage](https://nvlabs.github.io/FoundationStereo/)] [[Bibtex](./bibliography/FoundationStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=FoundationStereo%3A+Zero-Shot+Stereo+Matching&btnG=#d=gs_cit&t=1737624791731&u=%2Fscholar%3Fq%3Dinfo%3AmPuArdM7kccJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dit)]
 
+* **TartanGround**: *"TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation"*, Patel et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.10696)] [[Dataset](https://tartanair.org/)] [[WebPage](https://tartanair.org/tartanground/)] [[Bibtex](./bibliography/TartanGround.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=TartanGround+A+Large-Scale+Dataset+for+Ground+Robot+Perception+and+Navigation&btnG=)]
+
+
 </details>
 
 ## Frameworks
@@ -1164,6 +1167,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **Stereo Anywhere**: *"Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail"*, Bartolomei et al., *CVPR, 2025*. [[Paper](http://arxiv.org/abs/2412.04472)] [[Code](https://github.com/bartn8/stereoanywhere/)] [[WebPage](https://stereoanywhere.github.io/)] [[Bibtex](./bibliography/StereoAnywhere.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anywhere%3A+Robust+Zero-Shot+Deep+Stereo+Matching+Even+Where+Either+Stereo+or+Mono+Fail&btnG=)]
 
+* **TranScene**: *"Multi-Label Stereo Matching for Transparent Scene Depth Estimation"*, Liu et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.14008)] [[Code](https://github.com/BFZD233/TranScene)] [[Bibtex](./bibliography/TranScene.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Multi-Label+Stereo+Matching+for+Transparent+Scene+Depth+Estimation&btnG=)]
+
 </details>
 
 
@@ -1377,7 +1382,10 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **SpatialDreamer**: "SpatialDreamer: Self-supervised Stereo Video Synthesis from Monocular Input", Zhen et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2411.11934)] [[WebPage](https://spatialdreamer.github.io/)] [[Bibtex](./bibliography/SpatialDreamer.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=SpatialDreamer%3A+Self-supervised+Stereo+Video+Synthesis+from+Monocular+Input&btnG=)]  
 
-* **Eye2Eye**: "Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis", Geyer et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.00135)] [[WebPage](https://video-eye2eye.github.io/)] [[Bibtex](./bibliography/Eye2Eye.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Eye2Eye%3A+A+Simple+Approach+for+Monocular-to-Stereo+Video+Synthesis&btnG=)]  
+* **Eye2Eye**: "Eye2Eye: A Simple Approach for Monocular-to-Stereo Video Synthesis", Geyer et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.00135)] [[WebPage](https://video-eye2eye.github.io/)] [[Bibtex](./bibliography/Eye2Eye.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Eye2Eye%3A+A+Simple+Approach+for+Monocular-to-Stereo+Video+Synthesis&btnG=)] 
+
+
+* **M2SVid**: "M2SVid: End-to-End Inpainting and Refinement for Monocular-to-Stereo Video Conversion ", Shvetsova et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.16565)] [[WebPage](https://m2svid.github.io/)] [[Bibtex](./bibliography/M2SVid.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=M2SVid%3A+End-to-End+Inpainting+and+Refinement+for+Monocular-to-Stereo+Video+Conversion&btnG=)] 
 
 </details>
 
