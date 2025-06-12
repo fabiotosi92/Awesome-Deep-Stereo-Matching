@@ -1448,6 +1448,8 @@ Rectification", Gong et al., *CVPR, 2025*. [[Paper](https://openaccess.thecvf.co
 
 * **Smart Glasses**: "A Practical Stereo Depth System for Smart Glasses", Wang et al., *CVPR, 2023*. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_A_Practical_Stereo_Depth_System_for_Smart_Glasses_CVPR_2023_paper.pdf)] [[Bibtex](./bibliography/Smart_Glasses.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Practical+Stereo+Depth+System+for+Smart+Glasses&btnG=)]
 
+* **MultiHeadDepth-HomoDepth**: "Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses", Liu et al., *CVPR, 2025*. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Efficient_Depth_Estimation_for_Unstable_Stereo_Camera_Systems_on_AR_CVPR_2025_paper.pdf)] [[Code](https://github.com/UCI-ISA-Lab/MultiHeadDepth-HomoDepth)] [[Bibtex](./bibliography/MultiHeadDepth-HomoDepth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Efficient+Depth+Estimation+for+Unstable+Stereo+Camera+Systems+on+AR+Glasses&btnG=)]
+
 </details>
 
 
