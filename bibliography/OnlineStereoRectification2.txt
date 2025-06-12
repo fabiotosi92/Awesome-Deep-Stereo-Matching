@@ -1,0 +1,7 @@
+@inproceedings{gong2025rectification,
+  title={Rectification-specific Supervision and Constrained Estimator for Online Stereo Rectification},
+  author={Gong, Rui and Yap, Kim-Hui and Liu, Weide and Yang, Xulei and Cheng, Jun},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={22348--22358},
+  year={2025}
+}
