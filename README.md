@@ -201,6 +201,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
    * **ESVIO**: *"ESVIO: Event-based Stereo Visual Inertial Odometry"*, Chen et al., *RAL, 2023*. [[Paper](https://arxiv.org/pdf/2212.13184)] [[Dataset](https://github.com/arclab-hku/ESVIO)] [[Bibtex](./bibliography/ESVIO.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=ESVIO%3A+Event-based+Stereo+Visual+Inertial+Odometry&btnG=)]
 
    * **M3ED**: *"M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset"*, Chaney et al., *CVPRW, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chaney_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset_CVPRW_2023_paper.pdf)] [[Dataset](https://m3ed.io/)] [[Bibtex](./bibliography/M3ED.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=M3ed:+Multi-robot,+multi-sensor,+multi-environment+event+dataset&btnG=)]
+   
 
    </details>
    <details open><summary style="font-size: larger; font-weight: bold;"> Thermal-RGB </summary>
@@ -881,6 +882,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **EventVPPStereo**: *"LiDAR-Event Stereo Fusion with Hallucinations"*, Bartolomei et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2408.04633)] [[WebPage](https://eventvppstereo.github.io/)] [[Code](https://github.com/bartn8/eventvppstereo/)] [[Bibtex](./bibliography/EventVPPStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LiDAR-Event+Stereo+Fusion+with+Hallucinations&btnG=)]
 
 * **ZEST**: "*Zero-Shot Event-Intensity Asymmetric Stereo via Visual Prompting from Image Domain*", Lou et al., *NeurIPS, 2024*. [[Paper](https://openreview.net/pdf?id=E3ZMsqdO0D)] [[Code](https://github.com/HYLZ-2019/ZEST)] [[Bibtex](./bibliography/ZEST.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Zero-Shot+Event-Intensity+Asymmetric+Stereo+via+Visual+Prompting+from+Image+Domain&btnG=)] 
+
+* **ActiveEventStereo**: "*Active Event-based Stereo Vision*", Li et al., *CVPR, 2025*. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Active_Event-based_Stereo_Vision_CVPR_2025_paper.pdf)] [[Code](https://github.com/jianing-li/active_event_based_stereo)] [[Bibtex](./bibliography/ActiveEventStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Active+Event-based+Stereo+Vision&btnG=)] 
 
 </details>
 
