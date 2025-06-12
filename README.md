@@ -172,6 +172,10 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **South Kensington SV**: *"Match Stereo Videos via Bidirectional Alignment"*, Jing et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[Code&Dataset](https://github.com/TomTomTommi/bidavideo)] [[Bibtex](./bibliography/BiDA-Video.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match+Stereo+Videos+via+Bidirectional+Alignment&btnG=)]
 
+
+   * **HELVIPAD**: *"HELVIPAD: A Real-World Dataset for Omnidirectional Stereo Depth Estimation"*, Mehdi et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[WebPage](https://vita-epfl.github.io/Helvipad/)] [[Dataset](https://huggingface.co/datasets/chcorbi/helvipad)] [[Code](https://github.com/vita-epfl/Helvipad)] [[Bibtex](./bibliography/HELVIPAD.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Helvipad%3A+A+Real-World+Dataset+for+Omnidirectional+Stereo+Depth+Estimation+&btnG=)]
+
+
    </details>
 
 

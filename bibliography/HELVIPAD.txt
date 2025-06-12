@@ -1,0 +1,7 @@
+@inproceedings{zayene2025helvipad,
+  title={HELVIPAD: A Real-World Dataset for Omnidirectional Stereo Depth Estimation},
+  author={Zayene, Mehdi and Endres, Jannik and Havolli, Albias and Corbi{\`e}re, Charles and Cherkaoui, Salim and Kontouli, Alexandre and Alahi, Alexandre},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={26975--26984},
+  year={2025}
+}
