@@ -732,7 +732,11 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
   * **SEDNet**: *"Learning the distribution of errors in stereo matching for joint disparity and uncertainty estimation"*, Chen et al., CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf)] [[Code](https://github.com/lly00412/SEDNet)] [[Bibtex](./bibliography/SEDNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+the+distribution+of+errors+in+stereo+matching+for+joint+disparity+and+uncertainty+estimation&btnG=)]
 
    * **LoS**: *"LoS: Local Structure-guided Stereo Matching"*, Li et al., *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LoS_Local_Structure-Guided_Stereo_Matching_CVPR_2024_paper.pdf)] [[Code](https://github.com/SYSU-SAIL/LoS)] [[Bibtex](./bibliography/LoS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LoS%3A+Local+Structure-guided+Stereo+Matching&btnG=)]
-   
+
+
+   * *"Improving Optical Flow and Stereo Depth Estimation
+by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2025*. [[Paper](https://openaccess.thecvf.com/content/CVPR2025W/UNCV/papers/Jeong_Improving_Optical_Flow_and_Stereo_Depth_Estimation_by_Leveraging_Uncertainty-Based_CVPRW_2025_paper.pdf)]  [[Bibtex](./bibliography/ImprovingStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Improving+Optical+Flow+and+Stereo+Depth+Estimation+by+Leveraging+Uncertainty-Based+Learning+Difficulties&btnG=)]
+
 </details>
 
 
