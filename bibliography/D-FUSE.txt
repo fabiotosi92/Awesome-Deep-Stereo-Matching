@@ -1,0 +1,6 @@
+@article{yao2025diving,
+  title={Diving into the Fusion of Monocular Priors for Generalized Stereo Matching},
+  author={Yao, Chengtang and Yu, Lidong and Liu, Zhidan and Zeng, Jiaxi and Wu, Yuwei and Jia, Yunde},
+  journal={arXiv preprint arXiv:2505.14414},
+  year={2025}
+}

@@ -516,6 +516,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **AIO-Stereo**: *"All-in-One: Transferring Vision Foundation Models into Stereo Matching"*, Zhou et al., *AAAI, 2025*. [[Paper](https://arxiv.org/pdf/2412.09912)] [[Bibtex](./bibliography/AIO-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=All-in-One%3A+Transferring+Vision+Foundation+Models+into+Stereo+Matching&btnG=)]
 
+   * **D-FUSE**: *"Diving into the Fusion of Monocular Priors for Generalized Stereo Matching"*, Yao et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2505.14414)] [[Code](https://github.com/YaoChengTang/Diving-into-the-Fusion-of-Monocular-Priors-for-Generalized-Stereo-Matching)] [[Bibtex](./bibliography/D-FUSE.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Diving+into+the+Fusion+of+Monocular+Priors+for+Generalized+Stereo+Matching&btnG=)]
 
   </details>
 
@@ -1068,6 +1069,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **AIO-Stereo**: *"All-in-One: Transferring Vision Foundation Models into Stereo Matching"*, Zhou et al., *AAAI, 2025*. [[Paper](https://arxiv.org/pdf/2412.09912)] [[Bibtex](./bibliography/AIO-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=All-in-One%3A+Transferring+Vision+Foundation+Models+into+Stereo+Matching&btnG=)]
 
+   * **D-FUSE**: *"Diving into the Fusion of Monocular Priors for Generalized Stereo Matching"*, Yao et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2505.14414)] [[Code](https://github.com/YaoChengTang/Diving-into-the-Fusion-of-Monocular-Priors-for-Generalized-Stereo-Matching)] [[Bibtex](./bibliography/D-FUSE.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Diving+into+the+Fusion+of+Monocular+Priors+for+Generalized+Stereo+Matching&btnG=)]
+
 </details>
 
 <details open>
@@ -1168,6 +1171,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **Stereo Anywhere**: *"Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail"*, Bartolomei et al., *CVPR, 2025*. [[Paper](http://arxiv.org/abs/2412.04472)] [[Code](https://github.com/bartn8/stereoanywhere/)] [[WebPage](https://stereoanywhere.github.io/)] [[Bibtex](./bibliography/StereoAnywhere.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anywhere%3A+Robust+Zero-Shot+Deep+Stereo+Matching+Even+Where+Either+Stereo+or+Mono+Fail&btnG=)]
 
 * **TranScene**: *"Multi-Label Stereo Matching for Transparent Scene Depth Estimation"*, Liu et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.14008)] [[Code](https://github.com/BFZD233/TranScene)] [[Bibtex](./bibliography/TranScene.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Multi-Label+Stereo+Matching+for+Transparent+Scene+Depth+Estimation&btnG=)]
+
+* **D-FUSE**: *"Diving into the Fusion of Monocular Priors for Generalized Stereo Matching"*, Yao et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2505.14414)] [[Code](https://github.com/YaoChengTang/Diving-into-the-Fusion-of-Monocular-Priors-for-Generalized-Stereo-Matching)] [[Bibtex](./bibliography/D-FUSE.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Diving+into+the+Fusion+of+Monocular+Priors+for+Generalized+Stereo+Matching&btnG=)]
 
 </details>
 
