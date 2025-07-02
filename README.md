@@ -172,6 +172,10 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **South Kensington SV**: *"Match Stereo Videos via Bidirectional Alignment"*, Jing et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[Code&Dataset](https://github.com/TomTomTommi/bidavideo)] [[Bibtex](./bibliography/BiDA-Video.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match+Stereo+Videos+via+Bidirectional+Alignment&btnG=)]
 
+
+   * **HELVIPAD**: *"HELVIPAD: A Real-World Dataset for Omnidirectional Stereo Depth Estimation"*, Mehdi et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[WebPage](https://vita-epfl.github.io/Helvipad/)] [[Dataset](https://huggingface.co/datasets/chcorbi/helvipad)] [[Code](https://github.com/vita-epfl/Helvipad)] [[Bibtex](./bibliography/HELVIPAD.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Helvipad%3A+A+Real-World+Dataset+for+Omnidirectional+Stereo+Depth+Estimation+&btnG=)]
+
+
    </details>
 
 
@@ -197,6 +201,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
    * **ESVIO**: *"ESVIO: Event-based Stereo Visual Inertial Odometry"*, Chen et al., *RAL, 2023*. [[Paper](https://arxiv.org/pdf/2212.13184)] [[Dataset](https://github.com/arclab-hku/ESVIO)] [[Bibtex](./bibliography/ESVIO.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=ESVIO%3A+Event-based+Stereo+Visual+Inertial+Odometry&btnG=)]
 
    * **M3ED**: *"M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset"*, Chaney et al., *CVPRW, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chaney_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset_CVPRW_2023_paper.pdf)] [[Dataset](https://m3ed.io/)] [[Bibtex](./bibliography/M3ED.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=M3ed:+Multi-robot,+multi-sensor,+multi-environment+event+dataset&btnG=)]
+   
 
    </details>
    <details open><summary style="font-size: larger; font-weight: bold;"> Thermal-RGB </summary>
@@ -728,7 +733,11 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
   * **SEDNet**: *"Learning the distribution of errors in stereo matching for joint disparity and uncertainty estimation"*, Chen et al., CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf)] [[Code](https://github.com/lly00412/SEDNet)] [[Bibtex](./bibliography/SEDNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+the+distribution+of+errors+in+stereo+matching+for+joint+disparity+and+uncertainty+estimation&btnG=)]
 
    * **LoS**: *"LoS: Local Structure-guided Stereo Matching"*, Li et al., *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_LoS_Local_Structure-Guided_Stereo_Matching_CVPR_2024_paper.pdf)] [[Code](https://github.com/SYSU-SAIL/LoS)] [[Bibtex](./bibliography/LoS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LoS%3A+Local+Structure-guided+Stereo+Matching&btnG=)]
-   
+
+
+   * *"Improving Optical Flow and Stereo Depth Estimation
+by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2025*. [[Paper](https://openaccess.thecvf.com/content/CVPR2025W/UNCV/papers/Jeong_Improving_Optical_Flow_and_Stereo_Depth_Estimation_by_Leveraging_Uncertainty-Based_CVPRW_2025_paper.pdf)]  [[Bibtex](./bibliography/ImprovingStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Improving+Optical+Flow+and+Stereo+Depth+Estimation+by+Leveraging+Uncertainty-Based+Learning+Difficulties&btnG=)]
+
 </details>
 
 
@@ -878,6 +887,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **EventVPPStereo**: *"LiDAR-Event Stereo Fusion with Hallucinations"*, Bartolomei et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2408.04633)] [[WebPage](https://eventvppstereo.github.io/)] [[Code](https://github.com/bartn8/eventvppstereo/)] [[Bibtex](./bibliography/EventVPPStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LiDAR-Event+Stereo+Fusion+with+Hallucinations&btnG=)]
 
 * **ZEST**: "*Zero-Shot Event-Intensity Asymmetric Stereo via Visual Prompting from Image Domain*", Lou et al., *NeurIPS, 2024*. [[Paper](https://openreview.net/pdf?id=E3ZMsqdO0D)] [[Code](https://github.com/HYLZ-2019/ZEST)] [[Bibtex](./bibliography/ZEST.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Zero-Shot+Event-Intensity+Asymmetric+Stereo+via+Visual+Prompting+from+Image+Domain&btnG=)] 
+
+* **ActiveEventStereo**: "*Active Event-based Stereo Vision*", Li et al., *CVPR, 2025*. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Active_Event-based_Stereo_Vision_CVPR_2025_paper.pdf)] [[Code](https://github.com/jianing-li/active_event_based_stereo)] [[Bibtex](./bibliography/ActiveEventStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Active+Event-based+Stereo+Vision&btnG=)] 
 
 </details>
 
@@ -1432,7 +1443,10 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 <details open>
 <summary style="font-size: larger; font-weight: bold;">Stereo Rectification</summary>
 
-* **Online Stereo Rectification**: "Flow-Guided Online Stereo Rectification for Wide Baseline Stereo", Kumar et al., *CVPR, 2024*. [[Paper](https://light.princeton.edu/wp-content/uploads/2024/04/Flow-Guided-Online-Stereo-Rectification-for-Wide-Baseline-Stereo.pdf)] [[WebSite](https://light.princeton.edu/publication/online-stereo-recification/)] [[Bibtex](./bibliography/OnlineStereoRectification.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Flow-Guided+Online+Stereo+Rectification+for+Wide+Baseline+Stereo&btnG=)]
+* "Flow-Guided Online Stereo Rectification for Wide Baseline Stereo", Kumar et al., *CVPR, 2024*. [[Paper](https://light.princeton.edu/wp-content/uploads/2024/04/Flow-Guided-Online-Stereo-Rectification-for-Wide-Baseline-Stereo.pdf)] [[WebSite](https://light.princeton.edu/publication/online-stereo-recification/)] [[Bibtex](./bibliography/OnlineStereoRectification.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Flow-Guided+Online+Stereo+Rectification+for+Wide+Baseline+Stereo&btnG=)]
+
+* "Rectification-specific Supervision and Constrained Estimator for Online Stereo
+Rectification", Gong et al., *CVPR, 2025*. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Gong_Rectification-specific_Supervision_and_Constrained_Estimator_for_Online_Stereo_Rectification_CVPR_2025_paper.pdf)]  [[Bibtex](./bibliography/OnlineStereoRectification2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ectification-specific+Supervision+and+Constrained+Estimator+for+Online+Stereo+Rectification&btnG=)]
 
 </details>
 
@@ -1442,6 +1456,8 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 * **Stereopifu**: "Stereopifu: Depth aware clothed human digitization via stereo vision", Hong et al., *CVPR, 2021*. [[Paper](http://openaccess.thecvf.com/content/CVPR2021/papers/Hong_StereoPIFu_Depth_Aware_Clothed_Human_Digitization_via_Stereo_Vision_CVPR_2021_paper.pdf)] [[Code](https://github.com/CrisHY1995/StereoPIFu_Code)] [[Bibtex](./bibliography/Stereopifu.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoPIFu%3A+Depth+Aware+Clothed+Human+Digitization+via+Stereo+Vision&btnG=)]
 
 * **Smart Glasses**: "A Practical Stereo Depth System for Smart Glasses", Wang et al., *CVPR, 2023*. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/papers/Wang_A_Practical_Stereo_Depth_System_for_Smart_Glasses_CVPR_2023_paper.pdf)] [[Bibtex](./bibliography/Smart_Glasses.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=A+Practical+Stereo+Depth+System+for+Smart+Glasses&btnG=)]
+
+* **MultiHeadDepth-HomoDepth**: "Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses", Liu et al., *CVPR, 2025*. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Efficient_Depth_Estimation_for_Unstable_Stereo_Camera_Systems_on_AR_CVPR_2025_paper.pdf)] [[Code](https://github.com/UCI-ISA-Lab/MultiHeadDepth-HomoDepth)] [[Bibtex](./bibliography/MultiHeadDepth-HomoDepth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Efficient+Depth+Estimation+for+Unstable+Stereo+Camera+Systems+on+AR+Glasses&btnG=)]
 
 </details>
 

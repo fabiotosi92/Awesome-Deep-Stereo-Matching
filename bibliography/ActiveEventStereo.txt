@@ -1,0 +1,7 @@
+@inproceedings{li2025active,
+  title={Active Event-based Stereo Vision},
+  author={Li, Jianing and Zhang, Yunjian and Han, Haiqian and Ji, Xiangyang},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={971--981},
+  year={2025}
+}

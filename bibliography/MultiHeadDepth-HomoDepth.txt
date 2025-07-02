@@ -1,0 +1,7 @@
+@inproceedings{liu2025efficient,
+  title={Efficient Depth Estimation for Unstable Stereo Camera Systems on AR Glasses},
+  author={Liu, Yongfan and Kwon, Hyoukjun},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={6252--6261},
+  year={2025}
+}

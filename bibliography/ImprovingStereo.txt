@@ -1,0 +1,7 @@
+@inproceedings{jeong2025improving,
+  title={Improving Optical Flow and Stereo Depth Estimation by Leveraging Uncertainty-Based Learning Difficulties},
+  author={Jeong, Jisoo and Cai, Hong and Lin, Jamie Menjay and Porikli, Fatih},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={1712--1721},
+  year={2025}
+}
