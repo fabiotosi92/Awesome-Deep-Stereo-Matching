@@ -1,0 +1,6 @@
+@inproceedings{wang2025robustereo,
+  title     = {RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather},
+  author    = {Wang, Yuran and Liang, Yingping and Hu, Yutao and Fu, Ying},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year      = {2025}
+}

@@ -1158,6 +1158,8 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
 * **DDF**: *"Dusk Till Dawn: Self-supervised Nighttime Stereo Depth Estimation using Visual Foundation Models"*, Vankadari et al., *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.11158)]  [[Code](https://github.com/madhubabuv/dtd)] [[Bibtex](./bibliography/Dusk-Till-Dawn.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Dusk+Till+Dawn%3A+Self-supervised+Nighttime+Stereo+Depth+Estimation+using+Visual+Foundation+Models&btnG=)]
 
+* **RobuSTereo**: *"RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather"*, Wang et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2507.01653)] [[Bibtex](./bibliography/RobuSTereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=RobuSTereo%3A+Robust+Zero-Shot+Stereo+Matching+under+Adverse+Weather&btnG=)]
+
 
 </details>
 
