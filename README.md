@@ -549,6 +549,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **ViTAStereo**: *"Playing to Vision Foundation Model’s Strengths in Stereo Matching"*, Zhang et al., *T-IV, 2024*. [[Paper](https://arxiv.org/pdf/2404.06261)] [[Code](https://github.com/CwLiuzzZ/ViTAS)] [[Bibtex](./bibliography/ViTAStereo.txt)]   [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Playing+to+Vision+Foundation+Model%E2%80%99s+Strengths+in+Stereo+Matching&btnG=)]
 
+   * **S²M²**: *"S²M²: Scalable Stereo Matching Model for Reliable Depth Estimation"*, Min et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2507.13229)] [[Bibtex](./bibliography/S2M2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Scalable+Stereo+Matching+Model+for+Reliable+Depth+Estimation&btnG=)]
+
   </details>
 
   <details open class="nested-details">
