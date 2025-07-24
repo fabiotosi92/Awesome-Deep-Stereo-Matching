@@ -176,7 +176,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
    * **HELVIPAD**: *"HELVIPAD: A Real-World Dataset for Omnidirectional Stereo Depth Estimation"*, Mehdi et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[WebPage](https://vita-epfl.github.io/Helvipad/)] [[Dataset](https://huggingface.co/datasets/chcorbi/helvipad)] [[Code](https://github.com/vita-epfl/Helvipad)] [[Bibtex](./bibliography/HELVIPAD.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Helvipad%3A+A+Real-World+Dataset+for+Omnidirectional+Stereo+Depth+Estimation+&btnG=)]
 
 
-   * **SCOD**: *"Confidence Aware Stereo Matching for Realistic Cluttered Scenario"*, Min et al., *ICIP, 2025*. [[Paper](https://ieeexplore.ieee.org/document/10647686)]  [[Dataset](https://huggingface.co/datasets/YPJEON/SCOD)] [[Bibtex](./bibliography/SCOD.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Helvipad%3A+A+Real-World+Dataset+for+Omnidirectional+Stereo+Depth+Estimation+&btnG=)]
+   * **SCOD**: *"Confidence Aware Stereo Matching for Realistic Cluttered Scenario"*, Min et al., *ICIP, 2024*. [[Paper](https://ieeexplore.ieee.org/document/10647686)]  [[Dataset](https://huggingface.co/datasets/YPJEON/SCOD)] [[Bibtex](./bibliography/SCOD.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Confidence+Aware+Stereo+Matching+for+Realistic+Cluttered+Scenario&btnG=)]
 
    </details>
 
@@ -548,7 +548,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
    * **GOAT**: *"Global Occlusion-Aware Transformer for Robust Stereo Matching"*, Liu et al., *WACV, 2024*. [[Paper](https://openaccess.thecvf.com/content/WACV2024/papers/Liu_Global_Occlusion-Aware_Transformer_for_Robust_Stereo_Matching_WACV_2024_paper.pdf)] [[Code](https://github.com/Magicboomliu/GOAT)] [[Bibtex](./bibliography/GOAT.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Global+Occlusion-Aware+Transformer+for+Robust+Stereo+Matching&btnG=)]
 
 
-   * **SCOD**: *"Confidence Aware Stereo Matching for Realistic Cluttered Scenario"*, Min et al., *ICIP, 2025*. [[Paper](https://ieeexplore.ieee.org/document/10647686)]  [[Dataset](https://huggingface.co/datasets/YPJEON/SCOD)] [[Bibtex](./bibliography/SCOD.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Helvipad%3A+A+Real-World+Dataset+for+Omnidirectional+Stereo+Depth+Estimation+&btnG=)]
+   * **SCOD**: *"Confidence Aware Stereo Matching for Realistic Cluttered Scenario"*, Min et al., *ICIP, 2024*. [[Paper](https://ieeexplore.ieee.org/document/10647686)]  [[Dataset](https://huggingface.co/datasets/YPJEON/SCOD)] [[Bibtex](./bibliography/SCOD.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Confidence+Aware+Stereo+Matching+for+Realistic+Cluttered+Scenario&btnG=)]
 
 
    * **FormerStereo**: *"Learning Representations from Foundation Models for Domain Generalized Stereo Matching"*, Zhang et al., *ECCV, 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05841.pdf)] [[Bibtex](./bibliography/FormerStereo.txt)]   [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+Representations+from+Foundation+Models+for+Domain+Generalized+Stereo+Matching&btnG=)]
@@ -1321,7 +1321,7 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
 * **SEDNet**: *"Learning the distribution of errors in stereo matching for joint disparity and uncertainty estimation"*, Chen et al., CVPR, 2023. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_Learning_the_Distribution_of_Errors_in_Stereo_Matching_for_Joint_CVPR_2023_paper.pdf)] [[Code](https://github.com/lly00412/SEDNet)] [[Bibtex](./bibliography/SEDNet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Learning+the+distribution+of+errors+in+stereo+matching+for+joint+disparity+and+uncertainty+estimation&btnG=)]
 
-* **SCOD**: *"Confidence Aware Stereo Matching for Realistic Cluttered Scenario"*, Min et al., *ICIP, 2025*. [[Paper](https://ieeexplore.ieee.org/document/10647686)]  [[Dataset](https://huggingface.co/datasets/YPJEON/SCOD)] [[Bibtex](./bibliography/SCOD.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Helvipad%3A+A+Real-World+Dataset+for+Omnidirectional+Stereo+Depth+Estimation+&btnG=)]
+* **SCOD**: *"Confidence Aware Stereo Matching for Realistic Cluttered Scenario"*, Min et al., *ICIP, 2024*. [[Paper](https://ieeexplore.ieee.org/document/10647686)]  [[Dataset](https://huggingface.co/datasets/YPJEON/SCOD)] [[Bibtex](./bibliography/SCOD.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Confidence+Aware+Stereo+Matching+for+Realistic+Cluttered+Scenario&btnG=)]
 
 </details>
 
