@@ -829,6 +829,9 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
 * **D3RoMa**: *"D3RoMa: Disparity Diffusion-based Depth Sensing for Material-Agnostic Robotic Manipulation"*, Wei et al., *CoRL, 2024*. [[Paper](https://arxiv.org/pdf/2405.05648)] [[WebPage](https://pku-epic.github.io/D3RoMa/)]  [[Bibtex](./bibliography/D3RoMa.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=D3RoMa%3A+Disparity+Diffusion-based+Depth+Sensing+for+Material-Agnostic+Robotic+Manipulation&btnG=)]
 
+
+* **GSD**: *"Leveraging Sparse LiDAR for RAFT-Stereo: A Depth Pre-Fill Perspective"*, Yoo et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2507.19738)] [[WebPage](https://jinsuyoo.info/graft-stereo/)] [[Bibtex](./bibliography/GRAFT-Stereo.txt)] [[https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Leveraging+Sparse+LiDAR+for+RAFT-Stereo%3A+A+Depth+Pre-Fill+Perspective&btnG=)]
+
 </details>
 
 <details open>

@@ -1,0 +1,6 @@
+@article{yoo2025graftstereo,
+      title={Leveraging Sparse LiDAR for RAFT-Stereo: A Depth Pre-Fill Perspective}, 
+      author={Yoo, Jinsu and Jeon, Sooyoung and Huang, Zanming and Pan, Tai-Yu and Chao, Wei-Lun},
+      journal={arXiv preprint arxiv:2507.19738},
+      year={2025}
+    }
