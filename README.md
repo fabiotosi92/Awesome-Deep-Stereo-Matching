@@ -557,6 +557,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **S²M²**: *"S²M²: Scalable Stereo Matching Model for Reliable Depth Estimation"*, Min et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2507.13229)] [[Bibtex](./bibliography/S2M2.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Scalable+Stereo+Matching+Model+for+Reliable+Depth+Estimation&btnG=)]
 
+   * **SMoE-Stereo**: *"Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts"*, Wang et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2507.04631)] [[Code](https://github.com/cocowy1/SMoE-Stereo)] [[Bibtex](./bibliography/SMoE-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+Robust+Stereo+Matching+in+the+Wild+with+Selective+Mixture-of-Experts&btnG=)]
+
   </details>
 
   <details open class="nested-details">
