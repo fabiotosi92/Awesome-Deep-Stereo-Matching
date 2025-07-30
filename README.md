@@ -1073,6 +1073,7 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
 * **DKT-Stereo**: "*Robust Synthetic-to-Real Transfer for Stereo Matching*", Zhang et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2403.07705)] [[Code](https://github.com/jiaw-z/DKT-Stereo)] [[Bibtex](./bibliography/DKT-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Robust+Synthetic-to-Real+Transfer+for+Stereo+Matching&btnG=)] 
 
+* **DKT-Stereo++**: "*Investigating Synthetic-to-Real Transfer Robustness for Stereo Matching and Optical Flow Estimation*", Zhang et al., *TPAMI, 2025*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11060851)] [[Bibtex](./bibliography/DKT-Stereo++.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Investigating+Synthetic-to-Real+Transfer+Robustness+for+Stereo+Matching+and+Optical+Flow+Estimation&btnG=)] 
 
 </details>
 

@@ -1,0 +1,7 @@
+@article{zhang2025investigating,
+  title={Investigating Synthetic-to-Real Transfer Robustness for Stereo Matching and Optical Flow Estimation},
+  author={Zhang, Jiawei and Li, Jiahe and Huang, Lei and Luo, Haonan and Yu, Xiaohan and Gu, Lin and Zheng, Jin and Bai, Xiao},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
+}
