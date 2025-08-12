@@ -525,6 +525,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **D-FUSE**: *"Diving into the Fusion of Monocular Priors for Generalized Stereo Matching"*, Yao et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2505.14414)] [[Code](https://github.com/YaoChengTang/Diving-into-the-Fusion-of-Monocular-Priors-for-Generalized-Stereo-Matching)] [[Bibtex](./bibliography/D-FUSE.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Diving+into+the+Fusion+of+Monocular+Priors+for+Generalized+Stereo+Matching&btnG=)]
 
+   * **OmniDepth**: *"OmniDepth: Bridging Monocular and Stereo Reasoning with Latent Alignment"*, Guan et al., *ICCV, 2025*. [[Paper](https://arxiv.org/abs/2508.04611)] [[Code](https://github.com/aeolusguan/OmniDepth)] [[Bibtex](./bibliography/OmniDepth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=OmniDepth%3A+Bridging+Monocular+and+Stereo+Reasoning+with+Latent+Alignment&btnG=)]
+
   </details>
 
 

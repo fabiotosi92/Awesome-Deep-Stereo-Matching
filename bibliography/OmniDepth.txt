@@ -1,0 +1,14 @@
+@inproceedings{guan2025omniDepth,
+  title        = {OmniDepth: Bridging Monocular and Stereo Reasoning with Latent Alignment},
+  author       = {Tongfan Guan and Jiaxin Guo and Chen Wang and Yun-Hui Liu},
+  booktitle    = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year         = {2025},
+  month        = {October},
+  address      = {Honolulu, Hawaii, USA},
+  note         = {ICCV 2025 Highlight},
+  url          = {https://doi.org/10.48550/arXiv.2508.04611},
+  doi          = {10.48550/arXiv.2508.04611},
+  archivePrefix= {arXiv},
+  eprint       = {2508.04611},
+  primaryClass = {cs.CV}
+}
