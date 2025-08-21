@@ -1,5 +1,5 @@
-@inproceedings{guan2025omniDepth,
-  title        = {OmniDepth: Bridging Monocular and Stereo Reasoning with Latent Alignment},
+@inproceedings{guan2025bridgeDepth,
+  title        = {BridgeDepth: Bridging Monocular and Stereo Reasoning with Latent Alignment},
   author       = {Tongfan Guan and Jiaxin Guo and Chen Wang and Yun-Hui Liu},
   booktitle    = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   year         = {2025},

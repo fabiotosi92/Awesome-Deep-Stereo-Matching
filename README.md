@@ -568,7 +568,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **NMRF**: *"Neural Markov Random Field for Stereo Matching"*, Guan et al., *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2403.11193.pdf)] [[Code](https://github.com/aeolusguan/NMRF)] [[Bibtex](./bibliography/NMRF.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Neural+Markov+Random+Field+for+Stereo+Matching&btnG=)]
 
-   * **OmniDepth**: *"OmniDepth: Bridging Monocular and Stereo Reasoning with Latent Alignment"*, Guan et al., *ICCV, 2025*. [[Paper](https://arxiv.org/abs/2508.04611)] [[Code](https://github.com/aeolusguan/OmniDepth)] [[Bibtex](./bibliography/OmniDepth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=OmniDepth%3A+Bridging+Monocular+and+Stereo+Reasoning+with+Latent+Alignment&btnG=)]
+   * **BridgeDepth**: *"BridgeDepth: Bridging Monocular and Stereo Reasoning with Latent Alignment"*, Guan et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2508.04611)] [[Code](https://github.com/aeolusguan/BridgeDepth)] [[Bibtex](./bibliography/OmniDepth.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=BridgeDepth%3A+Bridging+Monocular+and+Stereo+Reasoning+with+Latent+Alignment&btnG=)]
 
   </details>
 
