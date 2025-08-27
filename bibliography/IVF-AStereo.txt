@@ -1,0 +1,6 @@
+@article{gao2025iterative,
+  title={Iterative Volume Fusion for Asymmetric Stereo Matching},
+  author={Gao, Yuanting and Shen, Linghao},
+  journal={arXiv preprint arXiv:2508.09543},
+  year={2025}
+}
