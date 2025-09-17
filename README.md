@@ -304,6 +304,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **TartanGround**: *"TartanGround: A Large-Scale Dataset for Ground Robot Perception and Navigation"*, Patel et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.10696)] [[Dataset](https://tartanair.org/)] [[WebPage](https://tartanair.org/tartanground/)] [[Bibtex](./bibliography/TartanGround.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=TartanGround+A+Large-Scale+Dataset+for+Ground+Robot+Perception+and+Navigation&btnG=)]
 
 
+* **StereoCarla**: *"StereoCarla: A High-Fidelity Driving Dataset for Generalizable Stereo"*, Guo et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.12683)] [[Dataset](https://xiandaguo.net/StereoCarla/)] [[Bibtex](./bibliography/StereoCarla.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoCarla%3A+A+High-Fidelity+Driving+Dataset+for+Generalizable+Stereo&btnG=)]
+
 </details>
 
 ## Frameworks
