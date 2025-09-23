@@ -527,6 +527,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **D-FUSE**: *"Diving into the Fusion of Monocular Priors for Generalized Stereo Matching"*, Yao et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2505.14414)] [[Code](https://github.com/YaoChengTang/Diving-into-the-Fusion-of-Monocular-Priors-for-Generalized-Stereo-Matching)] [[Bibtex](./bibliography/D-FUSE.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Diving+into+the+Fusion+of+Monocular+Priors+for+Generalized+Stereo+Matching&btnG=)]
 
+   * **GREAT-Stereo**: *"Global Regulation and Excitation via Attention Tuning for Stereo Matching"*, Li et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2509.15891)] [[Code](https://github.com/JarvisLee0423/GREAT-Stereo)] [[Bibtex](./bibliography/GREATStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Global+Regulation+and+Excitation+via+Attention+Tuning+for+Stereo+Matching&btnG=)]
+
   </details>
 
 
@@ -1177,6 +1179,8 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 * **DDF**: *"Dusk Till Dawn: Self-supervised Nighttime Stereo Depth Estimation using Visual Foundation Models"*, Vankadari et al., *ICRA, 2024*. [[Paper](https://arxiv.org/pdf/2405.11158)]  [[Code](https://github.com/madhubabuv/dtd)] [[Bibtex](./bibliography/Dusk-Till-Dawn.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Dusk+Till+Dawn%3A+Self-supervised+Nighttime+Stereo+Depth+Estimation+using+Visual+Foundation+Models&btnG=)]
 
 * **RobuSTereo**: *"RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather"*, Wang et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2507.01653)] [[Bibtex](./bibliography/RobuSTereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=RobuSTereo%3A+Robust+Zero-Shot+Stereo+Matching+under+Adverse+Weather&btnG=)]
+
+* **StereoAdapter**: *"StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes"*, Wu et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.16415)] [[Code](https://github.com/AIGeeksGroup/StereoAdapter)] [[Bibtex](./bibliography/StereoAdapter.txt)] [[WebPage](https://aigeeksgroup.github.io/StereoAdapter/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoAdapter%3A+Adapting+Stereo+Depth+Estimation+to+Underwater+Scenes&btnG=)]
 
 
 </details>

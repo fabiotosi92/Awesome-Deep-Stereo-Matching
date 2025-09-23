@@ -1,0 +1,13 @@
+@inproceedings{li2025global,
+  title        = {Global Regulation and Excitation via Attention Tuning for Stereo Matching},
+  author       = {Li, Jiahao and Chen, Xinhong and Jiang, Zhengmin and Zhou, Qian and Li, Yung-Hui and Wang, Jianping},
+  booktitle    = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year         = {2025},
+  month        = {October},
+  address      = {Honolulu, Hawaii, USA},
+  url          = {https://doi.org/10.48550/arXiv.2509.15891},
+  doi          = {10.48550/arXiv.2509.15891},
+  archivePrefix= {arXiv},
+  eprint       = {2509.15891},
+  primaryClass = {cs.CV}
+}
