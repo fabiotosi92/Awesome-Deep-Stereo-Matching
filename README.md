@@ -306,6 +306,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **StereoCarla**: *"StereoCarla: A High-Fidelity Driving Dataset for Generalizable Stereo"*, Guo et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.12683)] [[Dataset](https://xiandaguo.net/StereoCarla/)] [[Bibtex](./bibliography/StereoCarla.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoCarla%3A+A+High-Fidelity+Driving+Dataset+for+Generalizable+Stereo&btnG=)]
 
+* **UW-StereoDepth-40K**: *"StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes"*, Wu et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.16415)] [[Dataset](https://huggingface.co/datasets/AIGeeksGroup/UW-StereoDepth-40K)] [[Code](https://github.com/AIGeeksGroup/StereoAdapter)] [[Bibtex](./bibliography/StereoAdapter.txt)] [[WebPage](https://aigeeksgroup.github.io/StereoAdapter/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoAdapter%3A+Adapting+Stereo+Depth+Estimation+to+Underwater+Scenes&btnG=)]
+
 </details>
 
 ## Frameworks
