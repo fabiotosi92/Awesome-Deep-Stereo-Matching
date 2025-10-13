@@ -517,6 +517,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **Stereo Anything**: *"Stereo Anything: Unifying Stereo Matching with Large-Scale Mixed Data"*, Guo et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.14053)] [[Code](https://github.com/XiandaGuo/OpenStereo)] [[Bibtex](./bibliography/StereoAnything.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anything%3A+Unifying+Stereo+Matching+with+Large-Scale+Mixed+Data&btnG=)]
 
+   * **MGS-Stereo** : *"MGS-Stereo: Multi-Scale Geometric-Structure-Enhanced Stereo Matching for Complex Real-World Scenes"*, Dai et al., *TIP, 2025* [[Paper](https://ieeexplore.ieee.org/abstract/document/11182608)] [[Bibtex](./bibliography/MGS-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=MGS-Stereo%3A+Multi-Scale+Geometric-Structure-Enhanced+Stereo+Matching+for+Complex+Real-World+Scenes&btnG=)]
+
    * **MonSter**: *"MonSter: Marry Monodepth to Stereo Unleashes Power"*, Cheng et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2501.08643)] [[Code](https://github.com/Junda24/MonSter)] [[Bibtex](./bibliography/MonSter.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=MonSter%3A+Marry+Monodepth+to+Stereo+Unleashes+Power&btnG=)]
 
    * **Stereo Anywhere**: *"Stereo Anywhere: Robust Zero-Shot Deep Stereo Matching Even Where Either Stereo or Mono Fail"*, Bartolomei et al., *CVPR, 2025*. [[Paper](http://arxiv.org/abs/2412.04472)] [[Code](https://github.com/bartn8/stereoanywhere/)] [[WebPage](https://stereoanywhere.github.io/)] [[Bibtex](./bibliography/StereoAnywhere.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anywhere%3A+Robust+Zero-Shot+Deep+Stereo+Matching+Even+Where+Either+Stereo+or+Mono+Fail&btnG=)]
@@ -1183,6 +1185,8 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 * **RobuSTereo**: *"RobuSTereo: Robust Zero-Shot Stereo Matching under Adverse Weather"*, Wang et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2507.01653)] [[Bibtex](./bibliography/RobuSTereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=RobuSTereo%3A+Robust+Zero-Shot+Stereo+Matching+under+Adverse+Weather&btnG=)]
 
 * **StereoAdapter**: *"StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes"*, Wu et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.16415)] [[Code](https://github.com/AIGeeksGroup/StereoAdapter)] [[Bibtex](./bibliography/StereoAdapter.txt)] [[WebPage](https://aigeeksgroup.github.io/StereoAdapter/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoAdapter%3A+Adapting+Stereo+Depth+Estimation+to+Underwater+Scenes&btnG=)]
+
+* **RoSe**: *"RoSe: Robust Self-supervised Stereo Matching under Adverse Weather Conditions"*, Wang et al., *TCSVT, 2025*. [[Paper](https://arxiv.org/pdf/2509.19165)] [[Code](https://github.com/cocowy1/RoSe-Robust-Self-supervised-Stereo-Matching-under-Adverse-Weather-Conditions)] [[Bibtex](./bibliography/RoSe.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=RoSe%3A+Robust+Self-supervised+Stereo+Matching+under+Adverse+Weather+Conditions&btnG=)]
 
 
 </details>
