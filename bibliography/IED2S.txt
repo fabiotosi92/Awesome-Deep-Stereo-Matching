@@ -1,0 +1,8 @@
+@inproceedings{zhang2025ied2s,
+  title     = {Enhanced Event-based Dense Stereo via Cross-Sensor Knowledge Distillation},
+  author    = {Zhang, Haihao and Zhang, Yunjian and Li, Jianing and Zhu, Lin and Lv, Meng and Zhu, Yao and Liu, Yanwei and Ji, Xiangyang},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year      = {2025},
+  pages     = {},
+  url       = {https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Enhanced_Event-based_Dense_Stereo_via_Cross-Sensor_Knowledge_Distillation_ICCV_2025_paper.pdf}
+}

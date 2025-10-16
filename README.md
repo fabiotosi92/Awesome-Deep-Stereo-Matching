@@ -913,6 +913,10 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
 * **ActiveEventStereo**: "*Active Event-based Stereo Vision*", Li et al., *CVPR, 2025*. [[Paper](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Active_Event-based_Stereo_Vision_CVPR_2025_paper.pdf)] [[Code](https://github.com/jianing-li/active_event_based_stereo)] [[Bibtex](./bibliography/ActiveEventStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Active+Event-based+Stereo+Vision&btnG=)] 
 
+
+* **IED²S**: *"Enhanced Event-based Dense Stereo via Cross-Sensor Knowledge Distillation"*, Zhang et al., *ICCV, 2025*. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Enhanced_Event-based_Dense_Stereo_via_Cross-Sensor_Knowledge_Distillation_ICCV_2025_paper.pdf)] [[Bibtex](./bibliography/IED2S.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Enhanced+Event-based+Dense+Stereo+via+Cross-Sensor+Knowledge+Distillation&btnG=)]
+
+
 </details>
 
 <details open>
