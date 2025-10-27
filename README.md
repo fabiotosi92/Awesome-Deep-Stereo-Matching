@@ -1261,7 +1261,7 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
    * **Stereo Any Video**: *"Stereo Any Video: Temporally Consistent Stereo Matching"*, Jing et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.05549)] [[Code](https://github.com/TomTomTommi/stereoanyvideo)] [[Bibtex](./bibliography/StereoAnyVideo.txt)] [[WebPage](https://tomtomtommi.github.io/StereoAnyVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Any+Video%3A+Temporally+Consistent+Stereo+Matching&btnG=)]
 
-   * **PPMStereo**: *"PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching"*, Wang et al., *NeurIPS, 2025*. [[Paper](https://arxiv.org/abs/???)] [[Code](https://github.com/cocowy1/PPMStereo)] [[Bibtex](./bibliography/PPMStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=PPMStereo%3A+Pick-and-Play+Memory+Construction+for+Consistent+Dynamic+Stereo+Matching&btnG=)]
+   * **PPMStereo**: *"PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching"*, Wang et al., *NeurIPS, 2025*. [[Paper](https://arxiv.org/pdf/2510.20178)] [[Code](https://github.com/cocowy1/PPMStereo)] [[Bibtex](./bibliography/PPMStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=PPMStereo%3A+Pick-and-Play+Memory+Construction+for+Consistent+Dynamic+Stereo+Matching&btnG=)]
 
 </details>
 
