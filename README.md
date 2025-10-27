@@ -1446,6 +1446,8 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **Restereo**: *"Restereo: Diffusion Stereo Video Generation and Restoration"*, Huang et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.06023)] [[Bibtex](./bibliography/Restereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Restereo%3A+Diffusion+Stereo+Video+Generation+and+Restoration&btnG=)]
 
+* **SVG**: *"SVG: 3D Stereoscopic Video Generation via Denoising Frame Matrix"*, Dai et al., *ICLR, 2025*. [[Paper](https://openreview.net/forum?id=sx2jXZuhIx)] [[Code](https://github.com/google/Stereoscopic-Video-Generation-via-Denoising-Frame-Matrix)] [[WebPage](https://daipengwa.github.io/SVG_ProjectPage/)] [[Bibtex](./bibliography/SVG.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=SVG%3A+3D+Stereoscopic+Video+Generation+via+Denoising+Frame+Matrix&btnG=)]
+
 
 </details>
 
