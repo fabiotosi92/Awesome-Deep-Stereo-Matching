@@ -1,0 +1,6 @@
+@article{huang2025restereo,
+  title={Restereo: Diffusion stereo video generation and restoration},
+  author={Huang, Xingchang and Singh, Ashish Kumar and Dubost, Florian and Vasconcelos, Cristina Nader and Khattar, Sakar and Shi, Liang and Theobalt, Christian and Oztireli, Cengiz and Singh, Gurprit},
+  journal={arXiv preprint arXiv:2506.06023},
+  year={2025}
+}

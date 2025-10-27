@@ -1444,6 +1444,9 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **M2SVid**: "M2SVid: End-to-End Inpainting and Refinement for Monocular-to-Stereo Video Conversion ", Shvetsova et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.16565)] [[WebPage](https://m2svid.github.io/)] [[Bibtex](./bibliography/M2SVid.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=M2SVid%3A+End-to-End+Inpainting+and+Refinement+for+Monocular-to-Stereo+Video+Conversion&btnG=)] 
 
+* **Restereo**: *"Restereo: Diffusion Stereo Video Generation and Restoration"*, Huang et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.06023)] [[Bibtex](./bibliography/Restereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Restereo%3A+Diffusion+Stereo+Video+Generation+and+Restoration&btnG=)]
+
+
 </details>
 
 <details open>
