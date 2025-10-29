@@ -1,0 +1,7 @@
+@inproceedings{liu2025dms,
+  title={DMS: Diffusion-Based Multi-Baseline Stereo Generation for Improving Self-Supervised Depth Estimation},
+  author={Liu, Zihua and Li, Yizhou and Zhang, Songyan and Okutomi, Masatoshi},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5477--5488},
+  year={2025}
+}

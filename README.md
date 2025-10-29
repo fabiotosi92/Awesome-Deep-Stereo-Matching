@@ -1433,9 +1433,8 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **ZeroStereo**: "ZeroStereo: Zero-shot Stereo Matching from Single Images", Wang et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2501.08654)] [[Bibtex](./bibliography/StereoGen.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Zero-shot+Stereo+Matching+from+Single+Images&btnG=)] 
 
-* **GenStereo**: "GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching", Qiao et al., *ICCCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.12720)] [[WebPage](https://qjizhi.github.io/genstereo/)] [[Code](https://github.com/Qjizhi/GenStereo)] [[Demo](https://huggingface.co/spaces/FQiao/GenStereo)] [[Bibtex](./bibliography/GenStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=GenStereo%3A+Towards+Open-World+Generation+of+Stereo+Images+and+Unsupervised+Matching&btnG=)]   
 
-* **Mono2Stereo-Bench**: "Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion", Yu et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2503.12720)] [[WebPage](https://mono2stereo-bench.github.io/)] [[Code](https://github.com/Qjizhi/GenStereo)] [[Demo](https://huggingface.co/Two-hot/Mono2Stereo/tree/main)] [[Bibtex](./bibliography/Mono2Stereo-Bench.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Mono2Stereo%3A+A+Benchmark+and+Empirical+Study+for+Stereo+Conversion&btnG=)]   
+* **Mono2Stereo-Bench**: "Mono2Stereo: A Benchmark and Empirical Study for Stereo Conversion", Yu et al., *CVPR, 2025*. [[Paper](https://arxiv.org/abs/2503.22262)] [[WebPage](https://mono2stereo-bench.github.io/)] [[Code](https://github.com/song2yu/Mono2Stereo)] [[Demo](https://huggingface.co/Two-hot/Mono2Stereo/tree/main)] [[Bibtex](./bibliography/Mono2Stereo-Bench.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Mono2Stereo%3A+A+Benchmark+and+Empirical+Study+for+Stereo+Conversion&btnG=)]   
 
 * **SpatialDreamer**: "SpatialDreamer: Self-supervised Stereo Video Synthesis from Monocular Input", Zhen et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2411.11934)] [[WebPage](https://spatialdreamer.github.io/)] [[Bibtex](./bibliography/SpatialDreamer.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=SpatialDreamer%3A+Self-supervised+Stereo+Video+Synthesis+from+Monocular+Input&btnG=)]  
 
@@ -1448,6 +1447,10 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **SVG**: *"SVG: 3D Stereoscopic Video Generation via Denoising Frame Matrix"*, Dai et al., *ICLR, 2025*. [[Paper](https://openreview.net/forum?id=sx2jXZuhIx)] [[Code](https://github.com/google/Stereoscopic-Video-Generation-via-Denoising-Frame-Matrix)] [[WebPage](https://daipengwa.github.io/SVG_ProjectPage/)] [[Bibtex](./bibliography/SVG.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=SVG%3A+3D+Stereoscopic+Video+Generation+via+Denoising+Frame+Matrix&btnG=)]
 
+
+* **GenStereo**: "GenStereo: Towards Open-World Generation of Stereo Images and Unsupervised Matching", Qiao et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.12720)] [[WebPage](https://qjizhi.github.io/genstereo/)] [[Code](https://github.com/Qjizhi/GenStereo)] [[Demo](https://huggingface.co/spaces/FQiao/GenStereo)] [[Bibtex](./bibliography/GenStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=GenStereo%3A+Towards+Open-World+Generation+of+Stereo+Images+and+Unsupervised+Matching&btnG=)]   
+
+* **DMS**: "DMS: Diffusion-Based Multi-Baseline Stereo Generation for Improving Self-Supervised Depth Estimation", Liu et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2508.13091)] [[GitHub](https://github.com/Magicboomliu/DMS)] [[Bibtex](./bibliography/DMS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DMS%3ADiffusion-Based+Multi-Baseline+Stereo+Generation+for+Improving+Self-Supervised+Depth+Estimation&btnG=)]
 
 </details>
 
