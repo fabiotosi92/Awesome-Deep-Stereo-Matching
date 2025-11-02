@@ -1,0 +1,6 @@
+@article{xu2025banet,
+  title={BANet: Bilateral Aggregation Network for Mobile Stereo Matching},
+  author={Xu, Gangwei and Liu, Jiaxin and Wang, Xianqi and Cheng, Junda and Deng, Yong and Zang, Jinliang and Chen, Yurui and Yang, Xin},
+  journal={arXiv preprint arXiv:2503.03259},
+  year={2025}
+}

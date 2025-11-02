@@ -1,11 +1,6 @@
 @inproceedings{min2025s2m2,
-  title     = {{S²M²: Scalable Stereo Matching Model for Reliable Depth Estimation}},
-  author    = {Junhong Min and Youngpil Jeon and Jimin Kim and Minyong Choi},
-  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-  year      = {2025},
-  address   = {Honolulu, Hawai'i},
-  month     = {October},
-  pages     = {to appear},
-  organization = {IEEE},
-  note      = {Accepted at ICCV 2025, Hawai'i Convention Center, Oct 19--23},
+  title={{S\textsuperscript{2}M\textsuperscrip{2}}: Scalable Stereo Matching Model for Reliable Depth Estimation},
+  author={Junhong Min and Youngpil Jeon and Jimin Kim and Minyong Choi},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2025}
 }

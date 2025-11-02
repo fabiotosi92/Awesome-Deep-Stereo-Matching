@@ -1,0 +1,7 @@
+@inproceedings{zhang2025ematch,
+  title={EMatch: A Unified Framework for Event-based Optical Flow and Stereo Matching},
+  author={Zhang, Pengjie and Zhu, Lin and Wang, Xiao and Wang, Lizhi and Huang, Hua},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={5845--5855},
+  year={2025}
+}

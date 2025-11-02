@@ -668,6 +668,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **LightStereo**: *"LightStereo: Channel Boost Is All You Need for Efficient 2D Cost Aggregation"*, Guo et al., *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2406.19833)] [[Code](https://github.com/XiandaGuo/OpenStereo)] [[Bibtex](./bibliography/LightStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LightStereo%3A+Channel+Boost+Is+All+You+Need+for+Efficient+2D+Cost+Aggregation&btnG=#d=gs_cit&t=1740667250780&u=%2Fscholar%3Fq%3Dinfo%3AMuFhyyW9taIJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dit)]
 
+* **BANet**: *"BANet: Bilateral Aggregation Network for Mobile Stereo Matching"*, Xu et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.03259)] [[Code](https://github.com/gangweix/BANet)] [[Bibtex](./bibliography/BANet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=BANet%3A+Bilateral+Aggregation+Network+for+Mobile+Stereo+Matching&btnG=)]
+
 </details>
 
 
@@ -916,6 +918,7 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
 * **IED²S**: *"Enhanced Event-based Dense Stereo via Cross-Sensor Knowledge Distillation"*, Zhang et al., *ICCV, 2025*. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Enhanced_Event-based_Dense_Stereo_via_Cross-Sensor_Knowledge_Distillation_ICCV_2025_paper.pdf)] [[Bibtex](./bibliography/IED2S.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Enhanced+Event-based+Dense+Stereo+via+Cross-Sensor+Knowledge+Distillation&btnG=)]
 
+* **EMatch**: *"EMatch: A Unified Framework for Event-based Optical Flow and Stereo Matching"*, Zhang et al., *ICCV, 2025*. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_EMatch_A_Unified_Framework_for_Event-based_Optical_Flow_and_Stereo_ICCV_2025_paper.pdf)] [[Code](https://github.com/BIT-Vision/EMatch)] [[Bibtex](./bibliography/EMatch.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=EMatch%3A+A+Unified+Framework+for+Event-based+Optical+Flow+and+Stereo+Matching&btnG=)]
 
 </details>
 
@@ -1259,7 +1262,7 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
    * **BiDA-Video**: *"Match Stereo Videos via Bidirectional Alignment"*, Jing et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[Code](https://github.com/TomTomTommi/bidavideo)] [[Bibtex](./bibliography/BiDA-Video.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match+Stereo+Videos+via+Bidirectional+Alignment&btnG=)]
 
-   * **Stereo Any Video**: *"Stereo Any Video: Temporally Consistent Stereo Matching"*, Jing et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2503.05549)] [[Code](https://github.com/TomTomTommi/stereoanyvideo)] [[Bibtex](./bibliography/StereoAnyVideo.txt)] [[WebPage](https://tomtomtommi.github.io/StereoAnyVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Any+Video%3A+Temporally+Consistent+Stereo+Matching&btnG=)]
+   * **Stereo Any Video**: *"Stereo Any Video: Temporally Consistent Stereo Matching"*, Jing et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.05549)] [[Code](https://github.com/TomTomTommi/stereoanyvideo)] [[Bibtex](./bibliography/StereoAnyVideo.txt)] [[WebPage](https://tomtomtommi.github.io/StereoAnyVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Any+Video%3A+Temporally+Consistent+Stereo+Matching&btnG=)]
 
    * **PPMStereo**: *"PPMStereo: Pick-and-Play Memory Construction for Consistent Dynamic Stereo Matching"*, Wang et al., *NeurIPS, 2025*. [[Paper](https://arxiv.org/pdf/2510.20178)] [[Code](https://github.com/cocowy1/PPMStereo)] [[Bibtex](./bibliography/PPMStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=PPMStereo%3A+Pick-and-Play+Memory+Construction+for+Consistent+Dynamic+Stereo+Matching&btnG=)]
 
