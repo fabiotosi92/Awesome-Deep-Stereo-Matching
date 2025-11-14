@@ -148,6 +148,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **ApolloScape**: *"The apolloscape open dataset for autonomous driving and its application"*, Huang et al., *TPAMI, 2019*. [[Paper](https://arxiv.org/pdf/1803.06184)] [[Dataset](https://github.com/ApolloScapeAuto/dataset-api)] [[Bibtex](./bibliography/ApolloScape.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=The+ApolloScape+Open+Dataset+for+Autonomous+Driving+and+its+Application&btnG=)]
 
+   * **DISC**: *"DISC: A Large-scale Virtual Dataset for Simulating Disaster Scenarios"*, Jeon et al., *IROS, 2019*. [[Paper](https://ieeexplore.ieee.org/document/8967839)] [[Dataset](https://sites.google.com/site/hgjeoncv/disc-project-page)] [[Bibtex](./bibliography/DISC.txt)] [[Google Scholar](https://scholar.google.com/scholar?q=DISC%3A+A+Large-scale+Virtual+Dataset+for+Simulating+Disaster+Scenarios&btnG=)]
+
    * **Holopix50k**: *"Holopix50k: A Large-Scale In-the-Wild Stereo Image Dataset"*, Hua et al., *CVPR, 2020*. [[Paper](https://arxiv.org/abs/2003.11172)] [[Dataset](https://leiainc.github.io/holopix50k/)]  [[Bibtex](./bibliography/Holopix50k.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Holopix50k:+A+Large-Scale+In-the-Wild+Stereo+Image+Dataset&btnG=)]
 
    * **Newer College**: *"The Newer College Dataset: Handheld LiDAR, Inertial and Vision with Ground Truth"*, Ramezani et al., *IROS, 2020*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9340849)] [[Dataset](https://ori-drs.github.io/newer-college-dataset/)]  [[Bibtex](./bibliography/NewerCollege.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=The+Newer+College+Dataset&btnG=)]
