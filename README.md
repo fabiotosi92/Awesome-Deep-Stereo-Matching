@@ -1179,6 +1179,7 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
 * **FedStereo**: *"Federated Online Adaptation for Deep Stereo"*, Poggi et al., *CVPR, 2024*. [[Paper](https://fedstereo.github.io/)] [[Code](https://github.com/mattpoggi/fedstereo)] [[Bibtex](./bibliography/FedStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Federated+Online+Adaptation+for+Deep+Stereo&btnG=)]
 
+* **RobIA**: *"RobIA: Robust Instance-aware Continual Test-time Adaptation for Deep Stereo"*, Ko et al., *NeurIPS, 2025*. [[Paper](https://doi.org/10.48550/arXiv.2511.10107)] [[Code](https://github.com/0ju-un/RobIA)] [[Bibtex](./bibliography/RobIA.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=RobIA%3A+Robust+Instance-aware+Continual+Test-time+Adaptation+for+Deep+Stereo&btnG=)]
 
 
 </details>
