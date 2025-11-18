@@ -310,6 +310,9 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **UW-StereoDepth-40K**: *"StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes"*, Wu et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2509.16415)] [[Dataset](https://huggingface.co/datasets/AIGeeksGroup/UW-StereoDepth-40K)] [[Code](https://github.com/AIGeeksGroup/StereoAdapter)] [[Bibtex](./bibliography/StereoAdapter.txt)] [[WebPage](https://aigeeksgroup.github.io/StereoAdapter/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoAdapter%3A+Adapting+Stereo+Depth+Estimation+to+Underwater+Scenes&btnG=)]
 
+* **WMGStereo**: *"What Makes Good Synthetic Training Data for Zero-Shot Stereo Matching?"*, Yan et al., *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2504.16930)] [[Dataset](https://huggingface.co/datasets/princeton-vl/WMGStereo)] [[Code](https://github.com/princeton-vl/InfinigenStereo)] [[Bibtex](./bibliography/WMGStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=What+Makes+Good+Synthetic+Training+Data+for+Zero-Shot+Stereo+Matching%3F&btnG=)]
+
+
 </details>
 
 ## Frameworks
