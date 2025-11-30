@@ -572,6 +572,10 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **SMoE-Stereo**: *"Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts"*, Wang et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2507.04631)] [[Code](https://github.com/cocowy1/SMoE-Stereo)] [[Bibtex](./bibliography/SMoE-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+Robust+Stereo+Matching+in+the+Wild+with+Selective+Mixture-of-Experts&btnG=)]
 
+
+   * **DepthFocus**: *"DepthFocus: Controllable Depth Estimation for See-Through Scenes"*, Min et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16993)] [[Bibtex](./bibliography/DepthFocus.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DepthFocus%3A+Controllable+Depth+Estimation+for+See-Through+Scenes&btnG=)]
+
+
   </details>
 
   <details open class="nested-details">
@@ -1227,6 +1231,9 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 * **TranScene**: *"Multi-Label Stereo Matching for Transparent Scene Depth Estimation"*, Liu et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2505.14008)] [[Code](https://github.com/BFZD233/TranScene)] [[Bibtex](./bibliography/TranScene.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Multi-Label+Stereo+Matching+for+Transparent+Scene+Depth+Estimation&btnG=)]
 
 * **D-FUSE**: *"Diving into the Fusion of Monocular Priors for Generalized Stereo Matching"*, Yao et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2505.14414)] [[Code](https://github.com/YaoChengTang/Diving-into-the-Fusion-of-Monocular-Priors-for-Generalized-Stereo-Matching)] [[Bibtex](./bibliography/D-FUSE.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Diving+into+the+Fusion+of+Monocular+Priors+for+Generalized+Stereo+Matching&btnG=)]
+
+* **DepthFocus**: *"DepthFocus: Controllable Depth Estimation for See-Through Scenes"*, Min et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16993)] [[Bibtex](./bibliography/DepthFocus.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DepthFocus%3A+Controllable+Depth+Estimation+for+See-Through+Scenes&btnG=)]
+
 
 </details>
 

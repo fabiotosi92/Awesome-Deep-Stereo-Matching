@@ -1,0 +1,6 @@
+@article{min2025depthfocus,
+  title={DepthFocus: Controllable Depth Estimation for See-Through Scenes},
+  author={Min, Junhong and Kim, Jimin and Min, Cheol-Hui and Kim, Minwook and Jeon, Youngpil and Choi, Minyong},
+  journal={arXiv preprint arXiv:2511.16993},
+  year={2025}
+}
