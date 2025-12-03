@@ -110,7 +110,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 <details open><summary style="font-size: larger; font-weight: bold;"> Event-Based Stereo</summary><ul>
 
-   * *"Event-based Stereo Depth Estimation: A Survey"*, Ghosh et al., *arXiv pre-print, 2024*. [[Paper](https://arxiv.org/pdf/2409.17680)] [[Bibtex](./bibliography/Event-Stereo-Survey.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Event-based+Stereo+Depth+Estimation%3A+A+Survey&btnG=)]
+   * *"Event-based Stereo Depth Estimation: A Survey"*, Ghosh et al., *TPAMI, 2025*. [[Paper](https://arxiv.org/pdf/2409.17680)] [[Bibtex](./bibliography/Event-Stereo-Survey.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Event-based+Stereo+Depth+Estimation%3A+A+Survey&btnG=)]
 
 </ul>
 </details>
@@ -518,7 +518,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **QPDNet**: *"Disparity Estimation Using a Quad-Pixel Sensor"*, Wu et al., *BMVC, 2024*. [[Paper](https://arxiv.org/abs/2409.00665)] [[WebPage](http://www.ok.sc.e.titech.ac.jp/res/QP/index.html)] [[Dataset](https://www.dropbox.com/scl/fi/0sijedbg2kdqetmw16s9t/QP-Data-Zhuofeng-Wu.zip?rlkey=m33xsb70b4ivk0riyvg4fgk2u&st=k2fn4zkq&dl=0)] [[Bibtex](./bibliography/QPDNet.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Disparity+Estimation+Using+a+Quad-Pixel+Sensor&btnG=)]
 
-   * **IGEV++**: *"IGEV++: Iterative Multi-range Geometry Encoding Volumes for Stereo Matching"*, Xu et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.00638)] [[Code](https://github.com/gangweiX/IGEV-plusplus)] [[Bibtex](./bibliography/IGEV++.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=IGEV%2B%2B%3A+Iterative+Multi-range+Geometry+Encoding+Volumes+for+Stereo+Matching&btnG=)]
+   * **IGEV++**: *"IGEV++: Iterative Multi-range Geometry Encoding Volumes for Stereo Matching"*, Xu et al., *TPAMI, 2025*. [[Paper](https://arxiv.org/pdf/2409.00638)] [[Code](https://github.com/gangweiX/IGEV-plusplus)] [[Bibtex](./bibliography/IGEV++.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=IGEV%2B%2B%3A+Iterative+Multi-range+Geometry+Encoding+Volumes+for+Stereo+Matching&btnG=)]
 
    * **Stereo Anything**: *"Stereo Anything: Unifying Stereo Matching with Large-Scale Mixed Data"*, Guo et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2411.14053)] [[Code](https://github.com/XiandaGuo/OpenStereo)] [[Bibtex](./bibliography/StereoAnything.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Anything%3A+Unifying+Stereo+Matching+with+Large-Scale+Mixed+Data&btnG=)]
 

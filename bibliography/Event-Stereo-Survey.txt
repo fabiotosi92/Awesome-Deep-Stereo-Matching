@@ -1,6 +1,7 @@
-@article{ghosh2024event,
-  title={Event-based Stereo Depth Estimation: A Survey},
+@article{ghosh2025event,
+  title={Event-based stereo depth estimation: A survey},
   author={Ghosh, Suman and Gallego, Guillermo},
-  journal={arXiv preprint arXiv:2409.17680},
-  year={2024}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2025},
+  publisher={IEEE}
 }
