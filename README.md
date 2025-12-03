@@ -679,6 +679,10 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **BANet**: *"BANet: Bilateral Aggregation Network for Mobile Stereo Matching"*, Xu et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.03259)] [[Code](https://github.com/gangweix/BANet)] [[Bibtex](./bibliography/BANet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=BANet%3A+Bilateral+Aggregation+Network+for+Mobile+Stereo+Matching&btnG=)]
 
+* **LiteAnyStereo**: *"Lite Any Stereo: Efficient Zero-Shot Stereo Matching"*, Jing et al., *arXiv, 2025*.
+  [[Paper](https://tomtomtommi.github.io/LiteAnyStereo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Lite+Any+Stereo%3A+Efficient+Zero-Shot+Stereo+Matching&btnG=)] [[Bibtex](./bibliography/LiteAnyStereo.txt)]
+
+
 </details>
 
 
