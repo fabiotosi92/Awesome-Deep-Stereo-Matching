@@ -1474,6 +1474,8 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **DMS**: "DMS: Diffusion-Based Multi-Baseline Stereo Generation for Improving Self-Supervised Depth Estimation", Liu et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2508.13091)] [[GitHub](https://github.com/Magicboomliu/DMS)] [[Bibtex](./bibliography/DMS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DMS%3ADiffusion-Based+Multi-Baseline+Stereo+Generation+for+Improving+Self-Supervised+Depth+Estimation&btnG=)]
 
+* **StereoWorld**: *"StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation"*, Xing et al., *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2512.09363)] [[WebPage](https://ke-xing.github.io/StereoWorld/)] [[Bibtex](./bibliography/StereoWorld.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoWorld%3A+Geometry-Aware+Monocular-to-Stereo+Video+Generation&btnG=)]
+
 </details>
 
 <details open>
