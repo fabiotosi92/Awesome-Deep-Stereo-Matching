@@ -682,6 +682,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **LiteAnyStereo**: *"Lite Any Stereo: Efficient Zero-Shot Stereo Matching"*, Jing et al., *arXiv, 2025*.
   [[Paper](https://tomtomtommi.github.io/LiteAnyStereo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Lite+Any+Stereo%3A+Efficient+Zero-Shot+Stereo+Matching&btnG=)] [[Bibtex](./bibliography/LiteAnyStereo.txt)]
 
+* **GGEV**: *"Generalized Geometry Encoding Volume for Real-time Stereo Matching"*, Liu et al., *AAAI, 2026*. [[Paper](https://github.com/JiaxinLiu-A/GGEV)] [[Code](https://github.com/JiaxinLiu-A/GGEV)] [[Bibtex](./bibliography/GGEV.txt)]
+  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Generalized+Geometry+Encoding+Volume+for+Real-time+Stereo+Matching&btnG=)]
 
 </details>
 
