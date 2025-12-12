@@ -1476,6 +1476,10 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **StereoWorld**: *"StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation"*, Xing et al., *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2512.09363)] [[WebPage](https://ke-xing.github.io/StereoWorld/)] [[Bibtex](./bibliography/StereoWorld.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoWorld%3A+Geometry-Aware+Monocular-to-Stereo+Video+Generation&btnG=)]
 
+* **StereoWorld**: *"StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation"*, Xing et al., *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2512.09363)] [[WebPage](https://ke-xing.github.io/StereoWorld/)] [[Bibtex](./bibliography/StereoWorld.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoWorld%3A+Geometry-Aware+Monocular-to-Stereo+Video+Generation&btnG=)]
+
+* **StereoSpace**: *"StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space"*, Behrens et al., *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2512.10959)] [[Code](https://github.com/prs-eth/stereospace)] [[WebPage (Hugging Face)](https://huggingface.co/prs-eth/stereospace-v1-0)] [[Project Page](https://hf.co/spaces/prs-eth/stereospace)] [[Bibtex](./bibliography/StereoSpace.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoSpace%3A+Depth-Free+Synthesis+of+Stereo+Geometry+via+End-to-End+Diffusion+in+a+Canonical+Space&btnG=)]
+
 </details>
 
 <details open>
