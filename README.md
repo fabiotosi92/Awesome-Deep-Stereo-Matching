@@ -935,6 +935,9 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
 * **EMatch**: *"EMatch: A Unified Framework for Event-based Optical Flow and Stereo Matching"*, Zhang et al., *ICCV, 2025*. [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_EMatch_A_Unified_Framework_for_Event-based_Optical_Flow_and_Stereo_ICCV_2025_paper.pdf)] [[Code](https://github.com/BIT-Vision/EMatch)] [[Bibtex](./bibliography/EMatch.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=EMatch%3A+A+Unified+Framework+for+Event-based+Optical+Flow+and+Stereo+Matching&btnG=)]
 
+* **AsymmetricEventImageStereo**: *"Asymmetric Event-Image Stereo with Temporal Feature Gating and Iterative Structure-Detail Refinement"*, Zhuang et al., *BMVC, 2025*. [[Paper](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_851/paper.pdf)] [[Bibtex](./bibliography/AsymmetricEventImageStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Asymmetric+Event-Image+Stereo+with+Temporal+Feature+Gating+and+Iterative+Structure-Detail+Refinement&btnG=)]
+
+
 </details>
 
 <details open>

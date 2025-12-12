@@ -1,0 +1,9 @@
+@inproceedings{Zhuang2025AsymmetricStereo,
+  title     = {Asymmetric Event-Image Stereo with Temporal Feature Gating and Iterative Structure-Detail Refinement},
+  author    = {Zhuang, Hao and Yang, Yan and Pan, Liyuan},
+  booktitle = {Proceedings of the 36th British Machine Vision Conference (BMVC)},
+  year      = {2025},
+  address   = {Sheffield, UK},
+  month     = nov,
+  url       = {https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_851/paper.pdf}
+}
