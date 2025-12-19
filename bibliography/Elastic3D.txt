@@ -1,0 +1,6 @@
+@article{Metzger2025Elastic3D,
+  title   = {Elastic3D: Controllable Stereo Video Conversion with Guided Latent Decoding},
+  author  = {Metzger, Nando and Truong, Prune and Bhat, Goutam and Schindler, Konrad and Tombari, Federico},
+  journal = {arXiv preprint arXiv:2512.14236},
+  year    = {2025}
+}

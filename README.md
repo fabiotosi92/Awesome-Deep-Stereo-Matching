@@ -1487,6 +1487,11 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **StereoSpace**: *"StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space"*, Behrens et al., *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2512.10959)] [[Code](https://github.com/prs-eth/stereospace)] [[WebPage (Hugging Face)](https://huggingface.co/prs-eth/stereospace-v1-0)] [[Project Page](https://hf.co/spaces/prs-eth/stereospace)] [[Bibtex](./bibliography/StereoSpace.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoSpace%3A+Depth-Free+Synthesis+of+Stereo+Geometry+via+End-to-End+Diffusion+in+a+Canonical+Space&btnG=)]
 
+* **Elastic3D**: *"Elastic3D: Controllable Stereo Video Conversion with Guided Latent Decoding"*, Metzger et al., *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2512.14236)] [[WebPage](https://elastic3d.github.io/)] [[Bibtex](./bibliography/Elastic3D.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Elastic3D%3A+Controllable+Stereo+Video+Conversion+with+Guided+Latent+Decoding&btnG=)]
+
+* **StereoPilot**: *"StereoPilot: Learning Unified and Efficient Stereo Conversion via Generative Priors"*, Shen et al., *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2512.16915)] [[WebPage](https://hit-perfect.github.io/StereoPilot/)] [[Code](https://github.com/KlingTeam/StereoPilot)] [[Model](https://huggingface.co/KlingTeam/StereoPilot)] [[Bibtex](./bibliography/StereoPilot.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoPilot%3A+Learning+Unified+and+Efficient+Stereo+Conversion+via+Generative+Priors&btnG=)]
+
+
 </details>
 
 <details open>
