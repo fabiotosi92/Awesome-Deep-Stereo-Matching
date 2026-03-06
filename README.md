@@ -689,7 +689,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **GGEV**: *"Generalized Geometry Encoding Volume for Real-time Stereo Matching"*, Liu et al., *AAAI, 2026*. [[Paper](https://github.com/JiaxinLiu-A/GGEV)] [[Code](https://github.com/JiaxinLiu-A/GGEV)] [[Bibtex](./bibliography/GGEV.txt)]
   [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Generalized+Geometry+Encoding+Volume+for+Real-time+Stereo+Matching&btnG=)]
 
-* **Fast-FoundationStereo**: *"Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching"*, Wen et al., *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2512.11130)] [[WebPage](https://nvlabs.github.io/Fast-FoundationStereo/)] [[Code](https://github.com/NVlabs/Fast-FoundationStereo)] [[Bibtex](./bibliography/Fast-FoundationStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Fast-FoundationStereo%3A+Real-Time+Zero-Shot+Stereo+Matching&btnG=)]
+* **Fast-FoundationStereo**: *"Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching"*, Wen et al., *CVPR, 2026*. [[Paper](https://arxiv.org/abs/2512.11130)] [[WebPage](https://nvlabs.github.io/Fast-FoundationStereo/)] [[Code](https://github.com/NVlabs/Fast-FoundationStereo)] [[Bibtex](./bibliography/Fast-FoundationStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Fast-FoundationStereo%3A+Real-Time+Zero-Shot+Stereo+Matching&btnG=)]
 
 
 </details>
@@ -1119,7 +1119,7 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
 * **DKT-Stereo++**: "*Investigating Synthetic-to-Real Transfer Robustness for Stereo Matching and Optical Flow Estimation*", Zhang et al., *TPAMI, 2025*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11060851)] [[Bibtex](./bibliography/DKT-Stereo++.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Investigating+Synthetic-to-Real+Transfer+Robustness+for+Stereo+Matching+and+Optical+Flow+Estimation&btnG=)] 
 
-* **Fast-FoundationStereo**: *"Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching"*, Wen et al., *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2512.11130)] [[WebPage](https://nvlabs.github.io/Fast-FoundationStereo/)] [[Code](https://github.com/NVlabs/Fast-FoundationStereo)] [[Bibtex](./bibliography/Fast-FoundationStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Fast-FoundationStereo%3A+Real-Time+Zero-Shot+Stereo+Matching&btnG=)]
+* **Fast-FoundationStereo**: *"Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching"*, Wen et al., *CVPR, 2025*. [[Paper](https://arxiv.org/abs/2512.11130)] [[WebPage](https://nvlabs.github.io/Fast-FoundationStereo/)] [[Code](https://github.com/NVlabs/Fast-FoundationStereo)] [[Bibtex](./bibliography/Fast-FoundationStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Fast-FoundationStereo%3A+Real-Time+Zero-Shot+Stereo+Matching&btnG=)]
 
 </details>
 
