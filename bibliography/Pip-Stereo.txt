@@ -1,0 +1,6 @@
+@inproceedings{zheng2026pipstereo,
+  title={Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching},
+  author={Zheng, Jintu and Liu, Qizhe and Xu, HuangXin and Chen, Zhuojie},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}

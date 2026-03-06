@@ -649,6 +649,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **ADStereo**: *"ADStereo: Efficient Stereo Matching With Adaptive Downsampling and Disparity Alignment"*, Wang et al., *TIP, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10890914)] [[Code](https://github.com/cocowy1/ADStereo)] [[Bibtex](./bibliography/ADStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=ADStereo%3A+Efficient+Stereo+Matching+With+Adaptive+Downsampling+and+Disparity+Alignment&btnG=)]
 
 
+* **Pip-Stereo**: *"Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching"*, Zheng et al., *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2602.20496)] [[Code](https://github.com/XPENG-Aridge-A)] [[Bibtex](./bibliography/Pip-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pip-Stereo%3A+Progressive+Iterations+Pruner+for+Iterative+Optimization+based+Stereo+Matching&btnG=)]
+
 </details>
 
 
@@ -1140,6 +1142,7 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
    * **PromptStereo**: *"PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts"*, Wang et al., *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.01650)] [[Code](https://github.com/Windsrain/PromptStereo)] [[Bibtex](./bibliography/PromptStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PromptStereo%3A+Zero-Shot+Stereo+Matching+via+Structure+and+Motion+Prompts&btnG=)]
 
+   * **Pip-Stereo**: *"Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching"*, Zheng et al., *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2602.20496)] [[Code](https://github.com/XPENG-Aridge-A)] [[Bibtex](./bibliography/Pip-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pip-Stereo%3A+Progressive+Iterations+Pruner+for+Iterative+Optimization+based+Stereo+Matching&btnG=)]
 
 </details>
 
