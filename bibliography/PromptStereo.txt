@@ -1,0 +1,6 @@
+@inproceedings{wang2026promptstereo,
+  title={PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts},
+  author={Wang, Xianqi and Yang, Hao and Wang, Hangtian and Cheng, Junda and Xu, Gangwei and Lin, Min and Yang, Xin},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2026}
+}

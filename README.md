@@ -538,6 +538,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **GREAT-Stereo**: *"Global Regulation and Excitation via Attention Tuning for Stereo Matching"*, Li et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2509.15891)] [[Code](https://github.com/JarvisLee0423/GREAT-Stereo)] [[Bibtex](./bibliography/GREATStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Global+Regulation+and+Excitation+via+Attention+Tuning+for+Stereo+Matching&btnG=)]
 
+   * **PromptStereo**: *"PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts"*, Wang et al., *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.01650)] [[Code](https://github.com/Windsrain/PromptStereo)] [[Bibtex](./bibliography/PromptStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PromptStereo%3A+Zero-Shot+Stereo+Matching+via+Structure+and+Motion+Prompts&btnG=)]
+
   </details>
 
 
@@ -1135,6 +1137,9 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
    * **AIO-Stereo**: *"All-in-One: Transferring Vision Foundation Models into Stereo Matching"*, Zhou et al., *AAAI, 2025*. [[Paper](https://arxiv.org/pdf/2412.09912)] [[Bibtex](./bibliography/AIO-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=All-in-One%3A+Transferring+Vision+Foundation+Models+into+Stereo+Matching&btnG=)]
 
    * **D-FUSE**: *"Diving into the Fusion of Monocular Priors for Generalized Stereo Matching"*, Yao et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2505.14414)] [[Code](https://github.com/YaoChengTang/Diving-into-the-Fusion-of-Monocular-Priors-for-Generalized-Stereo-Matching)] [[Bibtex](./bibliography/D-FUSE.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Diving+into+the+Fusion+of+Monocular+Priors+for+Generalized+Stereo+Matching&btnG=)]
+
+   * **PromptStereo**: *"PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts"*, Wang et al., *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.01650)] [[Code](https://github.com/Windsrain/PromptStereo)] [[Bibtex](./bibliography/PromptStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PromptStereo%3A+Zero-Shot+Stereo+Matching+via+Structure+and+Motion+Prompts&btnG=)]
+
 
 </details>
 
