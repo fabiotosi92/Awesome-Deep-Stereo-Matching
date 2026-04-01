@@ -540,6 +540,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **PromptStereo**: *"PromptStereo: Zero-Shot Stereo Matching via Structure and Motion Prompts"*, Wang et al., *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2603.01650)] [[Code](https://github.com/Windsrain/PromptStereo)] [[Bibtex](./bibliography/PromptStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=PromptStereo%3A+Zero-Shot+Stereo+Matching+via+Structure+and+Motion+Prompts&btnG=)]
 
+   * **WAFT-Stereo**: *"WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching"*, Wang and Deng, *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2603.24836)] [[Code](https://github.com/princeton-vl/WAFT-Stereo)] [[Bibtex](./bibliography/WAFT-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=WAFT-Stereo%3A+Warping-Alone+Field+Transforms+for+Stereo+Matching&btnG=)]
+
   </details>
 
 
@@ -575,7 +577,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
    * **SMoE-Stereo**: *"Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts"*, Wang et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2507.04631)] [[Code](https://github.com/cocowy1/SMoE-Stereo)] [[Bibtex](./bibliography/SMoE-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Learning+Robust+Stereo+Matching+in+the+Wild+with+Selective+Mixture-of-Experts&btnG=)]
 
 
-   * **DepthFocus**: *"DepthFocus: Controllable Depth Estimation for See-Through Scenes"*, Min et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16993)] [[Bibtex](./bibliography/DepthFocus.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DepthFocus%3A+Controllable+Depth+Estimation+for+See-Through+Scenes&btnG=)]
+   * **DepthFocus**: *"DepthFocus: Controllable Depth Estimation for See-Through Scenes"*, Min et al., *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2511.16993)] [[Bibtex](./bibliography/DepthFocus.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DepthFocus%3A+Controllable+Depth+Estimation+for+See-Through+Scenes&btnG=)]
 
 
   </details>
@@ -1254,7 +1256,7 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
 * **D-FUSE**: *"Diving into the Fusion of Monocular Priors for Generalized Stereo Matching"*, Yao et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2505.14414)] [[Code](https://github.com/YaoChengTang/Diving-into-the-Fusion-of-Monocular-Priors-for-Generalized-Stereo-Matching)] [[Bibtex](./bibliography/D-FUSE.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Diving+into+the+Fusion+of+Monocular+Priors+for+Generalized+Stereo+Matching&btnG=)]
 
-* **DepthFocus**: *"DepthFocus: Controllable Depth Estimation for See-Through Scenes"*, Min et al., *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2511.16993)] [[Bibtex](./bibliography/DepthFocus.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DepthFocus%3A+Controllable+Depth+Estimation+for+See-Through+Scenes&btnG=)]
+* **DepthFocus**: *"DepthFocus: Controllable Depth Estimation for See-Through Scenes"*, Min et al., *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2511.16993)] [[Bibtex](./bibliography/DepthFocus.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DepthFocus%3A+Controllable+Depth+Estimation+for+See-Through+Scenes&btnG=)]
 
 
 </details>

@@ -1,0 +1,6 @@
+@article{wang2026waft,
+  title={WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching},
+  author={Wang, Yihan and Deng, Jia},
+  journal={arXiv preprint arXiv:2603.24836},
+  year={2026}
+}
