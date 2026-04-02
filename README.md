@@ -170,7 +170,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **LayeredFlow**: *"LayeredFlow: A Real-World Benchmark for Non-Lambertian Multi-Layer Optical Flow"*, Wen et al., *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2409.05688)] [[Dataset](https://github.com/princeton-vl/LayeredFlow)] [[Bibtex](./bibliography/LayeredFlow.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LayeredFlow%3A+A+Real-World+Benchmark+for+Non-Lambertian+Multi-Layer+Optical+Flow&btnG=)]
 
-   * **South Kensington SV**: *"Match Stereo Videos via Bidirectional Alignment"*, Jing et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[Code&Dataset](https://github.com/TomTomTommi/bidavideo)] [[Bibtex](./bibliography/BiDA-Video.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match+Stereo+Videos+via+Bidirectional+Alignment&btnG=)]
+   * **South Kensington SV**: *"Match Stereo Videos via Bidirectional Alignment"*, Jing et al., *TPAMI, 2026*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[Code&Dataset](https://github.com/TomTomTommi/bidavideo)] [[Bibtex](./bibliography/BiDA-Video.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match+Stereo+Videos+via+Bidirectional+Alignment&btnG=)]
 
 
    * **HELVIPAD**: *"HELVIPAD: A Real-World Dataset for Omnidirectional Stereo Depth Estimation"*, Mehdi et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[WebPage](https://vita-epfl.github.io/Helvipad/)] [[Dataset](https://huggingface.co/datasets/chcorbi/helvipad)] [[Code](https://github.com/vita-epfl/Helvipad)] [[Bibtex](./bibliography/HELVIPAD.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Helvipad%3A+A+Real-World+Dataset+for+Omnidirectional+Stereo+Depth+Estimation+&btnG=)]
@@ -299,7 +299,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **QPS**: *"Disparity Estimation Using a Quad-Pixel Sensor"*, Wu et al., *BMVC, 2024*. [[Paper](https://arxiv.org/abs/2409.00665)] [[WebPage](http://www.ok.sc.e.titech.ac.jp/res/QP/index.html)] [[Dataset](https://www.dropbox.com/scl/fi/0sijedbg2kdqetmw16s9t/QP-Data-Zhuofeng-Wu.zip?rlkey=m33xsb70b4ivk0riyvg4fgk2u&st=k2fn4zkq&dl=0)] [[Bibtex](./bibliography/QPDNet.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Disparity+Estimation+Using+a+Quad-Pixel+Sensor&btnG=)]
 
 
-* **Infinigen Stereo Video**: *"Match Stereo Videos via Bidirectional Alignment"*, Jing et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[Code&Dataset](https://github.com/TomTomTommi/bidavideo)] [[Bibtex](./bibliography/BiDA-Video.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match+Stereo+Videos+via+Bidirectional+Alignment&btnG=)]
+* **Infinigen Stereo Video**: *"Match Stereo Videos via Bidirectional Alignment"*, Jing et al., *TPAMI, 2026*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[Code&Dataset](https://github.com/TomTomTommi/bidavideo)] [[Bibtex](./bibliography/BiDA-Video.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match+Stereo+Videos+via+Bidirectional+Alignment&btnG=)]
 
 * **FSD**: *"FoundationStereo: Zero-Shot Stereo Matching"*, Wen   et al., *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2501.09898)] [[Dataset](https://drive.google.com/drive/folders/1YdC2a0_KTZ9xix_HyqNMPCrClpm0-XFU)] [[WebPage](https://nvlabs.github.io/FoundationStereo/)] [[Bibtex](./bibliography/FoundationStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=FoundationStereo%3A+Zero-Shot+Stereo+Matching&btnG=#d=gs_cit&t=1737624791731&u=%2Fscholar%3Fq%3Dinfo%3AmPuArdM7kccJ%3Ascholar.google.com%2F%26output%3Dcite%26scirp%3D0%26hl%3Dit)]
 
@@ -685,7 +685,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **BANet**: *"BANet: Bilateral Aggregation Network for Mobile Stereo Matching"*, Xu et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.03259)] [[Code](https://github.com/gangweix/BANet)] [[Bibtex](./bibliography/BANet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=BANet%3A+Bilateral+Aggregation+Network+for+Mobile+Stereo+Matching&btnG=)]
 
-* **LiteAnyStereo**: *"Lite Any Stereo: Efficient Zero-Shot Stereo Matching"*, Jing et al., *arXiv, 2025*.
+* **LiteAnyStereo**: *"Lite Any Stereo: Efficient Zero-Shot Stereo Matching"*, Jing et al., *CVPR, 2026*.
   [[Paper](https://tomtomtommi.github.io/LiteAnyStereo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Lite+Any+Stereo%3A+Efficient+Zero-Shot+Stereo+Matching&btnG=)] [[Bibtex](./bibliography/LiteAnyStereo.txt)]
 
 * **GGEV**: *"Generalized Geometry Encoding Volume for Real-time Stereo Matching"*, Liu et al., *AAAI, 2026*. [[Paper](https://github.com/JiaxinLiu-A/GGEV)] [[Code](https://github.com/JiaxinLiu-A/GGEV)] [[Bibtex](./bibliography/GGEV.txt)]
@@ -1296,7 +1296,7 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
    * **BiDA-Stereo**: *"Match-Stereo-Videos: Bidirectional Alignment for Consistent Dynamic Stereo Matching"*, Jing et al., *ECCV, 2024*. [[Paper](https://arxiv.org/abs/2403.10755)] [[Code](https://github.com/TomTomTommi/bidastereo)] [[Bibtex](./bibliography/Match-Stereo-Videos.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAStereo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match-Stereo-Videos%3A+Bidirectional+Alignment+for+Consistent+Dynamic+Stereo+Matching&btnG=)]
 
-   * **BiDA-Video**: *"Match Stereo Videos via Bidirectional Alignment"*, Jing et al., *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[Code](https://github.com/TomTomTommi/bidavideo)] [[Bibtex](./bibliography/BiDA-Video.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match+Stereo+Videos+via+Bidirectional+Alignment&btnG=)]
+   * **BiDA-Video**: *"Match Stereo Videos via Bidirectional Alignment"*, Jing et al., *TPAMI, 2026*. [[Paper](https://arxiv.org/pdf/2409.20283)] [[Code](https://github.com/TomTomTommi/bidavideo)] [[Bibtex](./bibliography/BiDA-Video.txt)] [[WebPage](https://tomtomtommi.github.io/BiDAVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Match+Stereo+Videos+via+Bidirectional+Alignment&btnG=)]
 
    * **Stereo Any Video**: *"Stereo Any Video: Temporally Consistent Stereo Matching"*, Jing et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.05549)] [[Code](https://github.com/TomTomTommi/stereoanyvideo)] [[Bibtex](./bibliography/StereoAnyVideo.txt)] [[WebPage](https://tomtomtommi.github.io/StereoAnyVideo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+Any+Video%3A+Temporally+Consistent+Stereo+Matching&btnG=)]
 
