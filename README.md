@@ -1499,7 +1499,7 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **StereoPilot**: *"StereoPilot: Learning Unified and Efficient Stereo Conversion via Generative Priors"*, Shen et al., *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2512.16915)] [[WebPage](https://hit-perfect.github.io/StereoPilot/)] [[Code](https://github.com/KlingTeam/StereoPilot)] [[Model](https://huggingface.co/KlingTeam/StereoPilot)] [[Bibtex](./bibliography/StereoPilot.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoPilot%3A+Learning+Unified+and+Efficient+Stereo+Conversion+via+Generative+Priors&btnG=)]
 
-* **Stereo World Model**: *"Stereo World Model: Camera-Guided Stereo Video Generation"*, Sun et al., *arXiv, 2026*. [[Paper](https://arxiv.org/abs/2603.17375)] [[WebPage](https://sunyangtian.github.io/StereoWorld-web/)] [[Code](https://github.com/SunYangtian/StereoWorld)] [[Bibtex](./bibliography/StereoWorldModel.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+World+Model%3A+Camera-Guided+Stereo+Video+Generation&btnG=)]
+* **Stereo World Model**: *"Stereo World Model: Camera-Guided Stereo Video Generation"*, Sun et al., *CVPR, 2026*. [[Paper](https://arxiv.org/abs/2603.17375)] [[WebPage](https://sunyangtian.github.io/StereoWorld-web/)] [[Code](https://github.com/SunYangtian/StereoWorld)] [[Bibtex](./bibliography/StereoWorldModel.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+World+Model%3A+Camera-Guided+Stereo+Video+Generation&btnG=)]
 
 </details>
 
