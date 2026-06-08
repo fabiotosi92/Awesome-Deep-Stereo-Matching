@@ -1,7 +1,8 @@
-@article{sun2026stereoworldmodel,
-  title   = {Stereo World Model: Camera-Guided Stereo Video Generation},
-  author  = {Sun, Yang-Tian and Huang, Zehuan and Niu, Yifan and Ma, Lin and Cao, Yan-Pei and Ma, Yuewen and Qi, Xiaojuan},
-  journal = {arXiv preprint arXiv:2603.17375},
-  year    = {2026},
-  url     = {https://arxiv.org/abs/2603.17375}
+@InProceedings{Sun_2026_CVPR,
+    author    = {Sun, Yang-Tian and Huang, Zehuan and Niu, Yifan and Ma, Lin and Cao, Yan-Pei and Ma, Yuewen and Qi, Xiaojuan},
+    title     = {Stereo World Model: Camera-Guided Stereo Video Generation},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {18342-18353}
 }

@@ -1,6 +1,8 @@
-@article{jing2025lite,
-  title={Lite Any Stereo: Efficient Zero-Shot Stereo Matching},
-  author={Jing, Junpeng and Luo, Weixun and Mao, Ye and Mikolajczyk, Krystian},
-  journal={arXiv preprint arXiv:2511.16555},
-  year={2025}
+@InProceedings{Jing_2026_CVPR,
+    author    = {Jing, Junpeng and Luo, Weixun and Mao, Ye and Mikolajczyk, Krystian},
+    title     = {Lite Any Stereo: Efficient Zero-Shot Stereo Matching},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {21725--21735}
 }

@@ -1,0 +1,8 @@
+@InProceedings{Bartolomei_2026_CVPR,
+    author    = {Bartolomei, Luca and Tosi, Fabio and Poggi, Matteo and Mattoccia, Stefano and Gallego, Guillermo},
+    title     = {EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {37063--37074}
+}

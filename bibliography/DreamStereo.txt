@@ -1,0 +1,8 @@
+@InProceedings{Huang_2026_CVPR,
+    author    = {Huang, Yuan and Zhao, Sijie and Cheng, Jing and Xu, Hao and Jiao, Shaohui},
+    title     = {DreamStereo: Towards Real-Time Stereo Inpainting for HD Videos},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {25393--25402}
+}

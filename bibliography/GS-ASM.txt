@@ -1,0 +1,8 @@
+@InProceedings{Wu_2026_CVPR,
+    author    = {Wu, Zhengling and Lu, Rongfeng and Chen, Quan and Zeng, Longjian and Lu, Ming and Sun, Yaoqi and Chen, Yahong and Ji, Baofeng and Yan, Chenggang},
+    title     = {GS-ASM: 2DGS-Supervised Active Stereo Matching},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {26888-26898}
+}

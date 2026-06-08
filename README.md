@@ -651,7 +651,7 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 * **ADStereo**: *"ADStereo: Efficient Stereo Matching With Adaptive Downsampling and Disparity Alignment"*, Wang et al., *TIP, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10890914)] [[Code](https://github.com/cocowy1/ADStereo)] [[Bibtex](./bibliography/ADStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=ADStereo%3A+Efficient+Stereo+Matching+With+Adaptive+Downsampling+and+Disparity+Alignment&btnG=)]
 
 
-* **Pip-Stereo**: *"Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching"*, Zheng et al., *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2602.20496)] [[Code](https://github.com/XPENG-Aridge-A)] [[Bibtex](./bibliography/Pip-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pip-Stereo%3A+Progressive+Iterations+Pruner+for+Iterative+Optimization+based+Stereo+Matching&btnG=)]
+* **Pip-Stereo**: *"Pip-Stereo: Progressive Iterations Pruner for Iterative Optimization based Stereo Matching"*, Zheng et al., *CVPR, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Zheng_Pip-Stereo_Progressive_Iterations_Pruner_for_Iterative_Optimization_based_Stereo_Matching_CVPR_2026_paper.pdf)] [[Code](https://github.com/XPENG-Aridge-A)] [[Bibtex](./bibliography/Pip-Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Pip-Stereo%3A+Progressive+Iterations+Pruner+for+Iterative+Optimization+based+Stereo+Matching&btnG=)]
 
 </details>
 
@@ -685,13 +685,15 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
 * **BANet**: *"BANet: Bilateral Aggregation Network for Mobile Stereo Matching"*, Xu et al., *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.03259)] [[Code](https://github.com/gangweix/BANet)] [[Bibtex](./bibliography/BANet.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=BANet%3A+Bilateral+Aggregation+Network+for+Mobile+Stereo+Matching&btnG=)]
 
-* **LiteAnyStereo**: *"Lite Any Stereo: Efficient Zero-Shot Stereo Matching"*, Jing et al., *CVPR, 2026*.
-  [[Paper](https://tomtomtommi.github.io/LiteAnyStereo/)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Lite+Any+Stereo%3A+Efficient+Zero-Shot+Stereo+Matching&btnG=)] [[Bibtex](./bibliography/LiteAnyStereo.txt)]
+
+* **Lite Any Stereo**: *"Lite Any Stereo: Efficient Zero-Shot Stereo Matching"*, Jing et al., *CVPR, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Jing_Lite_Any_Stereo_Efficient_Zero-Shot_Stereo_Matching_CVPR_2026_paper.pdf)] [[WebPage](https://tomtomtommi.github.io/LiteAnyStereo/)] [[Bibtex](./bibliography/LiteAnyStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Lite+Any+Stereo%3A+Efficient+Zero-Shot+Stereo+Matching&btnG=)]
 
 * **GGEV**: *"Generalized Geometry Encoding Volume for Real-time Stereo Matching"*, Liu et al., *AAAI, 2026*. [[Paper](https://github.com/JiaxinLiu-A/GGEV)] [[Code](https://github.com/JiaxinLiu-A/GGEV)] [[Bibtex](./bibliography/GGEV.txt)]
   [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Generalized+Geometry+Encoding+Volume+for+Real-time+Stereo+Matching&btnG=)]
 
 * **Fast-FoundationStereo**: *"Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching"*, Wen et al., *CVPR, 2026*. [[Paper](https://arxiv.org/abs/2512.11130)] [[WebPage](https://nvlabs.github.io/Fast-FoundationStereo/)] [[Code](https://github.com/NVlabs/Fast-FoundationStereo)] [[Bibtex](./bibliography/Fast-FoundationStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Fast-FoundationStereo%3A+Real-Time+Zero-Shot+Stereo+Matching&btnG=)]
+
+
 
 
 </details>
@@ -946,6 +948,7 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
 * **AsymmetricEventImageStereo**: *"Asymmetric Event-Image Stereo with Temporal Feature Gating and Iterative Structure-Detail Refinement"*, Zhuang et al., *BMVC, 2025*. [[Paper](https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_851/paper.pdf)] [[Bibtex](./bibliography/AsymmetricEventImageStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Asymmetric+Event-Image+Stereo+with+Temporal+Feature+Gating+and+Iterative+Structure-Detail+Refinement&btnG=)]
 
+* **EventHub**: *"EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors"*, Bartolomei et al., *CVPR, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Bartolomei_EventHub_Data_Factory_for_Generalizable_Event-Based_Stereo_Networks_without_Active_CVPR_2026_paper.pdf)] [[WebPage](https://bartn8.github.io/eventhub)] [[Bibtex](./bibliography/EventHub.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=EventHub%3A+Data+Factory+for+Generalizable+Event-Based+Stereo+Networks+without+Active+Sensors&btnG=)]
 
 </details>
 
@@ -1454,6 +1457,8 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **Binocular3DGS**: "*Binocular3DGS: Binocular-Guided 3D Gaussian Splatting with View Consistency for Sparse View Synthesis*", Han et al., *NeurIPS, 2024*. [[Paper](https://arxiv.org/pdf/2410.18822)] [[WebPage](https://hanl2010.github.io/Binocular3DGS/)] [[Code](https://github.com/hanl2010/Binocular3DGS)] [[Bibtex](./bibliography/Binocular3DGS.txt)]  [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0,5&q=Binocular+3DGS:+Binocular-Guided+3D+Gaussian+Splatting+with+View+Consistency+for+Sparse+View+Synthesis)]
 
+* **GS-ASM**: *"2DGS-Supervised Active Stereo Matching"*, Wu et al., *CVPR, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Wu_GS-ASM_2DGS-Supervised_Active_Stereo_Matching_CVPR_2026_paper.pdf)] [[Bibtex](./bibliography/GS-ASM.txt)] [[Google Scholar](https://scholar.google.com/scholar?q=GS-ASM+2DGS-Supervised+Active+Stereo+Matching)]
+
 </details>
 
 <details open>
@@ -1495,11 +1500,13 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 
 * **StereoSpace**: *"StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space"*, Behrens et al., *CVPR Findings, 2026*. [[Paper](https://arxiv.org/abs/2512.10959)] [[Code](https://github.com/prs-eth/stereospace)] [[WebPage (Hugging Face)](https://huggingface.co/prs-eth/stereospace-v1-0)] [[Project Page](https://hf.co/spaces/prs-eth/stereospace)] [[Bibtex](./bibliography/StereoSpace.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoSpace%3A+Depth-Free+Synthesis+of+Stereo+Geometry+via+End-to-End+Diffusion+in+a+Canonical+Space&btnG=)]
 
-* **Elastic3D**: *"Elastic3D: Controllable Stereo Video Conversion with Guided Latent Decoding"*, Metzger et al., *CVPR, 2026*. [[Paper](https://arxiv.org/abs/2512.14236)] [[WebPage](https://elastic3d.github.io/)] [[Bibtex](./bibliography/Elastic3D.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Elastic3D%3A+Controllable+Stereo+Video+Conversion+with+Guided+Latent+Decoding&btnG=)]
+* **Elastic3D**: *"Elastic3D: Controllable Stereo Video Conversion with Guided Latent Decoding"*, Metzger et al., *CVPR, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Metzger_Elastic3D_Controllable_Stereo_Video_Conversion_with_Guided_Latent_Decoding_CVPR_2026_paper.pdf)] [[WebPage](https://elastic3d.github.io/)] [[Bibtex](./bibliography/Elastic3D.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Elastic3D%3A+Controllable+Stereo+Video+Conversion+with+Guided+Latent+Decoding&btnG=)]
 
 * **StereoPilot**: *"StereoPilot: Learning Unified and Efficient Stereo Conversion via Generative Priors"*, Shen et al., *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2512.16915)] [[WebPage](https://hit-perfect.github.io/StereoPilot/)] [[Code](https://github.com/KlingTeam/StereoPilot)] [[Model](https://huggingface.co/KlingTeam/StereoPilot)] [[Bibtex](./bibliography/StereoPilot.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoPilot%3A+Learning+Unified+and+Efficient+Stereo+Conversion+via+Generative+Priors&btnG=)]
 
-* **Stereo World Model**: *"Stereo World Model: Camera-Guided Stereo Video Generation"*, Sun et al., *CVPR, 2026*. [[Paper](https://arxiv.org/abs/2603.17375)] [[WebPage](https://sunyangtian.github.io/StereoWorld-web/)] [[Code](https://github.com/SunYangtian/StereoWorld)] [[Bibtex](./bibliography/StereoWorldModel.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+World+Model%3A+Camera-Guided+Stereo+Video+Generation&btnG=)]
+* **Stereo World Model**: *"Stereo World Model: Camera-Guided Stereo Video Generation"*, Sun et al., *CVPR, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/papers/Sun_Stereo_World_Model_Camera-Guided_Stereo_Video_Generation_CVPR_2026_paper.pdf)] [[WebPage](https://sunyangtian.github.io/StereoWorld-web/)] [[Code](https://github.com/SunYangtian/StereoWorld)] [[Bibtex](./bibliography/StereoWorldModel.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Stereo+World+Model%3A+Camera-Guided+Stereo+Video+Generation&btnG=)]
+
+* **DreamStereo**: *"DreamStereo: Towards Real-Time Stereo Inpainting for HD Videos"*, Huang et al., *CVPR, 2026*. [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Huang_DreamStereo_Towards_Real-Time_Stereo_Inpainting_for_HD_Videos_CVPR_2026_paper.html)] [[WebPage](https://huangyuan2020.github.io/DreamStereo/)] [[Bibtex](./bibliography/DreamStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DreamStereo%3A+Towards+Real-Time+Stereo+Inpainting+for+HD+Videos&btnG=)]
 
 </details>
 
