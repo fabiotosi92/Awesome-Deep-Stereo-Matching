@@ -1,0 +1,8 @@
+@article{taamazyan2026nbs,
+  title   = {NBS: No Bias Stereo},
+  author  = {Taamazyan, Vage and Shen, Zhuowen and Hinterstoisser, Stefan and
+             Dall'Olio, Alberto and Kalra, Agastya and Shandilya, Aarrushi and
+             Li, Xin and Wang, Wenping and Venkataraman, Kartik},
+  journal = {arXiv preprint arXiv:2608.28933},
+  year    = {2026}
+}

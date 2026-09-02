@@ -582,6 +582,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **DepthFocus**: *"DepthFocus: Controllable Depth Estimation for See-Through Scenes"*, Min et al., *CVPR, 2026*. [[Paper](https://arxiv.org/pdf/2511.16993)] [[Bibtex](./bibliography/DepthFocus.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=DepthFocus%3A+Controllable+Depth+Estimation+for+See-Through+Scenes&btnG=)]
 
+   * **NBS**: *"NBS: No Bias Stereo"*, Taamazyan et al., *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.28933)] [[WebPage](https://intrinsic.ai/publications/NBS)] [[Bibtex](./bibliography/NBS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=NBS%3A+No+Bias+Stereo&btnG=)]
+
 
   </details>
 
