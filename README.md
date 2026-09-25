@@ -1480,6 +1480,13 @@ Splatting via Novel Stereo Views*", Wolf et al., *ECCV, 2024*. [[Paper](https://
 </details>
 
 <details open>
+<summary style="font-size: larger; font-weight: bold;">Stereo Image Editing</summary>
+
+* **StereoEdit**: *"StereoEdit: A Diffusion-Based Framework for Stereo-Consistent Image Editing"*, Liu et al., *ECCV, 2026*. [[Paper](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoEdit%3A+A+Diffusion-Based+Framework+for+Stereo-Consistent+Image+Editing&btnG=)] [[Bibtex](./bibliography/StereoEdit.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=StereoEdit%3A+A+Diffusion-Based+Framework+for+Stereo-Consistent+Image+Editing&btnG=)]
+
+</details>
+
+<details open>
 <summary style="font-size: larger; font-weight: bold;">Stereo Image Generation</summary>
 
 * **Deep3d**: *"Deep3d: Fully automatic 2d-to-3d video conversion with deep convolutional neural networks"*, Xie et al., *ECCV, 2016*. [[Paper](https://arxiv.org/pdf/1604.03650.pdf)] [[Code](https://github.com/piiswrong/deep3d)] [[Bibtex](./bibliography/Deep3d.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=eep3d%3A+Fully+automatic+2d-to-3d+video+conversion+with+deep+convolutional+neural+network&btnG=)]
