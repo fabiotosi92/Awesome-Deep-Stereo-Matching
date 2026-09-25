@@ -1048,6 +1048,8 @@ by Leveraging Uncertainty-Based Learning Difficulties"*, Jeong et al., *CVPRW, 2
 
 * **Occlusion-Aware Stereo**: *"Unsupervised Occlusion-Aware Stereo Matching With Directed Disparity Smoothing"*, Li et al., *T-ITS, 2022*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9404889)] [[Bibtex](./bibliography/Occlusion-Aware_Stereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Unsupervised+Occlusion-Aware+Stereo+Matching+With+Directed+Disparity+Smoothing&btnG=)]
 
+* **Pseudo-Stereo Inputs**: *"Pseudo-Stereo Inputs: A Solution to the Occlusion Challenge in Self-Supervised Stereo Matching"*, Yang et al., *ECCV, 2026*. [[Paper](https://arxiv.org/pdf/2607.04303)] [[Code](https://github.com/qrzyang/PseudoStereo)] [[Bibtex](./bibliography/PseudoStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=Pseudo-Stereo+Inputs%3A+A+Solution+to+the+Occlusion+Challenge+in+Self-Supervised+Stereo+Matching&btnG=)]
+
 </details>
 <details open >
 <summary style="font-size: larger; font-weight: bold;">Cross-Framework/Proxy Supervision</summary>
