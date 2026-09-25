@@ -203,6 +203,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
    * **ESVIO**: *"ESVIO: Event-based Stereo Visual Inertial Odometry"*, Chen et al., *RAL, 2023*. [[Paper](https://arxiv.org/pdf/2212.13184)] [[Dataset](https://github.com/arclab-hku/ESVIO)] [[Bibtex](./bibliography/ESVIO.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=ESVIO%3A+Event-based+Stereo+Visual+Inertial+Odometry&btnG=)]
 
    * **M3ED**: *"M3ED: Multi-Robot, Multi-Sensor, Multi-Environment Event Dataset"*, Chaney et al., *CVPRW, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023W/EventVision/papers/Chaney_M3ED_Multi-Robot_Multi-Sensor_Multi-Environment_Event_Dataset_CVPRW_2023_paper.pdf)] [[Dataset](https://m3ed.io/)] [[Bibtex](./bibliography/M3ED.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=M3ed:+Multi-robot,+multi-sensor,+multi-environment+event+dataset&btnG=)]
+
+   * **EventKitchen**: *"Cooking Beyond Frames: A Stereo Event Camera Dataset in the Kitchen"*, Feng et al., *ECCV, 2026*. [[Paper](https://arxiv.org/abs/2608.04865)] [[Dataset](https://data.4tu.nl/datasets/583f8a2f-5448-4a9f-84c7-caaca92b1835)] [[Code](https://github.com/ChengmingF/EventKitchen_toolkit)] [[Bibtex](./bibliography/EventKitchen.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=+Cooking+beyond+Frames%3A+A+Stereo+Event+Camera+Dataset+in+the+Kitchen+&btnG=)]
    
 
    </details>

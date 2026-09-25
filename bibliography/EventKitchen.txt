@@ -1,0 +1,8 @@
+@inproceedings{feng2026cooking,
+  title={Cooking Beyond Frames: A Stereo Event Camera Dataset in the Kitchen},
+  author={Feng, Chengming and Araghi, Hesam and Zheng, Liming and Dupeyroux, Julien and Zhang, Xucong and van Gemert, Jan and T{\"o}men, Nergis},
+  booktitle={European Conference on Computer Vision},
+  pages={641--660},
+  year={2026},
+  organization={Springer}
+}
