@@ -584,6 +584,8 @@ If you find this repository valuable, please consider [citing](#fountain_pen-cit
 
    * **NBS**: *"NBS: No Bias Stereo"*, Taamazyan et al., *arXiv, 2026*. [[Paper](https://arxiv.org/pdf/2608.28933)] [[WebPage](https://intrinsic.ai/publications/NBS)] [[Bibtex](./bibliography/NBS.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=NBS%3A+No+Bias+Stereo&btnG=)]
 
+   * **LinStereo**: *"LinStereo: Linear-Complexity Global Attention for Multi-Scale Iterative Stereo Matching"*, Wang et al., *ECCV, 2026*. [[Paper](https://arxiv.org/abs/2606.25437)] [[WebPage](https://u7079256.github.io/LinStereo/)] [[Bibtex](./bibliography/LinStereo.txt)] [[Google Scholar](https://scholar.google.com/scholar?hl=it&as_sdt=0%2C5&q=LinStereo%3A+Linear-Complexity+Global+Attention+for+Multi-Scale+Iterative+Stereo+Matching&btnG=)]
+
 
   </details>
 
